@@ -1,0 +1,200 @@
+================================================================================
+                    PASSIVE: PAST TENSES
+                (Voz Pasiva en Tiempos Pasados)
+================================================================================
+
+================================================================================
+                    PAST SIMPLE PASSIVE
+================================================================================
+
+STRUCTURE:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    WAS/WERE    +    PAST PARTICIPLE    +    (BY + AGENT)      │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/He/She/It     was               written                                   │
+│  You/We/They     were              built                                     │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+AFFIRMATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  Shakespeare wrote Hamlet.                                            │
+│ PASSIVE: Hamlet was written by Shakespeare.                                   │
+│          Hamlet fue escrito por Shakespeare.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They built this bridge in 1920.                                      │
+│ PASSIVE: This bridge was built in 1920.                                       │
+│          Este puente fue construido en 1920.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  The Romans founded this city.                                        │
+│ PASSIVE: This city was founded by the Romans.                                 │
+│          Esta ciudad fue fundada por los romanos.                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Someone stole my bicycle yesterday.                                  │
+│ PASSIVE: My bicycle was stolen yesterday.                                     │
+│          Mi bicicleta fue robada ayer.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Police arrested the criminals.                                       │
+│ PASSIVE: The criminals were arrested (by the police).                         │
+│          Los criminales fueron arrestados.                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Alexander Graham Bell invented the telephone.                        │
+│ PASSIVE: The telephone was invented by Alexander Graham Bell.                 │
+│          El teléfono fue inventado por Alexander Graham Bell.                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  They didn't invite me to the party.                                  │
+│ PASSIVE: I wasn't invited to the party.                                       │
+│          No fui invitado a la fiesta.                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Nobody told me about the meeting.                                    │
+│ PASSIVE: I wasn't told about the meeting.                                     │
+│          No me informaron de la reunión.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They didn't finish the work on time.                                 │
+│ PASSIVE: The work wasn't finished on time.                                    │
+│          El trabajo no fue terminado a tiempo.                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+INTERROGATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  Did they build this church in the 18th century?                      │
+│ PASSIVE: Was this church built in the 18th century?                           │
+│          ¿Fue construida esta iglesia en el siglo XVIII?                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  When did they discover penicillin?                                   │
+│ PASSIVE: When was penicillin discovered?                                      │
+│          ¿Cuándo fue descubierta la penicilina?                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Who painted this picture?                                            │
+│ PASSIVE: Who was this picture painted by?                                     │
+│          ¿Por quién fue pintado este cuadro?                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    PAST CONTINUOUS PASSIVE
+================================================================================
+
+STRUCTURE:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    WAS/WERE BEING    +    PAST PARTICIPLE    +    (BY)        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/He/She/It     was being              repaired                             │
+│  You/We/They     were being             watched                              │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+AFFIRMATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  They were repairing the road when I arrived.                         │
+│ PASSIVE: The road was being repaired when I arrived.                          │
+│          La carretera estaba siendo reparada cuando llegué.                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Someone was following me.                                            │
+│ PASSIVE: I was being followed.                                                │
+│          Me estaban siguiendo.                                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They were interviewing the candidates all morning.                   │
+│ PASSIVE: The candidates were being interviewed all morning.                   │
+│          Los candidatos estaban siendo entrevistados toda la mañana.          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  The police were questioning the suspect.                             │
+│ PASSIVE: The suspect was being questioned by the police.                      │
+│          El sospechoso estaba siendo interrogado por la policía.              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  They weren't using the equipment.                                    │
+│ PASSIVE: The equipment wasn't being used.                                     │
+│          El equipo no estaba siendo utilizado.                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Nobody was watching the children.                                    │
+│ PASSIVE: The children weren't being watched.                                  │
+│          Los niños no estaban siendo vigilados.                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+INTERROGATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  Were they recording the concert?                                     │
+│ PASSIVE: Was the concert being recorded?                                      │
+│          ¿Estaba siendo grabado el concierto?                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  What were they discussing?                                           │
+│ PASSIVE: What was being discussed?                                            │
+│          ¿Qué se estaba discutiendo?                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    PAST PERFECT PASSIVE
+================================================================================
+
+STRUCTURE:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    HAD BEEN    +    PAST PARTICIPLE    +    (BY)              │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  All subjects    had been          finished                                  │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+AFFIRMATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  They had finished the work before I arrived.                         │
+│ PASSIVE: The work had been finished before I arrived.                         │
+│          El trabajo había sido terminado antes de que yo llegara.             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Someone had already told him the news.                               │
+│ PASSIVE: He had already been told the news.                                   │
+│          Ya le habían contado las noticias.                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They had sold all the tickets by 10 am.                              │
+│ PASSIVE: All the tickets had been sold by 10 am.                              │
+│          Todas las entradas habían sido vendidas para las 10.                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  The thieves had stolen the painting.                                 │
+│ PASSIVE: The painting had been stolen.                                        │
+│          El cuadro había sido robado.                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  They hadn't cleaned the room.                                        │
+│ PASSIVE: The room hadn't been cleaned.                                        │
+│          La habitación no había sido limpiada.                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Nobody had warned them about the danger.                             │
+│ PASSIVE: They hadn't been warned about the danger.                            │
+│          No les habían advertido del peligro.                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+INTERROGATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  Had they repaired the car before the trip?                           │
+│ PASSIVE: Had the car been repaired before the trip?                           │
+│          ¿Había sido reparado el coche antes del viaje?                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Had anyone informed you about the changes?                           │
+│ PASSIVE: Had you been informed about the changes?                             │
+│          ¿Te habían informado de los cambios?                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    SUMMARY TABLE
+================================================================================
+
+┌────────────────────────┬──────────────────────────────────────────────────────┐
+│ TENSE                  │ PASSIVE STRUCTURE                                    │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Past Simple            │ was/were + past participle                           │
+│                        │ The letter was written yesterday.                    │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Past Continuous        │ was/were being + past participle                     │
+│                        │ The letter was being written at 5 pm.                │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Past Perfect           │ had been + past participle                           │
+│                        │ The letter had been written before I called.         │
+└────────────────────────┴──────────────────────────────────────────────────────┘
+
+================================================================================

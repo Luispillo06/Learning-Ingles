@@ -1,0 +1,206 @@
+================================================================================
+                     FUTURE PERFECT CONTINUOUS
+               (Futuro Perfecto Continuo en Inglés)
+================================================================================
+
+El Future Perfect Continuous enfatiza la DURACIÓN de una actividad
+que habrá estado en progreso hasta un momento específico del futuro.
+
+================================================================================
+                         STRUCTURE (Estructura)
+================================================================================
+
+AFFIRMATIVE (Afirmativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    WILL HAVE BEEN    +    VERB-ING                            │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    will have been    working/waiting/studying      │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ By 5 pm, I will have been working for 8 hours.
+→ Next month, she will have been living here for a year.
+→ They will have been waiting for two hours by then.
+→ I'll have been studying English for 5 years next June.
+
+NEGATIVE (Negativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    WON'T HAVE BEEN    +    VERB-ING                           │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    won't have been    working/waiting              │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I won't have been waiting long.
+→ She won't have been working here for very long.
+
+INTERROGATIVE (Interrogativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  WILL  +  SUBJECT  +  HAVE BEEN  +  VERB-ING  +  ?                          │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Will      you         have been     working     for long?                  │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ Will you have been waiting long?
+→ How long will she have been working here?
+
+================================================================================
+                         USES (Usos)
+================================================================================
+
+1. DURATION OF ACTIVITY UP TO A FUTURE POINT (Duración hasta un momento):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ By 6 pm, I will have been working for 10 hours.                               │
+│ A las 6, habré estado trabajando durante 10 horas.                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ By the time she arrives, I will have been waiting for two hours.              │
+│ Para cuando llegue, habré estado esperando dos horas.                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Next month, we will have been living here for 5 years.                        │
+│ El mes que viene, habremos estado viviendo aquí 5 años.                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ By 2030, they will have been married for 25 years.                            │
+│ Para 2030, habrán estado casados 25 años.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ In June, I will have been studying English for 3 years.                       │
+│ En junio, habré estado estudiando inglés durante 3 años.                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. CAUSE OF A FUTURE SITUATION (Causa de una situación futura):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She'll be tired because she will have been working all day.                   │
+│ Estará cansada porque habrá estado trabajando todo el día.                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He'll be exhausted. He will have been driving for 8 hours.                    │
+│ Estará agotado. Habrá estado conduciendo 8 horas.                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ My eyes will be tired. I will have been reading all day.                      │
+│ Mis ojos estarán cansados. Habré estado leyendo todo el día.                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. ONGOING ACTIVITY CONTINUING INTO THE FUTURE (Actividad que continúa):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ By next year, I will have been working here for 10 years.                     │
+│ El año que viene, llevaré 10 años trabajando aquí.                            │
+│ (Y probablemente seguiré trabajando aquí)                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ By 2026, she will have been teaching for 20 years.                            │
+│ Para 2026, llevará 20 años enseñando.                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    KEY WORDS AND TIME EXPRESSIONS
+================================================================================
+
+BY + TIME/DATE:
+    by 5 pm                     → para las 5
+    by next year                → para el año que viene
+    by the end of the month     → para fin de mes
+
+BY THE TIME:
+    by the time you arrive      → para cuando llegues
+    by the time she finishes    → para cuando termine
+
+FOR + DURATION:
+    for 2 hours                 → durante 2 horas
+    for 10 years                → durante 10 años
+    for a long time             → durante mucho tiempo
+
+HOW LONG:
+    How long will you have been waiting?
+    ¿Cuánto tiempo habrás estado esperando?
+
+================================================================================
+       FUTURE PERFECT vs FUTURE PERFECT CONTINUOUS
+================================================================================
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ FUTURE PERFECT                       │ FUTURE PERFECT CONTINUOUS              │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Emphasizes COMPLETION                │ Emphasizes DURATION                    │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ By 5, I will have read 3 books.      │ By 5, I will have been reading         │
+│ (Habré leído 3 libros - completado)  │ for 4 hours.                           │
+│                                      │ (Habré estado leyendo 4 horas)         │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Focus on RESULT/QUANTITY             │ Focus on PROCESS/DURATION              │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ She will have finished the book.     │ She will have been reading             │
+│ (habrá terminado - resultado)        │ all morning. (habrá estado - proceso)  │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Numbers, quantities                  │ Time expressions (for, since)          │
+│ 3 books, 5 reports, 10 pages         │ for 2 hours, all day, since 9 am       │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+EXAMPLES TO COMPARE:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ By 6 pm, I will have written 3 reports. (quantity - what I accomplished)     │
+│ By 6 pm, I will have been writing for 4 hours. (duration - how long)         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ By next month, I will have run 100 km. (total distance)                       │
+│ By next month, I will have been running for a year. (duration of activity)   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    STATIVE VERBS
+================================================================================
+
+Los STATIVE VERBS normalmente NO se usan en Future Perfect Continuous.
+En estos casos, usamos Future Perfect:
+
+know, believe, understand, want, need, like, love, hate,
+own, belong, have (possession), be
+
+❌ I will have been knowing her for years.
+✓ I will have known her for 10 years by then.
+
+❌ She will have been owning the house for 5 years.
+✓ She will have owned the house for 5 years.
+
+================================================================================
+                           COMMON MISTAKES (Errores comunes)
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  I will have been work for 8 hours.    I will have been working for 8 hours.
+  She will been waiting for hours.      She will have been waiting for hours.
+  I will have been knowing him.         I will have known him. (stative verb)
+  By 5, I will have been waited.        By 5, I will have been waiting.
+  How long you will have been working?  How long will you have been working?
+  I'll have been study for 3 hours.     I'll have been studying for 3 hours.
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                      FUTURE PERFECT CONTINUOUS                               │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ STRUCTURE:  Subject + will have been + verb-ing                              │
+│             Subject + won't have been + verb-ing                             │
+│             Will + subject + have been + verb-ing?                           │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ USES:                                                                        │
+│ • Duration of activity up to a future point:                                 │
+│   By 6 pm, I will have been working for 10 hours.                            │
+│                                                                              │
+│ • Cause of a future situation:                                               │
+│   She'll be tired - she will have been working all day.                      │
+│                                                                              │
+│ • Ongoing activity continuing into the future:                               │
+│   Next year, I will have been living here for 10 years.                      │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ KEY WORDS:  by, by the time, for, how long                                   │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ vs FUTURE PERFECT:                                                           │
+│ Future Perfect = focus on completion/quantity                                │
+│ Future Perfect Continuous = focus on duration/process                        │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

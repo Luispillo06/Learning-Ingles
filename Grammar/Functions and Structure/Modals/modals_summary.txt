@@ -1,0 +1,312 @@
+================================================================================
+                         MODAL VERBS SUMMARY
+                    (Resumen de Verbos Modales)
+================================================================================
+
+Los MODAL VERBS son verbos auxiliares especiales que modifican el significado
+del verbo principal, expresando posibilidad, habilidad, permiso, obligación, etc.
+
+================================================================================
+                    CHARACTERISTICS (Características)
+================================================================================
+
+Todos los modales comparten estas características:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 1. NO -S en tercera persona                                                 │
+│    ✓ He can swim.    ❌ He cans swim.                                       │
+│                                                                             │
+│ 2. Van seguidos de INFINITIVE SIN "TO"                                      │
+│    ✓ She must go.    ❌ She must to go.                                     │
+│    (excepto OUGHT TO y HAVE TO)                                             │
+│                                                                             │
+│ 3. Forman negativo e interrogativo SIN auxiliares                           │
+│    ✓ Can you swim?   ❌ Do you can swim?                                    │
+│    ✓ I can't swim.   ❌ I don't can swim.                                   │
+│                                                                             │
+│ 4. No tienen infinitivo, gerundio ni participio                             │
+│    ❌ to can, canning, canned                                               │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    COMPLETE MODAL VERBS TABLE
+================================================================================
+
+┌────────────┬────────────┬────────────┬───────────────────────────────────────┐
+│ MODAL      │ NEGATIVE   │ PAST FORM  │ MAIN USES                             │
+├────────────┼────────────┼────────────┼───────────────────────────────────────┤
+│ can        │ can't      │ could      │ ability, permission, possibility      │
+│            │ cannot     │            │ requests                              │
+├────────────┼────────────┼────────────┼───────────────────────────────────────┤
+│ could      │ couldn't   │ -          │ past ability, polite requests         │
+│            │            │            │ possibility, suggestions              │
+├────────────┼────────────┼────────────┼───────────────────────────────────────┤
+│ may        │ may not    │ might      │ possibility, formal permission        │
+│            │            │            │ wishes                                │
+├────────────┼────────────┼────────────┼───────────────────────────────────────┤
+│ might      │ might not  │ -          │ possibility (less certain)            │
+│            │ mightn't   │            │ suggestions, reported speech          │
+├────────────┼────────────┼────────────┼───────────────────────────────────────┤
+│ must       │ mustn't    │ had to     │ strong obligation, prohibition        │
+│            │            │            │ logical deduction                     │
+├────────────┼────────────┼────────────┼───────────────────────────────────────┤
+│ have to    │ don't have │ had to     │ external obligation                   │
+│            │ to         │            │ no obligation (don't have to)         │
+├────────────┼────────────┼────────────┼───────────────────────────────────────┤
+│ should     │ shouldn't  │ -          │ advice, recommendation                │
+│            │            │            │ expectation, obligation               │
+├────────────┼────────────┼────────────┼───────────────────────────────────────┤
+│ ought to   │ ought not  │ -          │ same as should (less common)          │
+│            │ to         │            │                                       │
+├────────────┼────────────┼────────────┼───────────────────────────────────────┤
+│ will       │ won't      │ would      │ future, promises, offers              │
+│            │            │            │ requests, refusal                     │
+├────────────┼────────────┼────────────┼───────────────────────────────────────┤
+│ would      │ wouldn't   │ -          │ conditional, polite requests          │
+│            │            │            │ past habits, would like               │
+├────────────┼────────────┼────────────┼───────────────────────────────────────┤
+│ shall      │ shan't     │ should     │ offers/suggestions (Shall I...?)      │
+│            │            │            │ formal future (British)               │
+├────────────┼────────────┼────────────┼───────────────────────────────────────┤
+│ need       │ needn't    │ -          │ necessity (need not = don't have to)  │
+│            │            │            │                                       │
+└────────────┴────────────┴────────────┴───────────────────────────────────────┘
+
+================================================================================
+                         ABILITY (Habilidad)
+================================================================================
+
+PRESENT:
+→ I can swim.
+→ She is able to speak French.
+
+PAST:
+→ I could swim when I was five.
+→ I was able to escape. (specific achievement)
+
+FUTURE:
+→ I will be able to help tomorrow.
+
+PRESENT PERFECT:
+→ I have been able to finish it.
+
+================================================================================
+                         POSSIBILITY (Posibilidad)
+================================================================================
+
+ESCALA DE PROBABILIDAD (menos → más):
+
+might    <    may    <    could    <    should    <    will    <    must
+  |           |           |             |             |            |
+ ~30%       ~50%        ~50%          ~80%         ~95%         ~99%
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ It might rain.              Podría llover. (poco probable)                    │
+│ It may rain.                Puede que llueva. (posible)                       │
+│ It could rain.              Podría llover. (posible)                          │
+│ It should rain.             Debería llover. (probable)                        │
+│ It will rain.               Lloverá. (seguro)                                 │
+│ It must be raining.         Debe estar lloviendo. (casi seguro)               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+PAST POSSIBILITY:
+→ She may have left. (Puede que se haya ido)
+→ He might have forgotten. (Podría haber olvidado)
+→ They must have arrived. (Deben haber llegado)
+→ She can't have known. (No puede haber sabido)
+
+================================================================================
+                         PERMISSION (Permiso)
+================================================================================
+
+FORMAL → INFORMAL:
+
+May I...?  >  Could I...?  >  Can I...?
+  (muy formal)    (cortés)      (informal)
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ May I leave early? (profesor, jefe)                                           │
+│ Could I use your phone? (cortés)                                              │
+│ Can I borrow your pen? (amigo)                                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+GIVING PERMISSION:
+→ You can go now.
+→ You may leave.
+
+REFUSING PERMISSION:
+→ You can't park here.
+→ You may not smoke here.
+→ You mustn't enter. (prohibition)
+
+================================================================================
+                         OBLIGATION (Obligación)
+================================================================================
+
+STRENGTH OF OBLIGATION (más débil → más fuerte):
+
+should / ought to  <  have to  <  must
+    (consejo)          (regla)     (fuerte)
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ You should study. (es un buen consejo)                                        │
+│ You have to wear a uniform. (es la regla)                                     │
+│ You must show your ID. (es obligatorio)                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NO OBLIGATION:
+→ You don't have to come. (no es necesario)
+→ You needn't worry. (no es necesario)
+
+PROHIBITION:
+→ You mustn't smoke here. (está prohibido)
+→ You can't park here. (no está permitido)
+
+⚠️ CUIDADO:
+mustn't = prohibited (NO lo hagas)
+don't have to = not necessary (puedes si quieres)
+
+================================================================================
+                         REQUESTS (Peticiones)
+================================================================================
+
+FORMAL → INFORMAL:
+
+Would you mind...?  >  Could you...?  >  Would you...?  >  Will you...?  >  Can you...?
+    (muy formal)         (cortés)         (cortés)         (directo)       (informal)
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Would you mind helping me? (muy cortés)                                       │
+│ Could you help me, please? (cortés)                                           │
+│ Would you help me? (cortés)                                                   │
+│ Will you help me? (directo)                                                   │
+│ Can you help me? (informal)                                                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                         ADVICE (Consejo)
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ You should see a doctor.                                                      │
+│ You ought to exercise more.                                                   │
+│ You'd better hurry! (warning - stronger)                                      │
+│ You could try this. (suggestion)                                              │
+│ You might want to check. (tentative)                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+PAST ADVICE (something you didn't do):
+→ You should have told me! (Deberías habérmelo dicho)
+→ You shouldn't have said that. (No deberías haber dicho eso)
+
+================================================================================
+                         DEDUCTION (Deducción)
+================================================================================
+
+PRESENT DEDUCTION:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She must be tired. (I'm 99% sure)                                             │
+│ She may be tired. (It's possible - 50%)                                       │
+│ She might be tired. (It's possible - 30%)                                     │
+│ She can't be tired. (I'm sure she's NOT)                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+PAST DEDUCTION:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She must have been tired. (Debe haber estado cansada)                         │
+│ She may have been tired. (Puede que haya estado cansada)                      │
+│ She might have been tired. (Podría haber estado cansada)                      │
+│ She can't have been tired. (No puede haber estado cansada)                    │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    MODAL + HAVE + PAST PARTICIPLE
+================================================================================
+
+Estructura para hablar del PASADO:
+
+┌────────────────────┬───────────────────────────────────────────────────────────┐
+│ MODAL + HAVE + V3  │ MEANING                                                   │
+├────────────────────┼───────────────────────────────────────────────────────────┤
+│ must have done     │ Almost certain (past)                                     │
+│                    │ He must have forgotten. (Debe haber olvidado)             │
+├────────────────────┼───────────────────────────────────────────────────────────┤
+│ may/might have     │ Possibility (past)                                        │
+│ done               │ She may have left. (Puede que se haya ido)                │
+├────────────────────┼───────────────────────────────────────────────────────────┤
+│ can't have done    │ Impossible (past)                                         │
+│                    │ He can't have said that. (No puede haber dicho eso)       │
+├────────────────────┼───────────────────────────────────────────────────────────┤
+│ could have done    │ Unrealized possibility / criticism                        │
+│                    │ I could have helped. (Podría haber ayudado pero no lo     │
+│                    │ hice)                                                     │
+├────────────────────┼───────────────────────────────────────────────────────────┤
+│ should have done   │ Regret / criticism                                        │
+│                    │ I should have studied. (Debería haber estudiado)          │
+├────────────────────┼───────────────────────────────────────────────────────────┤
+│ would have done    │ Third conditional                                         │
+│                    │ I would have helped if... (Habría ayudado si...)          │
+├────────────────────┼───────────────────────────────────────────────────────────┤
+│ needn't have done  │ Unnecessary action (but you did it)                       │
+│                    │ You needn't have worried. (No necesitabas preocuparte)    │
+└────────────────────┴───────────────────────────────────────────────────────────┘
+
+================================================================================
+                         SEMI-MODALS
+================================================================================
+
+Verbos que funcionan como modales pero tienen algunas características 
+de verbos normales:
+
+┌────────────────────┬───────────────────────────────────────────────────────────┐
+│ HAVE TO            │ External obligation                                       │
+│                    │ I have to work. / She has to study.                       │
+│                    │ Do you have to go?                                        │
+├────────────────────┼───────────────────────────────────────────────────────────┤
+│ NEED TO            │ Necessity                                                 │
+│                    │ I need to sleep. / She needs to eat.                      │
+│                    │ Do you need to leave?                                     │
+├────────────────────┼───────────────────────────────────────────────────────────┤
+│ OUGHT TO           │ Advice (like should)                                      │
+│                    │ You ought to rest.                                        │
+├────────────────────┼───────────────────────────────────────────────────────────┤
+│ BE ABLE TO         │ Ability (all tenses)                                      │
+│                    │ I am able to swim. / She was able to escape.              │
+├────────────────────┼───────────────────────────────────────────────────────────┤
+│ HAD BETTER         │ Strong advice (with warning)                              │
+│                    │ You'd better hurry!                                       │
+├────────────────────┼───────────────────────────────────────────────────────────┤
+│ BE SUPPOSED TO     │ Expectation                                               │
+│                    │ You're supposed to be at work.                            │
+├────────────────────┼───────────────────────────────────────────────────────────┤
+│ BE GOING TO        │ Future plans/intentions                                   │
+│                    │ I'm going to study tomorrow.                              │
+├────────────────────┼───────────────────────────────────────────────────────────┤
+│ USED TO            │ Past habits/states                                        │
+│                    │ I used to smoke.                                          │
+└────────────────────┴───────────────────────────────────────────────────────────┘
+
+================================================================================
+                           QUICK REFERENCE
+================================================================================
+
+  MEANING              PRESENT               PAST
+  ─────────────────────────────────────────────────────────────────────────────
+  Ability              can                   could / was able to
+  Permission           can / may             could (polite)
+  Possibility          may / might / could   may have / might have / could have
+  Certainty            must                  must have
+  Impossibility        can't                 can't have
+  Obligation           must / have to        had to
+  No obligation        don't have to         didn't have to
+  Prohibition          mustn't               -
+  Advice               should / ought to     should have
+  Request              can / could / would   -
+  Offer                will / shall          -
+  Future               will                  would (reported)
+  Conditional          -                     would / would have
+  Past habit           -                     would / used to
+
+================================================================================

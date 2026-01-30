@@ -1,0 +1,327 @@
+================================================================================
+                      UNLESS, PROVIDED, AS LONG AS
+              (Otras Estructuras Condicionales en Inglés)
+================================================================================
+
+Además de IF, hay otras palabras y expresiones para formar condicionales.
+
+================================================================================
+                         UNLESS
+================================================================================
+
+UNLESS = IF... NOT (a menos que, si no)
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ UNLESS significa "excepto si" o "a menos que"                               │
+│ Es la forma NEGATIVA de IF                                                  │
+│                                                                             │
+│ UNLESS = IF... NOT                                                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+STRUCTURE:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  UNLESS    +    AFFIRMATIVE CLAUSE                                          │
+│  (= IF NOT)                                                                 │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Unless you study, you will fail.                                           │
+│  = If you don't study, you will fail.                                       │
+│  A menos que estudies, suspenderás.                                         │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+⚠️ IMPORTANTE: Después de UNLESS, usamos verbo en AFIRMATIVO.
+   ❌ Unless you don't study... (doble negación)
+   ✓ Unless you study...
+
+EXAMPLES:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Unless you hurry, you will miss the bus.                                      │
+│ = If you don't hurry, you will miss the bus.                                  │
+│ A menos que te des prisa, perderás el autobús.                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I won't go unless you come with me.                                           │
+│ = I won't go if you don't come with me.                                       │
+│ No iré a menos que vengas conmigo.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Unless it rains, we'll have a picnic.                                         │
+│ = If it doesn't rain, we'll have a picnic.                                    │
+│ A menos que llueva, haremos un picnic.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She won't pass unless she studies harder.                                     │
+│ = She won't pass if she doesn't study harder.                                 │
+│ No aprobará a menos que estudie más.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Unless you have a ticket, you can't enter.                                    │
+│ = If you don't have a ticket, you can't enter.                                │
+│ A menos que tengas entrada, no puedes entrar.                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Don't call me unless it's urgent.                                             │
+│ = Don't call me if it isn't urgent.                                           │
+│ No me llames a menos que sea urgente.                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+UNLESS con diferentes tiempos:
+
+FIRST CONDITIONAL:
+→ Unless you leave now, you will be late.
+→ I won't help unless you ask nicely.
+
+SECOND CONDITIONAL:
+→ Unless I had more money, I wouldn't buy it.
+→ She wouldn't go unless she were invited.
+
+ZERO CONDITIONAL:
+→ Unless you water plants, they die.
+→ The machine doesn't work unless you press this button.
+
+================================================================================
+                    PROVIDED (THAT) / PROVIDING (THAT)
+================================================================================
+
+PROVIDED/PROVIDING = siempre que, con tal de que, a condición de que
+
+Es más FORMAL que IF y enfatiza una CONDICIÓN necesaria.
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ PROVIDED (THAT) = solo si esta condición se cumple                          │
+│ PROVIDING (THAT) = igual significado                                        │
+│ "THAT" es opcional                                                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLES:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ You can go out provided (that) you finish your homework.                      │
+│ Puedes salir con tal de que termines los deberes.                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I'll lend you the money provided you pay me back next week.                   │
+│ Te presto el dinero a condición de que me lo devuelvas la semana que viene.   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Providing (that) the weather is good, we'll go hiking.                        │
+│ Siempre que haga buen tiempo, iremos de excursión.                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She'll help you provided you ask her politely.                                │
+│ Ella te ayudará siempre que se lo pidas amablemente.                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We can start the meeting provided everyone is here.                           │
+│ Podemos empezar la reunión siempre que estén todos.                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    AS LONG AS / SO LONG AS
+================================================================================
+
+AS LONG AS / SO LONG AS = siempre que, mientras, con tal de que
+
+Similar a PROVIDED pero menos formal.
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ AS LONG AS = la condición debe mantenerse durante todo el tiempo            │
+│ SO LONG AS = igual significado (menos común)                                │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLES:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ You can stay as long as you want.                                             │
+│ Puedes quedarte todo el tiempo que quieras.                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ As long as you're happy, I'm happy.                                           │
+│ Mientras tú seas feliz, yo soy feliz.                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I don't mind as long as you tell me the truth.                                │
+│ No me importa siempre que me digas la verdad.                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We'll be fine as long as we stick together.                                   │
+│ Estaremos bien mientras permanezcamos juntos.                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ As long as you don't give up, you will succeed.                               │
+│ Mientras no te rindas, tendrás éxito.                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    ON CONDITION (THAT)
+================================================================================
+
+ON CONDITION (THAT) = a condición de que (muy formal)
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I'll tell you on condition that you don't tell anyone else.                   │
+│ Te lo cuento a condición de que no se lo cuentes a nadie.                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She agreed to help on condition that she was paid.                            │
+│ Ella aceptó ayudar a condición de que le pagaran.                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    IN CASE
+================================================================================
+
+IN CASE = por si (acaso), en caso de que
+
+⚠️ IN CASE ≠ IF
+IN CASE expresa PRECAUCIÓN, preparación para algo que PUEDE pasar.
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Take an umbrella in case it rains.                                            │
+│ Lleva paraguas por si llueve. (preparación)                                   │
+│ ≠ Take an umbrella if it rains. (cuando llueva)                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I'll give you my number in case you need to contact me.                       │
+│ Te doy mi número por si necesitas contactarme.                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Write it down in case you forget.                                             │
+│ Apúntalo por si se te olvida.                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I'll take some snacks in case I get hungry.                                   │
+│ Llevaré aperitivos por si tengo hambre.                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+IN CASE OF + NOUN:
+→ In case of fire, use the stairs. (En caso de incendio, usa las escaleras)
+→ In case of emergency, call 112. (En caso de emergencia, llama al 112)
+
+================================================================================
+                    WHETHER... OR NOT
+================================================================================
+
+WHETHER... OR NOT = tanto si... como si no, independientemente de si
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Whether you like it or not, you have to go.                                   │
+│ Te guste o no, tienes que ir.                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I'm going whether it rains or not.                                            │
+│ Voy llueva o no llueva.                                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Whether you come or not, the party will continue.                             │
+│ Vengas o no, la fiesta continuará.                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    SUPPOSING / SUPPOSE / WHAT IF
+================================================================================
+
+SUPPOSING / SUPPOSE / WHAT IF = supongamos que, ¿y si...?
+
+Se usan para situaciones hipotéticas:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Supposing you won the lottery, what would you do?                             │
+│ Supongamos que ganaras la lotería, ¿qué harías?                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Suppose he doesn't come, what will we do?                                     │
+│ Supón que no viene, ¿qué haremos?                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ What if it rains? Do you have a backup plan?                                  │
+│ ¿Y si llueve? ¿Tienes un plan alternativo?                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ What if I told you I was leaving?                                             │
+│ ¿Y si te dijera que me voy?                                                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    EVEN IF
+================================================================================
+
+EVEN IF = incluso si, aunque
+
+Enfatiza que el resultado será el mismo aunque la condición cambie:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Even if you apologize, I won't forgive you.                                   │
+│ Aunque te disculpes, no te perdonaré.                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I wouldn't marry him even if he were the last man on Earth.                   │
+│ No me casaría con él aunque fuera el último hombre del mundo.                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Even if it rains, we will go.                                                 │
+│ Aunque llueva, iremos.                                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    ONLY IF
+================================================================================
+
+ONLY IF = solo si (enfático)
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I'll help you only if you help me first.                                      │
+│ Te ayudaré solo si tú me ayudas primero.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Only if you promise to be careful will I let you drive.                       │
+│ Solo si prometes tener cuidado te dejaré conducir.                            │
+│ (inversión del sujeto y verbo cuando ONLY IF va al principio)                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    OTHERWISE
+================================================================================
+
+OTHERWISE = de lo contrario, si no
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Hurry up! Otherwise, we'll be late.                                           │
+│ ¡Date prisa! De lo contrario, llegaremos tarde.                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You should study, otherwise you'll fail.                                      │
+│ Deberías estudiar, si no suspenderás.                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We need to leave now, otherwise we won't get good seats.                      │
+│ Tenemos que irnos ahora, si no no conseguiremos buenos asientos.              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                           COMPARISON TABLE
+================================================================================
+
+┌────────────────────┬─────────────────────────────────────────────────────────┐
+│ EXPRESSION         │ MEANING                                                 │
+├────────────────────┼─────────────────────────────────────────────────────────┤
+│ IF                 │ si                                                      │
+│ UNLESS             │ a menos que, si no (= if not)                           │
+│ PROVIDED (THAT)    │ siempre que, con tal de que (formal)                    │
+│ PROVIDING (THAT)   │ siempre que, con tal de que (formal)                    │
+│ AS LONG AS         │ mientras, siempre que                                   │
+│ ON CONDITION THAT  │ a condición de que (muy formal)                         │
+│ IN CASE            │ por si (acaso), en caso de que                          │
+│ WHETHER...OR NOT   │ tanto si...como si no                                   │
+│ EVEN IF            │ incluso si, aunque                                      │
+│ ONLY IF            │ solo si                                                 │
+│ SUPPOSE / WHAT IF  │ supongamos que, ¿y si...?                               │
+│ OTHERWISE          │ de lo contrario, si no                                  │
+└────────────────────┴─────────────────────────────────────────────────────────┘
+
+================================================================================
+                           COMMON MISTAKES
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  Unless you don't study...             Unless you study... (no double neg)
+  I go in case it rains.                I'll take an umbrella in case it rains.
+  Even if he apologizes, I forgive.     Even if he apologizes, I won't forgive.
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│              OTHER CONDITIONAL EXPRESSIONS                                   │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ UNLESS:       = if not (a menos que)                                         │
+│               Unless you study, you'll fail.                                 │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ PROVIDED:     = only if this condition is met (siempre que) [formal]         │
+│               You can go provided you finish first.                          │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ AS LONG AS:   = for the whole time that (mientras, siempre que)              │
+│               As long as you're happy, I'm happy.                            │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ IN CASE:      = as a precaution (por si acaso)                               │
+│               Take an umbrella in case it rains.                             │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ EVEN IF:      = despite the condition (aunque, incluso si)                   │
+│               Even if you apologize, I won't forgive you.                    │
+└──────────────────────────────────────────────────────────────────────────────┘

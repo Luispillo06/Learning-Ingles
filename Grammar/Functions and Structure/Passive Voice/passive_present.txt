@@ -1,0 +1,195 @@
+================================================================================
+                    PASSIVE: PRESENT TENSES
+                (Voz Pasiva en Tiempos Presentes)
+================================================================================
+
+================================================================================
+                    PRESENT SIMPLE PASSIVE
+================================================================================
+
+STRUCTURE:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    AM/IS/ARE    +    PAST PARTICIPLE    +    (BY + AGENT)     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I               am                 invited                                  │
+│  He/She/It       is                 made                                     │
+│  You/We/They     are                sold                                     │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+AFFIRMATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  They make cars in Germany.                                           │
+│ PASSIVE: Cars are made in Germany.                                            │
+│          Los coches se fabrican en Alemania.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Millions of people speak English.                                    │
+│ PASSIVE: English is spoken by millions of people.                             │
+│          El inglés es hablado por millones de personas.                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They grow coffee in Brazil.                                          │
+│ PASSIVE: Coffee is grown in Brazil.                                           │
+│          El café se cultiva en Brasil.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  The company employs 500 workers.                                     │
+│ PASSIVE: 500 workers are employed by the company.                             │
+│          500 trabajadores son empleados por la empresa.                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  They don't allow smoking here.                                       │
+│ PASSIVE: Smoking isn't allowed here.                                          │
+│          No se permite fumar aquí.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They don't sell alcohol to minors.                                   │
+│ PASSIVE: Alcohol isn't sold to minors.                                        │
+│          El alcohol no se vende a menores.                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  The school doesn't accept late applications.                         │
+│ PASSIVE: Late applications aren't accepted.                                   │
+│          Las solicitudes tardías no se aceptan.                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+INTERROGATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  Do they make this product here?                                      │
+│ PASSIVE: Is this product made here?                                           │
+│          ¿Se fabrica este producto aquí?                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Where do they sell these shoes?                                      │
+│ PASSIVE: Where are these shoes sold?                                          │
+│          ¿Dónde se venden estos zapatos?                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  How many languages do they speak in Switzerland?                     │
+│ PASSIVE: How many languages are spoken in Switzerland?                        │
+│          ¿Cuántos idiomas se hablan en Suiza?                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    PRESENT CONTINUOUS PASSIVE
+================================================================================
+
+STRUCTURE:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    AM/IS/ARE BEING    +    PAST PARTICIPLE    +    (BY)       │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I               am being                repaired                            │
+│  He/She/It       is being                built                               │
+│  You/We/They     are being               interviewed                         │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+AFFIRMATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  They are building a new hospital.                                    │
+│ PASSIVE: A new hospital is being built.                                       │
+│          Se está construyendo un nuevo hospital.                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  The mechanic is repairing my car.                                    │
+│ PASSIVE: My car is being repaired (by the mechanic).                          │
+│          Mi coche está siendo reparado.                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Someone is following us.                                             │
+│ PASSIVE: We are being followed.                                               │
+│          Nos están siguiendo.                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  The police are questioning the suspect.                              │
+│ PASSIVE: The suspect is being questioned by the police.                       │
+│          El sospechoso está siendo interrogado por la policía.                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  They aren't using the room.                                          │
+│ PASSIVE: The room isn't being used.                                           │
+│          La habitación no está siendo usada.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Nobody is cleaning the office.                                       │
+│ PASSIVE: The office isn't being cleaned.                                      │
+│          La oficina no está siendo limpiada.                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+INTERROGATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  Are they repairing the road?                                         │
+│ PASSIVE: Is the road being repaired?                                          │
+│          ¿Se está reparando la carretera?                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  What are they discussing?                                            │
+│ PASSIVE: What is being discussed?                                             │
+│          ¿Qué se está discutiendo?                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    PRESENT PERFECT PASSIVE
+================================================================================
+
+STRUCTURE:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    HAVE/HAS BEEN    +    PAST PARTICIPLE    +    (BY)         │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/We/They   have been             finished                              │
+│  He/She/It       has been              sent                                  │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+AFFIRMATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  Someone has stolen my wallet.                                        │
+│ PASSIVE: My wallet has been stolen.                                           │
+│          Mi cartera ha sido robada.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They have finished the project.                                      │
+│ PASSIVE: The project has been finished.                                       │
+│          El proyecto ha sido terminado.                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  The company has hired 20 new employees.                              │
+│ PASSIVE: 20 new employees have been hired.                                    │
+│          20 nuevos empleados han sido contratados.                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They have cancelled the flight.                                      │
+│ PASSIVE: The flight has been cancelled.                                       │
+│          El vuelo ha sido cancelado.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  They haven't sent the email yet.                                     │
+│ PASSIVE: The email hasn't been sent yet.                                      │
+│          El email aún no ha sido enviado.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Nobody has cleaned the room.                                         │
+│ PASSIVE: The room hasn't been cleaned.                                        │
+│          La habitación no ha sido limpiada.                                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+INTERROGATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  Have they fixed the problem?                                         │
+│ PASSIVE: Has the problem been fixed?                                          │
+│          ¿Ha sido arreglado el problema?                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Has anyone told him the news?                                        │
+│ PASSIVE: Has he been told the news?                                           │
+│          ¿Le han contado las noticias?                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    SUMMARY TABLE
+================================================================================
+
+┌────────────────────────┬──────────────────────────────────────────────────────┐
+│ TENSE                  │ PASSIVE STRUCTURE                                    │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Present Simple         │ am/is/are + past participle                          │
+│                        │ The car is washed every week.                        │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Present Continuous     │ am/is/are being + past participle                    │
+│                        │ The car is being washed now.                         │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Present Perfect        │ have/has been + past participle                      │
+│                        │ The car has been washed.                             │
+└────────────────────────┴──────────────────────────────────────────────────────┘
+
+================================================================================

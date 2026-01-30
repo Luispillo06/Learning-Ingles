@@ -1,0 +1,475 @@
+================================================================================
+                            ADJECTIVES
+                      (Adjetivos en Inglés)
+================================================================================
+
+Los adjetivos son palabras que DESCRIBEN o MODIFICAN sustantivos.
+Nos dicen cómo es algo o alguien.
+
+================================================================================
+                    POSITION OF ADJECTIVES
+================================================================================
+
+1. BEFORE THE NOUN (antes del sustantivo) - más común:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ a beautiful house                 → una casa bonita                           │
+│ an old car                        → un coche viejo                            │
+│ the big dog                       → el perro grande                           │
+│ my new phone                      → mi teléfono nuevo                         │
+│ three small children              → tres niños pequeños                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. AFTER THE VERB (después del verbo) - con verbos de estado:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She is beautiful.                 → Ella es guapa.                            │
+│ The car looks old.                → El coche parece viejo.                    │
+│ I feel tired.                     → Me siento cansado.                        │
+│ The food tastes delicious.        → La comida sabe deliciosa.                 │
+│ He seems happy.                   → Él parece feliz.                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+Verbos comunes + adjetivo:
+be, seem, appear, look, feel, sound, taste, smell, become, get
+
+================================================================================
+                    ORDER OF ADJECTIVES
+================================================================================
+
+Cuando usamos varios adjetivos, siguen este ORDEN:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ OPINION → SIZE → AGE → SHAPE → COLOUR → ORIGIN → MATERIAL → PURPOSE        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 1. Opinion:    beautiful, ugly, nice, lovely, horrible, amazing             │
+│ 2. Size:       big, small, tall, short, long, huge, tiny                    │
+│ 3. Age:        old, new, young, ancient, modern                             │
+│ 4. Shape:      round, square, flat, rectangular, oval                       │
+│ 5. Colour:     red, blue, green, black, white, dark, light                  │
+│ 6. Origin:     Spanish, British, American, Chinese, Italian                 │
+│ 7. Material:   wooden, metal, plastic, glass, cotton, silk                  │
+│ 8. Purpose:    sleeping (bag), running (shoes), cooking (oil)               │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLES:
+
+→ a beautiful big old house (opinion + size + age)
+→ a lovely little Italian restaurant (opinion + size + origin)
+→ an ugly old brown leather bag (opinion + age + colour + material)
+→ a small round wooden table (size + shape + material)
+→ those expensive new running shoes (opinion + age + purpose)
+
+⚠️ Normalmente no usamos más de 2-3 adjetivos juntos.
+
+================================================================================
+                    TYPES OF ADJECTIVES
+================================================================================
+
+1. DESCRIPTIVE ADJECTIVES (Adjetivos descriptivos):
+
+Describen cualidades de personas o cosas.
+
+APPEARANCE (Apariencia):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ beautiful / ugly          → bonito / feo                                      │
+│ pretty / handsome         → guapa / guapo                                     │
+│ attractive / unattractive → atractivo / poco atractivo                        │
+│ tall / short              → alto / bajo                                       │
+│ thin / fat                → delgado / gordo                                   │
+│ slim / overweight         → delgado / con sobrepeso                           │
+│ young / old               → joven / viejo                                     │
+│ dark / fair               → moreno / rubio                                    │
+│ clean / dirty             → limpio / sucio                                    │
+│ neat / messy              → ordenado / desordenado                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+SIZE (Tamaño):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ big / small               → grande / pequeño                                  │
+│ large / tiny              → grande / diminuto                                 │
+│ huge / little             → enorme / pequeño                                  │
+│ enormous / miniature      → enorme / en miniatura                             │
+│ long / short              → largo / corto                                     │
+│ wide / narrow             → ancho / estrecho                                  │
+│ thick / thin              → grueso / fino                                     │
+│ deep / shallow            → profundo / poco profundo                          │
+│ high / low                → alto / bajo                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+PERSONALITY (Personalidad):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ kind / mean               → amable / malo                                     │
+│ nice / nasty              → agradable / desagradable                          │
+│ friendly / unfriendly     → amigable / antipático                             │
+│ polite / rude             → educado / maleducado                              │
+│ generous / selfish        → generoso / egoísta                                │
+│ honest / dishonest        → honesto / deshonesto                              │
+│ patient / impatient       → paciente / impaciente                             │
+│ brave / cowardly          → valiente / cobarde                                │
+│ shy / outgoing            → tímido / extrovertido                             │
+│ lazy / hardworking        → perezoso / trabajador                             │
+│ clever / stupid           → listo / tonto                                     │
+│ smart / dumb              → inteligente / tonto                               │
+│ funny / serious           → gracioso / serio                                  │
+│ cheerful / grumpy         → alegre / gruñón                                   │
+│ calm / nervous            → tranquilo / nervioso                              │
+│ confident / insecure      → seguro / inseguro                                 │
+│ reliable / unreliable     → fiable / no fiable                                │
+│ responsible / irresponsible → responsable / irresponsable                     │
+│ mature / immature         → maduro / inmaduro                                 │
+│ sensible / silly          → sensato / tonto                                   │
+│ ambitious / unambitious   → ambicioso / sin ambición                          │
+│ stubborn / flexible       → terco / flexible                                  │
+│ jealous / trusting        → celoso / confiado                                 │
+│ arrogant / humble         → arrogante / humilde                               │
+│ optimistic / pessimistic  → optimista / pesimista                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+EMOTIONS (Emociones):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ happy / sad               → feliz / triste                                    │
+│ excited / bored           → emocionado / aburrido                             │
+│ angry / calm              → enfadado / tranquilo                              │
+│ scared / brave            → asustado / valiente                               │
+│ worried / relaxed         → preocupado / relajado                             │
+│ surprised / unsurprised   → sorprendido / no sorprendido                      │
+│ tired / energetic         → cansado / enérgico                                │
+│ lonely / loved            → solo / querido                                    │
+│ confused / clear          → confundido / claro                                │
+│ disappointed / satisfied  → decepcionado / satisfecho                         │
+│ proud / ashamed           → orgulloso / avergonzado                           │
+│ grateful / ungrateful     → agradecido / desagradecido                        │
+│ jealous / content         → celoso / contento                                 │
+│ anxious / peaceful        → ansioso / en paz                                  │
+│ frustrated / patient      → frustrado / paciente                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+WEATHER (Tiempo atmosférico):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ hot / cold                → caliente / frío                                   │
+│ warm / cool               → cálido / fresco                                   │
+│ sunny / cloudy            → soleado / nublado                                 │
+│ rainy / dry               → lluvioso / seco                                   │
+│ windy / calm              → ventoso / en calma                                │
+│ foggy / clear             → con niebla / despejado                            │
+│ stormy / peaceful         → tormentoso / tranquilo                            │
+│ humid / dry               → húmedo / seco                                     │
+│ freezing / boiling        → helado / hirviendo                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+QUALITY (Calidad):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ good / bad                → bueno / malo                                      │
+│ excellent / terrible      → excelente / terrible                              │
+│ amazing / awful           → asombroso / horrible                              │
+│ wonderful / horrible      → maravilloso / horrible                            │
+│ perfect / imperfect       → perfecto / imperfecto                             │
+│ fantastic / dreadful      → fantástico / espantoso                            │
+│ great / poor              → genial / pobre                                    │
+│ best / worst              → mejor / peor                                      │
+│ superior / inferior       → superior / inferior                               │
+│ expensive / cheap         → caro / barato                                     │
+│ valuable / worthless      → valioso / sin valor                               │
+│ useful / useless          → útil / inútil                                     │
+│ important / unimportant   → importante / sin importancia                      │
+│ famous / unknown          → famoso / desconocido                              │
+│ popular / unpopular       → popular / impopular                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+TEXTURE AND TOUCH (Textura y tacto):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ soft / hard               → suave / duro                                      │
+│ smooth / rough            → liso / áspero                                     │
+│ wet / dry                 → mojado / seco                                     │
+│ sticky / slippery         → pegajoso / resbaladizo                            │
+│ sharp / blunt             → afilado / sin filo                                │
+│ tight / loose             → apretado / suelto                                 │
+│ heavy / light             → pesado / ligero                                   │
+│ solid / liquid            → sólido / líquido                                  │
+│ fluffy / flat             → esponjoso / plano                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+TASTE (Sabor):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ sweet / bitter            → dulce / amargo                                    │
+│ salty / bland             → salado / soso                                     │
+│ sour / sweet              → ácido / dulce                                     │
+│ spicy / mild              → picante / suave                                   │
+│ delicious / disgusting    → delicioso / asqueroso                             │
+│ tasty / tasteless         → sabroso / insípido                                │
+│ fresh / stale             → fresco / pasado                                   │
+│ raw / cooked              → crudo / cocinado                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+COLOUR (Color):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ red         → rojo             │ pink        → rosa                           │
+│ blue        → azul             │ purple      → morado                         │
+│ green       → verde            │ orange      → naranja                        │
+│ yellow      → amarillo         │ brown       → marrón                         │
+│ black       → negro            │ grey/gray   → gris                           │
+│ white       → blanco           │ beige       → beige                          │
+│ dark blue   → azul oscuro      │ light blue  → azul claro                     │
+│ golden      → dorado           │ silver      → plateado                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+SHAPE (Forma):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ round / square            → redondo / cuadrado                                │
+│ rectangular / oval        → rectangular / ovalado                             │
+│ triangular / circular     → triangular / circular                             │
+│ flat / curved             → plano / curvo                                     │
+│ straight / crooked        → recto / torcido                                   │
+│ pointed / rounded         → puntiagudo / redondeado                           │
+│ hollow / solid            → hueco / sólido                                    │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+TIME (Tiempo):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ early / late              → temprano / tarde                                  │
+│ fast / slow               → rápido / lento                                    │
+│ quick / slow              → rápido / lento                                    │
+│ ancient / modern          → antiguo / moderno                                 │
+│ old / new                 → viejo / nuevo                                     │
+│ past / future             → pasado / futuro                                   │
+│ daily / weekly            → diario / semanal                                  │
+│ monthly / yearly          → mensual / anual                                   │
+│ brief / long              → breve / largo                                     │
+│ temporary / permanent     → temporal / permanente                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+DISTANCE (Distancia):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ near / far                → cerca / lejos                                     │
+│ close / distant           → cercano / distante                                │
+│ local / foreign           → local / extranjero                                │
+│ indoor / outdoor          → interior / exterior                               │
+│ internal / external       → interno / externo                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    2. POSSESSIVE ADJECTIVES
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ my          → mi/mis                                                        │
+│ your        → tu/tus (o su/sus de usted)                                    │
+│ his         → su/sus (de él)                                                │
+│ her         → su/sus (de ella)                                              │
+│ its         → su/sus (de ello - cosas/animales)                             │
+│ our         → nuestro/a/os/as                                               │
+│ their       → su/sus (de ellos/ellas)                                       │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ This is my book.
+→ Her name is Sarah.
+→ Their house is big.
+
+================================================================================
+                    3. DEMONSTRATIVE ADJECTIVES
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ this        → este/esta (singular, cerca)                                   │
+│ that        → ese/esa/aquel/aquella (singular, lejos)                       │
+│ these       → estos/estas (plural, cerca)                                   │
+│ those       → esos/esas/aquellos/as (plural, lejos)                         │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ This book is interesting.
+→ That car is expensive.
+→ These shoes are new.
+→ Those houses are old.
+
+================================================================================
+                    4. QUANTITATIVE ADJECTIVES
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ some        → algún, algo de      │ any         → algún, ningún             │
+│ many        → muchos              │ much        → mucho                     │
+│ few         → pocos               │ little      → poco                      │
+│ a few       → unos pocos          │ a little    → un poco                   │
+│ several     → varios              │ enough      → suficiente                │
+│ all         → todo/todos          │ no          → ningún                    │
+│ most        → la mayoría          │ each        → cada                      │
+│ every       → cada, todo          │ both        → ambos                     │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I have some money.
+→ There are many people here.
+→ She has few friends.
+→ We have enough time.
+
+================================================================================
+                    5. INTERROGATIVE ADJECTIVES
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ which       → cuál, qué                                                     │
+│ what        → qué                                                           │
+│ whose       → de quién                                                      │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ Which book do you want?
+→ What colour is your car?
+→ Whose bag is this?
+
+================================================================================
+                    6. NUMERAL ADJECTIVES
+================================================================================
+
+CARDINAL (Cardinales):
+→ one, two, three, four, five...
+→ I have three cats.
+
+ORDINAL (Ordinales):
+→ first, second, third, fourth, fifth...
+→ This is my first time here.
+
+================================================================================
+                    -ED vs -ING ADJECTIVES
+================================================================================
+
+Esta es una distinción MUY importante:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ -ED ADJECTIVES: describe how someone FEELS (cómo se siente alguien)          │
+│ -ING ADJECTIVES: describe what CAUSES the feeling (qué causa el sentimiento) │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────┬──────────────────┬─────────────────────────────────────────┐
+│ -ED (FEELINGS)   │ -ING (CAUSES)    │ MEANING                                 │
+├──────────────────┼──────────────────┼─────────────────────────────────────────┤
+│ bored            │ boring           │ aburrido / aburrido (que aburre)        │
+│ interested       │ interesting      │ interesado / interesante                │
+│ excited          │ exciting         │ emocionado / emocionante                │
+│ tired            │ tiring           │ cansado / cansador                      │
+│ amazed           │ amazing          │ asombrado / asombroso                   │
+│ surprised        │ surprising       │ sorprendido / sorprendente              │
+│ confused         │ confusing        │ confundido / confuso                    │
+│ frightened       │ frightening      │ asustado / aterrador                    │
+│ relaxed          │ relaxing         │ relajado / relajante                    │
+│ annoyed          │ annoying         │ molesto / molesto (que molesta)         │
+│ disappointed     │ disappointing    │ decepcionado / decepcionante            │
+│ frustrated       │ frustrating      │ frustrado / frustrante                  │
+│ embarrassed      │ embarrassing     │ avergonzado / vergonzoso                │
+│ satisfied        │ satisfying       │ satisfecho / satisfactorio              │
+│ shocked          │ shocking         │ conmocionado / impactante               │
+│ exhausted        │ exhausting       │ agotado / agotador                      │
+│ fascinated       │ fascinating      │ fascinado / fascinante                  │
+│ depressed        │ depressing       │ deprimido / deprimente                  │
+│ worried          │ worrying         │ preocupado / preocupante                │
+│ entertained      │ entertaining     │ entretenido / entretenido               │
+└──────────────────┴──────────────────┴─────────────────────────────────────────┘
+
+EXAMPLES:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The movie was boring.         → La película era aburrida.                     │
+│ I was bored during the movie. → Yo estaba aburrido durante la película.       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The news is surprising.       → La noticia es sorprendente.                   │
+│ I'm surprised by the news.    → Estoy sorprendido por la noticia.             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ This book is interesting.     → Este libro es interesante.                    │
+│ I'm interested in this book.  → Estoy interesado en este libro.               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    COMPOUND ADJECTIVES
+================================================================================
+
+Adjetivos formados por dos o más palabras unidas por guión:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ well-known                    → bien conocido, famoso                         │
+│ good-looking                  → guapo, atractivo                              │
+│ old-fashioned                 → anticuado, pasado de moda                     │
+│ open-minded                   → de mente abierta                              │
+│ narrow-minded                 → de mente cerrada                              │
+│ hard-working                  → trabajador                                    │
+│ easy-going                    → tranquilo, relajado                           │
+│ self-confident                → seguro de sí mismo                            │
+│ well-dressed                  → bien vestido                                  │
+│ badly-behaved                 → mal educado                                   │
+│ long-lasting                  → duradero                                      │
+│ high-quality                  → de alta calidad                               │
+│ low-cost                      → de bajo coste                                 │
+│ full-time                     → a tiempo completo                             │
+│ part-time                     → a tiempo parcial                              │
+│ brand-new                     → completamente nuevo                           │
+│ home-made                     → casero, hecho en casa                         │
+│ hand-made                     → hecho a mano                                  │
+│ world-famous                  → mundialmente famoso                           │
+│ five-year-old                 → de cinco años                                 │
+│ ten-minute                    → de diez minutos                               │
+│ two-hour                      → de dos horas                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+→ She's a well-known actress.
+→ He's a good-looking man.
+→ It's a five-year-old car.
+→ I need a ten-minute break.
+
+================================================================================
+                    ADJECTIVES vs ADVERBS
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ADJECTIVE: describe NOUNS (sustantivos)                                       │
+│ ADVERB: describe VERBS, adjectives, or other adverbs                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+ADJECTIVE + NOUN:
+→ She is a careful driver. (adjective + noun)
+
+VERB + ADVERB:
+→ She drives carefully. (verb + adverb)
+
+EXAMPLES:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ He is a slow walker. (adj)    → He walks slowly. (adv)                        │
+│ She is a fast runner. (adj)   → She runs fast. (adv)                          │
+│ It's a beautiful song. (adj)  → She sings beautifully. (adv)                  │
+│ He's a good teacher. (adj)    → He teaches well. (adv)                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    COMMON MISTAKES
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  I'm boring.                           I'm bored. (feeling)
+  The movie was bored.                  The movie was boring. (cause)
+  A car red.                            A red car. (adj before noun)
+  She drives careful.                   She drives carefully. (adverb)
+  A beautiful big old Italian car.      ✓ (correct order)
+  He is very handsome man.              He is a very handsome man.
+  I have news interesting.              I have interesting news.
+  
+================================================================================
+                    QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                             ADJECTIVES                                       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ POSITION:                                                                    │
+│ • Before noun: a beautiful house                                             │
+│ • After be/seem/look/feel: She is beautiful.                                 │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ ORDER: Opinion → Size → Age → Shape → Colour → Origin → Material → Purpose   │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ -ED vs -ING:                                                                 │
+│ • -ED = how someone FEELS: I'm bored.                                        │
+│ • -ING = what CAUSES the feeling: The movie is boring.                       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ TYPES: Descriptive, Possessive (my), Demonstrative (this),                   │
+│        Quantitative (some), Interrogative (which), Numeral (first)           │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

@@ -1,0 +1,320 @@
+================================================================================
+                            CAN / COULD
+                     (Poder / Podría en Inglés)
+================================================================================
+
+CAN y COULD son verbos modales que expresan habilidad, posibilidad,
+permiso y peticiones.
+
+================================================================================
+                         CHARACTERISTICS (Características)
+================================================================================
+
+Los MODAL VERBS tienen características especiales:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 1. No añaden -S en tercera persona (he can, NOT he cans)                    │
+│ 2. Van seguidos de INFINITIVE SIN "TO" (can swim, NOT can to swim)          │
+│ 3. Forman negativo e interrogativo SIN auxiliares (can't, can you?)         │
+│ 4. No tienen infinitivo ni participio                                       │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                              CAN
+================================================================================
+
+STRUCTURE (Estructura):
+
+AFFIRMATIVE:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    CAN    +    VERB (base form)                               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    can    swim/speak/drive                         │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    CANNOT / CAN'T    +    VERB (base form)                    │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    can't    swim/speak/drive                       │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+INTERROGATIVE:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  CAN    +    SUBJECT    +    VERB (base form)    +    ?                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Can        I/you/he/she/it/we/they    swim?                                │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+--------------------------------------------------------------------------------
+                         USES OF CAN (Usos de CAN)
+--------------------------------------------------------------------------------
+
+1. ABILITY (Habilidad - presente):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I can swim.                                                                   │
+│ Sé nadar. / Puedo nadar.                                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She can speak three languages.                                                │
+│ Ella sabe hablar tres idiomas.                                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He can't drive.                                                               │
+│ Él no sabe conducir.                                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Can you play the guitar?                                                      │
+│ ¿Sabes tocar la guitarra?                                                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. POSSIBILITY (Posibilidad general):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ It can be very cold in winter here.                                           │
+│ Puede hacer mucho frío aquí en invierno.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Smoking can cause cancer.                                                     │
+│ Fumar puede causar cáncer.                                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Learning a language can be difficult.                                         │
+│ Aprender un idioma puede ser difícil.                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. PERMISSION (Permiso - informal):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Can I use your phone?                                                         │
+│ ¿Puedo usar tu teléfono?                                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You can go now.                                                               │
+│ Puedes irte ahora.                                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Can I open the window?                                                        │
+│ ¿Puedo abrir la ventana?                                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You can't park here.                                                          │
+│ No puedes aparcar aquí.                                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. REQUESTS (Peticiones - informal):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Can you help me?                                                              │
+│ ¿Puedes ayudarme?                                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Can you pass me the salt?                                                     │
+│ ¿Puedes pasarme la sal?                                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Can you turn down the music?                                                  │
+│ ¿Puedes bajar la música?                                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+5. OFFERS (Ofrecimientos):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Can I help you?                                                               │
+│ ¿Puedo ayudarte? / ¿En qué puedo ayudarle?                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Can I get you something to drink?                                             │
+│ ¿Puedo ofrecerte algo de beber?                                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                              COULD
+================================================================================
+
+STRUCTURE (Estructura):
+
+AFFIRMATIVE:   Subject + could + verb (base form)
+NEGATIVE:      Subject + couldn't + verb (base form)
+INTERROGATIVE: Could + subject + verb (base form)?
+
+--------------------------------------------------------------------------------
+                       USES OF COULD (Usos de COULD)
+--------------------------------------------------------------------------------
+
+1. PAST ABILITY (Habilidad en el pasado):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I could swim when I was five.                                                 │
+│ Sabía nadar cuando tenía cinco años.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She could speak French before she moved to Spain.                             │
+│ Ella sabía hablar francés antes de mudarse a España.                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He couldn't read until he was seven.                                          │
+│ Él no sabía leer hasta los siete años.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Could you play any instrument when you were young?                            │
+│ ¿Sabías tocar algún instrumento cuando eras joven?                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+⚠️ NOTA IMPORTANTE:
+Para una acción específica que lograste hacer, usa WAS/WERE ABLE TO:
+
+❌ I could pass the exam.
+✓ I was able to pass the exam. (Lo logré en esa ocasión específica)
+✓ I could swim when I was young. (Habilidad general en el pasado)
+
+2. POLITE REQUESTS (Peticiones corteses):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Could you help me, please?                                                    │
+│ ¿Podrías ayudarme, por favor?                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Could you open the door?                                                      │
+│ ¿Podrías abrir la puerta?                                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Could you speak more slowly?                                                  │
+│ ¿Podrías hablar más despacio?                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Could I have a glass of water?                                                │
+│ ¿Podría tomar un vaso de agua?                                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+COULD es más cortés que CAN:
+→ Can you help me? (informal)
+→ Could you help me? (más cortés)
+
+3. POLITE PERMISSION (Permiso cortés):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Could I use your bathroom?                                                    │
+│ ¿Podría usar su baño?                                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Could I borrow your pen?                                                      │
+│ ¿Podría tomar prestado tu bolígrafo?                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Could I speak to the manager?                                                 │
+│ ¿Podría hablar con el gerente?                                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. POSSIBILITY (Posibilidad - menos segura que CAN):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ It could rain tomorrow.                                                       │
+│ Podría llover mañana. (es posible)                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She could be at home.                                                         │
+│ Podría estar en casa. (quizás)                                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The story could be true.                                                      │
+│ La historia podría ser verdad.                                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ That could be dangerous.                                                      │
+│ Eso podría ser peligroso.                                                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+5. SUGGESTIONS (Sugerencias):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ You could try restarting your computer.                                       │
+│ Podrías intentar reiniciar tu ordenador.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We could go to the cinema tonight.                                            │
+│ Podríamos ir al cine esta noche.                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You could ask your teacher for help.                                          │
+│ Podrías pedir ayuda a tu profesor.                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+6. CONDITIONAL (Condicional):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If I had more time, I could help you.                                         │
+│ Si tuviera más tiempo, podría ayudarte.                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I could travel the world if I won the lottery.                                │
+│ Podría viajar por el mundo si ganara la lotería.                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We could have dinner together if you're free.                                 │
+│ Podríamos cenar juntos si estás libre.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    COULD HAVE + PAST PARTICIPLE
+================================================================================
+
+Expresa posibilidad o habilidad en el pasado que NO ocurrió:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I could have helped you, but you didn't ask.                                  │
+│ Podría haberte ayudado, pero no pediste.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She could have won the race, but she fell.                                    │
+│ Ella podría haber ganado la carrera, pero se cayó.                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They could have arrived earlier.                                              │
+│ Podrían haber llegado antes.                                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You could have been hurt!                                                     │
+│ ¡Podrías haberte hecho daño!                                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+También para críticas (algo que deberías haber hecho):
+→ You could have told me! (¡Podrías habérmelo dicho!)
+→ He could have been more careful. (Podría haber sido más cuidadoso.)
+
+================================================================================
+                    CAN vs COULD vs BE ABLE TO
+================================================================================
+
+┌────────────────────┬───────────────────────────────────────────────────────────┐
+│ CAN                │ Present ability                                           │
+│                    │ I can swim. (Sé nadar - ahora)                             │
+├────────────────────┼───────────────────────────────────────────────────────────┤
+│ COULD              │ Past general ability                                      │
+│                    │ I could swim when I was 5. (Sabía nadar)                   │
+├────────────────────┼───────────────────────────────────────────────────────────┤
+│ WAS/WERE ABLE TO   │ Past specific achievement                                 │
+│                    │ I was able to escape. (Logré escapar)                      │
+├────────────────────┼───────────────────────────────────────────────────────────┤
+│ WILL BE ABLE TO    │ Future ability                                            │
+│                    │ I will be able to help tomorrow.                           │
+├────────────────────┼───────────────────────────────────────────────────────────┤
+│ HAVE BEEN ABLE TO  │ Present Perfect ability                                   │
+│                    │ I have been able to solve it.                              │
+└────────────────────┴───────────────────────────────────────────────────────────┘
+
+================================================================================
+                           COMMON MISTAKES (Errores comunes)
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  He cans swim.                         He can swim.
+  She can to speak French.              She can speak French.
+  I can swimming.                       I can swim.
+  Do you can help me?                   Can you help me?
+  I don't can drive.                    I can't drive.
+  I could to help you.                  I could help you.
+  Yesterday I could finish it.          Yesterday I was able to finish it.
+  (specific achievement)                (specific achievement)
+  Can you to open the door?             Can you open the door?
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                   CAN                                        │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ • Present ability:    I can swim.                                            │
+│ • General possibility: It can be cold here.                                  │
+│ • Permission (informal): Can I go?                                           │
+│ • Requests (informal): Can you help?                                         │
+│ • Offers: Can I help you?                                                    │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                  COULD                                       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ • Past ability:        I could swim when I was young.                        │
+│ • Polite requests:     Could you help me?                                    │
+│ • Polite permission:   Could I use your phone?                               │
+│ • Possibility (less certain): It could rain.                                 │
+│ • Suggestions:         You could try this.                                   │
+│ • Conditional:         I could help if...                                    │
+│ • Unreal past:         I could have helped (but didn't).                     │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

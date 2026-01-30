@@ -1,0 +1,169 @@
+================================================================================
+                     CONDITIONALS SUMMARY
+               (Resumen de Condicionales en Inglés)
+================================================================================
+
+================================================================================
+                    THE FOUR MAIN CONDITIONALS
+================================================================================
+
+┌──────────────┬───────────────────────────────┬───────────────────────────────┐
+│ CONDITIONAL  │ STRUCTURE                     │ USE                           │
+├──────────────┼───────────────────────────────┼───────────────────────────────┤
+│ ZERO         │ If + Present, Present         │ General truths, facts         │
+│              │ If you heat water, it boils.  │ 100% always true              │
+├──────────────┼───────────────────────────────┼───────────────────────────────┤
+│ FIRST        │ If + Present, will + verb     │ Real/possible future          │
+│              │ If it rains, I will stay.     │ Likely to happen              │
+├──────────────┼───────────────────────────────┼───────────────────────────────┤
+│ SECOND       │ If + Past, would + verb       │ Hypothetical present/future   │
+│              │ If I were rich, I would travel│ Unlikely/imaginary            │
+├──────────────┼───────────────────────────────┼───────────────────────────────┤
+│ THIRD        │ If + Past Perfect,            │ Unreal past                   │
+│              │ would have + PP               │ Imagining different past      │
+│              │ If I had studied, I would     │ Impossible (didn't happen)    │
+│              │ have passed.                  │                               │
+└──────────────┴───────────────────────────────┴───────────────────────────────┘
+
+================================================================================
+                    PROBABILITY SCALE
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ ZERO CONDITIONAL      →  100% certain (facts)                               │
+│ If you heat water, it boils.                                                │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ FIRST CONDITIONAL     →  Probable/Possible                                  │
+│ If it rains tomorrow, I will stay home.                                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ SECOND CONDITIONAL    →  Improbable/Hypothetical                            │
+│ If I won the lottery, I would buy a mansion.                                │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ THIRD CONDITIONAL     →  Impossible (past, didn't happen)                   │
+│ If I had studied, I would have passed.                                      │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    MIXED CONDITIONALS
+================================================================================
+
+TYPE 1: PAST CAUSE → PRESENT RESULT
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If + Past Perfect, would + verb                                               │
+│ If I had studied medicine, I would be a doctor now.                           │
+│ (Didn't study in past → Not a doctor now)                                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+TYPE 2: PRESENT CAUSE → PAST RESULT
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If + Past Simple, would have + PP                                             │
+│ If I were braver, I would have asked her out.                                 │
+│ (Not brave now → Didn't ask in the past)                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    OTHER CONDITIONAL EXPRESSIONS
+================================================================================
+
+┌────────────────────┬──────────────────────────────────────────────────────────┐
+│ UNLESS             │ = if not (a menos que)                                   │
+│                    │ Unless you study, you'll fail.                           │
+│                    │ = If you don't study, you'll fail.                       │
+├────────────────────┼──────────────────────────────────────────────────────────┤
+│ PROVIDED (THAT)    │ = only if (siempre que) [formal]                         │
+│ PROVIDING (THAT)   │ You can go provided you finish first.                    │
+├────────────────────┼──────────────────────────────────────────────────────────┤
+│ AS LONG AS         │ = for the whole time (mientras, siempre que)             │
+│ SO LONG AS         │ As long as you're happy, I'm happy.                      │
+├────────────────────┼──────────────────────────────────────────────────────────┤
+│ ON CONDITION THAT  │ = provided that [very formal]                            │
+│                    │ I'll help on condition that you pay me.                  │
+├────────────────────┼──────────────────────────────────────────────────────────┤
+│ IN CASE            │ = as a precaution (por si acaso)                         │
+│                    │ Take an umbrella in case it rains.                       │
+├────────────────────┼──────────────────────────────────────────────────────────┤
+│ EVEN IF            │ = despite the condition (aunque, incluso si)             │
+│                    │ Even if you apologize, I won't forgive.                  │
+├────────────────────┼──────────────────────────────────────────────────────────┤
+│ WHETHER...OR NOT   │ = regardless (tanto si...como si no)                     │
+│                    │ Whether you like it or not, you have to go.              │
+├────────────────────┼──────────────────────────────────────────────────────────┤
+│ ONLY IF            │ = exclusively if (solo si) [emphatic]                    │
+│                    │ I'll go only if you come with me.                        │
+├────────────────────┼──────────────────────────────────────────────────────────┤
+│ SUPPOSE / WHAT IF  │ = imagining (supongamos que, ¿y si...?)                  │
+│                    │ What if it rains? What will we do?                       │
+├────────────────────┼──────────────────────────────────────────────────────────┤
+│ OTHERWISE          │ = if not, or else (de lo contrario, si no)               │
+│                    │ Hurry up! Otherwise, we'll be late.                      │
+└────────────────────┴──────────────────────────────────────────────────────────┘
+
+================================================================================
+                    QUICK REFERENCE: STRUCTURES
+================================================================================
+
+ZERO:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If + PRESENT SIMPLE, PRESENT SIMPLE                                           │
+│ If you heat ice, it melts.                                                    │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+FIRST:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If + PRESENT SIMPLE, WILL + VERB                                              │
+│ If it rains, I will stay home.                                                │
+│ ⚠️ Never use WILL after IF                                                    │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+SECOND:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If + PAST SIMPLE, WOULD + VERB                                                │
+│ If I had money, I would buy a car.                                            │
+│ ⚠️ Use WERE (not was) with BE: If I were you...                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+THIRD:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If + PAST PERFECT, WOULD HAVE + PAST PARTICIPLE                               │
+│ If I had studied, I would have passed.                                        │
+│ ⚠️ Never use WOULD in the IF clause                                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    COMMON MISTAKES
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  If it will rain...                    If it rains... (1st)
+  If I would have money...              If I had money... (2nd)
+  If I would have known...              If I had known... (3rd)
+  If I was you... (formal)              If I were you...
+  Unless you don't come...              Unless you come...
+  I would passed if I had studied.      I would have passed if I had studied.
+
+================================================================================
+                    EXAMPLES BY SITUATION
+================================================================================
+
+GIVING ADVICE:
+→ If I were you, I would see a doctor. (2nd)
+→ You should see a doctor if you feel ill. (1st)
+
+MAKING PROMISES:
+→ If you help me, I will help you. (1st)
+→ I would never leave you if you needed me. (2nd)
+
+EXPRESSING REGRET:
+→ If I had known, I would have come. (3rd)
+→ If only I had listened to you! (3rd)
+
+WARNINGS:
+→ If you don't stop, I will call the police. (1st)
+→ Unless you stop, I will call the police. (1st)
+
+TALKING ABOUT DREAMS:
+→ If I won the lottery, I would travel the world. (2nd)
+→ If I could fly, I would visit every country. (2nd)
+
+================================================================================

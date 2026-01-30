@@ -1,0 +1,329 @@
+================================================================================
+                          MUST / HAVE TO
+                    (Deber / Tener que en Inglés)
+================================================================================
+
+MUST y HAVE TO expresan obligación y necesidad.
+También MUST se usa para deducciones lógicas.
+
+================================================================================
+                              MUST
+================================================================================
+
+STRUCTURE (Estructura):
+
+AFFIRMATIVE:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    MUST    +    VERB (base form)                              │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    must    go/study/work                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    MUST NOT / MUSTN'T    +    VERB                            │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    mustn't    smoke/touch/enter                    │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+⚠️ MUST solo existe en presente. Para otros tiempos, usamos HAVE TO.
+
+--------------------------------------------------------------------------------
+                       USES OF MUST (Usos de MUST)
+--------------------------------------------------------------------------------
+
+1. STRONG OBLIGATION (Obligación fuerte - impuesta por el hablante):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I must finish this report today.                                              │
+│ Debo terminar este informe hoy. (yo siento la obligación)                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You must study harder.                                                        │
+│ Debes estudiar más. (yo te lo digo)                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I must call my mother.                                                        │
+│ Debo llamar a mi madre. (siento que debo hacerlo)                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We must leave now or we'll be late.                                           │
+│ Debemos irnos ahora o llegaremos tarde.                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. RULES AND LAWS (Reglas y leyes):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Students must wear uniforms.                                                  │
+│ Los estudiantes deben usar uniforme.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Passengers must fasten their seatbelts.                                       │
+│ Los pasajeros deben abrocharse los cinturones.                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You must show your ID at the entrance.                                        │
+│ Debes mostrar tu identificación en la entrada.                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. PROHIBITION (Prohibición - MUST NOT):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ You mustn't smoke here.                                                       │
+│ No debes fumar aquí. (está prohibido)                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You mustn't touch that.                                                       │
+│ No debes tocar eso.                                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Students mustn't use phones in class.                                         │
+│ Los estudiantes no deben usar teléfonos en clase.                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You mustn't tell anyone.                                                      │
+│ No debes decírselo a nadie.                                                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. LOGICAL DEDUCTION / CERTAINTY (Deducción lógica - casi seguro):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She's not answering. She must be asleep.                                      │
+│ No contesta. Debe estar dormida. (estoy casi seguro)                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He's been working all day. He must be tired.                                  │
+│ Ha estado trabajando todo el día. Debe estar cansado.                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You must be John's brother. You look just like him!                           │
+│ Debes ser el hermano de John. ¡Te pareces mucho a él!                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ This must be the right place.                                                 │
+│ Este debe ser el lugar correcto.                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ It must be about 6 o'clock.                                                   │
+│ Deben ser como las 6.                                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+5. STRONG RECOMMENDATION (Recomendación fuerte):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ You must see that movie! It's amazing!                                        │
+│ ¡Debes ver esa película! ¡Es increíble!                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You must try this cake!                                                       │
+│ ¡Debes probar este pastel!                                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You must visit us sometime.                                                   │
+│ Debes visitarnos algún día.                                                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                              HAVE TO
+================================================================================
+
+STRUCTURE (Estructura):
+
+AFFIRMATIVE:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    HAVE/HAS TO    +    VERB (base form)                       │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/We/They    have to    work                                           │
+│  He/She/It        has to     work                                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    DON'T/DOESN'T HAVE TO    +    VERB                         │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/We/They    don't have to    work                                     │
+│  He/She/It        doesn't have to  work                                     │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+INTERROGATIVE:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  DO/DOES    +    SUBJECT    +    HAVE TO    +    VERB    +    ?             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Do         I/you/we/they         have to         work?                     │
+│  Does       he/she/it             have to         work?                     │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+HAVE TO EN OTROS TIEMPOS:
+
+PAST:        I had to work yesterday.
+FUTURE:      I will have to work tomorrow.
+PRESENT PERFECT: I have had to work a lot lately.
+
+--------------------------------------------------------------------------------
+                     USES OF HAVE TO (Usos de HAVE TO)
+--------------------------------------------------------------------------------
+
+1. EXTERNAL OBLIGATION (Obligación externa - reglas, circunstancias):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I have to wear a uniform at work.                                             │
+│ Tengo que usar uniforme en el trabajo. (es la regla)                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She has to work on Saturdays.                                                 │
+│ Ella tiene que trabajar los sábados. (su jefe lo requiere)                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We have to pay taxes.                                                         │
+│ Tenemos que pagar impuestos. (es la ley)                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Do you have to work tomorrow?                                                 │
+│ ¿Tienes que trabajar mañana?                                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. NO OBLIGATION (Sin obligación - DON'T HAVE TO):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ You don't have to come if you don't want to.                                  │
+│ No tienes que venir si no quieres. (es opcional)                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She doesn't have to work tomorrow. It's her day off.                          │
+│ Ella no tiene que trabajar mañana. Es su día libre.                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We don't have to wear suits.                                                  │
+│ No tenemos que usar traje. (no es necesario)                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You don't have to pay now. You can pay later.                                 │
+│ No tienes que pagar ahora. Puedes pagar después.                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. PAST OBLIGATION (Obligación pasada - HAD TO):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I had to work late yesterday.                                                 │
+│ Tuve que trabajar hasta tarde ayer.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She had to take a taxi because she missed the bus.                            │
+│ Tuvo que tomar un taxi porque perdió el autobús.                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We had to wait for two hours.                                                 │
+│ Tuvimos que esperar dos horas.                                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. FUTURE OBLIGATION (Obligación futura - WILL HAVE TO):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I will have to work this weekend.                                             │
+│ Tendré que trabajar este fin de semana.                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She will have to take an exam next month.                                     │
+│ Ella tendrá que hacer un examen el mes que viene.                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    ⚠️ MUST NOT vs DON'T HAVE TO ⚠️
+================================================================================
+
+¡CUIDADO! Estos tienen significados MUY DIFERENTES:
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ MUSTN'T (MUST NOT)                   │ DON'T HAVE TO                          │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ PROHIBITION (Prohibición)            │ NO OBLIGATION (No es necesario)        │
+│ Está prohibido, no puedes hacerlo    │ Puedes hacerlo, pero no es obligatorio │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ You mustn't smoke here.              │ You don't have to smoke.               │
+│ No debes fumar aquí. (prohibido)     │ No tienes que fumar. (es tu elección)  │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ You mustn't tell anyone.             │ You don't have to tell anyone.         │
+│ No debes decírselo a nadie.          │ No tienes que decírselo a nadie.       │
+│ (es un secreto, prohibido)           │ (si quieres puedes, pero no es         │
+│                                      │  necesario)                            │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ You mustn't park here.               │ You don't have to park here.           │
+│ No puedes aparcar aquí.              │ No tienes que aparcar aquí.            │
+│ (está prohibido)                     │ (puedes aparcar en otro sitio)         │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+================================================================================
+                    MUST vs HAVE TO - DIFFERENCES
+================================================================================
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ MUST                                 │ HAVE TO                                │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Internal obligation                  │ External obligation                    │
+│ (the speaker feels it)               │ (rules, laws, circumstances)           │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ I must stop smoking.                 │ I have to wear a uniform.              │
+│ (I feel I should)                    │ (it's the rule at work)                │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Only present tense                   │ All tenses                             │
+│ I must go.                           │ I had to go. / I will have to go.      │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ More formal                          │ Less formal                            │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Written rules, signs                 │ Spoken English                         │
+│ "Visitors must report to reception"  │ "You have to sign here"                │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+En la práctica, a menudo son intercambiables, especialmente en inglés americano.
+
+================================================================================
+                    MUST HAVE + PAST PARTICIPLE
+================================================================================
+
+Expresa deducción lógica sobre el PASADO (casi seguro que pasó):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She didn't answer. She must have been asleep.                                 │
+│ No contestó. Debe haber estado dormida.                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He's very tired. He must have worked all night.                               │
+│ Está muy cansado. Debe haber trabajado toda la noche.                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The streets are wet. It must have rained.                                     │
+│ Las calles están mojadas. Debe haber llovido.                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You must have seen him. He was right there!                                   │
+│ Debes haberlo visto. ¡Estaba justo ahí!                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE DEDUCTION (usa CAN'T HAVE, no MUSTN'T HAVE):
+
+→ She can't have forgotten. (No puede ser que haya olvidado.)
+→ He can't have said that. (No puede ser que haya dicho eso.)
+
+================================================================================
+                           COMMON MISTAKES (Errores comunes)
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  He musts go.                          He must go.
+  I must to study.                      I must study.
+  I must work yesterday.                I had to work yesterday.
+  She doesn't must work.                She doesn't have to work.
+  Do you must work?                     Do you have to work?
+  You don't must smoke.                 You mustn't smoke. (prohibition)
+  You don't have to smoke.              (= it's not necessary)
+  He must has finished.                 He must have finished.
+  I musted go.                          I had to go.
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                   MUST                                       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ • Strong obligation:    I must finish this today.                            │
+│ • Rules (formal):       Students must wear uniforms.                         │
+│ • Prohibition:          You mustn't smoke here.                              │
+│ • Logical deduction:    She must be tired. (I'm sure)                        │
+│ • Past deduction:       He must have forgotten.                              │
+│ • Recommendation:       You must try this!                                   │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                 HAVE TO                                      │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ • External obligation:  I have to wear a uniform.                            │
+│ • No obligation:        You don't have to come. (optional)                   │
+│ • Past:                 I had to work yesterday.                             │
+│ • Future:               I will have to study tomorrow.                       │
+│ • Questions:            Do you have to work on Saturdays?                    │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                          ⚠️ KEY DIFFERENCE ⚠️                                │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ MUSTN'T = prohibited (don't do it!)                                          │
+│ DON'T HAVE TO = not necessary (you can if you want)                          │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

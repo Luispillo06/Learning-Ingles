@@ -1,0 +1,299 @@
+================================================================================
+              COMPARATIVES AND SUPERLATIVES SUMMARY
+          (Resumen de Comparativos y Superlativos)
+================================================================================
+
+================================================================================
+                    FORMATION RULES
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ ADJECTIVE TYPE            │ COMPARATIVE         │ SUPERLATIVE               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 1 syllable                │ + ER                │ THE + EST                 │
+│ tall                      │ taller              │ the tallest               │
+│ fast                      │ faster              │ the fastest               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Ending in -E              │ + R                 │ THE + ST                  │
+│ nice                      │ nicer               │ the nicest                │
+│ large                     │ larger              │ the largest               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Consonant + Y             │ Y → IER             │ THE + Y → IEST            │
+│ happy                     │ happier             │ the happiest              │
+│ easy                      │ easier              │ the easiest               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ CVC pattern (short)       │ double + ER         │ THE + double + EST        │
+│ big                       │ bigger              │ the biggest               │
+│ hot                       │ hotter              │ the hottest               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 2+ syllables              │ MORE +              │ THE MOST +                │
+│ beautiful                 │ more beautiful      │ the most beautiful        │
+│ expensive                 │ more expensive      │ the most expensive        │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    IRREGULAR FORMS
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ ADJECTIVE       │ COMPARATIVE        │ SUPERLATIVE                         │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ good            │ better             │ the best                            │
+│ bad             │ worse              │ the worst                           │
+│ far             │ farther/further    │ the farthest/furthest               │
+│ little          │ less               │ the least                           │
+│ much/many       │ more               │ the most                            │
+│ old             │ older/elder        │ the oldest/eldest                   │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+FARTHER vs FURTHER:
+→ farther = physical distance (distancia física)
+→ further = additional, more (adicional, más)
+  "We need further information." (más información)
+
+OLDER vs ELDER:
+→ older = age in general (edad general)
+→ elder = family members only (solo familia)
+  "My elder brother" / "the eldest son"
+
+================================================================================
+                    STRUCTURES
+================================================================================
+
+COMPARATIVE (comparing 2):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ADJECTIVE + ER + THAN          │ She is taller than me.                      │
+│ MORE + ADJECTIVE + THAN        │ She is more beautiful than her sister.      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+SUPERLATIVE (comparing 3+):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ THE + ADJECTIVE + EST + IN/OF  │ She is the tallest in the class.            │
+│ THE MOST + ADJECTIVE + IN/OF   │ This is the most expensive of all.          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+EQUALITY (igual):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ AS + ADJECTIVE + AS            │ She is as tall as her mother.               │
+│ NOT AS + ADJECTIVE + AS        │ He isn't as fast as his brother.            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+INFERIORITY (menos):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ LESS + ADJECTIVE + THAN        │ This is less expensive than that one.       │
+│ THE LEAST + ADJECTIVE          │ This is the least expensive option.         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    COMPLETE ADJECTIVE LIST
+================================================================================
+
+SHORT ADJECTIVES (1 sílaba):
+
+┌──────────────┬────────────────┬────────────────────┬────────────────────────┐
+│ ADJECTIVE    │ COMPARATIVE    │ SUPERLATIVE        │ MEANING                │
+├──────────────┼────────────────┼────────────────────┼────────────────────────┤
+│ tall         │ taller         │ the tallest        │ alto                   │
+│ short        │ shorter        │ the shortest       │ bajo/corto             │
+│ long         │ longer         │ the longest        │ largo                  │
+│ fast         │ faster         │ the fastest        │ rápido                 │
+│ slow         │ slower         │ the slowest        │ lento                  │
+│ old          │ older          │ the oldest         │ viejo                  │
+│ young        │ younger        │ the youngest       │ joven                  │
+│ new          │ newer          │ the newest         │ nuevo                  │
+│ cheap        │ cheaper        │ the cheapest       │ barato                 │
+│ small        │ smaller        │ the smallest       │ pequeño                │
+│ clean        │ cleaner        │ the cleanest       │ limpio                 │
+│ warm         │ warmer         │ the warmest        │ cálido                 │
+│ cold         │ colder         │ the coldest        │ frío                   │
+│ cool         │ cooler         │ the coolest        │ fresco/guay            │
+│ dark         │ darker         │ the darkest        │ oscuro                 │
+│ light        │ lighter        │ the lightest       │ claro/ligero           │
+│ loud         │ louder         │ the loudest        │ ruidoso                │
+│ soft         │ softer         │ the softest        │ suave                  │
+│ hard         │ harder         │ the hardest        │ duro                   │
+│ weak         │ weaker         │ the weakest        │ débil                  │
+│ strong       │ stronger       │ the strongest      │ fuerte                 │
+│ rich         │ richer         │ the richest        │ rico                   │
+│ poor         │ poorer         │ the poorest        │ pobre                  │
+│ high         │ higher         │ the highest        │ alto                   │
+│ low          │ lower          │ the lowest         │ bajo                   │
+│ deep         │ deeper         │ the deepest        │ profundo               │
+│ thick        │ thicker        │ the thickest       │ grueso                 │
+│ thin         │ thinner        │ the thinnest       │ delgado/fino           │
+│ wide         │ wider          │ the widest         │ ancho                  │
+│ near         │ nearer         │ the nearest        │ cercano                │
+│ kind         │ kinder         │ the kindest        │ amable                 │
+│ mean         │ meaner         │ the meanest        │ malo/tacaño            │
+│ smart        │ smarter        │ the smartest       │ inteligente            │
+│ calm         │ calmer         │ the calmest        │ tranquilo              │
+│ sweet        │ sweeter        │ the sweetest       │ dulce                  │
+│ fresh        │ fresher        │ the freshest       │ fresco                 │
+│ bright       │ brighter       │ the brightest      │ brillante              │
+└──────────────┴────────────────┴────────────────────┴────────────────────────┘
+
+DOUBLE CONSONANT (CVC pattern):
+
+┌──────────────┬────────────────┬────────────────────┬────────────────────────┐
+│ ADJECTIVE    │ COMPARATIVE    │ SUPERLATIVE        │ MEANING                │
+├──────────────┼────────────────┼────────────────────┼────────────────────────┤
+│ big          │ bigger         │ the biggest        │ grande                 │
+│ hot          │ hotter         │ the hottest        │ caliente               │
+│ wet          │ wetter         │ the wettest        │ mojado                 │
+│ fat          │ fatter         │ the fattest        │ gordo                  │
+│ thin         │ thinner        │ the thinnest       │ delgado                │
+│ sad          │ sadder         │ the saddest        │ triste                 │
+│ fit          │ fitter         │ the fittest        │ en forma               │
+│ slim         │ slimmer        │ the slimmest       │ esbelto                │
+│ red          │ redder         │ the reddest        │ rojo                   │
+└──────────────┴────────────────┴────────────────────┴────────────────────────┘
+
+CONSONANT + Y:
+
+┌──────────────┬────────────────┬────────────────────┬────────────────────────┐
+│ ADJECTIVE    │ COMPARATIVE    │ SUPERLATIVE        │ MEANING                │
+├──────────────┼────────────────┼────────────────────┼────────────────────────┤
+│ happy        │ happier        │ the happiest       │ feliz                  │
+│ easy         │ easier         │ the easiest        │ fácil                  │
+│ busy         │ busier         │ the busiest        │ ocupado                │
+│ dirty        │ dirtier        │ the dirtiest       │ sucio                  │
+│ early        │ earlier        │ the earliest       │ temprano               │
+│ funny        │ funnier        │ the funniest       │ gracioso               │
+│ heavy        │ heavier        │ the heaviest       │ pesado                 │
+│ hungry       │ hungrier       │ the hungriest      │ hambriento             │
+│ lazy         │ lazier         │ the laziest        │ perezoso               │
+│ pretty       │ prettier       │ the prettiest      │ bonito                 │
+│ angry        │ angrier        │ the angriest       │ enfadado               │
+│ noisy        │ noisier        │ the noisiest       │ ruidoso                │
+│ tidy         │ tidier         │ the tidiest        │ ordenado               │
+│ ugly         │ uglier         │ the ugliest        │ feo                    │
+│ crazy        │ crazier        │ the craziest       │ loco                   │
+│ healthy      │ healthier      │ the healthiest     │ sano                   │
+│ wealthy      │ wealthier      │ the wealthiest     │ rico                   │
+│ lonely       │ lonelier       │ the loneliest      │ solitario              │
+│ friendly     │ friendlier     │ the friendliest    │ amigable               │
+│ lovely       │ lovelier       │ the loveliest      │ encantador             │
+│ lucky        │ luckier        │ the luckiest       │ afortunado             │
+│ scary        │ scarier        │ the scariest       │ aterrador              │
+│ spicy        │ spicier        │ the spiciest       │ picante                │
+└──────────────┴────────────────┴────────────────────┴────────────────────────┘
+
+LONG ADJECTIVES (MORE / THE MOST):
+
+┌───────────────────┬───────────────────────┬───────────────────────────────────┐
+│ ADJECTIVE         │ COMPARATIVE           │ SUPERLATIVE                       │
+├───────────────────┼───────────────────────┼───────────────────────────────────┤
+│ beautiful         │ more beautiful        │ the most beautiful                │
+│ expensive         │ more expensive        │ the most expensive                │
+│ interesting       │ more interesting      │ the most interesting              │
+│ important         │ more important        │ the most important                │
+│ difficult         │ more difficult        │ the most difficult                │
+│ comfortable       │ more comfortable      │ the most comfortable              │
+│ dangerous         │ more dangerous        │ the most dangerous                │
+│ intelligent       │ more intelligent      │ the most intelligent              │
+│ popular           │ more popular          │ the most popular                  │
+│ modern            │ more modern           │ the most modern                   │
+│ careful           │ more careful          │ the most careful                  │
+│ famous            │ more famous           │ the most famous                   │
+│ exciting          │ more exciting         │ the most exciting                 │
+│ boring            │ more boring           │ the most boring                   │
+│ relaxing          │ more relaxing         │ the most relaxing                 │
+│ patient           │ more patient          │ the most patient                  │
+│ generous          │ more generous         │ the most generous                 │
+│ delicious         │ more delicious        │ the most delicious                │
+│ crowded           │ more crowded          │ the most crowded                  │
+│ peaceful          │ more peaceful         │ the most peaceful                 │
+│ powerful          │ more powerful         │ the most powerful                 │
+│ successful        │ more successful       │ the most successful               │
+│ terrible          │ more terrible         │ the most terrible                 │
+│ horrible          │ more horrible         │ the most horrible                 │
+│ wonderful         │ more wonderful        │ the most wonderful                │
+│ polite            │ more polite           │ the most polite                   │
+│ handsome          │ more handsome         │ the most handsome                 │
+│ confident         │ more confident        │ the most confident                │
+│ nervous           │ more nervous          │ the most nervous                  │
+│ curious           │ more curious          │ the most curious                  │
+└───────────────────┴───────────────────────┴───────────────────────────────────┘
+
+================================================================================
+                    SPECIAL STRUCTURES
+================================================================================
+
+THE... THE... (Cuanto más... más...):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The more you practice, the better you get.                                    │
+│ Cuanto más practicas, mejor te vuelves.                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The harder you work, the more money you earn.                                 │
+│ Cuanto más trabajas, más dinero ganas.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The sooner, the better.                                                       │
+│ Cuanto antes, mejor.                                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+...ER AND ...ER / MORE AND MORE (Cada vez más):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ It's getting hotter and hotter.                                               │
+│ Cada vez hace más calor.                                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She's becoming more and more famous.                                          │
+│ Se está volviendo cada vez más famosa.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+ONE OF THE + SUPERLATIVE + PLURAL:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ He's one of the best players in the world.                                    │
+│ Es uno de los mejores jugadores del mundo.                                    │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+SUPERLATIVE + EVER + PRESENT PERFECT:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ This is the best movie I've ever seen.                                        │
+│ Esta es la mejor película que he visto en mi vida.                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    MODIFIERS (Modificadores)
+================================================================================
+
+INTENSIFIERS (para comparativos):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ much / a lot / far + comparative = mucho más                                  │
+│ She's much taller than me. | This is far more expensive.                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ a bit / a little / slightly + comparative = un poco más                       │
+│ He's a bit older than me. | It's slightly cheaper.                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ even + comparative = incluso más                                              │
+│ She's even more beautiful in person.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+INTENSIFIERS (para superlativos):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ by far + superlative = con diferencia                                         │
+│ He's by far the best player.                                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ easily + superlative = fácilmente                                             │
+│ This is easily the most difficult exam.                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    COMMON MISTAKES
+================================================================================
+
+❌ more taller / most tallest       ✓ taller / the tallest
+❌ more better / most best          ✓ better / the best
+❌ gooder / goodest                 ✓ better / the best
+❌ badder / baddest                 ✓ worse / the worst
+❌ more easy                        ✓ easier
+❌ beautifuler                      ✓ more beautiful
+❌ one of the best player           ✓ one of the best players
+❌ taller that me                   ✓ taller than me
+❌ the more expensive               ✓ the most expensive
+❌ more cheap                       ✓ cheaper
+
+================================================================================

@@ -1,0 +1,182 @@
+================================================================================
+                          THIRD CONDITIONAL
+                   (Tercer Condicional en Inglés)
+================================================================================
+
+El Third Conditional se usa para hablar de situaciones PASADAS que
+NO ocurrieron y sus consecuencias imaginarias. Es el "condicional
+del arrepentimiento".
+
+================================================================================
+                         STRUCTURE (Estructura)
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  IF    +    PAST PERFECT    ,    WOULD HAVE + PAST PARTICIPLE               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  If         I had studied,        I would have passed.                      │
+│  If         she had known,        she would have helped.                    │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+También puede invertirse:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  WOULD HAVE + PP    +    IF    +    PAST PERFECT                            │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I would have passed       if          I had studied.                       │
+│  She would have helped     if          she had known.                       │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+CONTRACTIONS (Contracciones):
+→ I would have = I'd have / I would've
+→ would not have = wouldn't have
+→ had = 'd
+
+→ If I'd studied, I'd have passed.
+→ If she'd known, she would've helped.
+
+================================================================================
+                         USES (Usos)
+================================================================================
+
+1. IMAGINING A DIFFERENT PAST (Imaginando un pasado diferente):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If I had studied harder, I would have passed the exam.                        │
+│ Si hubiera estudiado más, habría aprobado el examen.                          │
+│ (Reality: I didn't study hard, so I failed)                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If she had left earlier, she would have caught the train.                     │
+│ Si hubiera salido antes, habría cogido el tren.                               │
+│ (Reality: She left late and missed the train)                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If we had known about the problem, we would have fixed it.                    │
+│ Si hubiéramos sabido del problema, lo habríamos arreglado.                    │
+│ (Reality: We didn't know, so we didn't fix it)                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If they had invited me, I would have gone.                                    │
+│ Si me hubieran invitado, habría ido.                                          │
+│ (Reality: They didn't invite me, so I didn't go)                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. REGRETS (Arrepentimientos):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If I had listened to my parents, I would have made better decisions.          │
+│ Si hubiera escuchado a mis padres, habría tomado mejores decisiones.          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If I hadn't quit my job, I wouldn't have had financial problems.              │
+│ Si no hubiera dejado mi trabajo, no habría tenido problemas económicos.       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If we had saved more money, we could have bought a house.                     │
+│ Si hubiéramos ahorrado más, podríamos haber comprado una casa.                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. CRITICISM (Críticas):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If you had been more careful, you wouldn't have broken it.                    │
+│ Si hubieras tenido más cuidado, no lo habrías roto.                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If he had checked his work, he wouldn't have made so many mistakes.           │
+│ Si hubiera revisado su trabajo, no habría cometido tantos errores.            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If they had planned better, the project wouldn't have failed.                 │
+│ Si hubieran planificado mejor, el proyecto no habría fracasado.               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. GRATITUDE/RELIEF (Gratitud/Alivio):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If you hadn't helped me, I wouldn't have finished on time.                    │
+│ Si no me hubieras ayudado, no habría terminado a tiempo.                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If the doctor hadn't acted quickly, she might have died.                      │
+│ Si el médico no hubiera actuado rápido, ella podría haber muerto.             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If we hadn't left early, we would have been caught in the storm.              │
+│ Si no hubiéramos salido pronto, nos habría pillado la tormenta.               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    VARIATIONS (Variaciones)
+================================================================================
+
+En lugar de WOULD HAVE, podemos usar otros modales:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If + Past Perfect + COULD HAVE + PP                                           │
+│ If I had practiced more, I could have won.                                    │
+│ Si hubiera practicado más, podría haber ganado.                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If + Past Perfect + MIGHT HAVE + PP                                           │
+│ If she had seen the sign, she might have stopped.                             │
+│ Si hubiera visto la señal, quizás habría parado.                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If + Past Perfect + SHOULD HAVE + PP                                          │
+│ If you had asked, I should have told you.                                     │
+│ Si hubieras preguntado, te debería haber dicho.                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    COMPARING ALL CONDITIONALS
+================================================================================
+
+┌──────────────┬────────────────────────┬──────────────────────────────────────┐
+│ CONDITIONAL  │ TIME                   │ REALITY                              │
+├──────────────┼────────────────────────┼──────────────────────────────────────┤
+│ ZERO         │ General time           │ Always true                          │
+│ If you heat  │                        │ (fact)                               │
+│ water, it    │                        │                                      │
+│ boils.       │                        │                                      │
+├──────────────┼────────────────────────┼──────────────────────────────────────┤
+│ FIRST        │ Future                 │ Possible/Real                        │
+│ If it rains, │                        │ (might happen)                       │
+│ I will stay. │                        │                                      │
+├──────────────┼────────────────────────┼──────────────────────────────────────┤
+│ SECOND       │ Present/Future         │ Hypothetical/Unreal                  │
+│ If I were    │                        │ (imaginary, unlikely)                │
+│ rich, I      │                        │                                      │
+│ would travel.│                        │                                      │
+├──────────────┼────────────────────────┼──────────────────────────────────────┤
+│ THIRD        │ Past                   │ Impossible (didn't happen)           │
+│ If I had     │                        │ (imagining different past)           │
+│ studied, I   │                        │                                      │
+│ would have   │                        │                                      │
+│ passed.      │                        │                                      │
+└──────────────┴────────────────────────┴──────────────────────────────────────┘
+
+================================================================================
+                           COMMON MISTAKES
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  If I would have studied...            If I had studied...
+  If I had knew...                      If I had known...
+  I would passed if I had studied.      I would have passed if I had studied.
+  If I had studied, I would passed.     If I had studied, I would have passed.
+  If I would have known, I would help.  If I had known, I would have helped.
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                           THIRD CONDITIONAL                                  │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ STRUCTURE:  If + Past Perfect, would have + past participle                  │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ USE:        Imagining a different past - things that DIDN'T happen           │
+│             • Different outcomes                                             │
+│             • Regrets                                                        │
+│             • Criticism                                                      │
+│             • Gratitude                                                      │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ PROBABILITY: ZERO - it's impossible (the past can't change)                  │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ EXAMPLE:    If I had studied, I would have passed.                           │
+│             (but I didn't study, so I failed)                                │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

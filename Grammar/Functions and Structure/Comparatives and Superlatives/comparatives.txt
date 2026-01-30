@@ -1,0 +1,400 @@
+================================================================================
+                          COMPARATIVES
+                   (Comparativos en Inglés)
+================================================================================
+
+Los comparativos se usan para comparar DOS personas, cosas o situaciones.
+
+================================================================================
+                    FORMING COMPARATIVES
+================================================================================
+
+Hay diferentes reglas según el tipo de adjetivo:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 1. SHORT ADJECTIVES (1 syllable): + ER                                      │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ tall      →  taller         (más alto)                                      │
+│ old       →  older          (más viejo)                                     │
+│ young     →  younger        (más joven)                                     │
+│ fast      →  faster         (más rápido)                                    │
+│ slow      →  slower         (más lento)                                     │
+│ cheap     →  cheaper        (más barato)                                    │
+│ long      →  longer         (más largo)                                     │
+│ short     →  shorter        (más corto)                                     │
+│ small     →  smaller        (más pequeño)                                   │
+│ cold      →  colder         (más frío)                                      │
+│ warm      →  warmer         (más cálido)                                    │
+│ high      →  higher         (más alto)                                      │
+│ low       →  lower          (más bajo)                                      │
+│ rich      →  richer         (más rico)                                      │
+│ poor      →  poorer         (más pobre)                                     │
+│ dark      →  darker         (más oscuro)                                    │
+│ light     →  lighter        (más claro/ligero)                              │
+│ loud      →  louder         (más ruidoso)                                   │
+│ clean     →  cleaner        (más limpio)                                    │
+│ new       →  newer          (más nuevo)                                     │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 2. ADJECTIVES ENDING IN -E: + R                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ nice      →  nicer          (más agradable)                                 │
+│ large     →  larger         (más grande)                                    │
+│ wide      →  wider          (más ancho)                                     │
+│ safe      →  safer          (más seguro)                                    │
+│ late      →  later          (más tarde)                                     │
+│ close     →  closer         (más cercano)                                   │
+│ simple    →  simpler        (más simple)                                    │
+│ rude      →  ruder          (más maleducado)                                │
+│ strange   →  stranger       (más extraño)                                   │
+│ brave     →  braver         (más valiente)                                  │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 3. ADJECTIVES ENDING IN CONSONANT + Y: -Y → -IER                            │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ happy     →  happier        (más feliz)                                     │
+│ easy      →  easier         (más fácil)                                     │
+│ busy      →  busier         (más ocupado)                                   │
+│ dirty     →  dirtier        (más sucio)                                     │
+│ early     →  earlier        (más temprano)                                  │
+│ funny     →  funnier        (más gracioso)                                  │
+│ heavy     →  heavier        (más pesado)                                    │
+│ hungry    →  hungrier       (más hambriento)                                │
+│ lazy      →  lazier         (más perezoso)                                  │
+│ pretty    →  prettier       (más bonito)                                    │
+│ angry     →  angrier        (más enfadado)                                  │
+│ noisy     →  noisier        (más ruidoso)                                   │
+│ tidy      →  tidier         (más ordenado)                                  │
+│ ugly      →  uglier         (más feo)                                       │
+│ crazy     →  crazier        (más loco)                                      │
+│ healthy   →  healthier      (más saludable)                                 │
+│ wealthy   →  wealthier      (más adinerado)                                 │
+│ lonely    →  lonelier       (más solitario)                                 │
+│ friendly  →  friendlier     (más amable)                                    │
+│ lovely    →  lovelier       (más encantador)                                │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 4. SHORT ADJECTIVES: DOUBLE CONSONANT + ER                                  │
+│    (consonant + vowel + consonant)                                          │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ big       →  bigger         (más grande)                                    │
+│ hot       →  hotter         (más caliente)                                  │
+│ thin      →  thinner        (más delgado)                                   │
+│ fat       →  fatter         (más gordo)                                     │
+│ wet       →  wetter         (más mojado)                                    │
+│ sad       →  sadder         (más triste)                                    │
+│ fit       →  fitter         (en mejor forma)                                │
+│ slim      →  slimmer        (más delgado)                                   │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 5. LONG ADJECTIVES (2+ syllables): MORE + adjective                         │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ beautiful   →  more beautiful     (más bonito/a)                            │
+│ expensive   →  more expensive     (más caro)                                │
+│ interesting →  more interesting   (más interesante)                         │
+│ important   →  more important     (más importante)                          │
+│ difficult   →  more difficult     (más difícil)                             │
+│ comfortable →  more comfortable   (más cómodo)                              │
+│ dangerous   →  more dangerous     (más peligroso)                           │
+│ intelligent →  more intelligent   (más inteligente)                         │
+│ popular     →  more popular       (más popular)                             │
+│ modern      →  more modern        (más moderno)                             │
+│ careful     →  more careful       (más cuidadoso)                           │
+│ famous      →  more famous        (más famoso)                              │
+│ exciting    →  more exciting      (más emocionante)                         │
+│ boring      →  more boring        (más aburrido)                            │
+│ relaxing    →  more relaxing      (más relajante)                           │
+│ patient     →  more patient       (más paciente)                            │
+│ generous    →  more generous      (más generoso)                            │
+│ delicious   →  more delicious     (más delicioso)                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    IRREGULAR COMPARATIVES
+================================================================================
+
+Estos adjetivos tienen formas irregulares:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ ADJECTIVE           COMPARATIVE              TRANSLATION                    │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ good                better                   mejor                          │
+│ bad                 worse                    peor                           │
+│ far                 farther / further        más lejos                      │
+│ little              less                     menos                          │
+│ much / many         more                     más                            │
+│ old                 older / elder            mayor (elder = para familia)   │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ This book is better than that one.
+→ My results are worse than yours.
+→ London is farther/further than Paris.
+→ I have less money than you.
+→ She has more experience than me.
+→ My elder brother lives in Madrid. (familia)
+→ He's older than me. (edad general)
+
+================================================================================
+                    STRUCTURE (Estructura)
+================================================================================
+
+COMPARATIVE + THAN:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    BE    +    COMPARATIVE    +    THAN    +    OBJECT         │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  John            is         taller              than         me.            │
+│  This car        is         more expensive      than         that one.      │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLES:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She is taller than her sister.                                                │
+│ Ella es más alta que su hermana.                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ This exercise is easier than the last one.                                    │
+│ Este ejercicio es más fácil que el anterior.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ English is more difficult than Spanish for me.                                │
+│ El inglés es más difícil que el español para mí.                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ My car is faster than yours.                                                  │
+│ Mi coche es más rápido que el tuyo.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She's more intelligent than her brother.                                      │
+│ Ella es más inteligente que su hermano.                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Today is hotter than yesterday.                                               │
+│ Hoy hace más calor que ayer.                                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    COMPARATIVE WITH VERBS
+================================================================================
+
+Para comparar ACCIONES usamos MORE/LESS + adverbio/verbo:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She works harder than me.                                                     │
+│ Ella trabaja más duro que yo.                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He runs faster than his brother.                                              │
+│ Él corre más rápido que su hermano.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I eat more than you.                                                          │
+│ Yo como más que tú.                                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She speaks English more fluently than me.                                     │
+│ Ella habla inglés con más fluidez que yo.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He drives more carefully than his wife.                                       │
+│ Él conduce con más cuidado que su esposa.                                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    MODIFYING COMPARATIVES
+================================================================================
+
+Para INTENSIFICAR o SUAVIZAR comparaciones:
+
+MUCH / A LOT / FAR (mucho más):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She is much taller than me.                                                   │
+│ Ella es mucho más alta que yo.                                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ This is a lot more expensive than I expected.                                 │
+│ Esto es mucho más caro de lo que esperaba.                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He's far more intelligent than he looks.                                      │
+│ Es mucho más inteligente de lo que parece.                                    │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+A BIT / A LITTLE / SLIGHTLY (un poco más):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She's a bit older than me.                                                    │
+│ Ella es un poco mayor que yo.                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ This one is slightly cheaper.                                                 │
+│ Este es un poco más barato.                                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ It's a little more difficult than I thought.                                  │
+│ Es un poco más difícil de lo que pensaba.                                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+EVEN (incluso más):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She's even more beautiful in person.                                          │
+│ Es incluso más guapa en persona.                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ This test is even harder than the last one.                                   │
+│ Este examen es incluso más difícil que el anterior.                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    LESS... THAN (Menos... que)
+================================================================================
+
+Para expresar MENOR grado:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ This book is less interesting than the movie.                                 │
+│ Este libro es menos interesante que la película.                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He's less patient than his wife.                                              │
+│ Él es menos paciente que su esposa.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ This exam was less difficult than I expected.                                 │
+│ Este examen fue menos difícil de lo que esperaba.                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I'm less tired than yesterday.                                                │
+│ Estoy menos cansado que ayer.                                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    NOT AS... AS (No tan... como)
+================================================================================
+
+Otra forma de expresar MENOR grado (más común que "less"):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She isn't as tall as her brother.                                             │
+│ Ella no es tan alta como su hermano.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ This isn't as expensive as I thought.                                         │
+│ Esto no es tan caro como pensaba.                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He doesn't run as fast as me.                                                 │
+│ Él no corre tan rápido como yo.                                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The movie wasn't as good as the book.                                         │
+│ La película no fue tan buena como el libro.                                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+AS... AS (Tan... como - igualdad):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She's as tall as her mother.                                                  │
+│ Ella es tan alta como su madre.                                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ This test is as difficult as the last one.                                    │
+│ Este examen es tan difícil como el anterior.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He runs as fast as his brother.                                               │
+│ Él corre tan rápido como su hermano.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    THE... THE... (Cuanto más... más...)
+================================================================================
+
+Estructura para expresar cambios proporcionales:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The more you practice, the better you get.                                    │
+│ Cuanto más practicas, mejor te vuelves.                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The older I get, the wiser I become.                                          │
+│ Cuanto más mayor me hago, más sabio me vuelvo.                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The more expensive it is, the better quality it has.                          │
+│ Cuanto más caro es, mejor calidad tiene.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The sooner, the better.                                                       │
+│ Cuanto antes, mejor.                                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The harder you work, the more money you earn.                                 │
+│ Cuanto más trabajas, más dinero ganas.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The less you eat, the thinner you get.                                        │
+│ Cuanto menos comes, más delgado te pones.                                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    ...ER AND ...ER / MORE AND MORE
+================================================================================
+
+Para expresar cambio gradual:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ It's getting hotter and hotter.                                               │
+│ Cada vez hace más calor.                                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She's becoming more and more beautiful.                                       │
+│ Se está volviendo cada vez más guapa.                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Life is getting more and more expensive.                                      │
+│ La vida se está poniendo cada vez más cara.                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The children are getting bigger and bigger.                                   │
+│ Los niños están creciendo cada vez más.                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ English is becoming easier and easier.                                        │
+│ El inglés me resulta cada vez más fácil.                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    THAN ME vs THAN I
+================================================================================
+
+Ambas formas son correctas:
+
+INFORMAL: than me / than him / than her
+→ She's taller than me.
+
+FORMAL: than I (am) / than he (is) / than she (is)
+→ She's taller than I am.
+→ She's taller than I. (muy formal)
+
+================================================================================
+                           COMMON MISTAKES (Errores comunes)
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  She is more taller than me.           She is taller than me.
+  He is more big than his brother.      He is bigger than his brother.
+  This is more cheap.                   This is cheaper.
+  She is beautifuler.                   She is more beautiful.
+  This is gooder.                       This is better.
+  This is more better.                  This is better. / This is much better.
+  He is badder than me.                 He is worse than me.
+  She sings more good.                  She sings better.
+  He's taller that me.                  He's taller than me.
+  It's more easy.                       It's easier.
+  She is more happy.                    She is happier.
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                            COMPARATIVES                                      │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ SHORT ADJECTIVES:     adjective + -ER + than                                 │
+│                       tall → taller than                                     │
+│                       big → bigger than (double consonant)                   │
+│                       easy → easier than (y → ier)                           │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ LONG ADJECTIVES:      MORE + adjective + than                                │
+│                       more beautiful than                                    │
+│                       more interesting than                                  │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ IRREGULAR:            good → better | bad → worse | far → farther/further    │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ LESS:                 less + adjective + than                                │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ EQUALITY:             as + adjective + as                                    │
+│                       not as + adjective + as                                │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ INTENSIFIERS:         much/a lot/far + comparative (mucho más)               │
+│                       a bit/slightly + comparative (un poco más)             │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ PROGRESSIVE:          ...er and ...er / more and more + adj                  │
+│                       The more..., the more...                               │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

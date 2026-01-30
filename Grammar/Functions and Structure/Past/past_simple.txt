@@ -1,0 +1,354 @@
+================================================================================
+                              PAST SIMPLE
+                         (Pasado Simple en Inglés)
+================================================================================
+
+El Past Simple se usa para hablar de acciones COMPLETADAS en el pasado,
+en un momento específico.
+
+================================================================================
+                         STRUCTURE (Estructura)
+================================================================================
+
+AFFIRMATIVE (Afirmativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    VERB (past form)    +    COMPLEMENT                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    worked/went/saw    yesterday.                   │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I worked yesterday.
+→ She visited Paris last year.
+→ They went to the cinema.
+→ He played football on Saturday.
+
+NEGATIVE (Negativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    DID NOT (DIDN'T)    +    VERB (base form)                  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    didn't    work/go/see    yesterday.             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I didn't work yesterday.
+→ She didn't go to the party.
+→ They didn't see the movie.
+→ He didn't call me.
+
+INTERROGATIVE (Interrogativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  DID    +    SUBJECT    +    VERB (base form)    +    ?                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Did        I/you/he/she/it/we/they    work/go/see    yesterday?            │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ Did you work yesterday?
+→ Did she go to the party?
+→ Did they see the movie?
+→ Where did he go?
+
+SHORT ANSWERS (Respuestas cortas):
+
+→ Did you see him?         Yes, I did. / No, I didn't.
+→ Did she call?            Yes, she did. / No, she didn't.
+
+================================================================================
+                    REGULAR VERBS: SPELLING RULES
+                    (Verbos regulares: Reglas de ortografía)
+================================================================================
+
+GENERAL RULE: Add -ED
+    work → worked           play → played
+    clean → cleaned         watch → watched
+    open → opened           listen → listened
+
+VERBS ENDING IN -E: Add -D
+    live → lived            dance → danced
+    love → loved            arrive → arrived
+    like → liked            use → used
+
+VERBS ENDING IN CONSONANT + Y: Change Y to -IED
+    study → studied         try → tried
+    cry → cried             carry → carried
+    worry → worried         hurry → hurried
+
+VERBS ENDING IN VOWEL + Y: Add -ED
+    play → played           stay → stayed
+    enjoy → enjoyed         destroy → destroyed
+
+ONE SYLLABLE CVC: Double final consonant + -ED
+    stop → stopped          plan → planned
+    drop → dropped          shop → shopped
+    rob → robbed            beg → begged
+
+TWO SYLLABLES (stress on last): Double final consonant
+    prefer → preferred      admit → admitted
+    occur → occurred        refer → referred
+
+TWO SYLLABLES (stress NOT on last): Just add -ED
+    visit → visited         open → opened
+    listen → listened       happen → happened
+
+================================================================================
+                    IRREGULAR VERBS
+                    (Verbos irregulares)
+================================================================================
+
+Estos verbos NO siguen las reglas. Debes memorizarlos:
+
+┌─────────────────┬─────────────────┬─────────────────┬─────────────────────────┐
+│ INFINITIVE      │ PAST SIMPLE     │ PAST PARTICIPLE │ MEANING                 │
+├─────────────────┼─────────────────┼─────────────────┼─────────────────────────┤
+│ be              │ was/were        │ been            │ ser/estar               │
+│ become          │ became          │ become          │ convertirse             │
+│ begin           │ began           │ begun           │ empezar                 │
+│ break           │ broke           │ broken          │ romper                  │
+│ bring           │ brought         │ brought         │ traer                   │
+│ build           │ built           │ built           │ construir               │
+│ buy             │ bought          │ bought          │ comprar                 │
+│ catch           │ caught          │ caught          │ atrapar                 │
+│ choose          │ chose           │ chosen          │ elegir                  │
+│ come            │ came            │ come            │ venir                   │
+│ cost            │ cost            │ cost            │ costar                  │
+│ cut             │ cut             │ cut             │ cortar                  │
+│ do              │ did             │ done            │ hacer                   │
+│ draw            │ drew            │ drawn           │ dibujar                 │
+│ drink           │ drank           │ drunk           │ beber                   │
+│ drive           │ drove           │ driven          │ conducir                │
+│ eat             │ ate             │ eaten           │ comer                   │
+│ fall            │ fell            │ fallen          │ caer                    │
+│ feel            │ felt            │ felt            │ sentir                  │
+│ find            │ found           │ found           │ encontrar               │
+│ fly             │ flew            │ flown           │ volar                   │
+│ forget          │ forgot          │ forgotten       │ olvidar                 │
+│ get             │ got             │ got/gotten      │ obtener                 │
+│ give            │ gave            │ given           │ dar                     │
+│ go              │ went            │ gone            │ ir                      │
+│ grow            │ grew            │ grown           │ crecer                  │
+│ have            │ had             │ had             │ tener                   │
+│ hear            │ heard           │ heard           │ oír                     │
+│ hide            │ hid             │ hidden          │ esconder                │
+│ hit             │ hit             │ hit             │ golpear                 │
+│ hold            │ held            │ held            │ sostener                │
+│ hurt            │ hurt            │ hurt            │ herir                   │
+│ keep            │ kept            │ kept            │ mantener                │
+│ know            │ knew            │ known           │ saber/conocer           │
+│ leave           │ left            │ left            │ dejar/irse              │
+│ lend            │ lent            │ lent            │ prestar                 │
+│ let             │ let             │ let             │ dejar/permitir          │
+│ lie             │ lay             │ lain            │ yacer/tumbarse          │
+│ lose            │ lost            │ lost            │ perder                  │
+│ make            │ made            │ made            │ hacer                   │
+│ mean            │ meant           │ meant           │ significar              │
+│ meet            │ met             │ met             │ conocer/encontrar       │
+│ pay             │ paid            │ paid            │ pagar                   │
+│ put             │ put             │ put             │ poner                   │
+│ read            │ read            │ read            │ leer                    │
+│ ride            │ rode            │ ridden          │ montar                  │
+│ ring            │ rang            │ rung            │ sonar/llamar            │
+│ rise            │ rose            │ risen           │ subir/levantarse        │
+│ run             │ ran             │ run             │ correr                  │
+│ say             │ said            │ said            │ decir                   │
+│ see             │ saw             │ seen            │ ver                     │
+│ sell            │ sold            │ sold            │ vender                  │
+│ send            │ sent            │ sent            │ enviar                  │
+│ set             │ set             │ set             │ establecer              │
+│ shake           │ shook           │ shaken          │ agitar                  │
+│ shine           │ shone           │ shone           │ brillar                 │
+│ show            │ showed          │ shown           │ mostrar                 │
+│ shut            │ shut            │ shut            │ cerrar                  │
+│ sing            │ sang            │ sung            │ cantar                  │
+│ sit             │ sat             │ sat             │ sentarse                │
+│ sleep           │ slept           │ slept           │ dormir                  │
+│ speak           │ spoke           │ spoken          │ hablar                  │
+│ spend           │ spent           │ spent           │ gastar/pasar tiempo     │
+│ stand           │ stood           │ stood           │ estar de pie            │
+│ steal           │ stole           │ stolen          │ robar                   │
+│ swim            │ swam            │ swum            │ nadar                   │
+│ take            │ took            │ taken           │ tomar                   │
+│ teach           │ taught          │ taught          │ enseñar                 │
+│ tell            │ told            │ told            │ decir/contar            │
+│ think           │ thought         │ thought         │ pensar                  │
+│ throw           │ threw           │ thrown          │ lanzar                  │
+│ understand      │ understood      │ understood      │ entender                │
+│ wake            │ woke            │ woken           │ despertar               │
+│ wear            │ wore            │ worn            │ llevar puesto           │
+│ win             │ won             │ won             │ ganar                   │
+│ write           │ wrote           │ written         │ escribir                │
+└─────────────────┴─────────────────┴─────────────────┴─────────────────────────┘
+
+================================================================================
+                    THE VERB "TO BE" IN PAST
+                    (El verbo "ser/estar" en pasado)
+================================================================================
+
+AFFIRMATIVE:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  I/He/She/It         was         happy/tired/at home                        │
+│  You/We/They         were        happy/tired/at home                        │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I was tired yesterday.
+→ She was at school.
+→ They were happy.
+→ We were friends.
+
+NEGATIVE:
+→ I wasn't (was not) at home.
+→ She wasn't happy.
+→ They weren't (were not) ready.
+→ We weren't there.
+
+INTERROGATIVE:
+→ Was I late?
+→ Was she at the party?
+→ Were they happy?
+→ Where were you?
+
+================================================================================
+                         USES (Usos)
+================================================================================
+
+1. COMPLETED ACTIONS IN THE PAST (Acciones completadas):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I visited my grandmother last week.                                           │
+│ Visité a mi abuela la semana pasada.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She bought a new car yesterday.                                               │
+│ Ella compró un carro nuevo ayer.                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They moved to London in 2015.                                                 │
+│ Ellos se mudaron a Londres en 2015.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We finished the project on Friday.                                            │
+│ Terminamos el proyecto el viernes.                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. SERIES OF COMPLETED ACTIONS (Serie de acciones):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I woke up, had breakfast, and went to work.                                   │
+│ Me desperté, desayuné y fui al trabajo.                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She opened the door, walked in, and sat down.                                 │
+│ Ella abrió la puerta, entró y se sentó.                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ First, we arrived. Then, we checked in. Finally, we relaxed.                  │
+│ Primero llegamos. Luego, hicimos check-in. Finalmente, nos relajamos.         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. PAST HABITS (Hábitos pasados) - also see USED TO:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ When I was a child, I played in the park every day.                           │
+│ Cuando era niño, jugaba en el parque todos los días.                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She always walked to school when she was young.                               │
+│ Ella siempre caminaba a la escuela cuando era joven.                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. PAST STATES OR SITUATIONS (Estados pasados):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I lived in Paris for five years. (I don't live there now)                     │
+│ Viví en París durante cinco años. (Ya no vivo allí)                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She was a doctor before she retired.                                          │
+│ Ella era doctora antes de jubilarse.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They owned a restaurant in the 90s.                                           │
+│ Ellos tenían un restaurante en los 90.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    TIME EXPRESSIONS (Expresiones de tiempo)
+================================================================================
+
+YESTERDAY:
+    yesterday                       → ayer
+    yesterday morning/afternoon     → ayer por la mañana/tarde
+    the day before yesterday        → anteayer
+
+LAST:
+    last night                      → anoche
+    last week/month/year            → la semana/mes/año pasado
+    last Monday/Tuesday...          → el lunes/martes pasado
+    last summer/winter              → el verano/invierno pasado
+
+AGO:
+    two days ago                    → hace dos días
+    a week ago                      → hace una semana
+    three months ago                → hace tres meses
+    a long time ago                 → hace mucho tiempo
+
+IN + YEAR:
+    in 2015                         → en 2015
+    in the 1990s                    → en los años 90
+
+OTHER:
+    when I was young                → cuando era joven
+    when I was a child              → cuando era niño
+    at 5 o'clock                    → a las 5
+    on Monday                       → el lunes
+    this morning (if past)          → esta mañana
+    the other day                   → el otro día
+
+================================================================================
+                    PAST SIMPLE vs PRESENT PERFECT
+================================================================================
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ PAST SIMPLE                          │ PRESENT PERFECT                        │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Specific time in the past            │ No specific time                       │
+│ I saw him yesterday.                 │ I have seen him.                       │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Finished time period                 │ Unfinished time period                 │
+│ I ate breakfast this morning.        │ I have eaten breakfast today.          │
+│ (morning is over)                    │ (day is not over)                      │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Completed situation                  │ Situation continues                    │
+│ I lived in London for 5 years.       │ I have lived here for 5 years.         │
+│ (I don't live there now)             │ (I still live here)                    │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ yesterday, ago, last, in 2015        │ ever, never, just, already, yet        │
+│ when, at 5 o'clock                   │ for, since, today, this week           │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+================================================================================
+                           COMMON MISTAKES (Errores comunes)
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  I goed to the store.                  I went to the store.
+  She didn't went home.                 She didn't go home.
+  Did you went there?                   Did you go there?
+  I did saw him.                        I saw him.
+  He buyed a car.                       He bought a car.
+  I was see him yesterday.              I saw him yesterday.
+  She didn't was happy.                 She wasn't happy.
+  Did she was there?                    Was she there?
+  I have seen him yesterday.            I saw him yesterday.
+  They didn't came.                     They didn't come.
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+  AFFIRMATIVE         NEGATIVE              INTERROGATIVE
+  ─────────────────────────────────────────────────────────────────────────
+  I worked            I didn't work         Did I work?
+  You played          You didn't play       Did you play?
+  He/She/It went      He/She/It didn't go   Did he/she/it go?
+  We saw              We didn't see         Did we see?
+  They came           They didn't come      Did they come?
+
+  TO BE:
+  I/He/She/It was     I/He/She/It wasn't    Was I/he/she/it?
+  You/We/They were    You/We/They weren't   Were you/we/they?
+
+================================================================================

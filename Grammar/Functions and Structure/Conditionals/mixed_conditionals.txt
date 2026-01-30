@@ -1,0 +1,115 @@
+================================================================================
+                          MIXED CONDITIONALS
+                   (Condicionales Mixtos en Inglés)
+================================================================================
+
+Los Mixed Conditionals combinan elementos de diferentes condicionales
+para expresar situaciones más complejas.
+
+================================================================================
+                    TYPE 1: PAST CAUSE → PRESENT RESULT
+================================================================================
+
+Cuando una acción PASADA tiene consecuencias en el PRESENTE:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  IF    +    PAST PERFECT    ,    WOULD + VERB (base form)                   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  (3rd conditional clause)         (2nd conditional clause)                  │
+│  If         I had studied,        I would be a doctor (now).                │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLES:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If I had studied medicine, I would be a doctor now.                           │
+│ Si hubiera estudiado medicina, ahora sería médico.                            │
+│ (Past action → Present result)                                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If she hadn't eaten so much, she wouldn't feel sick now.                      │
+│ Si no hubiera comido tanto, no se sentiría mal ahora.                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If we had left earlier, we wouldn't be stuck in traffic.                      │
+│ Si hubiéramos salido antes, no estaríamos atrapados en el tráfico.            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If I had saved money, I would have enough to buy a car.                       │
+│ Si hubiera ahorrado dinero, tendría suficiente para comprar un coche.         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If he hadn't broken his leg, he would be playing football today.              │
+│ Si no se hubiera roto la pierna, hoy estaría jugando al fútbol.               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    TYPE 2: PRESENT CAUSE → PAST RESULT
+================================================================================
+
+Cuando una situación PRESENTE habría cambiado el PASADO:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  IF    +    PAST SIMPLE    ,    WOULD HAVE + PAST PARTICIPLE                │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  (2nd conditional clause)         (3rd conditional clause)                  │
+│  If         I were taller,        I would have played basketball.           │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLES:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If I were taller, I would have played basketball in school.                   │
+│ Si fuera más alto, habría jugado al baloncesto en el colegio.                 │
+│ (Present condition → Past result)                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If I spoke French, I would have gotten that job.                              │
+│ Si hablara francés, habría conseguido ese trabajo.                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If she weren't so shy, she would have asked him out.                          │
+│ Si no fuera tan tímida, le habría invitado a salir.                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If he were more responsible, he wouldn't have lost his job.                   │
+│ Si fuera más responsable, no habría perdido su trabajo.                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If I weren't afraid of flying, I would have traveled more.                    │
+│ Si no tuviera miedo a volar, habría viajado más.                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    COMPARISON
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                         MIXED CONDITIONAL TYPE 1                             │
+│ If + Past Perfect , would + verb (base)                                      │
+│                                                                              │
+│ PAST CAUSE → PRESENT RESULT                                                  │
+│                                                                              │
+│ If I had studied, I would be a doctor NOW.                                   │
+│ (didn't study in the past → not a doctor now)                                │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                         MIXED CONDITIONAL TYPE 2                             │
+│ If + Past Simple , would have + past participle                              │
+│                                                                              │
+│ PRESENT CAUSE → PAST RESULT                                                  │
+│                                                                              │
+│ If I were braver, I would have spoken to her YESTERDAY.                      │
+│ (not brave now → didn't speak to her then)                                   │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                          MIXED CONDITIONALS                                  │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ TYPE 1: Past → Present                                                       │
+│ If + Past Perfect, would + verb                                              │
+│ "If I had studied, I would be a doctor (now)."                               │
+│ (Past action affects present)                                                │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ TYPE 2: Present → Past                                                       │
+│ If + Past Simple, would have + past participle                               │
+│ "If I were taller, I would have played basketball (then)."                   │
+│ (Present condition would have changed past)                                  │
+└──────────────────────────────────────────────────────────────────────────────┘

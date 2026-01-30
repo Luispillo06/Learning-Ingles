@@ -1,0 +1,320 @@
+================================================================================
+                              USED TO
+                         (Solía / Acostumbraba)
+================================================================================
+
+"USED TO" se utiliza para hablar de HÁBITOS, ESTADOS o SITUACIONES del 
+PASADO que ya NO son verdad en el presente.
+
+================================================================================
+                         STRUCTURE (Estructura)
+================================================================================
+
+AFFIRMATIVE (Afirmativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    USED TO    +    VERB (base form)    +    COMPLEMENT        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    used to    work/play/live                       │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I used to play football when I was young.
+→ She used to live in Paris.
+→ They used to go to the beach every summer.
+→ He used to smoke, but he quit.
+
+NEGATIVE (Negativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    DIDN'T USE TO    +    VERB (base form)                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    didn't use to    work/play/like                 │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I didn't use to like vegetables when I was a child.
+→ She didn't use to exercise, but now she does.
+→ They didn't use to travel much.
+→ He didn't use to drink coffee.
+
+NOTA: También se puede usar "never used to":
+→ I never used to like vegetables.
+
+INTERROGATIVE (Interrogativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  DID    +    SUBJECT    +    USE TO    +    VERB (base form)    +    ?      │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Did        I/you/he/she/it/we/they    use to    work/play/live?            │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ Did you use to play sports when you were young?
+→ Did she use to live here?
+→ Where did they use to go on vacation?
+→ What did you use to do in your free time?
+
+SHORT ANSWERS (Respuestas cortas):
+
+→ Did you use to smoke?    Yes, I did. / No, I didn't.
+→ Did she use to work here? Yes, she did. / No, she didn't.
+
+================================================================================
+                         USES (Usos)
+================================================================================
+
+1. PAST HABITS (Hábitos pasados que ya no existen):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I used to walk to school every day.                                           │
+│ Solía caminar a la escuela todos los días. (Ya no lo hago)                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She used to drink coffee in the morning.                                      │
+│ Ella solía tomar café por la mañana. (Ya no lo hace)                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We used to play together as children.                                         │
+│ Solíamos jugar juntos de niños.                                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They used to visit us every Sunday.                                           │
+│ Solían visitarnos cada domingo.                                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. PAST STATES (Estados pasados que ya no existen):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I used to be shy, but now I'm more confident.                                 │
+│ Solía ser tímido, pero ahora soy más seguro.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She used to have long hair.                                                   │
+│ Ella solía tener el pelo largo.                                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ This building used to be a hospital.                                          │
+│ Este edificio solía ser un hospital.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ There used to be a cinema here.                                               │
+│ Solía haber un cine aquí.                                                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. PAST SITUATIONS (Situaciones pasadas):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I used to live in London, but now I live in Madrid.                           │
+│ Solía vivir en Londres, pero ahora vivo en Madrid.                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She used to work for a bank.                                                  │
+│ Ella solía trabajar para un banco.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We used to live near the beach.                                               │
+│ Solíamos vivir cerca de la playa.                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ People didn't use to have smartphones.                                        │
+│ La gente no solía tener smartphones.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. CONTRASTS WITH THE PRESENT (Contrastes con el presente):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I used to hate vegetables, but now I love them.                               │
+│ Solía odiar las verduras, pero ahora me encantan.                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She used to be very thin, but she's gained weight.                            │
+│ Ella solía ser muy delgada, pero ha ganado peso.                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He didn't use to like reading, but now he reads a lot.                        │
+│ A él no le gustaba leer, pero ahora lee mucho.                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I never used to exercise, but now I go to the gym daily.                      │
+│ Nunca solía hacer ejercicio, pero ahora voy al gimnasio a diario.             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    USED TO vs WOULD
+================================================================================
+
+WOULD también puede expresar hábitos pasados, pero SOLO acciones, NO estados:
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ USED TO                              │ WOULD                                  │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Habits AND states                    │ ONLY habits (repeated actions)        │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ I used to live in Paris.             │ ❌ I would live in Paris.              │
+│ (state - only USED TO)               │ (states don't use WOULD)               │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ I used to play football.             │ ✓ I would play football.               │
+│ (habit - both work)                  │ (habit - both work)                    │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ She used to be tall.                 │ ❌ She would be tall.                   │
+│ (state - only USED TO)               │ (states don't use WOULD)               │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ She used to visit us every week.     │ ✓ She would visit us every week.       │
+│ (habit - both work)                  │ (habit - both work)                    │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+WOULD for past habits (needs context):
+→ When I was young, I would play in the park every day.
+→ Every summer, we would go to the beach.
+→ My grandmother would tell us stories before bed.
+
+STATIVE VERBS (can ONLY use USED TO):
+be, have, know, like, love, hate, believe, understand, belong, want, need
+
+❌ I would be shy.          ✓ I used to be shy.
+❌ She would have long hair. ✓ She used to have long hair.
+❌ We would know him well.   ✓ We used to know him well.
+
+================================================================================
+                    USED TO vs PAST SIMPLE
+================================================================================
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ USED TO                              │ PAST SIMPLE                            │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Repeated/habitual actions            │ Single completed action                │
+│ I used to play every day.            │ I played yesterday.                    │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Emphasizes CHANGE (no longer true)   │ Just states a past fact                │
+│ I used to smoke.                     │ I smoked for 10 years.                 │
+│ (implies I don't smoke now)          │ (no implication about now)             │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ No specific time                     │ Can have specific time                 │
+│ I used to live there.                │ I lived there in 2015.                 │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+BOTH can describe past habits with time expressions:
+→ I used to walk to school when I was a child.
+→ When I was a child, I walked to school. (Past Simple also works)
+
+================================================================================
+                    BE USED TO vs GET USED TO
+================================================================================
+
+¡CUIDADO! "BE USED TO" y "GET USED TO" son DIFERENTES de "USED TO":
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                           USED TO + VERB (base form)                         │
+│                           Past habit/state (PASADO)                          │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ I used to smoke.                                                             │
+│ Solía fumar. (pasado, ya no fumo)                                            │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                     BE USED TO + NOUN / VERB-ING                             │
+│                     Be accustomed to (ESTAR ACOSTUMBRADO)                    │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ I am used to getting up early.                                               │
+│ Estoy acostumbrado a levantarme temprano.                                    │
+│                                                                              │
+│ She is used to the cold weather.                                             │
+│ Ella está acostumbrada al clima frío.                                        │
+│                                                                              │
+│ They are used to working hard.                                               │
+│ Ellos están acostumbrados a trabajar duro.                                   │
+│                                                                              │
+│ I'm not used to this schedule.                                               │
+│ No estoy acostumbrado a este horario.                                        │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                    GET USED TO + NOUN / VERB-ING                             │
+│                    Become accustomed to (ACOSTUMBRARSE)                      │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ I am getting used to my new job.                                             │
+│ Me estoy acostumbrando a mi nuevo trabajo.                                   │
+│                                                                              │
+│ She got used to living alone.                                                │
+│ Ella se acostumbró a vivir sola.                                             │
+│                                                                              │
+│ You will get used to it.                                                     │
+│ Te acostumbrarás.                                                            │
+│                                                                              │
+│ I can't get used to this weather.                                            │
+│ No puedo acostumbrarme a este clima.                                         │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+SUMMARY:
+
+| STRUCTURE              | MEANING                     | EXAMPLE                    |
+|------------------------|-----------------------------|----------------------------|
+| USED TO + verb         | Past habit (solía)          | I used to smoke.           |
+| BE USED TO + noun/ing  | Be accustomed (acostumbrado)| I'm used to smoking.       |
+| GET USED TO + noun/ing | Become accustomed           | I got used to it.          |
+
+================================================================================
+                           COMMON MISTAKES (Errores comunes)
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  I use to play football.               I used to play football.
+  I used to playing football.           I used to play football.
+  Did you used to live here?            Did you use to live here?
+  I didn't used to like it.             I didn't use to like it.
+  I am used to play football.           I am used to playing football.
+  I'm used to get up early.             I'm used to getting up early.
+  She use to be my friend.              She used to be my friend.
+  I used to lived there.                I used to live there.
+  He would be tall. (state)             He used to be tall.
+  I'm getting used to work here.        I'm getting used to working here.
+
+================================================================================
+                           PRONUNCIATION
+================================================================================
+
+USED TO se pronuncia /ˈjuːst tə/ (la D no se pronuncia claramente)
+
+"I used to play" suena como "I use-to play"
+
+USE TO (en negativas e interrogativas) también suena /ˈjuːs tə/
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+  USED TO + BASE VERB = Past habit or state (no longer true)
+
+  AFFIRMATIVE:    I used to play football.
+  NEGATIVE:       I didn't use to like vegetables.
+  INTERROGATIVE:  Did you use to live here?
+
+  ─────────────────────────────────────────────────────────────────────────
+
+  RELATED STRUCTURES:
+
+  BE USED TO + NOUN/ING     = Be accustomed to (estar acostumbrado)
+  → I'm used to getting up early.
+
+  GET USED TO + NOUN/ING    = Become accustomed to (acostumbrarse)
+  → I'm getting used to my new job.
+
+================================================================================
+                           ALL PAST TENSES SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                               PAST SIMPLE                                    │
+│ I worked / She went                                                          │
+│ → Completed actions at a specific time in the past                           │
+│ → yesterday, ago, last week, in 2015                                         │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                             PAST CONTINUOUS                                  │
+│ I was working / She was going                                                │
+│ → Actions in progress at a specific past moment, background description      │
+│ → at 8 o'clock, when, while                                                  │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                              PAST PERFECT                                    │
+│ I had worked / She had gone                                                  │
+│ → Actions completed BEFORE another past action                               │
+│ → before, after, when, by the time, already                                  │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                        PAST PERFECT CONTINUOUS                               │
+│ I had been working / She had been going                                      │
+│ → Duration of activity BEFORE another past action                            │
+│ → for, since, how long                                                       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                USED TO                                       │
+│ I used to work / She used to go                                              │
+│ → Past habits and states that are no longer true                             │
+│ → when I was young, in the past                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

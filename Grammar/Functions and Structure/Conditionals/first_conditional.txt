@@ -1,0 +1,209 @@
+================================================================================
+                          FIRST CONDITIONAL
+                   (Primer Condicional en Inglés)
+================================================================================
+
+El First Conditional se usa para hablar de situaciones REALES o POSIBLES
+en el futuro y sus probables consecuencias.
+
+================================================================================
+                         STRUCTURE (Estructura)
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  IF    +    PRESENT SIMPLE    ,    WILL + VERB                              │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  If         it rains,              I will stay home.                        │
+│  If         you study,             you will pass.                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+También puede invertirse:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  WILL + VERB    +    IF    +    PRESENT SIMPLE                              │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I will stay home      if          it rains.                                │
+│  You will pass         if          you study.                               │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+⚠️ NOTA: Nunca usamos WILL en la cláusula con IF.
+   ❌ If it will rain...
+   ✓ If it rains...
+
+================================================================================
+                         USES (Usos)
+================================================================================
+
+1. REAL/POSSIBLE FUTURE SITUATIONS (Situaciones posibles):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If it rains tomorrow, I will stay home.                                       │
+│ Si llueve mañana, me quedaré en casa.                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If you study hard, you will pass the exam.                                    │
+│ Si estudias mucho, aprobarás el examen.                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If she doesn't hurry, she will miss the train.                                │
+│ Si no se da prisa, perderá el tren.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If we leave now, we will arrive on time.                                      │
+│ Si salimos ahora, llegaremos a tiempo.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If they don't call, I will be worried.                                        │
+│ Si no llaman, estaré preocupado.                                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. WARNINGS (Advertencias):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If you don't wear a coat, you will get cold.                                  │
+│ Si no llevas abrigo, cogerás frío.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If you touch that, you will burn yourself.                                    │
+│ Si tocas eso, te quemarás.                                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If you eat too much, you will feel sick.                                      │
+│ Si comes demasiado, te sentirás mal.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. PROMISES (Promesas):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If you help me, I will buy you dinner.                                        │
+│ Si me ayudas, te invito a cenar.                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If you finish your homework, I will let you play.                             │
+│ Si terminas los deberes, te dejaré jugar.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If you come with me, I won't be alone.                                        │
+│ Si vienes conmigo, no estaré solo.                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. THREATS (Amenazas):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If you don't stop, I will call the police.                                    │
+│ Si no paras, llamaré a la policía.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If you do that again, I will tell mom.                                        │
+│ Si haces eso otra vez, se lo diré a mamá.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If you're late again, you will lose your job.                                 │
+│ Si llegas tarde otra vez, perderás el trabajo.                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+5. OFFERS (Ofrecimientos):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If you need help, I will come.                                                │
+│ Si necesitas ayuda, vendré.                                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If you want, I will drive you home.                                           │
+│ Si quieres, te llevo a casa.                                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    VARIATIONS (Variaciones)
+================================================================================
+
+En lugar de WILL, podemos usar otros modales:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If + Present Simple + CAN                                                     │
+│ If you finish early, you can leave.                                           │
+│ Si terminas pronto, puedes irte.                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If + Present Simple + MAY/MIGHT                                               │
+│ If it's sunny, we might go to the beach.                                      │
+│ Si hace sol, puede que vayamos a la playa.                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If + Present Simple + SHOULD                                                  │
+│ If you're tired, you should rest.                                             │
+│ Si estás cansado, deberías descansar.                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If + Present Simple + MUST                                                    │
+│ If you want to pass, you must study.                                          │
+│ Si quieres aprobar, debes estudiar.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If + Present Simple + IMPERATIVE                                              │
+│ If you see John, tell him to call me.                                         │
+│ Si ves a John, dile que me llame.                                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    NEGATIVE FORMS
+================================================================================
+
+NEGATIVE IF CLAUSE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If you don't hurry, you will be late.                                         │
+│ Si no te das prisa, llegarás tarde.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If she doesn't study, she won't pass.                                         │
+│ Si no estudia, no aprobará.                                                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE RESULT CLAUSE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If you go out, I won't come with you.                                         │
+│ Si sales, no iré contigo.                                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If it rains, we won't have a picnic.                                          │
+│ Si llueve, no haremos picnic.                                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+BOTH NEGATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If you don't come, I won't go.                                                │
+│ Si no vienes, no iré.                                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    QUESTION FORM
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ What will you do if it rains?                                                 │
+│ ¿Qué harás si llueve?                                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Will you come if I invite you?                                                │
+│ ¿Vendrás si te invito?                                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If I call you, will you answer?                                               │
+│ Si te llamo, ¿contestarás?                                                    │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                           COMMON MISTAKES
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  If it will rain, I will stay.         If it rains, I will stay.
+  If you will study, you pass.          If you study, you will pass.
+  If she don't come, I leave.           If she doesn't come, I will leave.
+  If I will see him, I tell him.        If I see him, I will tell him.
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                          FIRST CONDITIONAL                                   │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ STRUCTURE:  If + Present Simple, will + verb                                 │
+│             (Never use WILL after IF!)                                       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ USE:        Real/possible future situations                                  │
+│             • Predictions                                                    │
+│             • Warnings                                                       │
+│             • Promises                                                       │
+│             • Threats                                                        │
+│             • Offers                                                         │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ PROBABILITY: HIGH - we believe it's likely to happen                         │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ EXAMPLE:    If it rains, I will stay home.                                   │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

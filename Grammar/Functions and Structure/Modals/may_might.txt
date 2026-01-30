@@ -1,0 +1,301 @@
+================================================================================
+                            MAY / MIGHT
+                     (Puede que / Podría en Inglés)
+================================================================================
+
+MAY y MIGHT expresan posibilidad, permiso formal y deseos.
+Son muy similares, pero MAY indica mayor probabilidad que MIGHT.
+
+================================================================================
+                         STRUCTURE (Estructura)
+================================================================================
+
+AFFIRMATIVE:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    MAY/MIGHT    +    VERB (base form)                         │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    may/might    come/rain/be                       │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    MAY NOT / MIGHT NOT    +    VERB                           │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    may not / might not    come                     │
+│                             (mayn't - raro) / mightn't                      │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+NOTA: "mayn't" casi nunca se usa. Se prefiere "may not".
+
+INTERROGATIVE (solo para permiso, no para posibilidad):
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  MAY    +    SUBJECT    +    VERB (base form)    +    ?                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  May        I           come in?                                            │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+⚠️ MIGHT rara vez se usa en preguntas.
+
+================================================================================
+                              MAY
+================================================================================
+
+--------------------------------------------------------------------------------
+                         USES OF MAY (Usos de MAY)
+--------------------------------------------------------------------------------
+
+1. POSSIBILITY (Posibilidad - presente/futuro):
+   Aproximadamente 50% de probabilidad
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ It may rain later.                                                            │
+│ Puede que llueva más tarde.                                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She may come to the party.                                                    │
+│ Puede que ella venga a la fiesta.                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I may be late tonight.                                                        │
+│ Puede que llegue tarde esta noche.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The meeting may be cancelled.                                                 │
+│ Puede que la reunión sea cancelada.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He may not come tomorrow.                                                     │
+│ Puede que no venga mañana.                                                    │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. FORMAL PERMISSION (Permiso formal):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ May I come in?                                                                │
+│ ¿Puedo pasar?                                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ May I use your phone?                                                         │
+│ ¿Puedo usar su teléfono?                                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ May I ask you a question?                                                     │
+│ ¿Puedo hacerle una pregunta?                                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You may leave now.                                                            │
+│ Puede irse ahora.                                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Passengers may now board the plane.                                           │
+│ Los pasajeros ya pueden abordar el avión.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You may not smoke in here.                                                    │
+│ No puede fumar aquí.                                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NIVEL DE FORMALIDAD:
+→ Can I...?    (informal)
+→ Could I...?  (cortés)
+→ May I...?    (muy formal)
+
+3. WISHES AND HOPES (Deseos - formal/literario):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ May you have a wonderful life together!                                       │
+│ ¡Que tengan una vida maravillosa juntos!                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ May all your dreams come true!                                                │
+│ ¡Que todos tus sueños se hagan realidad!                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ May God bless you!                                                            │
+│ ¡Que Dios te bendiga!                                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ May the Force be with you!                                                    │
+│ ¡Que la Fuerza te acompañe!                                                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                              MIGHT
+================================================================================
+
+--------------------------------------------------------------------------------
+                       USES OF MIGHT (Usos de MIGHT)
+--------------------------------------------------------------------------------
+
+1. POSSIBILITY (Posibilidad - menor que MAY):
+   Aproximadamente 30-40% de probabilidad
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ It might rain later. (less likely than "may")                                 │
+│ Podría llover más tarde. (menos probable)                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She might come, but I doubt it.                                               │
+│ Podría venir, pero lo dudo.                                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He might be at home.                                                          │
+│ Podría estar en casa.                                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We might go to Italy this summer.                                             │
+│ Podríamos ir a Italia este verano.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I might not be able to come.                                                  │
+│ Puede que no pueda venir.                                                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. SUGGESTIONS (Sugerencias tentativas):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ You might want to check your email.                                           │
+│ Quizás quieras revisar tu correo.                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You might try asking her directly.                                            │
+│ Podrías intentar preguntarle directamente.                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You might like this book.                                                     │
+│ Puede que te guste este libro.                                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. REPORTED SPEECH (Estilo indirecto):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Direct: "I may come tomorrow."                                                │
+│ Reported: She said she might come the next day.                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Direct: "It may rain."                                                        │
+│ Reported: He said it might rain.                                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. CONDITIONAL SENTENCES (Oraciones condicionales):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If you studied harder, you might pass.                                        │
+│ Si estudiaras más, podrías aprobar.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If I had more money, I might buy a car.                                       │
+│ Si tuviera más dinero, podría comprar un coche.                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    MAY HAVE / MIGHT HAVE + PAST PARTICIPLE
+================================================================================
+
+Expresa posibilidad sobre algo en el PASADO:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She may have missed the bus.                                                  │
+│ Puede que haya perdido el autobús.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He might have forgotten about the meeting.                                    │
+│ Puede que se haya olvidado de la reunión.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They may have already left.                                                   │
+│ Puede que ya se hayan ido.                                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I might have left my keys at home.                                            │
+│ Puede que haya dejado mis llaves en casa.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She may not have received your message.                                       │
+│ Puede que no haya recibido tu mensaje.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+Para situaciones hipotéticas del pasado (que no ocurrieron):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If you had asked, I might have helped.                                        │
+│ Si hubieras pedido, podría haber ayudado.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We might have won if we had played better.                                    │
+│ Podríamos haber ganado si hubiéramos jugado mejor.                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    MAY vs MIGHT - DIFFERENCES
+================================================================================
+
+En la práctica, MAY y MIGHT son muy similares para expresar posibilidad.
+La diferencia es sutil:
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ MAY                                  │ MIGHT                                  │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Slightly more likely                 │ Slightly less likely                   │
+│ ~50% probability                     │ ~30-40% probability                    │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ It may rain. (quite possible)        │ It might rain. (possible but less so)  │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Used for permission                  │ Rarely used for permission             │
+│ May I come in?                       │ (Might I...? sounds old-fashioned)     │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Present tense form                   │ Past tense form (also present meaning) │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ More direct                          │ More tentative                         │
+│ You may want to check.               │ You might want to check.               │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+⚠️ En el inglés moderno hablado, a menudo se usan de forma intercambiable.
+
+================================================================================
+                    PROBABILITY SCALE
+================================================================================
+
+MENOS PROBABLE ←―――――――――――――――――――――――――――→ MÁS PROBABLE
+
+might    →    may    →    could    →    should    →    will/must
+
+It might be true.  (quizás, poco probable)
+It may be true.    (posible, 50%)
+It could be true.  (es posible)
+It should be true. (probablemente)
+It must be true.   (casi seguro)
+It will be true.   (seguro)
+
+================================================================================
+                    MAY vs CAN (Permission)
+================================================================================
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ MAY (formal)                         │ CAN (informal)                         │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ May I leave early?                   │ Can I leave early?                     │
+│ (con profesor, jefe, desconocido)    │ (con amigos, familia)                  │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ You may not enter.                   │ You can't enter.                       │
+│ (regla formal)                       │ (informal)                             │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Passengers may board.                │ You can go in now.                     │
+│ (anuncio oficial)                    │ (conversación)                         │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+================================================================================
+                           COMMON MISTAKES (Errores comunes)
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  I may to come tomorrow.               I may come tomorrow.
+  She mays be at home.                  She may be at home.
+  May it rain tomorrow?                 Might it rain? / Is it going to rain?
+  (para posibilidad, no preguntamos)    (may no se usa para preguntar posibilidad)
+  I don't may go.                       I may not go.
+  He might can help.                    He might be able to help.
+  She may has forgotten.                She may have forgotten.
+  It may be rain.                       It may rain.
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                   MAY                                        │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ • Possibility (~50%):     It may rain tomorrow.                              │
+│ • Formal permission:      May I come in?                                     │
+│ • Formal prohibition:     You may not smoke here.                            │
+│ • Wishes (formal):        May you be happy!                                  │
+│ • Past possibility:       She may have left. (puede que se haya ido)         │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                  MIGHT                                       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ • Possibility (~30-40%):  It might rain. (menos probable que may)            │
+│ • Tentative suggestions:  You might want to try this.                        │
+│ • Reported speech:        She said she might come.                           │
+│ • Conditional:            If I had time, I might help.                       │
+│ • Past possibility:       He might have forgotten. (puede que haya olvidado) │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

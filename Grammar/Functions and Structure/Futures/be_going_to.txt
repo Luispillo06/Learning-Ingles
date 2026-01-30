@@ -1,0 +1,225 @@
+================================================================================
+                            BE GOING TO
+                       (Futuro con BE GOING TO)
+================================================================================
+
+BE GOING TO se usa para hablar de planes, intenciones y predicciones
+basadas en evidencia presente.
+
+================================================================================
+                         STRUCTURE (Estructura)
+================================================================================
+
+AFFIRMATIVE (Afirmativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    BE (am/is/are)    +    GOING TO    +    VERB (base)        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I                  am                   going to         go/work           │
+│  He/She/It          is                   going to         go/work           │
+│  You/We/They        are                  going to         go/work           │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I'm going to study medicine.
+→ She's going to travel to Japan.
+→ They're going to buy a new house.
+→ It's going to rain.
+
+NEGATIVE (Negativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    BE + NOT    +    GOING TO    +    VERB                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I                 'm not          going to         go                      │
+│  He/She/It         isn't           going to         go                      │
+│  You/We/They       aren't          going to         go                      │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I'm not going to tell him.
+→ She isn't going to come.
+→ They aren't going to wait.
+→ We're not going to accept that.
+
+INTERROGATIVE (Interrogativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  BE (Am/Is/Are)    +    SUBJECT    +    GOING TO    +    VERB    +    ?     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Am                     I               going to         go?                │
+│  Is                     he/she/it       going to         go?                │
+│  Are                    you/we/they     going to         go?                │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ Are you going to come to the party?
+→ Is she going to study abroad?
+→ What are they going to do?
+→ When is he going to arrive?
+
+SHORT ANSWERS (Respuestas cortas):
+
+→ Are you going to come?   Yes, I am. / No, I'm not.
+→ Is she going to help?    Yes, she is. / No, she isn't.
+
+================================================================================
+                         USES (Usos)
+================================================================================
+
+1. PLANS AND INTENTIONS (Planes e intenciones - ya decididos):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I'm going to study medicine next year.                                        │
+│ Voy a estudiar medicina el año que viene. (ya lo decidí)                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She's going to look for a new job.                                            │
+│ Ella va a buscar un nuevo trabajo.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We're going to get married in June.                                           │
+│ Nos vamos a casar en junio.                                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They're going to move to Canada.                                              │
+│ Ellos van a mudarse a Canadá.                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ What are you going to do after graduation?                                    │
+│ ¿Qué vas a hacer después de graduarte?                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I'm not going to eat meat anymore.                                            │
+│ No voy a comer carne nunca más.                                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. PREDICTIONS BASED ON EVIDENCE (Predicciones con evidencia):
+
+Cuando hay señales claras de lo que va a pasar:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Look at those clouds! It's going to rain.                                     │
+│ ¡Mira esas nubes! Va a llover. (veo la evidencia)                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Watch out! You're going to fall!                                              │
+│ ¡Cuidado! ¡Te vas a caer! (veo que está a punto de pasar)                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She's very pale. I think she's going to faint.                                │
+│ Está muy pálida. Creo que se va a desmayar.                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The traffic is terrible. We're going to be late.                              │
+│ El tráfico es terrible. Vamos a llegar tarde.                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Look! The baby is going to walk!                                              │
+│ ¡Mira! ¡El bebé va a caminar!                                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. SOMETHING ABOUT TO HAPPEN (Algo a punto de pasar):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The movie is going to start in 5 minutes.                                     │
+│ La película va a empezar en 5 minutos.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Hurry up! The bus is going to leave!                                          │
+│ ¡Date prisa! ¡El autobús va a salir!                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I'm going to sneeze!                                                          │
+│ ¡Voy a estornudar!                                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WILL vs BE GOING TO
+================================================================================
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ WILL                                 │ BE GOING TO                            │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ SPONTANEOUS DECISION                 │ PLANNED INTENTION                      │
+│ (decided NOW)                        │ (decided BEFORE)                       │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ "I'm hungry."                        │ "What are your plans for tonight?"     │
+│ "I'll make you a sandwich."          │ "I'm going to watch a movie."          │
+│ (decide ahora mismo)                 │ (ya lo tenía planeado)                 │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ PREDICTION (opinion)                 │ PREDICTION (evidence)                  │
+│ I think it will rain tomorrow.       │ Look at those clouds! It's going       │
+│ (mi opinión)                         │ to rain. (veo evidencia)               │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ I think they'll win.                 │ They're 3-0 up. They're going to win.  │
+│ (creo, espero)                       │ (es evidente)                          │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ PROMISES                             │ PLANS                                  │
+│ I'll always love you.                │ I'm going to marry her.                │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ OFFERS                               │ INTENTIONS                             │
+│ I'll help you with that.             │ I'm going to help the poor.            │
+│ (ofrecimiento espontáneo)            │ (intención firme)                      │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+EJEMPLO DE DIÁLOGO:
+
+A: "What are you doing this weekend?"
+B: "I'm going to visit my parents." (plan decidido antes)
+
+A: "Oh no, I forgot to buy milk!"
+B: "Don't worry, I'll go to the shop." (decisión espontánea)
+
+================================================================================
+                    INFORMAL SPEECH: GONNA
+================================================================================
+
+En inglés hablado informal, "going to" a menudo se pronuncia "gonna":
+
+FORMAL/ESCRITO                      INFORMAL/HABLADO
+I'm going to go.                    I'm gonna go.
+She's going to help.                She's gonna help.
+They're going to leave.             They're gonna leave.
+
+⚠️ "Gonna" es SOLO para hablar. No lo uses en escritura formal.
+
+================================================================================
+                    BE GOING TO + GO
+================================================================================
+
+Cuando el verbo principal es "go", a veces se omite:
+
+FORMAL:    I'm going to go shopping.
+INFORMAL:  I'm going shopping.
+
+FORMAL:    She's going to go home.
+INFORMAL:  She's going home.
+
+Ambas formas son correctas.
+
+================================================================================
+                           COMMON MISTAKES (Errores comunes)
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  I going to study.                     I'm going to study.
+  She is going study.                   She is going to study.
+  He going to come?                     Is he going to come?
+  I am going to going home.             I am going to go home.
+  I will going to help.                 I am going to help.
+  Are you going to comes?               Are you going to come?
+  I'm not going come.                   I'm not going to come.
+  She is go to study.                   She is going to study.
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                              BE GOING TO                                     │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ STRUCTURE:  Subject + am/is/are + going to + verb (base form)                │
+│             Subject + am/is/are + not + going to + verb                      │
+│             Am/Is/Are + subject + going to + verb?                           │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ USES:                                                                        │
+│ • Plans/Intentions:   I'm going to study medicine.                           │
+│                       (already decided)                                      │
+│ • Predictions:        Look! It's going to rain.                              │
+│   (with evidence)     (I can see the clouds)                                 │
+│ • About to happen:    Watch out! You're going to fall!                       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ KEY DIFFERENCE FROM WILL:                                                    │
+│ → WILL = spontaneous decision, opinion                                       │
+│ → BE GOING TO = planned intention, evidence-based prediction                 │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

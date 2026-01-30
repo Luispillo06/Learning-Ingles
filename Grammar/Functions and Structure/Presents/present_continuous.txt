@@ -1,0 +1,313 @@
+================================================================================
+                          PRESENT CONTINUOUS
+                      (Presente Continuo en Inglés)
+================================================================================
+
+El Present Continuous (también llamado Present Progressive) se usa para 
+hablar de acciones que están ocurriendo AHORA o en este período de tiempo.
+
+================================================================================
+                         STRUCTURE (Estructura)
+================================================================================
+
+AFFIRMATIVE (Afirmativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    BE (am/is/are)    +    VERB-ING    +    COMPLEMENT         │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I              am                     working          now.                │
+│  He/She/It      is                     working          now.                │
+│  You/We/They    are                    working          now.                │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I am working right now.
+→ She is cooking dinner.
+→ They are watching TV.
+→ He is studying English.
+
+CONTRACTIONS (Contracciones):
+I am = I'm                    He is = He's
+She is = She's                It is = It's
+We are = We're                You are = You're
+They are = They're
+
+NEGATIVE (Negativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    BE + NOT    +    VERB-ING                                  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I              am not (I'm not)       working         now.                 │
+│  He/She/It      is not (isn't)         working         now.                 │
+│  You/We/They    are not (aren't)       working         now.                 │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I'm not working today.
+→ She isn't sleeping.
+→ They aren't listening.
+→ He isn't coming to the party.
+
+INTERROGATIVE (Interrogativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  BE (am/is/are)    +    SUBJECT    +    VERB-ING    +    ?                  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Am                     I                working?                           │
+│  Is                     he/she/it        working?                           │
+│  Are                    you/we/they      working?                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ Are you listening to me?
+→ Is she working today?
+→ Are they coming to the party?
+→ What are you doing?
+
+SHORT ANSWERS (Respuestas cortas):
+
+→ Are you studying?        Yes, I am. / No, I'm not.
+→ Is she working?          Yes, she is. / No, she isn't.
+→ Are they sleeping?       Yes, they are. / No, they aren't.
+
+================================================================================
+                    SPELLING RULES FOR -ING
+                    (Reglas de ortografía para -ING)
+================================================================================
+
+GENERAL RULE: Add -ING
+    work → working          read → reading
+    play → playing          watch → watching
+    eat → eating            sleep → sleeping
+
+VERBS ENDING IN -E: Drop -E, add -ING
+    make → making           write → writing
+    live → living           dance → dancing
+    come → coming           take → taking
+
+VERBS ENDING IN -IE: Change -IE to -Y, add -ING
+    lie → lying             die → dying
+    tie → tying
+
+ONE SYLLABLE CVC: Double final consonant, add -ING
+    run → running           sit → sitting
+    stop → stopping         swim → swimming
+    cut → cutting           get → getting
+    hit → hitting           plan → planning
+
+TWO+ SYLLABLES (stress on last): Double final consonant
+    begin → beginning       prefer → preferring
+    admit → admitting       occur → occurring
+
+TWO+ SYLLABLES (stress NOT on last): Just add -ING
+    open → opening          listen → listening
+    happen → happening      visit → visiting
+
+================================================================================
+                         USES (Usos)
+================================================================================
+
+1. ACTIONS HAPPENING NOW (Acciones que ocurren ahora):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I'm working on a project right now.                                           │
+│ Estoy trabajando en un proyecto ahora mismo.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She's talking on the phone at the moment.                                     │
+│ Ella está hablando por teléfono en este momento.                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Look! It's raining.                                                           │
+│ ¡Mira! Está lloviendo.                                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Listen! Someone is knocking on the door.                                      │
+│ ¡Escucha! Alguien está tocando la puerta.                                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. TEMPORARY SITUATIONS (Situaciones temporales):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I'm living with my parents until I find a flat.                               │
+│ Estoy viviendo con mis padres hasta que encuentre un piso.                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She's working at a café this summer.                                          │
+│ Ella está trabajando en una cafetería este verano.                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He's staying at a hotel this week.                                            │
+│ Él se está quedando en un hotel esta semana.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I'm reading a really good book at the moment.                                 │
+│ Estoy leyendo un libro muy bueno en este momento.                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. CHANGING/DEVELOPING SITUATIONS (Situaciones que cambian):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The weather is getting colder.                                                │
+│ El tiempo se está poniendo más frío.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Your English is improving.                                                    │
+│ Tu inglés está mejorando.                                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The population is increasing rapidly.                                         │
+│ La población está aumentando rápidamente.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Prices are going up every day.                                                │
+│ Los precios están subiendo cada día.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. FUTURE ARRANGEMENTS (Planes futuros confirmados):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I'm meeting John tomorrow at 5.                                               │
+│ Voy a quedar con John mañana a las 5.                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She's flying to Paris next week.                                              │
+│ Ella vuela a París la próxima semana.                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We're having a party on Saturday.                                             │
+│ Vamos a tener una fiesta el sábado.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They're getting married in June.                                              │
+│ Se van a casar en junio.                                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+5. ANNOYING HABITS with ALWAYS (Hábitos molestos):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ He's always complaining about everything!                                     │
+│ ¡Siempre está quejándose de todo!                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She's constantly interrupting me!                                             │
+│ ¡Constantemente me está interrumpiendo!                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You're always losing your keys!                                               │
+│ ¡Siempre estás perdiendo tus llaves!                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They're forever asking for money!                                             │
+│ ¡Siempre están pidiendo dinero!                                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    TIME EXPRESSIONS (Expresiones de tiempo)
+================================================================================
+
+NOW                     → ahora
+RIGHT NOW               → ahora mismo
+AT THE MOMENT           → en este momento
+AT PRESENT              → actualmente
+CURRENTLY               → actualmente
+TODAY                   → hoy
+THIS WEEK/MONTH/YEAR    → esta semana/mes/año
+THESE DAYS              → estos días
+STILL                   → todavía
+LOOK!                   → ¡mira!
+LISTEN!                 → ¡escucha!
+
+→ I'm studying English at the moment.
+→ She's working from home this week.
+→ They're still waiting for the bus.
+→ Look! The baby is walking!
+
+================================================================================
+                    STATIVE VERBS (Verbos de estado)
+================================================================================
+
+Estos verbos normalmente NO se usan en Present Continuous:
+
+MENTAL STATES:      know, believe, think*, understand, remember, forget,
+                    realize, recognize, suppose, imagine, doubt, mean
+
+EMOTIONS:           love, like, hate, dislike, want, need, prefer, wish
+
+SENSES:             see*, hear*, smell*, taste*, feel*, sound, look*, 
+                    seem, appear
+
+POSSESSION:         have*, own, belong, possess, contain, consist
+
+OTHER:              be*, cost, weigh, measure, owe, deserve, fit
+
+* Algunos de estos verbos pueden usarse en continuous con significado diferente:
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ STATIVE (Present Simple)             │ ACTION (Present Continuous)            │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ I think it's a good idea.            │ I'm thinking about the problem.        │
+│ (opinion)                            │ (mental process)                       │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ I see what you mean.                 │ I'm seeing the doctor tomorrow.        │
+│ (understand)                         │ (meeting)                              │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ She has two cars.                    │ She's having lunch.                    │
+│ (possession)                         │ (eating)                               │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ The soup tastes delicious.           │ I'm tasting the soup.                  │
+│ (has a taste)                        │ (action of tasting)                    │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ You look tired.                      │ I'm looking at you.                    │
+│ (appearance)                         │ (action of looking)                    │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ He's a friendly person.              │ He's being very rude today.            │
+│ (permanent characteristic)           │ (temporary behavior)                   │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+================================================================================
+                    PRESENT SIMPLE vs PRESENT CONTINUOUS
+================================================================================
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ PRESENT SIMPLE                       │ PRESENT CONTINUOUS                     │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Habits, routines                     │ Actions happening NOW                  │
+│ I drink coffee every morning.        │ I'm drinking coffee right now.         │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Permanent situations                 │ Temporary situations                   │
+│ I live in Madrid.                    │ I'm living with my parents (for now).  │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Facts and truths                     │ Changing situations                    │
+│ Water boils at 100°C.                │ The weather is getting colder.         │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Scheduled events                     │ Future arrangements                    │
+│ The train leaves at 9.               │ I'm meeting John tomorrow.             │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ always/usually/often/never           │ now/at the moment/currently            │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+EXAMPLES TO COMPARE:
+
+→ I work in an office. (permanent job)
+→ I'm working from home today. (temporary)
+
+→ He speaks Spanish. (ability)
+→ He's speaking Spanish right now. (action now)
+
+→ She usually drives to work. (habit)
+→ She's taking the bus this week. (temporary)
+
+================================================================================
+                           COMMON MISTAKES (Errores comunes)
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  I working now.                        I'm working now.
+  She is work today.                    She is working today.
+  Are you work?                         Are you working?
+  He is studing.                        He is studying.
+  They are runing.                      They are running.
+  I am liking this movie.               I like this movie.
+  She is knowing the answer.            She knows the answer.
+  I am wanting coffee.                  I want coffee.
+  He is having two cars.                He has two cars.
+  I'm work now.                         I'm working now.
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+  AFFIRMATIVE         NEGATIVE              INTERROGATIVE
+  ─────────────────────────────────────────────────────────────────────────
+  I am working        I'm not working       Am I working?
+  You are working     You aren't working    Are you working?
+  He/She/It is        He/She/It isn't       Is he/she/it working?
+  working             working
+  We are working      We aren't working     Are we working?
+  They are working    They aren't working   Are they working?
+
+================================================================================

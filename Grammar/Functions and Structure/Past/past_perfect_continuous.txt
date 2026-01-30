@@ -1,0 +1,258 @@
+================================================================================
+                        PAST PERFECT CONTINUOUS
+                   (Pasado Perfecto Continuo en Inglés)
+================================================================================
+
+El Past Perfect Continuous enfatiza la DURACIÓN de una actividad que 
+ocurrió ANTES de otra acción en el pasado.
+
+================================================================================
+                         STRUCTURE (Estructura)
+================================================================================
+
+AFFIRMATIVE (Afirmativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    HAD BEEN    +    VERB-ING    +    COMPLEMENT               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    had been    working    for two hours.           │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I had been waiting for two hours when she finally arrived.
+→ She had been studying all day before the exam.
+→ They had been living in Paris for 5 years before they moved.
+→ He had been working there since 2010.
+
+CONTRACTION: had been = 'd been
+→ I'd been waiting         → She'd been working
+→ They'd been living       → We'd been studying
+
+NEGATIVE (Negativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    HADN'T BEEN    +    VERB-ING                               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    hadn't been    working.                         │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I hadn't been sleeping well before I got sick.
+→ She hadn't been feeling well for days.
+→ They hadn't been practicing, so they lost.
+→ He hadn't been paying attention.
+
+INTERROGATIVE (Interrogativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  HAD    +    SUBJECT    +    BEEN    +    VERB-ING    +    ?                │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Had         I/you/he/she/it/we/they    been    working?                    │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ Had you been waiting long when she arrived?
+→ How long had they been living there?
+→ Had she been crying?
+→ What had he been doing all day?
+
+SHORT ANSWERS (Respuestas cortas):
+
+→ Had you been waiting?    Yes, I had. / No, I hadn't.
+→ Had she been working?    Yes, she had. / No, she hadn't.
+
+================================================================================
+                         USES (Usos)
+================================================================================
+
+1. DURATION OF ACTIVITY BEFORE A PAST EVENT (Duración antes de un evento):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I had been waiting for an hour when the bus finally arrived.                  │
+│ Había estado esperando una hora cuando el autobús finalmente llegó.           │
+│                                                                               │
+│ TIMELINE: waiting (1 hour) ───────────────> bus arrived                       │
+│           (duration - Past Perfect Cont.)    (event - Past Simple)            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She had been studying for three hours before she took a break.                │
+│ Había estado estudiando tres horas antes de tomar un descanso.                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They had been traveling for a week when they reached the city.                │
+│ Habían estado viajando una semana cuando llegaron a la ciudad.                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ How long had you been working there before you quit?                          │
+│ ¿Cuánto tiempo habías estado trabajando allí antes de renunciar?              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. CAUSE OF A PAST RESULT (Causa de un resultado pasado):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I was tired because I had been running.                                       │
+│ Estaba cansado porque había estado corriendo.                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Her eyes were red because she had been crying.                                │
+│ Sus ojos estaban rojos porque había estado llorando.                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The ground was wet because it had been raining.                               │
+│ El suelo estaba mojado porque había estado lloviendo.                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He was out of breath because he had been running.                             │
+│ Estaba sin aliento porque había estado corriendo.                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She was dirty because she had been gardening all morning.                     │
+│ Estaba sucia porque había estado trabajando en el jardín toda la mañana.      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. REPEATED ACTIONS BEFORE A PAST MOMENT (Acciones repetidas):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I had been trying to call you all morning.                                    │
+│ Había estado intentando llamarte toda la mañana.                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She had been visiting her grandmother every week.                             │
+│ Había estado visitando a su abuela cada semana.                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They had been having problems for months before they broke up.                │
+│ Habían estado teniendo problemas durante meses antes de separarse.            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. TEMPORARY SITUATIONS BEFORE A PAST MOMENT (Situaciones temporales):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ He had been living with his parents while he looked for a job.                │
+│ Había estado viviendo con sus padres mientras buscaba trabajo.                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She had been working extra hours that month.                                  │
+│ Había estado trabajando horas extra ese mes.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I had been staying at a hotel until I found an apartment.                     │
+│ Había estado quedándome en un hotel hasta que encontré un apartamento.        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    KEY WORDS AND TIME EXPRESSIONS
+================================================================================
+
+FOR + DURATION:
+→ I had been waiting for an hour.
+→ She had been working for three years.
+
+SINCE + POINT IN TIME:
+→ He had been living there since 2015.
+→ They had been dating since high school.
+
+HOW LONG:
+→ How long had you been waiting?
+→ How long had she been studying?
+
+ALL + TIME PERIOD:
+→ I had been working all day.
+→ She had been crying all morning.
+
+BEFORE:
+→ I had been studying before the exam.
+→ They had been arguing before I arrived.
+
+WHEN:
+→ When I arrived, she had been waiting for an hour.
+→ When he called, I had been sleeping.
+
+================================================================================
+          PAST PERFECT CONTINUOUS vs PAST PERFECT
+================================================================================
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ PAST PERFECT CONTINUOUS              │ PAST PERFECT                           │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Emphasizes DURATION                  │ Emphasizes COMPLETION                  │
+│ I had been reading the book.         │ I had read the book.                   │
+│ (focus on duration/process)          │ (focus on finished result)             │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Action MAY be incomplete             │ Action is COMPLETE                     │
+│ I had been painting the house.       │ I had painted the house.               │
+│ (maybe not finished)                 │ (finished)                             │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Focus on the ACTIVITY                │ Focus on NUMBER/QUANTITY               │
+│ I had been writing all day.          │ I had written three letters.           │
+│ (the activity itself)                │ (how many)                             │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ VISIBLE RESULT                       │ FACT                                   │
+│ He was tired - he had been running.  │ He had run 10 km.                      │
+│ (explains why he was tired)          │ (states the distance)                  │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+EXAMPLES TO COMPARE:
+
+→ I was tired because I had been working all day. (duration/process)
+→ I was tired because I had finished a big project. (completion)
+
+→ She had been reading the book for weeks. (still reading or just stopped)
+→ She had read the book before the movie came out. (finished it)
+
+→ How long had you been living there? (duration)
+→ Had you lived there before? (experience/fact)
+
+================================================================================
+          PAST PERFECT CONTINUOUS vs PAST CONTINUOUS
+================================================================================
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ PAST PERFECT CONTINUOUS              │ PAST CONTINUOUS                        │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Duration BEFORE another past action  │ Action in progress AT a past moment    │
+│ I had been waiting for an hour       │ I was waiting when she arrived.        │
+│ when she arrived.                    │                                        │
+│ (emphasizes HOW LONG)                │ (emphasizes the ACTION)                │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ EARLIER than the reference point     │ AT the reference point                 │
+│ He had been running. He was tired.   │ He was running when I saw him.         │
+│ (before he was tired)                │ (at the moment I saw him)              │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+================================================================================
+                    STATIVE VERBS
+================================================================================
+
+Los STATIVE VERBS normalmente NO se usan en Past Perfect Continuous:
+
+know, believe, understand, want, need, like, love, hate,
+own, belong, have (possession), be
+
+En estos casos, usamos Past Perfect:
+
+❌ I had been knowing her for years.    ✓ I had known her for years.
+❌ She had been wanting to go.          ✓ She had wanted to go.
+❌ They had been owning the house.      ✓ They had owned the house.
+
+================================================================================
+                           COMMON MISTAKES (Errores comunes)
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  I had been work all day.              I had been working all day.
+  She had been waited for hours.        She had been waiting for hours.
+  I had been knowing him for years.     I had known him for years.
+  How long you had been waiting?        How long had you been waiting?
+  They have been working before...      They had been working before...
+  I been waiting for an hour.           I had been waiting for an hour.
+  He had been study all night.          He had been studying all night.
+  She had been living since 5 years.    She had been living for 5 years.
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+  AFFIRMATIVE             NEGATIVE                  INTERROGATIVE
+  ─────────────────────────────────────────────────────────────────────────
+  I had been working      I hadn't been working     Had I been working?
+  You had been working    You hadn't been working   Had you been working?
+  He/She/It had been      He/She/It hadn't been     Had he/she/it been
+  working                 working                   working?
+  We had been working     We hadn't been working    Had we been working?
+  They had been working   They hadn't been working  Had they been working?
+
+  FORMULA: had been + verb-ing
+
+  USE: Duration of an activity that happened BEFORE another past action
+
+  KEYWORDS: for, since, how long, all day, before, when
+
+================================================================================

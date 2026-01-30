@@ -1,0 +1,320 @@
+================================================================================
+                         SHOULD / OUGHT TO
+                   (Debería / Deberías en Inglés)
+================================================================================
+
+SHOULD y OUGHT TO expresan consejo, recomendación, expectativa y obligación
+moral. Son prácticamente intercambiables.
+
+================================================================================
+                              SHOULD
+================================================================================
+
+STRUCTURE (Estructura):
+
+AFFIRMATIVE:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    SHOULD    +    VERB (base form)                            │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    should    go/study/eat                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    SHOULD NOT / SHOULDN'T    +    VERB                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    shouldn't    smoke/eat/stay                     │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+INTERROGATIVE:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SHOULD    +    SUBJECT    +    VERB (base form)    +    ?                  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Should        I/you/he/she/it/we/they    go/tell/call?                     │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+--------------------------------------------------------------------------------
+                      USES OF SHOULD (Usos de SHOULD)
+--------------------------------------------------------------------------------
+
+1. ADVICE / RECOMMENDATION (Consejo / Recomendación):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ You should see a doctor.                                                      │
+│ Deberías ver a un médico.                                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You should study more if you want to pass.                                    │
+│ Deberías estudiar más si quieres aprobar.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She should eat healthier food.                                                │
+│ Ella debería comer comida más saludable.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You shouldn't smoke. It's bad for your health.                                │
+│ No deberías fumar. Es malo para tu salud.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Should I call her?                                                            │
+│ ¿Debería llamarla?                                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. OBLIGATION (Obligación moral - más suave que MUST):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ You should respect your elders.                                               │
+│ Deberías respetar a los mayores.                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We should help those in need.                                                 │
+│ Deberíamos ayudar a los necesitados.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ People should recycle more.                                                   │
+│ La gente debería reciclar más.                                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. EXPECTATION (Expectativa / Probabilidad):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She should be here by now.                                                    │
+│ Debería estar aquí ya. (esperamos que esté)                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The train should arrive at 10:00.                                             │
+│ El tren debería llegar a las 10:00.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ It shouldn't take long.                                                       │
+│ No debería tardar mucho.                                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ This should be enough.                                                        │
+│ Esto debería ser suficiente.                                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. ASKING FOR ADVICE (Pedir consejo):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ What should I do?                                                             │
+│ ¿Qué debería hacer?                                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Should I tell him the truth?                                                  │
+│ ¿Debería decirle la verdad?                                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Where should we go for dinner?                                                │
+│ ¿Dónde deberíamos ir a cenar?                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Who should I ask?                                                             │
+│ ¿A quién debería preguntar?                                                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+5. EXPRESSING CRITICISM (Expresar crítica):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ You should be more careful!                                                   │
+│ ¡Deberías tener más cuidado!                                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He shouldn't speak to his mother like that.                                   │
+│ No debería hablarle así a su madre.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They shouldn't be so rude.                                                    │
+│ No deberían ser tan maleducados.                                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                              OUGHT TO
+================================================================================
+
+STRUCTURE (Estructura):
+
+AFFIRMATIVE:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    OUGHT TO    +    VERB (base form)                          │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    ought to    go/study/help                       │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE (poco común):
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    OUGHT NOT TO / OUGHTN'T TO    +    VERB                    │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    ought not to    smoke                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+⚠️ NOTA: OUGHT TO es menos común que SHOULD, especialmente en negativas
+y preguntas. En la práctica, SHOULD se usa mucho más.
+
+--------------------------------------------------------------------------------
+                    USES OF OUGHT TO (Usos de OUGHT TO)
+--------------------------------------------------------------------------------
+
+Los usos son los mismos que SHOULD:
+
+1. ADVICE:
+→ You ought to see a doctor. = You should see a doctor.
+
+2. MORAL OBLIGATION:
+→ We ought to help others. = We should help others.
+
+3. EXPECTATION:
+→ She ought to be here by now. = She should be here by now.
+
+EJEMPLOS:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ You ought to exercise more.                                                   │
+│ Deberías hacer más ejercicio.                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He ought to apologize.                                                        │
+│ Él debería disculparse.                                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We ought to leave now.                                                        │
+│ Deberíamos irnos ahora.                                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They ought to be more careful.                                                │
+│ Deberían tener más cuidado.                                                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    SHOULD HAVE / OUGHT TO HAVE + PAST PARTICIPLE
+================================================================================
+
+Expresa arrepentimiento o crítica sobre algo en el PASADO
+(algo que debería haber pasado pero no pasó, o viceversa):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I should have studied harder.                                                 │
+│ Debería haber estudiado más. (pero no lo hice)                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You should have told me earlier.                                              │
+│ Deberías habérmelo dicho antes. (pero no lo hiciste)                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She should have been more careful.                                            │
+│ Ella debería haber sido más cuidadosa.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We shouldn't have eaten so much.                                              │
+│ No deberíamos haber comido tanto. (pero lo hicimos)                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He shouldn't have said that.                                                  │
+│ No debería haber dicho eso.                                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They should have arrived by now.                                              │
+│ Ya deberían haber llegado.                                                    │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+OUGHT TO HAVE:
+→ I ought to have called you. = I should have called you.
+→ He ought to have known better. = He should have known better.
+
+================================================================================
+                    SHOULD vs OUGHT TO
+================================================================================
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ SHOULD                               │ OUGHT TO                               │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ More common                          │ Less common                            │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ No "to"                              │ Needs "to"                             │
+│ You should go.                       │ You ought to go.                       │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Common in questions                  │ Rare in questions                      │
+│ Should I call?                       │ Ought I to call? (very formal)         │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Common in negatives                  │ Rare in negatives                      │
+│ You shouldn't smoke.                 │ You oughtn't to smoke. (formal)        │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Same meaning                         │ Same meaning                           │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+Recomendación: Usa SHOULD en la mayoría de los casos. Es más natural
+y común en el inglés moderno.
+
+================================================================================
+                    SHOULD vs MUST vs HAVE TO
+================================================================================
+
+FUERZA DE OBLIGACIÓN (de más débil a más fuerte):
+
+SHOULD ―――――――――→ HAVE TO ―――――――――→ MUST
+(consejo)         (obligación)        (obligación fuerte)
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ You should wear a coat.                                                       │
+│ Deberías llevar abrigo. (es un buen consejo)                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You have to wear a uniform.                                                   │
+│ Tienes que llevar uniforme. (es la regla)                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You must wear a seatbelt.                                                     │
+│ Debes llevar cinturón. (es obligatorio/ley)                                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    HAD BETTER
+================================================================================
+
+HAD BETTER (más fuerte que SHOULD) - advertencia o consejo urgente:
+
+STRUCTURE: Subject + had better ('d better) + verb (base form)
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ You'd better hurry or you'll miss the train.                                  │
+│ Será mejor que te apures o perderás el tren.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You'd better not be late.                                                     │
+│ Será mejor que no llegues tarde.                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He'd better apologize.                                                        │
+│ Será mejor que se disculpe.                                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We'd better leave now.                                                        │
+│ Será mejor que nos vayamos ahora.                                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+HAD BETTER implica que habrá consecuencias negativas si no sigues el consejo.
+
+FUERZA: should < ought to < had better
+
+================================================================================
+                           COMMON MISTAKES (Errores comunes)
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  You should to go.                     You should go.
+  She shoulds study.                    She should study.
+  You ought go.                         You ought to go.
+  I should went earlier.                I should have gone earlier.
+  Do you should tell him?               Should you tell him?
+  He don't should smoke.                He shouldn't smoke.
+  You should have went.                 You should have gone.
+  You better go.                        You'd better go.
+  Had better you go?                    (rare: use "Should you go?")
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                 SHOULD                                       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ • Advice:        You should see a doctor.                                    │
+│ • Obligation:    We should help others.                                      │
+│ • Expectation:   She should be here soon.                                    │
+│ • Ask advice:    What should I do?                                           │
+│ • Criticism:     You shouldn't be so rude.                                   │
+│ • Past regret:   I should have studied more.                                 │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                OUGHT TO                                      │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ • Same as SHOULD but less common                                             │
+│ • You ought to exercise more. = You should exercise more.                    │
+│ • I ought to have called. = I should have called.                            │
+│ • Rarely used in questions and negatives                                     │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                HAD BETTER                                    │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ • Stronger than should - implies consequences                                │
+│ • You'd better hurry! (or something bad will happen)                         │
+│ • You'd better not be late! (warning)                                        │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

@@ -1,0 +1,290 @@
+================================================================================
+                            PRESENT SIMPLE
+                         (Presente Simple en Inglés)
+================================================================================
+
+El Present Simple se usa para hablar de hechos, rutinas, hábitos y 
+verdades generales.
+
+================================================================================
+                         STRUCTURE (Estructura)
+================================================================================
+
+AFFIRMATIVE (Afirmativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    VERB (base form)    +    COMPLEMENT                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/We/They    work               every day.                             │
+│  He/She/It        works              every day.                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I work in an office.
+→ She works in a hospital.
+→ They live in London.
+→ He plays football on Saturdays.
+
+NEGATIVE (Negativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    DO/DOES + NOT    +    VERB (base form)                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/We/They    don't (do not)      work    on Sundays.                   │
+│  He/She/It        doesn't (does not)  work    on Sundays.                   │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I don't like coffee.
+→ She doesn't eat meat.
+→ They don't speak French.
+→ He doesn't live here.
+
+INTERROGATIVE (Interrogativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  DO/DOES    +    SUBJECT    +    VERB (base form)    +    ?                 │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Do         I/you/we/they        work               here?                   │
+│  Does       he/she/it            work               here?                   │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ Do you like pizza?
+→ Does she speak English?
+→ Do they live in Madrid?
+→ Does he work here?
+
+SHORT ANSWERS (Respuestas cortas):
+
+→ Do you like coffee?      Yes, I do. / No, I don't.
+→ Does she work here?      Yes, she does. / No, she doesn't.
+
+================================================================================
+                    SPELLING RULES FOR HE/SHE/IT
+                    (Reglas de ortografía para 3ª persona)
+================================================================================
+
+GENERAL RULE: Add -S
+    work → works            play → plays
+    like → likes            read → reads
+    live → lives            eat → eats
+
+VERBS ENDING IN -S, -SS, -SH, -CH, -X, -O: Add -ES
+    pass → passes           wash → washes
+    watch → watches         fix → fixes
+    go → goes               do → does
+
+VERBS ENDING IN CONSONANT + Y: Change Y to -IES
+    study → studies         try → tries
+    fly → flies             carry → carries
+    cry → cries             worry → worries
+
+VERBS ENDING IN VOWEL + Y: Add -S
+    play → plays            stay → stays
+    enjoy → enjoys          buy → buys
+
+IRREGULAR:
+    have → has
+    be → is
+
+================================================================================
+                         USES (Usos)
+================================================================================
+
+1. HABITS AND ROUTINES (Hábitos y rutinas):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I wake up at 7 o'clock every day.                                             │
+│ Me despierto a las 7 cada día.                                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She always drinks coffee in the morning.                                      │
+│ Ella siempre toma café por la mañana.                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They go to the gym three times a week.                                        │
+│ Ellos van al gimnasio tres veces a la semana.                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He never eats breakfast.                                                      │
+│ Él nunca desayuna.                                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. FACTS AND GENERAL TRUTHS (Hechos y verdades generales):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The sun rises in the east.                                                    │
+│ El sol sale por el este.                                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Water boils at 100 degrees Celsius.                                           │
+│ El agua hierve a 100 grados centígrados.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Dogs bark.                                                                    │
+│ Los perros ladran.                                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The Earth goes around the Sun.                                                │
+│ La Tierra gira alrededor del Sol.                                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. PERMANENT SITUATIONS (Situaciones permanentes):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I live in Barcelona.                                                          │
+│ Vivo en Barcelona.                                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She works for a big company.                                                  │
+│ Ella trabaja para una gran empresa.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They own a restaurant.                                                        │
+│ Ellos son dueños de un restaurante.                                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. SCHEDULES AND TIMETABLES (Horarios):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The train leaves at 9:00.                                                     │
+│ El tren sale a las 9:00.                                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The movie starts at 8 pm.                                                     │
+│ La película empieza a las 8 pm.                                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ School begins in September.                                                   │
+│ El colegio empieza en septiembre.                                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+5. INSTRUCTIONS AND DIRECTIONS (Instrucciones):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ You turn left at the traffic lights.                                          │
+│ Giras a la izquierda en el semáforo.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ First, you mix the ingredients.                                               │
+│ Primero, mezclas los ingredientes.                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+6. LIKES AND DISLIKES (Gustos):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I love chocolate.                                                             │
+│ Me encanta el chocolate.                                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She hates getting up early.                                                   │
+│ Ella odia levantarse temprano.                                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They prefer tea to coffee.                                                    │
+│ Ellos prefieren té al café.                                                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    TIME EXPRESSIONS (Expresiones de tiempo)
+================================================================================
+
+FREQUENCY ADVERBS (Adverbios de frecuencia):
+
+always          → siempre          (100%)
+usually         → usualmente       (80%)
+often           → a menudo         (70%)
+sometimes       → a veces          (50%)
+occasionally    → ocasionalmente   (30%)
+rarely          → raramente        (10%)
+hardly ever     → casi nunca       (5%)
+never           → nunca            (0%)
+
+POSITION: Before the main verb, after BE
+
+→ She always arrives on time.
+→ I usually have breakfast at 8.
+→ He is always late. (after BE)
+→ They never go to the cinema.
+
+OTHER TIME EXPRESSIONS:
+
+every day/week/month/year       → cada día/semana/mes/año
+every morning/afternoon/evening → cada mañana/tarde/noche
+on Mondays/Tuesdays...          → los lunes/martes...
+once a week/month               → una vez a la semana/mes
+twice a week/month              → dos veces a la semana/mes
+three times a week              → tres veces a la semana
+in the morning/afternoon        → por la mañana/tarde
+at night                        → por la noche
+at the weekend                  → el fin de semana
+
+→ I go to the gym every day.
+→ She visits her parents once a week.
+→ They play football on Saturdays.
+
+================================================================================
+                    STATIVE VERBS (Verbos de estado)
+================================================================================
+
+Estos verbos normalmente NO se usan en tiempos continuos.
+Se usan en Present Simple incluso para situaciones actuales:
+
+MENTAL STATES (Estados mentales):
+know, believe, think, understand, remember, forget, realize,
+recognize, suppose, imagine, doubt, mean
+
+EMOTIONS (Emociones):
+love, like, hate, dislike, want, need, prefer, wish
+
+SENSES (Sentidos):
+see, hear, smell, taste, feel, sound, look, seem, appear
+
+POSSESSION (Posesión):
+have, own, belong, possess, contain, consist
+
+OTHER:
+be, cost, weigh, measure, owe, deserve, fit
+
+EJEMPLOS:
+→ I know the answer. (NOT: I am knowing)
+→ She loves chocolate. (NOT: She is loving)
+→ This book belongs to me. (NOT: This book is belonging)
+→ It costs $10. (NOT: It is costing)
+
+================================================================================
+                    PRESENT SIMPLE vs PRESENT CONTINUOUS
+================================================================================
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ PRESENT SIMPLE                       │ PRESENT CONTINUOUS                     │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Habits, routines                     │ Actions happening NOW                  │
+│ I drink coffee every morning.        │ I'm drinking coffee right now.         │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Permanent situations                 │ Temporary situations                   │
+│ I live in Madrid.                    │ I'm living with my parents.            │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Facts and truths                     │ Changing situations                    │
+│ Water boils at 100°C.                │ The weather is getting colder.         │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Scheduled events                     │ Future arrangements                    │
+│ The train leaves at 9.               │ I'm meeting John tomorrow.             │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+================================================================================
+                           COMMON MISTAKES (Errores comunes)
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  She work every day.                   She works every day.
+  He don't like coffee.                 He doesn't like coffee.
+  Does she works here?                  Does she work here?
+  I am know the answer.                 I know the answer.
+  She is love chocolate.                She loves chocolate.
+  He studys every night.                He studies every night.
+  The train is leaving at 9. (sched)    The train leaves at 9.
+  I am understanding now.               I understand now.
+  She haves two cars.                   She has two cars.
+  Do you likes pizza?                   Do you like pizza?
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+  AFFIRMATIVE         NEGATIVE              INTERROGATIVE
+  ─────────────────────────────────────────────────────────────────────────
+  I work              I don't work          Do I work?
+  You work            You don't work        Do you work?
+  He/She/It works     He/She/It doesn't     Does he/she/it work?
+                      work
+  We work             We don't work         Do we work?
+  They work           They don't work       Do they work?
+
+================================================================================

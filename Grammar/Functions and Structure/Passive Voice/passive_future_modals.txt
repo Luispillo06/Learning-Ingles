@@ -1,0 +1,239 @@
+================================================================================
+                    PASSIVE: FUTURE AND MODALS
+               (Voz Pasiva con Futuro y Modales)
+================================================================================
+
+================================================================================
+                    FUTURE SIMPLE PASSIVE (WILL)
+================================================================================
+
+STRUCTURE:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    WILL BE    +    PAST PARTICIPLE    +    (BY)               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  All subjects    will be          finished / done / built                    │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+AFFIRMATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  They will finish the project next week.                              │
+│ PASSIVE: The project will be finished next week.                              │
+│          El proyecto será terminado la semana que viene.                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Someone will deliver the package tomorrow.                           │
+│ PASSIVE: The package will be delivered tomorrow.                              │
+│          El paquete será entregado mañana.                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They will build a new stadium in this area.                          │
+│ PASSIVE: A new stadium will be built in this area.                            │
+│          Un nuevo estadio será construido en esta zona.                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  The company will announce the results.                               │
+│ PASSIVE: The results will be announced.                                       │
+│          Los resultados serán anunciados.                                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  They won't accept late applications.                                 │
+│ PASSIVE: Late applications won't be accepted.                                 │
+│          Las solicitudes tardías no serán aceptadas.                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  The shop won't sell alcohol after 10 pm.                             │
+│ PASSIVE: Alcohol won't be sold after 10 pm.                                   │
+│          El alcohol no será vendido después de las 10.                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+INTERROGATIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  Will they repair the road?                                           │
+│ PASSIVE: Will the road be repaired?                                           │
+│          ¿Será reparada la carretera?                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  When will they announce the winner?                                  │
+│ PASSIVE: When will the winner be announced?                                   │
+│          ¿Cuándo será anunciado el ganador?                                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    BE GOING TO PASSIVE
+================================================================================
+
+STRUCTURE:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    AM/IS/ARE GOING TO BE    +    PAST PARTICIPLE              │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  The house       is going to be                demolished                    │
+│  They            are going to be               interviewed                   │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLES:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  They are going to build a new school.                                │
+│ PASSIVE: A new school is going to be built.                                   │
+│          Una nueva escuela va a ser construida.                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They are going to interview the candidates tomorrow.                 │
+│ PASSIVE: The candidates are going to be interviewed tomorrow.                 │
+│          Los candidatos van a ser entrevistados mañana.                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  The company is going to launch a new product.                        │
+│ PASSIVE: A new product is going to be launched.                               │
+│          Un nuevo producto va a ser lanzado.                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    MODAL PASSIVE
+================================================================================
+
+STRUCTURE:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    MODAL    +    BE    +    PAST PARTICIPLE    +    (BY)      │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  The work        can/could/must/should/may/might    be    done              │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+CAN (Ability/Possibility - Habilidad/Posibilidad):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  You can do this exercise easily.                                     │
+│ PASSIVE: This exercise can be done easily.                                    │
+│          Este ejercicio puede hacerse fácilmente.                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They can see the mountains from here.                                │
+│ PASSIVE: The mountains can be seen from here.                                 │
+│          Las montañas pueden verse desde aquí.                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  You can't park cars here.                                            │
+│ PASSIVE: Cars can't be parked here.                                           │
+│          Los coches no pueden aparcarse aquí.                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+COULD (Past Ability/Possibility - Pasado/Posibilidad):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  They could finish the work by Friday.                                │
+│ PASSIVE: The work could be finished by Friday.                                │
+│          El trabajo podría terminarse para el viernes.                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Someone could solve this problem.                                    │
+│ PASSIVE: This problem could be solved.                                        │
+│          Este problema podría resolverse.                                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+MUST (Obligation - Obligación):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  You must complete the form.                                          │
+│ PASSIVE: The form must be completed.                                          │
+│          El formulario debe ser completado.                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Everyone must wear a seatbelt.                                       │
+│ PASSIVE: Seatbelts must be worn.                                              │
+│          Los cinturones deben ser usados.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  You mustn't touch the exhibits.                                      │
+│ PASSIVE: The exhibits mustn't be touched.                                     │
+│          Las exhibiciones no deben ser tocadas.                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+SHOULD (Advice - Consejo):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  You should check the results.                                        │
+│ PASSIVE: The results should be checked.                                       │
+│          Los resultados deberían ser revisados.                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They should inform the clients.                                      │
+│ PASSIVE: The clients should be informed.                                      │
+│          Los clientes deberían ser informados.                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Someone should clean this room.                                      │
+│ PASSIVE: This room should be cleaned.                                         │
+│          Esta habitación debería ser limpiada.                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+MAY/MIGHT (Possibility - Posibilidad):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  They may cancel the event.                                           │
+│ PASSIVE: The event may be cancelled.                                          │
+│          El evento puede ser cancelado.                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Someone might steal your bag.                                        │
+│ PASSIVE: Your bag might be stolen.                                            │
+│          Tu bolso podría ser robado.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They might postpone the meeting.                                     │
+│ PASSIVE: The meeting might be postponed.                                      │
+│          La reunión podría ser pospuesta.                                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+HAVE TO (Necessity - Necesidad):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  You have to sign the document.                                       │
+│ PASSIVE: The document has to be signed.                                       │
+│          El documento tiene que ser firmado.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They had to cancel the flight.                                       │
+│ PASSIVE: The flight had to be cancelled.                                      │
+│          El vuelo tuvo que ser cancelado.                                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    MODAL PERFECT PASSIVE
+================================================================================
+
+Para hablar del pasado con modales:
+
+STRUCTURE:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT  +  MODAL  +  HAVE BEEN  +  PAST PARTICIPLE                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  The work    should     have been     finished                               │
+│  The car     must       have been     stolen                                 │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLES:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  Someone should have told him.                                        │
+│ PASSIVE: He should have been told.                                            │
+│          Él debería haber sido informado.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They could have finished the project.                                │
+│ PASSIVE: The project could have been finished.                                │
+│          El proyecto podría haber sido terminado.                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Someone must have stolen the money.                                  │
+│ PASSIVE: The money must have been stolen.                                     │
+│          El dinero debe haber sido robado.                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They might have cancelled the meeting.                               │
+│ PASSIVE: The meeting might have been cancelled.                               │
+│          La reunión podría haber sido cancelada.                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Someone ought to have warned them.                                   │
+│ PASSIVE: They ought to have been warned.                                      │
+│          Ellos deberían haber sido advertidos.                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    SUMMARY TABLE
+================================================================================
+
+┌────────────────────────┬──────────────────────────────────────────────────────┐
+│ FORM                   │ PASSIVE STRUCTURE                                    │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Future (will)          │ will be + past participle                            │
+│                        │ The house will be sold.                              │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Be going to            │ am/is/are going to be + past participle              │
+│                        │ The house is going to be sold.                       │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Modal (present)        │ modal + be + past participle                         │
+│                        │ The house can/must/should be sold.                   │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Modal (past)           │ modal + have been + past participle                  │
+│                        │ The house should have been sold.                     │
+└────────────────────────┴──────────────────────────────────────────────────────┘
+
+================================================================================

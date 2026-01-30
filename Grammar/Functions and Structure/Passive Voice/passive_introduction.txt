@@ -1,0 +1,138 @@
+================================================================================
+                          PASSIVE VOICE
+                    (Voz Pasiva en Inglés)
+================================================================================
+
+La voz pasiva se usa cuando el foco está en la ACCIÓN o el OBJETO,
+no en quién realiza la acción.
+
+================================================================================
+                    ACTIVE vs PASSIVE
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  The subject DOES the action                                        │
+│          El sujeto HACE la acción                                           │
+│                                                                             │
+│ PASSIVE: The subject RECEIVES the action                                    │
+│          El sujeto RECIBE la acción                                         │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLES:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  Shakespeare wrote Hamlet.                                           │
+│          Shakespeare escribió Hamlet.                                        │
+│          (Subject = Shakespeare → does the action)                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ PASSIVE: Hamlet was written by Shakespeare.                                  │
+│          Hamlet fue escrito por Shakespeare.                                 │
+│          (Subject = Hamlet → receives the action)                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    BASIC STRUCTURE
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    BE (conjugated)    +    PAST PARTICIPLE    +    (BY + AGENT)│
+├─────────────────────────────────────────────────────────────────────────────┤
+│  The letter       was                     written              (by John)     │
+│  The house        is being                built                (by workers)  │
+│  The work         will be                 finished             (by Friday)   │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WHEN TO USE PASSIVE
+================================================================================
+
+1. WHEN THE AGENT IS UNKNOWN (Cuando no sabemos quién):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ My car was stolen last night.                                                 │
+│ Mi coche fue robado anoche. (no sé quién lo robó)                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The window was broken.                                                        │
+│ La ventana fue rota. (no sé quién la rompió)                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. WHEN THE AGENT IS OBVIOUS (Cuando es obvio):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The thief was arrested. (by the police - obvious)                             │
+│ El ladrón fue arrestado. (por la policía - obvio)                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The patient was operated on. (by doctors - obvious)                           │
+│ El paciente fue operado. (por médicos - obvio)                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. WHEN THE AGENT IS UNIMPORTANT (Cuando no importa quién):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ This building was built in 1900.                                              │
+│ Este edificio fue construido en 1900.                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ English is spoken all over the world.                                         │
+│ El inglés se habla en todo el mundo.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. FORMAL/SCIENTIFIC/OFFICIAL WRITING:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The experiment was conducted in a laboratory.                                 │
+│ El experimento se realizó en un laboratorio.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Mistakes were made.                                                           │
+│ Se cometieron errores. (formal, evita culpar)                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+5. TO EMPHASIZE THE ACTION OR OBJECT:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The Mona Lisa was painted by Leonardo da Vinci.                               │
+│ La Mona Lisa fue pintada por Leonardo da Vinci.                               │
+│ (focus on the painting, not the painter)                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    TRANSFORMING ACTIVE TO PASSIVE
+================================================================================
+
+STEP BY STEP:
+
+1. Find the OBJECT in the active sentence
+2. Make it the SUBJECT of the passive sentence
+3. Add the correct form of BE
+4. Use the PAST PARTICIPLE of the main verb
+5. Add BY + AGENT (optional)
+
+EXAMPLE:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  The chef prepares the meal.                                          │
+│          ────────  ────────  ────────                                         │
+│          Subject   Verb      Object                                           │
+│                                                                               │
+│ PASSIVE: The meal is prepared by the chef.                                    │
+│          ────────  ──  ────────  ──────────                                   │
+│          Subject   BE  Past Part. Agent                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                           PASSIVE VOICE                                      │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ FORMULA:   Subject + BE + Past Participle + (by agent)                       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ USE WHEN:                                                                    │
+│ • Agent is unknown:    My bike was stolen.                                   │
+│ • Agent is obvious:    The thief was arrested.                               │
+│ • Agent is unimportant: English is spoken here.                              │
+│ • Formal/scientific:   The results were analyzed.                            │
+│ • Emphasize object:    The bridge was designed by Calatrava.                 │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

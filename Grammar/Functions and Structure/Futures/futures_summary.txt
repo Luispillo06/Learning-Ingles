@@ -1,0 +1,235 @@
+================================================================================
+                         FUTURE TENSES SUMMARY
+                   (Resumen de Tiempos Futuros)
+================================================================================
+
+En inglés hay varias formas de expresar el futuro. Cada una tiene
+usos específicos y matices diferentes.
+
+================================================================================
+                    ALL FUTURE FORMS AT A GLANCE
+================================================================================
+
+┌────────────────────────────┬─────────────────────────────────────────────────┐
+│ FORM                       │ MAIN USE                                        │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ WILL + verb                │ Predictions, spontaneous decisions, promises    │
+│ I will help you.           │ offers, requests                                │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ BE GOING TO + verb         │ Plans/intentions, predictions with evidence     │
+│ I'm going to study.        │ (already decided)                               │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ PRESENT CONTINUOUS         │ Fixed arrangements (in diary/calendar)          │
+│ I'm meeting John at 3.     │ Travel plans with tickets                       │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ PRESENT SIMPLE             │ Timetables, schedules, official programs        │
+│ The train leaves at 8.     │ (things we don't control)                       │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ FUTURE CONTINUOUS          │ Action in progress at a future time             │
+│ I'll be working at 9.      │ Polite inquiries                                │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ FUTURE PERFECT             │ Action completed before a future time           │
+│ I'll have finished by 5.   │ Duration until a future point                   │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ FUTURE PERFECT CONTINUOUS  │ Duration of action up to a future point         │
+│ I'll have been waiting     │ Cause of a future situation                     │
+│ for 2 hours.               │                                                 │
+└────────────────────────────┴─────────────────────────────────────────────────┘
+
+================================================================================
+                    WILL vs BE GOING TO
+================================================================================
+
+Esta es la distinción más importante:
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ WILL                                 │ BE GOING TO                            │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ SPONTANEOUS DECISION                 │ PLANNED INTENTION                      │
+│ (decide NOW)                         │ (decided BEFORE)                       │
+│                                      │                                        │
+│ "I'm cold."                          │ "What are your plans?"                 │
+│ "I'll close the window."             │ "I'm going to study medicine."         │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ PREDICTION (opinion)                 │ PREDICTION (evidence)                  │
+│                                      │                                        │
+│ I think it will rain.                │ Look at those clouds! It's going       │
+│ (creo, opino)                        │ to rain. (veo evidencia)               │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ PROMISES                             │ INTENTIONS                             │
+│                                      │                                        │
+│ I'll always love you.                │ I'm going to learn French.             │
+│ I won't tell anyone.                 │ We're going to get married.            │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ OFFERS                               │ PLANS                                  │
+│                                      │                                        │
+│ I'll help you.                       │ I'm going to help at the shelter.      │
+│ I'll carry that for you.             │ (volunteer work I planned)             │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+================================================================================
+                    CERTAINTY SCALE
+================================================================================
+
+De MÁS FIJO a MENOS FIJO:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 1. PRESENT SIMPLE (for timetables)                                          │
+│    The train leaves at 8:15.                                                 │
+│    → Official schedule, can't be changed                                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 2. PRESENT CONTINUOUS                                                        │
+│    I'm meeting John at 3 pm.                                                 │
+│    → Fixed arrangement, in my diary                                          │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 3. BE GOING TO                                                               │
+│    I'm going to study medicine.                                              │
+│    → Intention, decided but maybe not fully arranged                         │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 4. WILL                                                                      │
+│    I think it will rain tomorrow.                                            │
+│    → Prediction, opinion, spontaneous decision                               │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    CHOOSING THE RIGHT FUTURE FORM
+================================================================================
+
+¿CUÁL USO? Hazte estas preguntas:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ ¿Es un horario oficial (tren, avión, tienda)?                               │
+│ → PRESENT SIMPLE: The flight departs at 7:30.                               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ ¿Es una cita fija con hora y lugar?                                         │
+│ → PRESENT CONTINUOUS: I'm meeting Sarah at 3.                               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ ¿Es una intención/plan que ya decidí?                                       │
+│ → BE GOING TO: I'm going to study harder.                                   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ ¿Hay evidencia visible de lo que va a pasar?                                │
+│ → BE GOING TO: Look! It's going to rain!                                    │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ ¿Es una decisión espontánea (ahora mismo)?                                  │
+│ → WILL: I'll help you with that.                                            │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ ¿Es una predicción/opinión?                                                 │
+│ → WILL: I think they'll win.                                                │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ ¿Es una promesa?                                                            │
+│ → WILL: I'll always love you.                                               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ ¿Qué estarás HACIENDO en un momento específico?                             │
+│ → FUTURE CONTINUOUS: At 9, I'll be working.                                 │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ ¿Qué habrás COMPLETADO antes de cierto momento?                             │
+│ → FUTURE PERFECT: By 5, I'll have finished.                                 │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ ¿Cuánto TIEMPO habrás estado haciendo algo?                                 │
+│ → FUTURE PERFECT CONTINUOUS: I'll have been waiting for 2 hours.            │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    EXAMPLE SITUATIONS
+================================================================================
+
+SITUATION 1: Making weekend plans
+
+A: "What are you doing this weekend?" (asking about plans)
+B: "I'm playing tennis on Saturday." (fixed arrangement)
+   "I'm going to clean my room." (intention)
+   "I might go to the cinema." (possibility)
+
+SITUATION 2: Phone is ringing
+
+A: "The phone is ringing!"
+B: "I'll get it." (spontaneous decision)
+   NOT: "I'm getting it." / "I'm going to get it."
+
+SITUATION 3: Weather prediction
+
+Looking at clouds:
+→ "It's going to rain!" (evidence-based)
+
+General prediction:
+→ "I think it will rain tomorrow." (opinion)
+
+SITUATION 4: Travel
+
+Official schedule:
+→ "The train leaves at 8:15." (Present Simple)
+
+Your personal plan:
+→ "I'm leaving at 7." (Present Continuous)
+
+Your intention:
+→ "I'm going to take the early train." (Be Going To)
+
+================================================================================
+                    FUTURE STRUCTURES SUMMARY
+================================================================================
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│                              WILL                                          │
+│ Structure: will + verb (base)                                              │
+│ Example:   I will help you.                                                │
+│ Uses:      predictions, spontaneous decisions, promises, offers            │
+├────────────────────────────────────────────────────────────────────────────┤
+│                           BE GOING TO                                      │
+│ Structure: am/is/are + going to + verb (base)                              │
+│ Example:   I'm going to study medicine.                                    │
+│ Uses:      plans, intentions, predictions with evidence                    │
+├────────────────────────────────────────────────────────────────────────────┤
+│                       PRESENT CONTINUOUS                                   │
+│ Structure: am/is/are + verb-ing + future time                              │
+│ Example:   I'm meeting John tomorrow.                                      │
+│ Uses:      fixed arrangements, appointments                                │
+├────────────────────────────────────────────────────────────────────────────┤
+│                         PRESENT SIMPLE                                     │
+│ Structure: verb (base) / verb-s + future time                              │
+│ Example:   The train leaves at 8.                                          │
+│ Uses:      timetables, schedules, programs                                 │
+├────────────────────────────────────────────────────────────────────────────┤
+│                       FUTURE CONTINUOUS                                    │
+│ Structure: will be + verb-ing                                              │
+│ Example:   I'll be working at 9.                                           │
+│ Uses:      action in progress at future time, polite inquiries             │
+├────────────────────────────────────────────────────────────────────────────┤
+│                        FUTURE PERFECT                                      │
+│ Structure: will have + past participle                                     │
+│ Example:   I'll have finished by 5.                                        │
+│ Uses:      completed action before future time                             │
+├────────────────────────────────────────────────────────────────────────────┤
+│                   FUTURE PERFECT CONTINUOUS                                │
+│ Structure: will have been + verb-ing                                       │
+│ Example:   I'll have been waiting for 2 hours.                             │
+│ Uses:      duration of action up to future time                            │
+└────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    TIME EXPRESSIONS FOR FUTURE
+================================================================================
+
+TOMORROW:
+    tomorrow, tomorrow morning, tomorrow night
+
+NEXT:
+    next week, next month, next year, next Monday
+
+IN:
+    in an hour, in two days, in a week, in the future
+
+SOON:
+    soon, later, shortly
+
+THIS:
+    this evening, this weekend, this summer
+
+OTHER:
+    tonight, one day, someday
+
+FOR FUTURE PERFECT:
+    by + time (by 5 pm, by tomorrow, by next week)
+    by the time + present (by the time you arrive)
+
+================================================================================

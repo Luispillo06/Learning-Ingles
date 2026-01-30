@@ -1,0 +1,184 @@
+================================================================================
+                          SECOND CONDITIONAL
+                   (Segundo Condicional en Inglés)
+================================================================================
+
+El Second Conditional se usa para hablar de situaciones HIPOTÉTICAS,
+IMAGINARIAS o IMPROBABLES en el presente o futuro.
+
+================================================================================
+                         STRUCTURE (Estructura)
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  IF    +    PAST SIMPLE    ,    WOULD + VERB                                │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  If         I had money,        I would buy a car.                          │
+│  If         she knew,           she would tell us.                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+También puede invertirse:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  WOULD + VERB    +    IF    +    PAST SIMPLE                                │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I would buy a car      if          I had money.                            │
+│  She would tell us      if          she knew.                               │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+⚠️ NOTA ESPECIAL CON "BE":
+
+Formalmente, con el verbo BE usamos WERE para todos los sujetos:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If I were you, I would accept the offer.                                      │
+│ Si yo fuera tú, aceptaría la oferta.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If she were here, she would help us.                                          │
+│ Si ella estuviera aquí, nos ayudaría.                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If he were taller, he would play basketball.                                  │
+│ Si él fuera más alto, jugaría al baloncesto.                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+En inglés informal, "was" también es aceptable:
+→ If I was rich... (informal)
+→ If I were rich... (formal, más correcto)
+
+================================================================================
+                         USES (Usos)
+================================================================================
+
+1. HYPOTHETICAL/UNREAL PRESENT SITUATIONS (Situaciones hipotéticas):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If I had more time, I would learn Japanese.                                   │
+│ Si tuviera más tiempo, aprendería japonés. (pero no tengo tiempo)             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If I were rich, I would travel the world.                                     │
+│ Si fuera rico, viajaría por el mundo. (pero no soy rico)                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If she spoke Spanish, she would understand.                                   │
+│ Si ella hablara español, entendería. (pero no habla español)                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If we lived near the beach, we would swim every day.                          │
+│ Si viviéramos cerca de la playa, nadaríamos cada día.                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. IMPROBABLE FUTURE SITUATIONS (Situaciones improbables):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If I won the lottery, I would buy a mansion.                                  │
+│ Si ganara la lotería, compraría una mansión. (muy improbable)                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If aliens landed on Earth, what would you do?                                 │
+│ Si aterrizaran alienígenas, ¿qué harías?                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If I met the President, I would be nervous.                                   │
+│ Si conociera al Presidente, estaría nervioso.                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. ADVICE WITH "IF I WERE YOU" (Consejos):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If I were you, I would see a doctor.                                          │
+│ Si yo fuera tú, iría al médico.                                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If I were you, I wouldn't accept that job.                                    │
+│ Si yo fuera tú, no aceptaría ese trabajo.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If I were in your position, I would talk to her.                              │
+│ Si estuviera en tu posición, hablaría con ella.                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. WISHES AND DREAMS (Deseos y sueños):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If I could fly, I would visit every country.                                  │
+│ Si pudiera volar, visitaría todos los países.                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If I had superpowers, I would save the world.                                 │
+│ Si tuviera superpoderes, salvaría el mundo.                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If money weren't a problem, what would you do?                                │
+│ Si el dinero no fuera un problema, ¿qué harías?                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    VARIATIONS (Variaciones)
+================================================================================
+
+En lugar de WOULD, podemos usar otros modales:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If + Past Simple + COULD                                                      │
+│ If I had wings, I could fly.                                                  │
+│ Si tuviera alas, podría volar.                                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If + Past Simple + MIGHT                                                      │
+│ If she asked nicely, he might help.                                           │
+│ Si lo pidiera amablemente, él podría ayudar.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If + Past Simple + SHOULD                                                     │
+│ If you won, you should celebrate.                                             │
+│ Si ganaras, deberías celebrarlo.                                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    FIRST vs SECOND CONDITIONAL
+================================================================================
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ FIRST CONDITIONAL                    │ SECOND CONDITIONAL                     │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ REAL/POSSIBLE situation              │ UNREAL/HYPOTHETICAL situation          │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ If I have time, I will help you.     │ If I had time, I would help you.       │
+│ (maybe I will have time)             │ (I don't have time now)                │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ If it rains, I will take an umbrella.│ If it rained, I would take an umbrella.│
+│ (it might rain - possible)           │ (it's not raining / unlikely to rain)  │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ If she calls, I will answer.         │ If she called, I would answer.         │
+│ (she might call)                     │ (she's not calling / won't call)       │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+EXAMPLE CONTRAST:
+
+→ If I see John, I will tell him. (es posible que lo vea)
+→ If I saw John, I would tell him. (es improbable / hipotético)
+
+================================================================================
+                           COMMON MISTAKES
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  If I would have money, I would buy.   If I had money, I would buy.
+  If I was you, I'd go. (formal)        If I were you, I'd go.
+  If she will know, she would tell.     If she knew, she would tell.
+  I would buy if I would have money.    I would buy if I had money.
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                          SECOND CONDITIONAL                                  │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ STRUCTURE:  If + Past Simple, would + verb                                   │
+│             (Use WERE with all subjects for BE)                              │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ USE:        Unreal/hypothetical/imaginary situations                         │
+│             • Present unreal situations                                      │
+│             • Improbable future situations                                   │
+│             • Advice (If I were you...)                                      │
+│             • Dreams and wishes                                              │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ PROBABILITY: LOW - we don't believe it will happen                           │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ EXAMPLE:    If I were rich, I would travel the world.                        │
+│             (but I'm not rich)                                               │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

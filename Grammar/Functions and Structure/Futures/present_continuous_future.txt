@@ -1,0 +1,208 @@
+================================================================================
+                    PRESENT CONTINUOUS FOR FUTURE
+                  (Presente Continuo para el Futuro)
+================================================================================
+
+El Present Continuous puede usarse para hablar del FUTURO cuando nos 
+referimos a planes y citas fijos, especialmente con hora y lugar definidos.
+
+================================================================================
+                         STRUCTURE (Estructura)
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    BE (am/is/are)    +    VERB-ING    +    FUTURE TIME        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I                  am                   meeting          him tomorrow.     │
+│  He/She/It          is                   leaving          at 5 pm.          │
+│  You/We/They        are                  having           dinner tonight.   │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I'm meeting John at 3 o'clock.
+→ She's flying to Paris tomorrow.
+→ We're having a party on Saturday.
+→ They're getting married next month.
+
+================================================================================
+                         USES (Usos)
+================================================================================
+
+1. FIXED ARRANGEMENTS (Planes fijos con fecha/hora):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I'm meeting Sarah at 7 pm.                                                    │
+│ Me reúno con Sarah a las 7. (está en mi agenda)                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She's seeing the doctor on Monday.                                            │
+│ Ella tiene cita con el médico el lunes.                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We're having dinner with the Smiths tonight.                                  │
+│ Cenamos con los Smith esta noche.                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They're arriving at 10 am.                                                    │
+│ Llegan a las 10 de la mañana.                                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. TRAVEL AND TRANSPORT (Viajes y transporte):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I'm flying to London next week.                                               │
+│ Vuelo a Londres la semana que viene.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She's leaving tomorrow morning.                                               │
+│ Ella sale mañana por la mañana.                                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We're taking the train at 8:15.                                               │
+│ Tomamos el tren a las 8:15.                                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He's driving to Madrid on Friday.                                             │
+│ Él conduce a Madrid el viernes.                                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. SOCIAL EVENTS (Eventos sociales):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ We're getting married in June.                                                │
+│ Nos casamos en junio.                                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They're having a baby.                                                        │
+│ Están esperando un bebé. / Van a tener un bebé.                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I'm starting a new job next Monday.                                           │
+│ Empiezo un nuevo trabajo el próximo lunes.                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She's throwing a party this weekend.                                          │
+│ Ella da una fiesta este fin de semana.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+           PRESENT CONTINUOUS vs BE GOING TO vs WILL
+================================================================================
+
+┌────────────────────┬───────────────────────────┬──────────────────────────────┐
+│ PRESENT CONTINUOUS │ BE GOING TO               │ WILL                         │
+├────────────────────┼───────────────────────────┼──────────────────────────────┤
+│ FIXED ARRANGEMENT  │ INTENTION/PLAN            │ SPONTANEOUS DECISION         │
+│ (confirmed)        │ (decided but maybe not    │ (decided now)                │
+│                    │ arranged)                 │                              │
+├────────────────────┼───────────────────────────┼──────────────────────────────┤
+│ I'm meeting Tom    │ I'm going to meet Tom     │ I'll meet Tom sometime.      │
+│ at 3 pm.           │ soon.                     │ (decide now)                 │
+│ (it's in my diary) │ (I intend to, but when?)  │                              │
+├────────────────────┼───────────────────────────┼──────────────────────────────┤
+│ We're flying to    │ We're going to travel     │ We'll probably visit         │
+│ Paris tomorrow.    │ to Europe.                │ Europe someday.              │
+│ (tickets bought)   │ (intention)               │ (prediction/possibility)     │
+├────────────────────┼───────────────────────────┼──────────────────────────────┤
+│ She's seeing the   │ She's going to see a      │ She'll see a doctor if it    │
+│ doctor at 2.       │ doctor.                   │ gets worse.                  │
+│ (appointment made) │ (intention)               │ (conditional)                │
+└────────────────────┴───────────────────────────┴──────────────────────────────┘
+
+NIVEL DE CERTEZA (más seguro → menos seguro):
+
+Present Continuous  >  Be Going To  >  Will
+(plan confirmado)      (intención)     (predicción/decisión)
+
+================================================================================
+                    COMMON VERBS WITH FUTURE MEANING
+================================================================================
+
+Verbos que se usan frecuentemente con Present Continuous para el futuro:
+
+MEETING/SEEING:
+→ I'm meeting John tomorrow.
+→ She's seeing the dentist next week.
+
+TRAVEL:
+→ I'm flying to Rome on Monday.
+→ We're leaving early tomorrow.
+→ They're arriving at 6 pm.
+→ He's coming home next week.
+
+GOING:
+→ I'm going to a concert tonight.
+→ She's going to the gym later.
+
+HAVING/DOING:
+→ We're having a party on Saturday.
+→ They're doing a presentation tomorrow.
+
+STARTING/FINISHING:
+→ I'm starting my new job on Monday.
+→ She's finishing university in June.
+
+================================================================================
+                    PRESENT SIMPLE FOR FUTURE
+================================================================================
+
+El PRESENT SIMPLE también puede usarse para el futuro con:
+
+HORARIOS Y PROGRAMAS (timetables, schedules):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The train leaves at 8:15.                                                     │
+│ El tren sale a las 8:15. (horario fijo)                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The movie starts at 7 pm.                                                     │
+│ La película empieza a las 7 pm.                                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The shop opens at 9 am.                                                       │
+│ La tienda abre a las 9.                                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ What time does the flight arrive?                                             │
+│ ¿A qué hora llega el vuelo?                                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ School finishes at 3:30.                                                      │
+│ El colegio termina a las 3:30.                                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+Nota: Present Simple = horarios oficiales que no controlamos
+      Present Continuous = nuestros planes personales
+
+COMPARACIÓN:
+
+→ The train leaves at 6. (horario oficial)
+→ I'm leaving at 6. (mi plan personal)
+
+→ The movie starts at 8. (programación del cine)
+→ I'm starting work at 8. (mi plan)
+
+================================================================================
+                           COMMON MISTAKES (Errores comunes)
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  I meeting him tomorrow.               I'm meeting him tomorrow.
+  She is meet the doctor.               She is meeting the doctor.
+  We are go to Paris tomorrow.          We're going to Paris tomorrow.
+  What you are doing tonight?           What are you doing tonight?
+  I'm meet John at 5.                   I'm meeting John at 5.
+  They arriving at 10.                  They're arriving at 10.
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                      PRESENT CONTINUOUS FOR FUTURE                           │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ STRUCTURE:  Subject + am/is/are + verb-ing + future time expression         │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ USE:        For FIXED ARRANGEMENTS and APPOINTMENTS                          │
+│             (Things already organized, in your diary/calendar)               │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ EXAMPLES:                                                                    │
+│ • I'm meeting John at 3 pm. (appointment)                                    │
+│ • She's flying to Paris tomorrow. (ticket bought)                            │
+│ • We're having dinner with friends tonight. (arranged)                       │
+│ • They're getting married next month. (date set)                             │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ REMEMBER:                                                                    │
+│ • Must have a future time word (tomorrow, tonight, next week...)             │
+│ • More definite than "be going to"                                           │
+│ • Implies the arrangement is confirmed                                       │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

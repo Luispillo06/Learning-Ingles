@@ -1,0 +1,265 @@
+================================================================================
+                             PAST PERFECT
+                       (Pasado Perfecto en Inglés)
+================================================================================
+
+El Past Perfect se usa para hablar de una acción que ocurrió ANTES de 
+otra acción en el pasado. Es "el pasado del pasado".
+
+================================================================================
+                         STRUCTURE (Estructura)
+================================================================================
+
+AFFIRMATIVE (Afirmativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    HAD    +    PAST PARTICIPLE (V3)    +    COMPLEMENT        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    had    worked/eaten/seen                        │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I had finished my homework before dinner.
+→ She had already left when I arrived.
+→ They had lived in Paris before moving to London.
+→ He had never seen snow before that day.
+
+CONTRACTION: had = 'd
+→ I'd finished       → She'd left
+→ They'd seen        → We'd eaten
+
+NEGATIVE (Negativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    HAD NOT (HADN'T)    +    PAST PARTICIPLE (V3)              │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    hadn't    finished/seen                         │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I hadn't finished when he arrived.
+→ She hadn't eaten anything all day.
+→ They hadn't met before the party.
+→ He hadn't studied, so he failed.
+
+INTERROGATIVE (Interrogativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  HAD    +    SUBJECT    +    PAST PARTICIPLE (V3)    +    ?                 │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Had         I/you/he/she/it/we/they    finished?                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ Had you finished before he arrived?
+→ Had she ever been to London before?
+→ Had they met before the party?
+→ Where had he gone?
+
+SHORT ANSWERS (Respuestas cortas):
+
+→ Had you finished?        Yes, I had. / No, I hadn't.
+→ Had she arrived?         Yes, she had. / No, she hadn't.
+
+================================================================================
+                         USES (Usos)
+================================================================================
+
+1. ACTION BEFORE ANOTHER PAST ACTION (Acción anterior a otra):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ When I arrived at the station, the train had already left.                    │
+│ Cuando llegué a la estación, el tren ya había salido.                         │
+│                                                                               │
+│ TIMELINE:  train left ───────────────> I arrived                              │
+│            (first - Past Perfect)      (second - Past Simple)                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She had finished her work before she went home.                               │
+│ Ella había terminado su trabajo antes de irse a casa.                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I had never seen such a beautiful place before I visited Italy.               │
+│ Nunca había visto un lugar tan hermoso antes de visitar Italia.               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ By the time we got to the cinema, the film had started.                       │
+│ Para cuando llegamos al cine, la película había empezado.                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. EXPERIENCE BEFORE A PAST MOMENT (Experiencia hasta un momento pasado):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I had never flown before that trip.                                           │
+│ Nunca había volado antes de ese viaje.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She had visited Paris three times before she moved there.                     │
+│ Ella había visitado París tres veces antes de mudarse allí.                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Had you ever met him before the party?                                        │
+│ ¿Lo habías conocido antes de la fiesta?                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ It was the best meal I had ever eaten.                                        │
+│ Era la mejor comida que había comido jamás.                                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. CAUSE OF A PAST SITUATION (Causa de una situación pasada):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I was tired because I hadn't slept well.                                      │
+│ Estaba cansado porque no había dormido bien.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She was hungry because she hadn't eaten all day.                              │
+│ Ella tenía hambre porque no había comido en todo el día.                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He failed the exam because he hadn't studied.                                 │
+│ Reprobó el examen porque no había estudiado.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They were lost because they hadn't brought a map.                             │
+│ Estaban perdidos porque no habían traído un mapa.                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. REPORTED SPEECH (Estilo indirecto):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Direct: "I have finished my work."                                            │
+│ Reported: She said she had finished her work.                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Direct: "I saw him yesterday."                                                │
+│ Reported: He said he had seen him the day before.                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Direct: "I didn't eat breakfast."                                             │
+│ Reported: She said she hadn't eaten breakfast.                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+5. WISHES ABOUT THE PAST (Deseos sobre el pasado):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I wish I had studied harder.                                                  │
+│ Ojalá hubiera estudiado más.                                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If only I had known!                                                          │
+│ ¡Si solo hubiera sabido!                                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She wished she hadn't said that.                                              │
+│ Ella deseaba no haber dicho eso.                                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+6. THIRD CONDITIONAL (Condicional 3):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If I had known, I would have helped.                                          │
+│ Si hubiera sabido, habría ayudado.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If she had studied, she would have passed.                                    │
+│ Si hubiera estudiado, habría aprobado.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If they had arrived earlier, they wouldn't have missed the flight.            │
+│ Si hubieran llegado antes, no habrían perdido el vuelo.                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    KEY WORDS AND TIME EXPRESSIONS
+================================================================================
+
+BEFORE:
+→ I had finished before he arrived.
+→ Before I left, I had checked everything.
+
+AFTER:
+→ After she had eaten, she went to bed.
+→ I went home after I had finished work.
+
+BY THE TIME:
+→ By the time I arrived, they had left.
+→ By the time she called, I had already heard the news.
+
+WHEN:
+→ When I got there, the party had already started.
+→ When she woke up, the sun had risen.
+
+ALREADY (ya):
+→ I had already seen the movie.
+→ She had already left when I arrived.
+
+JUST (acabar de):
+→ I had just finished when he called.
+→ She had just left when you arrived.
+
+NEVER (nunca):
+→ I had never been there before.
+→ She had never seen snow.
+
+YET (todavía - en negativas):
+→ I hadn't finished yet when he arrived.
+→ She hadn't eaten yet.
+
+================================================================================
+                    PAST PERFECT vs PAST SIMPLE
+================================================================================
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ PAST PERFECT (earlier action)        │ PAST SIMPLE (later action)             │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ The train had left                   │ when I arrived.                        │
+│ (FIRST - earlier)                    │ (SECOND - later)                       │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ I had already eaten                  │ when she invited me to lunch.          │
+│ (FIRST - earlier)                    │ (SECOND - later)                       │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ She had studied English              │ before she moved to London.            │
+│ (FIRST - earlier)                    │ (SECOND - later)                       │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+NOTA: Si el orden de las acciones es claro, a veces podemos usar Past Simple 
+para ambas:
+
+→ I arrived at the station and the train left. (order is clear: arrived, then left)
+→ When I arrived at the station, the train had already left. (emphasizes the train left first)
+
+================================================================================
+                    PAST PERFECT vs PRESENT PERFECT
+================================================================================
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ PAST PERFECT                         │ PRESENT PERFECT                        │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Before another PAST action           │ Connected to NOW                       │
+│ I had finished before he arrived.    │ I have finished (now).                 │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Experience up to a PAST moment       │ Experience up to NOW                   │
+│ I had never seen snow before that.   │ I have never seen snow.                │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ HAD + past participle                │ HAVE/HAS + past participle             │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+================================================================================
+                           COMMON MISTAKES (Errores comunes)
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  I had went to the store.              I had gone to the store.
+  When I arrived, she left.             When I arrived, she had left.
+  (if she left BEFORE)                  (if she left BEFORE I arrived)
+  She had ate breakfast.                She had eaten breakfast.
+  I had already see the movie.          I had already seen the movie.
+  Before I had arrived...               Before I arrived... (just Past Simple)
+  I have finished before he came.       I had finished before he came.
+  He had been there yesterday.          He was there yesterday. (specific time)
+  After she left, I had arrived.        After she had left, I arrived.
+  I wish I studied more.                I wish I had studied more.
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+  AFFIRMATIVE         NEGATIVE              INTERROGATIVE
+  ─────────────────────────────────────────────────────────────────────────
+  I had worked        I hadn't worked       Had I worked?
+  You had eaten       You hadn't eaten      Had you eaten?
+  He/She/It had gone  He/She/It hadn't gone Had he/she/it gone?
+  We had seen         We hadn't seen        Had we seen?
+  They had finished   They hadn't finished  Had they finished?
+
+  FORMULA: had + past participle (V3)
+
+  USE: Action that happened BEFORE another past action
+
+  KEYWORDS: before, after, when, by the time, already, just, never, yet
+
+================================================================================

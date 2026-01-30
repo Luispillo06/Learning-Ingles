@@ -1,0 +1,256 @@
+================================================================================
+                            PAST CONTINUOUS
+                      (Pasado Continuo en Inglés)
+================================================================================
+
+El Past Continuous (también llamado Past Progressive) se usa para hablar
+de acciones que estaban EN PROGRESO en un momento específico del pasado.
+
+================================================================================
+                         STRUCTURE (Estructura)
+================================================================================
+
+AFFIRMATIVE (Afirmativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    WAS/WERE    +    VERB-ING    +    COMPLEMENT               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/He/She/It       was            working          at 8 pm.                 │
+│  You/We/They       were           working          at 8 pm.                 │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I was working at 8 o'clock last night.
+→ She was sleeping when I called.
+→ They were watching TV.
+→ He was studying all evening.
+
+NEGATIVE (Negativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    WAS/WERE + NOT    +    VERB-ING                            │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/He/She/It       wasn't              working.                             │
+│  You/We/They       weren't             working.                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I wasn't sleeping when you called.
+→ She wasn't listening to me.
+→ They weren't paying attention.
+→ He wasn't working yesterday.
+
+INTERROGATIVE (Interrogativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  WAS/WERE    +    SUBJECT    +    VERB-ING    +    ?                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Was              I/he/she/it       working?                                │
+│  Were             you/we/they       working?                                │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ Were you sleeping when I called?
+→ Was she working yesterday?
+→ What were they doing?
+→ Where was he going?
+
+SHORT ANSWERS (Respuestas cortas):
+
+→ Were you sleeping?       Yes, I was. / No, I wasn't.
+→ Was she working?         Yes, she was. / No, she wasn't.
+
+================================================================================
+                         USES (Usos)
+================================================================================
+
+1. ACTION IN PROGRESS AT A SPECIFIC TIME (Acción en progreso):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ At 8 o'clock last night, I was watching TV.                                   │
+│ A las 8 anoche, estaba viendo la tele.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ This time yesterday, she was flying to Paris.                                 │
+│ A esta hora ayer, ella estaba volando a París.                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ What were you doing at midnight?                                              │
+│ ¿Qué estabas haciendo a medianoche?                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ At 3 pm, we were having lunch.                                                │
+│ A las 3 pm, estábamos almorzando.                                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. INTERRUPTED ACTIONS (Acciones interrumpidas):
+   Past Continuous (long action) + Past Simple (interruption)
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I was sleeping when the phone rang.                                           │
+│ Estaba durmiendo cuando sonó el teléfono.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She was cooking when the guests arrived.                                      │
+│ Ella estaba cocinando cuando llegaron los invitados.                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ While I was walking home, I saw an accident.                                  │
+│ Mientras caminaba a casa, vi un accidente.                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He was having a shower when the doorbell rang.                                │
+│ Él se estaba duchando cuando sonó el timbre.                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+STRUCTURE:
+→ WHEN + Past Simple (short action), Past Continuous (long action)
+→ Past Continuous (long action) + WHEN + Past Simple (short action)
+→ WHILE + Past Continuous, Past Simple
+
+3. PARALLEL ACTIONS (Acciones simultáneas):
+   Two actions happening at the same time
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ While I was cooking, my husband was watching TV.                              │
+│ Mientras yo cocinaba, mi esposo veía la tele.                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She was reading while he was sleeping.                                        │
+│ Ella leía mientras él dormía.                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The children were playing while the parents were talking.                     │
+│ Los niños jugaban mientras los padres hablaban.                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I was listening to music while I was working.                                 │
+│ Escuchaba música mientras trabajaba.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. BACKGROUND DESCRIPTION (Descripción de fondo):
+   Setting the scene in a story
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The sun was shining. Birds were singing. People were walking in the park.    │
+│ El sol brillaba. Los pájaros cantaban. La gente caminaba en el parque.        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ It was raining heavily. The wind was blowing. No one was on the streets.     │
+│ Llovía mucho. El viento soplaba. No había nadie en las calles.                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Everyone was laughing and having a good time.                                 │
+│ Todos reían y la pasaban bien.                                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+5. TEMPORARY SITUATIONS IN THE PAST (Situaciones temporales):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ In those days, I was working at a supermarket.                                │
+│ En esos días, trabajaba en un supermercado.                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She was living with her parents while she looked for a flat.                  │
+│ Ella vivía con sus padres mientras buscaba un piso.                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We were staying at a hotel during the conference.                             │
+│ Nos quedábamos en un hotel durante la conferencia.                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+6. ANNOYING PAST HABITS with ALWAYS (Hábitos molestos):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ He was always complaining about everything!                                   │
+│ ¡Siempre estaba quejándose de todo!                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She was constantly interrupting me!                                           │
+│ ¡Constantemente me interrumpía!                                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They were always arguing.                                                     │
+│ Siempre estaban discutiendo.                                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WHEN vs WHILE
+================================================================================
+
+WHEN + Past Simple (short action):
+→ I was reading when the phone rang.
+→ When she arrived, we were having dinner.
+
+WHILE + Past Continuous (long action):
+→ While I was reading, the phone rang.
+→ I met him while I was walking to work.
+
+BOTH actions with WHILE (parallel actions):
+→ While I was cooking, she was cleaning.
+→ While he was studying, I was watching TV.
+
+================================================================================
+                    PAST SIMPLE vs PAST CONTINUOUS
+================================================================================
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ PAST SIMPLE                          │ PAST CONTINUOUS                        │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Completed action                     │ Action in progress                     │
+│ I read a book yesterday.             │ I was reading at 8 pm.                 │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Short action                         │ Long action (interrupted)              │
+│ The phone rang.                      │ I was sleeping when...                 │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Sequence of events                   │ Background description                 │
+│ I arrived, sat down, and started.    │ The sun was shining. Birds were...     │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Main events of a story               │ Setting the scene                      │
+│ Suddenly, a man appeared.            │ I was walking down the street.         │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+EXAMPLE STORY:
+
+"I was walking (background) down the street when I saw (main event) an old friend. 
+She was carrying (background) a lot of bags. I helped (main event) her and we 
+decided (main event) to have coffee. While we were talking (parallel), it started 
+(interruption) to rain."
+
+================================================================================
+                    TIME EXPRESSIONS (Expresiones de tiempo)
+================================================================================
+
+AT + TIME:
+    at 8 o'clock, at midnight, at noon
+
+THIS TIME + PAST:
+    this time yesterday, this time last week
+
+WHEN:
+    when I arrived, when you called
+
+WHILE:
+    while I was working, while she was sleeping
+
+ALL + TIME PERIOD:
+    all day, all morning, all night, all evening
+
+DURING:
+    during the meeting, during the party
+
+================================================================================
+                           COMMON MISTAKES (Errores comunes)
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  I was work yesterday.                 I was working yesterday.
+  She was sleeping when I was calling.  She was sleeping when I called.
+  When I was arriving, she left.        When I arrived, she left.
+  While I cooked, he watched TV.        While I was cooking, he was watching TV.
+  I were working all day.               I was working all day.
+  They was playing football.            They were playing football.
+  What you were doing?                  What were you doing?
+  I was knowing the answer.             I knew the answer. (stative verb)
+  She was wanting coffee.               She wanted coffee. (stative verb)
+  I was see him yesterday.              I saw him yesterday.
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+  AFFIRMATIVE         NEGATIVE              INTERROGATIVE
+  ─────────────────────────────────────────────────────────────────────────
+  I was working       I wasn't working      Was I working?
+  You were working    You weren't working   Were you working?
+  He/She/It was       He/She/It wasn't      Was he/she/it working?
+  working             working
+  We were working     We weren't working    Were we working?
+  They were working   They weren't working  Were they working?
+
+  FORMULA: was/were + verb-ing
+
+================================================================================

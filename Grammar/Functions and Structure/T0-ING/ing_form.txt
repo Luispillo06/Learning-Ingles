@@ -1,0 +1,376 @@
+================================================================================
+                            THE -ING FORM IN ENGLISH
+                           (La Forma -ING en Inglés)
+================================================================================
+
+La forma -ING del verbo (being, knowing, seeing, having, running, etc.) 
+se llama PRESENT PARTICIPLE o GERUND.
+
+================================================================================
+                         SPELLING RULES (Ortografía)
+================================================================================
+
+REGLA BÁSICA: Verbo + ING
+    work → working          read → reading
+    play → playing          watch → watching
+    eat → eating            sleep → sleeping
+
+VERBOS QUE TERMINAN EN -E: Quitar -E + ING
+    make → making           write → writing
+    live → living           dance → dancing
+    come → coming           take → taking
+    have → having           give → giving
+
+    Excepciones: be → being, see → seeing, agree → agreeing
+
+VERBOS QUE TERMINAN EN -IE: Cambiar -IE por -Y + ING
+    lie → lying             die → dying
+    tie → tying
+
+UNA SÍLABA CON CVC (Consonante-Vocal-Consonante): Duplicar última consonante
+    run → running           sit → sitting
+    stop → stopping         swim → swimming
+    cut → cutting           get → getting
+    hit → hitting           shop → shopping
+    plan → planning         win → winning
+
+    Excepciones (W, X, Y no se duplican):
+    show → showing          fix → fixing
+    play → playing          stay → staying
+
+DOS O MÁS SÍLABAS: Duplicar si el acento está en la última sílaba
+    begin → beginning       prefer → preferring
+    admit → admitting       occur → occurring
+    refer → referring       forget → forgetting
+
+    Sin duplicar (acento NO en última sílaba):
+    open → opening          listen → listening
+    happen → happening      visit → visiting
+
+================================================================================
+              1. AFTER VERBS OF LIKE AND DON'T LIKE
+                 (Después de verbos de gustar y no gustar)
+================================================================================
+
+Usamos -ING después de verbos que expresan GUSTO o DISGUSTO:
+
+┌─────────────────┬─────────────────────────────────────────────────────────────┐
+│ LIKE            │ I like watching movies.                                     │
+│ (gustar)        │ Me gusta ver películas.                                     │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ LOVE            │ I love going out with my friends.                           │
+│ (encantar)      │ Me encanta salir con mis amigos.                            │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ ENJOY           │ She enjoys reading books.                                   │
+│ (disfrutar)     │ Ella disfruta leyendo libros.                               │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ NOT MIND        │ Marie doesn't mind helping other students with maths.       │
+│ (no importar)   │ A Marie no le importa ayudar a otros estudiantes con mates. │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ DISLIKE         │ I dislike getting up early.                                 │
+│ (no gustar)     │ No me gusta levantarme temprano.                            │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ HATE            │ My dad hates being late for work.                           │
+│ (odiar)         │ Mi papá odia llegar tarde al trabajo.                       │
+│                 │ We all hate revising for a test.                            │
+│                 │ Todos odiamos repasar para un examen.                       │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ CAN'T STAND     │ My mum can't stand doing housework.                         │
+│ (no soportar)   │ Mi mamá no soporta hacer las tareas del hogar.              │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ PREFER          │ I prefer staying at home.                                   │
+│ (preferir)      │ Prefiero quedarme en casa.                                  │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ DON'T LIKE      │ He doesn't like waiting.                                    │
+│ (no gustar)     │ A él no le gusta esperar.                                   │
+└─────────────────┴─────────────────────────────────────────────────────────────┘
+
+MÁS EJEMPLOS:
+→ I love traveling to new places.
+→ She enjoys cooking Italian food.
+→ They hate waking up early on Mondays.
+→ He can't stand listening to loud music.
+→ We don't mind working on weekends.
+
+================================================================================
+              2. AFTER ADJECTIVE + PREPOSITION PHRASES
+                 (Después de adjetivo + preposición)
+================================================================================
+
+Usamos -ING después de expresiones que describen:
+• Cómo de bien hacemos algo
+• Cómo nos sentimos al hacer algo
+
+Estas estructuras siguen al verbo BE:
+
+┌───────────────────────┬────────────────────────────────────────────────────────┐
+│ GOOD AT               │ My brother's good at singing.                          │
+│ (bueno en)            │ Mi hermano es bueno cantando.                          │
+├───────────────────────┼────────────────────────────────────────────────────────┤
+│ BAD AT                │ I'm bad at remembering names.                          │
+│ (malo en)             │ Soy malo recordando nombres.                           │
+├───────────────────────┼────────────────────────────────────────────────────────┤
+│ KEEN ON               │ She's keen on learning languages.                      │
+│ (entusiasta de)       │ Ella está entusiasmada con aprender idiomas.           │
+├───────────────────────┼────────────────────────────────────────────────────────┤
+│ INTERESTED IN         │ I'm interested in learning languages.                  │
+│ (interesado en)       │ Estoy interesado en aprender idiomas.                  │
+├───────────────────────┼────────────────────────────────────────────────────────┤
+│ CRAZY ABOUT           │ We are crazy about dancing.                            │
+│ (loco por)            │ Estamos locos por bailar.                              │
+├───────────────────────┼────────────────────────────────────────────────────────┤
+│ AFRAID OF             │ Our cats are afraid of getting wet.                    │
+│ (tener miedo de)      │ Nuestros gatos tienen miedo de mojarse.                │
+├───────────────────────┼────────────────────────────────────────────────────────┤
+│ TIRED OF              │ I'm tired of waiting for the bus.                      │
+│ (cansado de)          │ Estoy cansado de esperar el autobús.                   │
+├───────────────────────┼────────────────────────────────────────────────────────┤
+│ BORED OF/WITH         │ She's bored of watching TV.                            │
+│ (aburrido de)         │ Ella está aburrida de ver la tele.                     │
+├───────────────────────┼────────────────────────────────────────────────────────┤
+│ EXCITED ABOUT         │ They're excited about going on vacation.               │
+│ (emocionado por)      │ Están emocionados por ir de vacaciones.                │
+├───────────────────────┼────────────────────────────────────────────────────────┤
+│ WORRIED ABOUT         │ He's worried about losing his job.                     │
+│ (preocupado por)      │ Él está preocupado por perder su trabajo.              │
+├───────────────────────┼────────────────────────────────────────────────────────┤
+│ FAMOUS FOR            │ Paris is famous for being romantic.                    │
+│ (famoso por)          │ París es famoso por ser romántico.                     │
+├───────────────────────┼────────────────────────────────────────────────────────┤
+│ USED TO               │ I'm used to getting up early.                          │
+│ (acostumbrado a)      │ Estoy acostumbrado a levantarme temprano.              │
+├───────────────────────┼────────────────────────────────────────────────────────┤
+│ FOND OF               │ She's fond of reading poetry.                          │
+│ (aficionado a)        │ A ella le gusta leer poesía.                           │
+└───────────────────────┴────────────────────────────────────────────────────────┘
+
+ESTRUCTURA: Subject + BE + Adjective + Preposition + VERB-ING
+
+→ I am interested in studying abroad.
+→ She is good at playing the piano.
+→ They are tired of working overtime.
+→ He is afraid of speaking in public.
+
+================================================================================
+              3. AS THE SUBJECT OF A SENTENCE
+                 (Como sujeto de la oración)
+================================================================================
+
+El -ING puede funcionar como SUJETO. Va al principio de la oración.
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Playing online games is a fun thing to do.                                    │
+│ Jugar juegos en línea es algo divertido.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Keeping in touch with friends is easy, because of the internet.               │
+│ Mantenerse en contacto con amigos es fácil, gracias al internet.              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Swimming is good exercise.                                                    │
+│ Nadar es buen ejercicio.                                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Learning English takes time.                                                  │
+│ Aprender inglés lleva tiempo.                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Smoking is bad for your health.                                               │
+│ Fumar es malo para tu salud.                                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Reading improves your vocabulary.                                             │
+│ Leer mejora tu vocabulario.                                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Traveling is one of my hobbies.                                               │
+│ Viajar es uno de mis hobbies.                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Working from home has become more common.                                     │
+│ Trabajar desde casa se ha vuelto más común.                                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+IMPORTANTE: El verbo principal va en SINGULAR (is, takes, has...)
+→ Cooking is relaxing. ✓
+→ Cooking are relaxing. ✗
+
+================================================================================
+              4. AFTER PREPOSITIONS
+                 (Después de preposiciones)
+================================================================================
+
+Después de CUALQUIER preposición usamos -ING:
+
+┌─────────────────────┬──────────────────────────────────────────────────────────┐
+│ AFTER               │ After finishing my homework, I watched TV.               │
+│ (después de)        │ Después de terminar mi tarea, vi la tele.                │
+├─────────────────────┼──────────────────────────────────────────────────────────┤
+│ BEFORE              │ Before leaving, check your pockets.                      │
+│ (antes de)          │ Antes de irte, revisa tus bolsillos.                     │
+├─────────────────────┼──────────────────────────────────────────────────────────┤
+│ WITHOUT             │ He left without saying goodbye.                          │
+│ (sin)               │ Él se fue sin decir adiós.                               │
+├─────────────────────┼──────────────────────────────────────────────────────────┤
+│ BY                  │ You can learn by practicing every day.                   │
+│ (mediante)          │ Puedes aprender practicando cada día.                    │
+├─────────────────────┼──────────────────────────────────────────────────────────┤
+│ FOR                 │ Thank you for helping me.                                │
+│ (por)               │ Gracias por ayudarme.                                    │
+├─────────────────────┼──────────────────────────────────────────────────────────┤
+│ ABOUT               │ What about going to the cinema?                          │
+│ (sobre)             │ ¿Qué tal si vamos al cine?                               │
+├─────────────────────┼──────────────────────────────────────────────────────────┤
+│ OF                  │ I'm thinking of moving abroad.                           │
+│ (de)                │ Estoy pensando en mudarme al extranjero.                 │
+├─────────────────────┼──────────────────────────────────────────────────────────┤
+│ INSTEAD OF          │ Instead of complaining, do something!                    │
+│ (en lugar de)       │ En lugar de quejarte, ¡haz algo!                         │
+├─────────────────────┼──────────────────────────────────────────────────────────┤
+│ IN                  │ I'm interested in learning more.                         │
+│ (en)                │ Estoy interesado en aprender más.                        │
+└─────────────────────┴──────────────────────────────────────────────────────────┘
+
+================================================================================
+              5. AFTER OTHER COMMON VERBS
+                 (Después de otros verbos comunes)
+================================================================================
+
+Estos verbos SIEMPRE van seguidos de -ING:
+
+┌─────────────────┬─────────────────────────────────────────────────────────────┐
+│ AVOID           │ I avoid eating junk food.                                   │
+│ (evitar)        │ Evito comer comida basura.                                  │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ FINISH          │ I finished reading the book.                                │
+│ (terminar)      │ Terminé de leer el libro.                                   │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ KEEP            │ Keep working hard!                                          │
+│ (seguir)        │ ¡Sigue trabajando duro!                                     │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ SUGGEST         │ I suggest going to the beach.                               │
+│ (sugerir)       │ Sugiero ir a la playa.                                      │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ RECOMMEND       │ I recommend visiting that museum.                           │
+│ (recomendar)    │ Recomiendo visitar ese museo.                               │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ CONSIDER        │ She's considering moving abroad.                            │
+│ (considerar)    │ Ella está considerando mudarse al extranjero.               │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ ADMIT           │ He admitted making a mistake.                               │
+│ (admitir)       │ Él admitió haber cometido un error.                         │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ DENY            │ She denied breaking the window.                             │
+│ (negar)         │ Ella negó haber roto la ventana.                            │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ IMAGINE         │ Can you imagine living in Paris?                            │
+│ (imaginar)      │ ¿Te imaginas vivir en París?                                │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ MISS            │ I miss seeing my old friends.                               │
+│ (extrañar)      │ Extraño ver a mis viejos amigos.                            │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ PRACTICE        │ Practice speaking English every day.                        │
+│ (practicar)     │ Practica hablar inglés cada día.                            │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ GIVE UP         │ She gave up smoking last year.                              │
+│ (dejar de)      │ Ella dejó de fumar el año pasado.                           │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ FEEL LIKE       │ I feel like eating pizza tonight.                           │
+│ (tener ganas)   │ Tengo ganas de comer pizza esta noche.                      │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ LOOK FORWARD TO │ I look forward to seeing you!                               │
+│ (esperar con    │ ¡Espero verte pronto!                                       │
+│ ilusión)        │                                                             │
+└─────────────────┴─────────────────────────────────────────────────────────────┘
+
+================================================================================
+              6. GO + -ING (Activities & Sports)
+                 (Actividades y deportes)
+================================================================================
+
+Usamos GO + -ING para actividades recreativas y deportes:
+
+go shopping     → ir de compras       go swimming     → ir a nadar
+go running      → ir a correr         go dancing      → ir a bailar
+go hiking       → ir de excursión     go skiing       → ir a esquiar
+go camping      → ir de camping       go fishing      → ir a pescar
+go cycling      → ir en bicicleta     go surfing      → ir a surfear
+go jogging      → ir a trotar         go climbing     → ir a escalar
+go sightseeing  → hacer turismo       go skating      → ir a patinar
+
+EJEMPLOS:
+→ I went shopping yesterday.
+→ We go hiking every weekend.
+→ She loves going dancing on Fridays.
+→ They went camping in the mountains.
+
+================================================================================
+              7. -ING AS AN ADJECTIVE
+                 (-ING como adjetivo)
+================================================================================
+
+Los adjetivos -ING describen LA CAUSA de un sentimiento:
+
+┌──────────────────┬─────────────────────────────────────────────────────────────┐
+│ BORING           │ The movie was boring. (La película era aburrida)            │
+│ vs BORED         │ I was bored. (Yo estaba aburrido)                           │
+├──────────────────┼─────────────────────────────────────────────────────────────┤
+│ INTERESTING      │ The book is interesting. (El libro es interesante)          │
+│ vs INTERESTED    │ I'm interested in the book. (Estoy interesado en el libro)  │
+├──────────────────┼─────────────────────────────────────────────────────────────┤
+│ EXCITING         │ The news is exciting. (La noticia es emocionante)           │
+│ vs EXCITED       │ I'm excited. (Estoy emocionado)                             │
+├──────────────────┼─────────────────────────────────────────────────────────────┤
+│ TIRING           │ The job is tiring. (El trabajo es cansador)                 │
+│ vs TIRED         │ I'm tired. (Estoy cansado)                                  │
+└──────────────────┴─────────────────────────────────────────────────────────────┘
+
+REGLA:
+• -ING → describe la cosa/persona que CAUSA el sentimiento
+• -ED  → describe la persona que SIENTE el sentimiento
+
+Más adjetivos -ING:
+amazing, amusing, annoying, confusing, disappointing, embarrassing,
+exhausting, fascinating, frightening, relaxing, satisfying, shocking,
+surprising, terrifying, worrying
+
+================================================================================
+              8. CONTINUOUS TENSES
+                 (Tiempos continuos)
+================================================================================
+
+La forma -ING se usa en TODOS los tiempos continuos:
+
+PRESENT CONTINUOUS:     I am working right now.
+PAST CONTINUOUS:        I was sleeping when you called.
+FUTURE CONTINUOUS:      I will be waiting for you.
+PRESENT PERFECT CONT:   I have been studying all day.
+PAST PERFECT CONT:      I had been working there for years.
+
+================================================================================
+              9. VERBS WITH DIFFERENT MEANING
+                 (Verbos con significado diferente)
+================================================================================
+
+Algunos verbos cambian de significado según usen -ING o TO:
+
+┌─────────────────┬──────────────────────────────────────────────────────────────┐
+│ REMEMBER + ING  │ I remember meeting him. (Recuerdo haberlo conocido)          │
+│ REMEMBER + TO   │ Remember to call me. (Recuerda llamarme - futuro)            │
+├─────────────────┼──────────────────────────────────────────────────────────────┤
+│ FORGET + ING    │ I'll never forget visiting Paris. (Nunca olvidaré haberlo    │
+│ FORGET + TO     │ I forgot to call her. (Olvidé llamarla - no lo hice)         │
+├─────────────────┼──────────────────────────────────────────────────────────────┤
+│ STOP + ING      │ Stop smoking. (Deja de fumar - para siempre)                 │
+│ STOP + TO       │ I stopped to smoke. (Paré para fumar - hice una pausa)       │
+├─────────────────┼──────────────────────────────────────────────────────────────┤
+│ TRY + ING       │ Try adding more salt. (Prueba añadir más sal)                │
+│ TRY + TO        │ I tried to open the door. (Intenté abrir la puerta)          │
+└─────────────────┴──────────────────────────────────────────────────────────────┘
+
+================================================================================
+              10. SPECIAL STRUCTURES
+                  (Estructuras especiales)
+================================================================================
+
+BUSY + -ING:                → I'm busy working.
+WORTH + -ING:               → This book is worth reading.
+SPEND TIME + -ING:          → I spent two hours studying.
+WASTE TIME + -ING:          → Don't waste time arguing.
+HAVE TROUBLE + -ING:        → I have trouble sleeping.
+HAVE DIFFICULTY + -ING:     → She has difficulty concentrating.
+CAN'T HELP + -ING:          → I can't help laughing.
+IT'S NO USE + -ING:         → It's no use crying.

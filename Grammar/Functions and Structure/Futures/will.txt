@@ -1,0 +1,305 @@
+================================================================================
+                              WILL
+                       (Futuro con WILL)
+================================================================================
+
+WILL es el modal más usado para expresar el futuro en inglés.
+Se usa para predicciones, decisiones espontáneas, promesas y más.
+
+================================================================================
+                         STRUCTURE (Estructura)
+================================================================================
+
+AFFIRMATIVE (Afirmativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    WILL ('LL)    +    VERB (base form)                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    will / 'll    go/work/come                      │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I will help you.
+→ She'll come tomorrow.
+→ They will arrive at 10.
+→ It will rain later.
+
+NEGATIVE (Negativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    WILL NOT / WON'T    +    VERB (base form)                  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    won't    go/work/come                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I won't be late.
+→ She won't come.
+→ They won't forget.
+→ It won't take long.
+
+INTERROGATIVE (Interrogativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  WILL    +    SUBJECT    +    VERB (base form)    +    ?                    │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Will        I/you/he/she/it/we/they    go/work/come?                       │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ Will you help me?
+→ Will she come tomorrow?
+→ Will they be there?
+→ When will it arrive?
+
+SHORT ANSWERS (Respuestas cortas):
+
+→ Will you come?       Yes, I will. / No, I won't.
+→ Will she help?       Yes, she will. / No, she won't.
+
+================================================================================
+                         USES (Usos)
+================================================================================
+
+1. PREDICTIONS (Predicciones - opiniones sobre el futuro):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I think it will rain tomorrow.                                                │
+│ Creo que lloverá mañana.                                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She will probably be late.                                                    │
+│ Probablemente llegará tarde.                                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They won't win the match.                                                     │
+│ No ganarán el partido.                                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I'm sure you will pass the exam.                                              │
+│ Estoy seguro de que aprobarás el examen.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The economy will improve next year.                                           │
+│ La economía mejorará el año que viene.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+Expresiones comunes con predicciones:
+→ I think...          Creo que...
+→ I'm sure...         Estoy seguro de que...
+→ I expect...         Espero que...
+→ I don't think...    No creo que...
+→ probably            probablemente
+→ maybe               quizás
+
+2. SPONTANEOUS DECISIONS (Decisiones espontáneas - en el momento):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ "The phone is ringing." - "I'll get it."                                      │
+│ "El teléfono está sonando." - "Yo contesto."                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I'll have the steak, please.                                                  │
+│ Tomaré el filete, por favor. (decidido ahora)                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ "I'm cold." - "I'll close the window."                                        │
+│ "Tengo frío." - "Cierro la ventana."                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I'll call you later.                                                          │
+│ Te llamo luego. (decisión del momento)                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Wait, I'll help you with that.                                                │
+│ Espera, te ayudo con eso.                                                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+⚠️ Para planes ya decididos, usa BE GOING TO o Present Continuous.
+
+3. PROMISES (Promesas):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I will always love you.                                                       │
+│ Siempre te amaré.                                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I won't tell anyone, I promise.                                               │
+│ No se lo diré a nadie, lo prometo.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I'll be there at 8, I promise.                                                │
+│ Estaré allí a las 8, lo prometo.                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We will never forget you.                                                     │
+│ Nunca te olvidaremos.                                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. OFFERS (Ofrecimientos):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I'll carry your bags.                                                         │
+│ Te llevo las bolsas.                                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I'll help you with your homework.                                             │
+│ Te ayudo con tu tarea.                                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I'll make you some coffee.                                                    │
+│ Te preparo un café.                                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I'll give you a lift to the station.                                          │
+│ Te llevo a la estación.                                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+5. REQUESTS (Peticiones):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Will you help me with this?                                                   │
+│ ¿Me ayudas con esto?                                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Will you marry me?                                                            │
+│ ¿Te casarás conmigo?                                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Will you please be quiet?                                                     │
+│ ¿Puedes callarte, por favor?                                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Will you pass me the salt?                                                    │
+│ ¿Me pasas la sal?                                                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+6. REFUSAL (Negación rotunda - WON'T):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ He won't listen to me.                                                        │
+│ No quiere escucharme. (se niega)                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The car won't start.                                                          │
+│ El coche no arranca. (no quiere)                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She won't eat her vegetables.                                                 │
+│ No quiere comer sus verduras.                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The door won't open.                                                          │
+│ La puerta no abre.                                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+7. THREATS AND WARNINGS (Amenazas y advertencias):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I'll tell your mother!                                                        │
+│ ¡Se lo diré a tu madre!                                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ You'll regret this!                                                           │
+│ ¡Te arrepentirás de esto!                                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Be careful or you'll fall!                                                    │
+│ ¡Ten cuidado o te caerás!                                                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+8. FACTS AND TRUTHS (Hechos y verdades generales):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Water will boil at 100°C.                                                     │
+│ El agua hervirá a 100°C.                                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Oil will float on water.                                                      │
+│ El aceite flotará en el agua.                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The sun will rise tomorrow.                                                   │
+│ El sol saldrá mañana.                                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+9. FIRST CONDITIONAL (Primera condicional):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If it rains, I will stay home.                                                │
+│ Si llueve, me quedaré en casa.                                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ If you study, you will pass.                                                  │
+│ Si estudias, aprobarás.                                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I won't go if you don't come.                                                 │
+│ No iré si tú no vienes.                                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    TIME EXPRESSIONS (Expresiones de tiempo)
+================================================================================
+
+TOMORROW:
+    tomorrow                    → mañana
+    tomorrow morning/afternoon  → mañana por la mañana/tarde
+
+NEXT:
+    next week/month/year        → la semana/mes/año que viene
+    next Monday/Tuesday...      → el próximo lunes/martes...
+    next summer/winter          → el próximo verano/invierno
+
+IN:
+    in an hour                  → en una hora
+    in two days                 → en dos días
+    in a week                   → en una semana
+    in the future               → en el futuro
+
+SOON:
+    soon                        → pronto
+    later                       → más tarde
+
+OTHER:
+    tonight                     → esta noche
+    this weekend                → este fin de semana
+    one day                     → algún día
+    someday                     → algún día
+
+================================================================================
+                    SHALL
+================================================================================
+
+SHALL es un modal formal (más común en inglés británico) usado para:
+
+1. OFFERS AND SUGGESTIONS (con I/We):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Shall I open the window?                                                      │
+│ ¿Abro la ventana?                                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Shall I help you?                                                             │
+│ ¿Te ayudo?                                                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Shall we go?                                                                  │
+│ ¿Vamos? / ¿Nos vamos?                                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ What shall we do tonight?                                                     │
+│ ¿Qué hacemos esta noche?                                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. FORMAL FUTURE (documentos legales, muy formal):
+
+→ The tenant shall pay the rent on the first of each month.
+→ We shall overcome.
+
+================================================================================
+                           COMMON MISTAKES (Errores comunes)
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  He wills come.                        He will come.
+  I will to go.                         I will go.
+  I will going tomorrow.                I will go tomorrow.
+  Do you will come?                     Will you come?
+  I don't will go.                      I won't go.
+  I am will help you.                   I will help you.
+  She will comes.                       She will come.
+  I think it will to rain.              I think it will rain.
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                   WILL                                       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ STRUCTURE:  Subject + will + verb (base form)                                │
+│             Subject + won't + verb (base form)                               │
+│             Will + subject + verb (base form)?                               │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ USES:                                                                        │
+│ • Predictions:        I think it will rain.                                  │
+│ • Spontaneous:        I'll answer the phone.                                 │
+│ • Promises:           I will always love you.                                │
+│ • Offers:             I'll help you.                                         │
+│ • Requests:           Will you help me?                                      │
+│ • Refusal:            He won't listen.                                       │
+│ • Threats:            You'll regret this!                                    │
+│ • 1st Conditional:    If it rains, I'll stay home.                           │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

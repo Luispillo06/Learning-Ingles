@@ -1,0 +1,201 @@
+================================================================================
+                    PASSIVE VOICE SUMMARY
+              (Resumen de la Voz Pasiva en Inglés)
+================================================================================
+
+================================================================================
+                    ALL PASSIVE TENSES
+================================================================================
+
+┌────────────────────────┬──────────────────────────────────────────────────────┐
+│ TENSE                  │ PASSIVE STRUCTURE                                    │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Present Simple         │ am/is/are + past participle                          │
+│                        │ English is spoken here.                              │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Present Continuous     │ am/is/are being + past participle                    │
+│                        │ The house is being built.                            │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Present Perfect        │ have/has been + past participle                      │
+│                        │ The letter has been sent.                            │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Past Simple            │ was/were + past participle                           │
+│                        │ The book was written in 1990.                        │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Past Continuous        │ was/were being + past participle                     │
+│                        │ The car was being repaired.                          │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Past Perfect           │ had been + past participle                           │
+│                        │ The work had been finished.                          │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Future Simple          │ will be + past participle                            │
+│                        │ The results will be announced.                       │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Be going to            │ am/is/are going to be + past participle              │
+│                        │ A new school is going to be built.                   │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Modal Present          │ modal + be + past participle                         │
+│                        │ The form must be completed.                          │
+├────────────────────────┼──────────────────────────────────────────────────────┤
+│ Modal Perfect          │ modal + have been + past participle                  │
+│                        │ He should have been told.                            │
+└────────────────────────┴──────────────────────────────────────────────────────┘
+
+================================================================================
+                    TRANSFORMATION EXAMPLES
+================================================================================
+
+ONE SENTENCE IN ALL TENSES:
+
+ACTIVE: They clean the office.
+┌────────────────────────┬──────────────────────────────────────────────────────┐
+│ Present Simple         │ The office is cleaned (every day).                   │
+│ Present Continuous     │ The office is being cleaned (now).                   │
+│ Present Perfect        │ The office has been cleaned.                         │
+│ Past Simple            │ The office was cleaned (yesterday).                  │
+│ Past Continuous        │ The office was being cleaned (at 5 pm).              │
+│ Past Perfect           │ The office had been cleaned (before we arrived).     │
+│ Future Simple          │ The office will be cleaned (tomorrow).               │
+│ Be going to            │ The office is going to be cleaned (soon).            │
+│ Can                    │ The office can be cleaned (easily).                  │
+│ Must                   │ The office must be cleaned.                          │
+│ Should                 │ The office should be cleaned.                        │
+│ Should have            │ The office should have been cleaned.                 │
+└────────────────────────┴──────────────────────────────────────────────────────┘
+
+================================================================================
+                    WHEN TO USE PASSIVE
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ ✓ When the agent is UNKNOWN:       My car was stolen.                       │
+│ ✓ When the agent is OBVIOUS:       The thief was arrested.                  │
+│ ✓ When the agent is UNIMPORTANT:   This bridge was built in 1920.           │
+│ ✓ In FORMAL/SCIENTIFIC writing:    The experiment was conducted...          │
+│ ✓ To EMPHASIZE the action/object:  The Mona Lisa was painted by da Vinci.   │
+│ ✓ To AVOID blame:                  Mistakes were made.                      │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    THE AGENT (BY)
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ INCLUDE agent when it's important:  The book was written by Rowling.        │
+│ OMIT agent when unknown/obvious:    My phone was stolen.                    │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ BY = agent (who does it):           written by Shakespeare                  │
+│ WITH = instrument (tool):           written with a pen                      │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    VERBS WITH TWO OBJECTS
+================================================================================
+
+Some verbs have two objects (direct and indirect):
+give, send, offer, show, tell, teach, pay, lend, promise, etc.
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  They gave me a present.                                              │
+│          S     V   IO    DO                                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ PASSIVE 1: I was given a present. (indirect object becomes subject)           │
+│ PASSIVE 2: A present was given to me. (direct object becomes subject)         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ★ PASSIVE 1 is more common in English                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+MORE EXAMPLES:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  They offered him a job.                                              │
+│ PASSIVE: He was offered a job. ✓ (preferred)                                  │
+│          A job was offered to him.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Someone told me the truth.                                           │
+│ PASSIVE: I was told the truth. ✓ (preferred)                                  │
+│          The truth was told to me.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They sent her a letter.                                              │
+│ PASSIVE: She was sent a letter. ✓ (preferred)                                 │
+│          A letter was sent to her.                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    IMPERSONAL PASSIVE
+================================================================================
+
+Used with verbs like: say, think, believe, know, report, expect, consider...
+
+STRUCTURE 1: IT + PASSIVE + THAT CLAUSE
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  People say that he is rich.                                          │
+│ PASSIVE: It is said that he is rich.                                          │
+│          Se dice que él es rico.                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They believe that the Earth is 4.5 billion years old.                │
+│ PASSIVE: It is believed that the Earth is 4.5 billion years old.              │
+│          Se cree que la Tierra tiene 4.5 mil millones de años.                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+STRUCTURE 2: SUBJECT + PASSIVE + TO + INFINITIVE
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  People say that he is rich.                                          │
+│ PASSIVE: He is said to be rich.                                               │
+│          Se dice que es rico.                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They think that she lives in Paris.                                  │
+│ PASSIVE: She is thought to live in Paris.                                     │
+│          Se piensa que vive en París.                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They reported that the building was damaged.                         │
+│ PASSIVE: The building was reported to have been damaged.                      │
+│          Se informó que el edificio había sido dañado.                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    GET PASSIVE
+================================================================================
+
+GET + PAST PARTICIPLE (informal alternative to BE passive)
+
+Often used for:
+- Negative/unfortunate events
+- Things that happen to us
+- Informal speech
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ He got fired. = He was fired.                                                 │
+│ Le despidieron.                                                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She got hit by a car. = She was hit by a car.                                 │
+│ Fue atropellada por un coche.                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They got married last year.                                                   │
+│ Se casaron el año pasado.                                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I got invited to the party.                                                   │
+│ Me invitaron a la fiesta.                                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The car got stolen.                                                           │
+│ Robaron el coche.                                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Don't get caught!                                                             │
+│ ¡Que no te pillen!                                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    COMMON MISTAKES
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  The letter was wrote.                 The letter was written.
+  The car was repair.                   The car was repaired.
+  English is speak here.                English is spoken here.
+  The room was being clean.             The room was being cleaned.
+  He has been tell the news.            He has been told the news.
+  The cake made by my mother.           The cake was made by my mother.
+  It was written with Shakespeare.      It was written by Shakespeare.
+  The door opened with the wind.        The door was opened by the wind.
+
+================================================================================

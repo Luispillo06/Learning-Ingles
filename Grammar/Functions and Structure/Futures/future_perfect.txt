@@ -1,0 +1,207 @@
+================================================================================
+                          FUTURE PERFECT
+                   (Futuro Perfecto en Inglés)
+================================================================================
+
+El Future Perfect describe acciones que estarán COMPLETADAS antes de
+un momento específico en el futuro.
+
+================================================================================
+                         STRUCTURE (Estructura)
+================================================================================
+
+AFFIRMATIVE (Afirmativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    WILL HAVE    +    PAST PARTICIPLE (V3)                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    will have    finished/arrived/eaten             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I will have finished by 5 o'clock.
+→ She will have arrived by then.
+→ They will have eaten before we get there.
+→ By next year, I'll have graduated.
+
+CONTRACTION: will have = 'll have
+→ I'll have finished.
+→ She'll have left.
+
+NEGATIVE (Negativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    WON'T HAVE    +    PAST PARTICIPLE (V3)                    │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/He/She/It/We/They    won't have    finished/arrived                  │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I won't have finished by 5.
+→ She won't have arrived yet.
+→ They won't have completed the project.
+
+INTERROGATIVE (Interrogativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  WILL    +    SUBJECT    +    HAVE    +    PAST PARTICIPLE    +    ?        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Will         I/you/he/she/it/we/they    have    finished?                  │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ Will you have finished by 5?
+→ Will she have arrived by then?
+→ Will they have completed the project?
+
+SHORT ANSWERS:
+→ Will you have finished?    Yes, I will. / No, I won't.
+
+================================================================================
+                         USES (Usos)
+================================================================================
+
+1. COMPLETED ACTION BEFORE A FUTURE TIME (Acción completada antes de):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I will have finished the report by 5 pm.                                      │
+│ Habré terminado el informe para las 5.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ By the time you arrive, I will have left.                                     │
+│ Para cuando llegues, ya me habré ido.                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She will have graduated by next summer.                                       │
+│ Ella se habrá graduado para el próximo verano.                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ By the end of the year, we will have saved $10,000.                           │
+│ Para fin de año, habremos ahorrado $10,000.                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The movie will have started by the time we get there.                         │
+│ La película habrá empezado para cuando lleguemos.                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. DURATION UNTIL A FUTURE POINT (Duración hasta un punto futuro):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ By next month, I will have lived here for 10 years.                           │
+│ El mes que viene, habré vivido aquí 10 años.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ By December, she will have worked here for 5 years.                           │
+│ En diciembre, ella habrá trabajado aquí 5 años.                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ By the time he's 30, he will have been a doctor for 5 years.                  │
+│ Para cuando tenga 30, habrá sido médico durante 5 años.                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Next week, they will have been married for 25 years.                          │
+│ La semana que viene, llevarán 25 años casados.                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. ACHIEVEMENTS BY A CERTAIN TIME (Logros para cierto momento):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ By the end of this course, you will have learned 1000 words.                  │
+│ Al final de este curso, habrás aprendido 1000 palabras.                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ By 2030, scientists will have found a cure.                                   │
+│ Para 2030, los científicos habrán encontrado una cura.                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ By next year, I will have read 50 books.                                      │
+│ El año que viene, habré leído 50 libros.                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    KEY WORDS AND TIME EXPRESSIONS
+================================================================================
+
+BY + TIME/DATE (para, antes de):
+    by 5 o'clock           → para las 5
+    by tomorrow            → para mañana
+    by next week           → para la semana que viene
+    by the end of the year → para fin de año
+    by 2030                → para 2030
+    by then                → para entonces
+
+BY THE TIME + PRESENT (para cuando):
+    by the time you arrive      → para cuando llegues
+    by the time she comes       → para cuando venga
+    by the time we finish       → para cuando terminemos
+
+BEFORE (antes de):
+    before you get here         → antes de que llegues
+    before the meeting          → antes de la reunión
+
+IN + TIME PERIOD:
+    in two hours               → en dos horas
+    in a week                  → en una semana
+    in a year                  → en un año
+
+================================================================================
+                    FUTURE PERFECT vs FUTURE SIMPLE
+================================================================================
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ FUTURE SIMPLE                        │ FUTURE PERFECT                         │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Action in the future                 │ Action COMPLETED before future time   │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ I will finish at 5.                  │ I will have finished by 5.             │
+│ (Terminaré a las 5)                  │ (Habré terminado para las 5)           │
+│ = terminando a las 5                 │ = completado ANTES de las 5            │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ She will arrive at 8.                │ She will have arrived by 8.            │
+│ (Llegará a las 8)                    │ (Habrá llegado para las 8)             │
+│ = a las 8 llega                      │ = en algún momento antes de las 8      │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+================================================================================
+                    BY vs UNTIL
+================================================================================
+
+BY = completed before this point (completado antes de):
+→ I will have finished BY 5 pm. (completado en algún momento antes de las 5)
+
+UNTIL = continuing up to this point (continúa hasta):
+→ I will work UNTIL 5 pm. (trabajaré hasta las 5)
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ BY 5 pm, I will have finished. (action complete before 5)                     │
+│ I will work UNTIL 5 pm. (working continues to 5)                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                           COMMON MISTAKES (Errores comunes)
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  I will have finish by 5.              I will have finished by 5.
+  She will has arrived.                 She will have arrived.
+  By 5, I will finished.                By 5, I will have finished.
+  I will have went home.                I will have gone home.
+  Until 5, I will have finished.        By 5, I will have finished.
+  By the time you arrive, I left.       By the time you arrive, I will have left.
+  I will have ate dinner.               I will have eaten dinner.
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                            FUTURE PERFECT                                    │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ STRUCTURE:  Subject + will have + past participle (V3)                       │
+│             Subject + won't have + past participle                           │
+│             Will + subject + have + past participle?                         │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ USES:                                                                        │
+│ • Action completed before a future time:                                     │
+│   I will have finished by 5 pm.                                              │
+│   By the time you arrive, I will have left.                                  │
+│                                                                              │
+│ • Duration until a future point:                                             │
+│   By next year, I will have lived here for 10 years.                         │
+│                                                                              │
+│ • Achievements by a certain time:                                            │
+│   By the end of the course, you will have learned 1000 words.                │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ KEY WORDS:  by, by the time, before, by then, by + date/time                 │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

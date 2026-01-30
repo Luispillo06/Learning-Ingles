@@ -1,0 +1,279 @@
+================================================================================
+                           PRESENT PERFECT
+                      (Presente Perfecto en Inglés)
+================================================================================
+
+El Present Perfect conecta el PASADO con el PRESENTE. Se usa para hablar
+de experiencias, acciones recientes o situaciones que empezaron en el pasado
+y continúan ahora.
+
+================================================================================
+                         STRUCTURE (Estructura)
+================================================================================
+
+AFFIRMATIVE (Afirmativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    HAVE/HAS    +    PAST PARTICIPLE (V3)    +    COMPLEMENT   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/We/They    have           worked/eaten/seen                          │
+│  He/She/It        has            worked/eaten/seen                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I have finished my homework.
+→ She has lived here for 10 years.
+→ They have seen that movie.
+→ He has eaten breakfast.
+
+CONTRACTIONS:
+I have = I've                 He has = He's
+She has = She's               It has = It's
+We have = We've               You have = You've
+They have = They've
+
+NEGATIVE (Negativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    +    HAVE/HAS + NOT    +    PAST PARTICIPLE (V3)                │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  I/You/We/They    haven't (have not)     finished                           │
+│  He/She/It        hasn't (has not)       finished                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ I haven't seen him today.
+→ She hasn't finished yet.
+→ They haven't arrived.
+→ He hasn't called me.
+
+INTERROGATIVE (Interrogativo):
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  HAVE/HAS    +    SUBJECT    +    PAST PARTICIPLE (V3)    +    ?            │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Have             I/you/we/they      finished?                              │
+│  Has              he/she/it          finished?                              │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+→ Have you eaten lunch?
+→ Has she called you?
+→ Have they arrived yet?
+→ Where have you been?
+
+SHORT ANSWERS (Respuestas cortas):
+
+→ Have you finished?       Yes, I have. / No, I haven't.
+→ Has she arrived?         Yes, she has. / No, she hasn't.
+
+================================================================================
+                    PAST PARTICIPLE FORMS (V3)
+                    (Formas del Participio Pasado)
+================================================================================
+
+REGULAR VERBS: Add -ED (same as Past Simple)
+    work → worked           play → played
+    finish → finished       study → studied
+    live → lived            watch → watched
+
+IRREGULAR VERBS: Must be memorized
+
+================================================================================
+                         USES (Usos)
+================================================================================
+
+1. LIFE EXPERIENCES (Experiencias de vida):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I have visited Paris three times.                                             │
+│ He visitado París tres veces.                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She has never eaten sushi.                                                    │
+│ Ella nunca ha comido sushi.                                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Have you ever been to Japan?                                                  │
+│ ¿Alguna vez has estado en Japón?                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I have met many famous people.                                                │
+│ He conocido a muchas personas famosas.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+Keywords: ever, never, before, in my life
+
+2. RECENT ACTIONS WITH PRESENT RESULTS (Acciones recientes con resultado presente):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I have lost my keys. (I can't find them now)                                  │
+│ He perdido mis llaves. (No las encuentro ahora)                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She has broken her leg. (It's still broken)                                   │
+│ Ella se ha roto la pierna. (Todavía está rota)                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I've just finished my homework. (It's done now)                               │
+│ Acabo de terminar mi tarea. (Está hecha ahora)                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The taxi has arrived. (It's here now)                                         │
+│ El taxi ha llegado. (Está aquí ahora)                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+Keywords: just, already, yet
+
+3. SITUATIONS THAT STARTED IN THE PAST AND CONTINUE NOW (FOR/SINCE):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I have lived here for ten years.                                              │
+│ He vivido aquí durante diez años. (y sigo viviendo)                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She has worked here since 2015.                                               │
+│ Ella ha trabajado aquí desde 2015. (y sigue trabajando)                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ We have known each other for 20 years.                                        │
+│ Nos conocemos desde hace 20 años.                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He has been a teacher since he graduated.                                     │
+│ Ha sido profesor desde que se graduó.                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. UNFINISHED TIME PERIODS (Períodos de tiempo sin terminar):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I have seen three movies this week.                                           │
+│ He visto tres películas esta semana. (la semana no ha terminado)              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She has called me twice today.                                                │
+│ Ella me ha llamado dos veces hoy. (el día no ha terminado)                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I haven't eaten anything today.                                               │
+│ No he comido nada hoy.                                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Have you read the news this morning?                                          │
+│ ¿Has leído las noticias esta mañana?                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+Keywords: today, this week/month/year, this morning
+
+================================================================================
+                    KEY WORDS AND TIME EXPRESSIONS
+================================================================================
+
+FOR vs SINCE:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ FOR + DURATION (período de tiempo)     │ SINCE + POINT IN TIME (momento)      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ for two hours                          │ since 2 o'clock                      │
+│ for three days                         │ since Monday                         │
+│ for a week                             │ since last week                      │
+│ for six months                         │ since January                        │
+│ for ten years                          │ since 2015                           │
+│ for a long time                        │ since I was a child                  │
+│ for ages                               │ since we met                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+JUST, ALREADY, YET:
+
+JUST = acabar de (recién)
+→ I have just finished. (Acabo de terminar)
+→ She has just arrived. (Ella acaba de llegar)
+Position: have/has + JUST + past participle
+
+ALREADY = ya (antes de lo esperado)
+→ I have already done it. (Ya lo he hecho)
+→ She has already left. (Ella ya se ha ido)
+Position: have/has + ALREADY + past participle
+
+YET = todavía/aún (en negativas e interrogativas)
+→ I haven't finished yet. (Todavía no he terminado)
+→ Has she arrived yet? (¿Ha llegado ya?)
+Position: at the END of the sentence
+
+EVER, NEVER:
+
+EVER = alguna vez (en preguntas)
+→ Have you ever been to London? (¿Alguna vez has estado en Londres?)
+→ Has she ever tried sushi? (¿Alguna vez ha probado sushi?)
+
+NEVER = nunca
+→ I have never seen snow. (Nunca he visto nieve)
+→ She has never been abroad. (Ella nunca ha estado en el extranjero)
+
+Position: have/has + EVER/NEVER + past participle
+
+================================================================================
+                    PRESENT PERFECT vs PAST SIMPLE
+================================================================================
+
+┌──────────────────────────────────────┬────────────────────────────────────────┐
+│ PRESENT PERFECT                      │ PAST SIMPLE                            │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ No specific time                     │ Specific time in the past              │
+│ I have visited Paris.                │ I visited Paris in 2019.               │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Unfinished time period               │ Finished time period                   │
+│ I have seen him today.               │ I saw him yesterday.                   │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Situation continues to now           │ Situation is finished                  │
+│ I have lived here for 5 years.       │ I lived in London for 5 years.         │
+│ (I still live here)                  │ (I don't live there now)               │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ Result is important now              │ The action is important                │
+│ I've lost my keys. (where are they?) │ I lost my keys. (what happened)        │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ ever, never, just, already, yet      │ yesterday, last week, ago, in 2015     │
+│ for, since, today, this week         │ when I was young, at 5 o'clock         │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+
+EJEMPLOS COMPARATIVOS:
+
+→ I have seen that movie. (experiencia general)
+→ I saw that movie last night. (momento específico)
+
+→ She has lived in Paris. (experiencia en su vida)
+→ She lived in Paris for 2 years. (período terminado)
+
+→ Have you eaten? (¿Ya comiste? - resultado importa)
+→ Did you eat? / When did you eat? (preguntando por la acción)
+
+================================================================================
+                    BEEN vs GONE
+================================================================================
+
+BEEN = ha ido y ha vuelto (fue y regresó)
+→ She has been to Paris. (Ella ha estado en París - ya regresó)
+→ I have been to the supermarket. (Fui al súper y volví)
+
+GONE = ha ido y no ha vuelto (todavía está allí)
+→ She has gone to Paris. (Ella ha ido a París - está allá ahora)
+→ He has gone to work. (Él se fue a trabajar - está en el trabajo)
+
+================================================================================
+                           COMMON MISTAKES (Errores comunes)
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  I have seen him yesterday.            I saw him yesterday.
+  She has lived here since 5 years.     She has lived here for 5 years.
+  Have you ever went to Paris?          Have you ever been to Paris?
+  I have ate breakfast.                 I have eaten breakfast.
+  She have finished.                    She has finished.
+  I didn't see him yet.                 I haven't seen him yet.
+  I have visit Paris.                   I have visited Paris.
+  She has already finish.               She has already finished.
+  I have been here since a long time.   I have been here for a long time.
+  Did you ever been to Japan?           Have you ever been to Japan?
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+  AFFIRMATIVE         NEGATIVE              INTERROGATIVE
+  ─────────────────────────────────────────────────────────────────────────
+  I have worked       I haven't worked      Have I worked?
+  You have worked     You haven't worked    Have you worked?
+  He/She/It has       He/She/It hasn't      Has he/she/it worked?
+  worked              worked
+  We have worked      We haven't worked     Have we worked?
+  They have worked    They haven't worked   Have they worked?
+
+  KEYWORDS: for, since, ever, never, just, already, yet, today, this week
+
+================================================================================

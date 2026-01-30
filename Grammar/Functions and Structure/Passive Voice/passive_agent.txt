@@ -1,0 +1,218 @@
+================================================================================
+                    THE AGENT (BY)
+              (El Agente en la Voz Pasiva)
+================================================================================
+
+El AGENTE es quien realiza la acción en una oración pasiva.
+Se introduce con la preposición BY.
+
+================================================================================
+                    STRUCTURE
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  PASSIVE SENTENCE    +    BY    +    AGENT (who/what does the action)       │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  The book was written     by         J.K. Rowling.                          │
+│  The window was broken    by         the ball.                              │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WHEN TO INCLUDE THE AGENT
+================================================================================
+
+INCLUDE the agent when:
+
+1. THE AGENT IS IMPORTANT OR INTERESTING:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The Mona Lisa was painted by Leonardo da Vinci.                               │
+│ La Mona Lisa fue pintada por Leonardo da Vinci.                               │
+│ (Leonardo is the important information)                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ This song was written by Taylor Swift.                                        │
+│ Esta canción fue escrita por Taylor Swift.                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The telephone was invented by Alexander Graham Bell.                          │
+│ El teléfono fue inventado por Alexander Graham Bell.                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The theory of relativity was developed by Einstein.                           │
+│ La teoría de la relatividad fue desarrollada por Einstein.                    │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. THE AGENT IS UNEXPECTED OR SURPRISING:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The child was rescued by a dog.                                               │
+│ El niño fue rescatado por un perro. (surprising!)                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The dinner was cooked by my 5-year-old son.                                   │
+│ La cena fue cocinada por mi hijo de 5 años. (unexpected!)                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The cake was made by the CEO himself.                                         │
+│ El pastel fue hecho por el propio director. (surprising!)                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. WE WANT TO GIVE CREDIT OR BLAME:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ This report was written by Sarah.                                             │
+│ Este informe fue escrito por Sarah. (giving credit)                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The mistake was made by the IT department.                                    │
+│ El error fue cometido por el departamento de informática. (blame)             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The project was completed by our team.                                        │
+│ El proyecto fue completado por nuestro equipo. (credit)                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WHEN TO OMIT THE AGENT
+================================================================================
+
+DON'T include the agent when:
+
+1. THE AGENT IS UNKNOWN:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ My car was stolen. (I don't know who did it)                                  │
+│ Mi coche fue robado.                                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The window was broken. (no idea who broke it)                                 │
+│ La ventana fue rota.                                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ A body was found in the river.                                                │
+│ Un cuerpo fue encontrado en el río.                                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. THE AGENT IS OBVIOUS:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The thief was arrested. (by the police - obvious)                             │
+│ El ladrón fue arrestado.                                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The patient was operated on. (by doctors - obvious)                           │
+│ El paciente fue operado.                                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The children were taught maths. (by teachers - obvious)                       │
+│ A los niños se les enseñó matemáticas.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Letters are delivered every day. (by postmen - obvious)                       │
+│ Las cartas se entregan todos los días.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. THE AGENT IS UNIMPORTANT OR IRRELEVANT:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ English is spoken here. (doesn't matter who speaks it)                        │
+│ Aquí se habla inglés.                                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ This house was built in 1900. (builders aren't relevant)                      │
+│ Esta casa fue construida en 1900.                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The results will be announced tomorrow.                                       │
+│ Los resultados serán anunciados mañana.                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+4. THE AGENT IS GENERAL (people, someone, they):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE:  People speak Spanish in Mexico.                                      │
+│ PASSIVE: Spanish is spoken in Mexico. (NOT: by people)                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  Someone stole my phone.                                              │
+│ PASSIVE: My phone was stolen. (NOT: by someone)                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ACTIVE:  They make wine in France.                                            │
+│ PASSIVE: Wine is made in France. (NOT: by them)                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    BY vs WITH
+================================================================================
+
+BY = used for the AGENT (person, animal, organization doing the action)
+WITH = used for the INSTRUMENT/TOOL (thing used to do the action)
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ BY (agent - who/what does the action):                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The cake was made by my mother.                                               │
+│ El pastel fue hecho por mi madre.                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The song was sung by Beyoncé.                                                 │
+│ La canción fue cantada por Beyoncé.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The book was written by Cervantes.                                            │
+│ El libro fue escrito por Cervantes.                                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ WITH (instrument - what tool was used):                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The letter was written with a pen.                                            │
+│ La carta fue escrita con un bolígrafo.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The victim was killed with a knife.                                           │
+│ La víctima fue asesinada con un cuchillo.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The door was opened with a key.                                               │
+│ La puerta fue abierta con una llave.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+USING BOTH:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The painting was created by Picasso with oil paints.                          │
+│ El cuadro fue creado por Picasso con pinturas al óleo.                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The document was signed by the director with a fountain pen.                  │
+│ El documento fue firmado por el director con una pluma.                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    AGENT AS CAUSE
+================================================================================
+
+BY can also indicate a CAUSE (not a person):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The house was destroyed by fire.                                              │
+│ La casa fue destruida por el fuego.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The village was flooded by heavy rain.                                        │
+│ El pueblo fue inundado por las fuertes lluvias.                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The crops were damaged by frost.                                              │
+│ Los cultivos fueron dañados por las heladas.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The town was hit by an earthquake.                                            │
+│ La ciudad fue golpeada por un terremoto.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The ship was sunk by a storm.                                                 │
+│ El barco fue hundido por una tormenta.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                              THE AGENT                                       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ INCLUDE THE AGENT (BY) WHEN:                                                 │
+│ • It's important/interesting: painted by Picasso                             │
+│ • It's unexpected/surprising: saved by a dog                                 │
+│ • We want to give credit/blame                                               │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ OMIT THE AGENT WHEN:                                                         │
+│ • Unknown: My car was stolen.                                                │
+│ • Obvious: The thief was arrested.                                           │
+│ • Unimportant: This house was built in 1900.                                 │
+│ • General (people/someone/they): Spanish is spoken here.                     │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ BY vs WITH:                                                                  │
+│ • BY = agent (who does it): written by Shakespeare                           │
+│ • WITH = instrument (tool used): written with a pen                          │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
