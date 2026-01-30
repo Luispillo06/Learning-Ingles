@@ -1,0 +1,402 @@
+=====================================================
+           VERBOS REGULARES EN INGLES
+=====================================================
+
+INFINITIVO        | PASADO SIMPLE / PARTICIPIO | SIGNIFICADO
+------------------|----------------------------|---------------------------
+
+A
+Accept            | Accepted                   | Aceptar
+Achieve           | Achieved                   | Lograr, Conseguir
+Act               | Acted                      | Actuar
+Add               | Added                      | Añadir, Sumar
+Admire            | Admired                    | Admirar
+Admit             | Admitted                   | Admitir
+Advise            | Advised                    | Aconsejar
+Agree             | Agreed                     | Estar De Acuerdo
+Allow             | Allowed                    | Permitir
+Answer            | Answered                   | Responder
+Appear            | Appeared                   | Aparecer
+Apply             | Applied                    | Aplicar, Solicitar
+Arrive            | Arrived                    | Llegar
+Ask               | Asked                      | Preguntar, Pedir
+Attend            | Attended                   | Asistir, Atender
+
+B
+Bake              | Baked                      | Hornear
+Believe           | Believed                   | Creer
+Belong            | Belonged                   | Pertenecer
+Borrow            | Borrowed                   | Pedir Prestado
+Brush             | Brushed                    | Cepillar
+
+C
+Call              | Called                     | Llamar
+Cancel            | Cancelled                  | Cancelar
+Care              | Cared                      | Importar, Cuidar
+Carry             | Carried                    | Llevar, Cargar
+Celebrate         | Celebrated                 | Celebrar
+Change            | Changed                    | Cambiar
+Check             | Checked                    | Revisar, Comprobar
+Clean             | Cleaned                    | Limpiar
+Clear             | Cleared                    | Aclarar, Despejar
+Climb             | Climbed                    | Escalar, Subir
+Close             | Closed                     | Cerrar
+Collect           | Collected                  | Coleccionar, Recoger
+Colour            | Coloured                   | Colorear
+Comb              | Combed                     | Peinar
+Comment           | Commented                  | Comentar
+Compare           | Compared                   | Comparar
+Complain          | Complained                 | Quejarse
+Complete          | Completed                  | Completar
+Concentrate       | Concentrated               | Concentrarse
+Confirm           | Confirmed                  | Confirmar
+Connect           | Connected                  | Conectar
+Consider          | Considered                 | Considerar
+Contain           | Contained                  | Contener
+Continue          | Continued                  | Continuar
+Control           | Controlled                 | Controlar
+Cook              | Cooked                     | Cocinar
+Copy              | Copied                     | Copiar
+Correct           | Corrected                  | Corregir
+Count             | Counted                    | Contar
+Cover             | Covered                    | Cubrir
+Create            | Created                    | Crear
+Cross             | Crossed                    | Cruzar
+Cry               | Cried                      | Llorar
+
+D
+Dance             | Danced                     | Bailar
+Decide            | Decided                    | Decidir
+Decorate          | Decorated                  | Decorar
+Deliver           | Delivered                  | Entregar
+Demand            | Demanded                   | Exigir, Demandar
+Depend            | Depended                   | Depender
+Describe          | Described                  | Describir
+Deserve           | Deserved                   | Merecer
+Design            | Designed                   | Dise�ar
+Desire            | Desired                    | Desear
+Destroy           | Destroyed                  | Destruir
+Develop           | Developed                  | Desarrollar
+Disappear         | Disappeared                | Desaparecer
+Discover          | Discovered                 | Descubrir
+Discuss           | Discussed                  | Discutir
+Divide            | Divided                    | Dividir
+Download          | Downloaded                 | Descargar
+Dream             | Dreamed                    | So�ar
+Dress             | Dressed                    | Vestir
+Drop              | Dropped                    | Dejar Caer
+Dry               | Dried                      | Secar
+
+E
+Earn              | Earned                     | Ganar (Dinero)
+Edit              | Edited                     | Editar
+Educate           | Educated                   | Educar
+Email             | Emailed                    | Enviar Email
+Employ            | Employed                   | Emplear
+Empty             | Emptied                    | Vaciar
+Encourage         | Encouraged                 | Animar, Alentar
+End               | Ended                      | Terminar
+Enjoy             | Enjoyed                    | Disfrutar
+Enter             | Entered                    | Entrar
+Escape            | Escaped                    | Escapar
+Examine           | Examined                   | Examinar
+Exchange          | Exchanged                  | Intercambiar
+Excite            | Excited                    | Emocionar
+Excuse            | Excused                    | Excusar
+Exercise          | Exercised                  | Ejercitar
+Exist             | Existed                    | Existir
+Expect            | Expected                   | Esperar
+Explain           | Explained                  | Explicar
+Explore           | Explored                   | Explorar
+Express           | Expressed                  | Expresar
+
+F
+Face              | Faced                      | Enfrentar
+Fail              | Failed                     | Fallar, Reprobar
+Fill              | Filled                     | Llenar
+Finish            | Finished                   | Terminar
+Fire              | Fired                      | Despedir
+Fix               | Fixed                      | Arreglar, Reparar
+Follow            | Followed                   | Seguir
+Force             | Forced                     | Forzar
+Form              | Formed                     | Formar
+Frighten          | Frightened                 | Asustar
+
+G
+Gain              | Gained                     | Ganar, Obtener
+Garden            | Gardened                   | Jardinear
+Gather            | Gathered                   | Reunir, Recoger
+Graduate          | Graduated                  | Graduarse
+Greet             | Greeted                    | Saludar
+Guess             | Guessed                    | Adivinar
+Guide             | Guided                     | Guiar
+
+H
+Happen            | Happened                   | Suceder, Pasar
+Hate              | Hated                      | Odiar
+Help              | Helped                     | Ayudar
+Hope              | Hoped                      | Esperar
+Hug               | Hugged                     | Abrazar
+Hurry             | Hurried                    | Apurarse
+
+I
+Identify          | Identified                 | Identificar
+Ignore            | Ignored                    | Ignorar
+Imagine           | Imagined                   | Imaginar
+Impress           | Impressed                  | Impresionar
+Improve           | Improved                   | Mejorar
+Include           | Included                   | Incluir
+Increase          | Increased                  | Aumentar
+Influence         | Influenced                 | Influir
+Inform            | Informed                   | Informar
+Insist            | Insisted                   | Insistir
+Install           | Installed                  | Instalar
+Intend            | Intended                   | Pretender
+Interest          | Interested                 | Interesar
+Interrupt         | Interrupted                | Interrumpir
+Introduce         | Introduced                 | Presentar
+Invent            | Invented                   | Inventar
+Invite            | Invited                    | Invitar
+Iron              | Ironed                     | Planchar
+
+J
+Join              | Joined                     | Unirse
+Joke              | Joked                      | Bromear
+Judge             | Judged                     | Juzgar
+Jump              | Jumped                     | Saltar
+
+K
+Kick              | Kicked                     | Patear
+Kill              | Killed                     | Matar
+Kiss              | Kissed                     | Besar
+Knock             | Knocked                    | Golpear, Tocar
+
+L
+Land              | Landed                     | Aterrizar
+Last              | Lasted                     | Durar
+Laugh             | Laughed                    | Re�r
+Launch            | Launched                   | Lanzar
+Learn             | Learned                    | Aprender
+Like              | Liked                      | Gustar
+Limit             | Limited                    | Limitar
+Listen            | Listened                   | Escuchar
+Live              | Lived                      | Vivir
+Load              | Loaded                     | Cargar
+Lock              | Locked                     | Cerrar Con Llave
+Look              | Looked                     | Mirar, Buscar
+Love              | Loved                      | Amar
+
+M
+Manage            | Managed                    | Manejar, Gestionar
+Mark              | Marked                     | Marcar
+Marry             | Married                    | Casarse
+Match             | Matched                    | Coincidir, Emparejar
+Matter            | Mattered                   | Importar
+Measure           | Measured                   | Medir
+Mention           | Mentioned                  | Mencionar
+Miss              | Missed                     | Extra�ar, Perder
+Mix               | Mixed                      | Mezclar
+Move              | Moved                      | Mover
+
+N
+Name              | Named                      | Nombrar
+Need              | Needed                     | Necesitar
+Notice            | Noticed                    | Notar
+
+O
+Obey              | Obeyed                     | Obedecer
+Observe           | Observed                   | Observar
+Obtain            | Obtained                   | Obtener
+Occupy            | Occupied                   | Ocupar
+Occur             | Occurred                   | Ocurrir
+Offer             | Offered                    | Ofrecer
+Open              | Opened                     | Abrir
+Operate           | Operated                   | Operar
+Order             | Ordered                    | Ordenar, Pedir
+Organize          | Organized                  | Organizar
+Owe               | Owed                       | Deber
+
+P
+Pack              | Packed                     | Empacar
+Paint             | Painted                    | Pintar
+Park              | Parked                     | Estacionar
+Pass              | Passed                     | Pasar
+Pause             | Paused                     | Pausar
+Perform           | Performed                  | Realizar, Actuar
+Permit            | Permitted                  | Permitir
+Pick              | Picked                     | Escoger, Recoger
+Place             | Placed                     | Colocar
+Plan              | Planned                    | Planear
+Play              | Played                     | Jugar, Tocar
+Please            | Pleased                    | Complacer
+Point             | Pointed                    | Se�alar
+Polish            | Polished                   | Pulir
+Post              | Posted                     | Publicar
+Pour              | Poured                     | Verter
+Practice          | Practiced                  | Practicar
+Praise            | Praised                    | Elogiar
+Pray              | Prayed                     | Rezar, Orar
+Prefer            | Preferred                  | Preferir
+Prepare           | Prepared                   | Preparar
+Present           | Presented                  | Presentar
+Preserve          | Preserved                  | Preservar
+Press             | Pressed                    | Presionar
+Pretend           | Pretended                  | Fingir
+Prevent           | Prevented                  | Prevenir
+Print             | Printed                    | Imprimir
+Produce           | Produced                   | Producir
+Program           | Programmed                 | Programar
+Promise           | Promised                   | Prometer
+Pronounce         | Pronounced                 | Pronunciar
+Protect           | Protected                  | Proteger
+Prove             | Proved                     | Probar
+Provide           | Provided                   | Proveer
+Publish           | Published                  | Publicar
+Pull              | Pulled                     | Tirar, Jalar
+Punish            | Punished                   | Castigar
+Push              | Pushed                     | Empujar
+
+Q
+Question          | Questioned                 | Cuestionar
+
+R
+Rain              | Rained                     | Llover
+Raise             | Raised                     | Levantar, Criar
+Reach             | Reached                    | Alcanzar, Llegar
+React             | Reacted                    | Reaccionar
+Realize           | Realized                   | Darse Cuenta
+Receive           | Received                   | Recibir
+Recognize         | Recognized                 | Reconocer
+Recommend         | Recommended                | Recomendar
+Record            | Recorded                   | Grabar
+Recover           | Recovered                  | Recuperar
+Reduce            | Reduced                    | Reducir
+Refer             | Referred                   | Referir
+Refuse            | Refused                    | Rechazar
+Register          | Registered                 | Registrar
+Regret            | Regretted                  | Lamentar
+Relax             | Relaxed                    | Relajar
+Release           | Released                   | Liberar, Lanzar
+Remain            | Remained                   | Permanecer
+Remember          | Remembered                 | Recordar
+Remove            | Removed                    | Quitar, Remover
+Rent              | Rented                     | Alquilar
+Repair            | Repaired                   | Reparar
+Repeat            | Repeated                   | Repetir
+Replace           | Replaced                   | Reemplazar
+Reply             | Replied                    | Responder
+Report            | Reported                   | Reportar
+Represent         | Represented                | Representar
+Request           | Requested                  | Solicitar
+Require           | Required                   | Requerir
+Rescue            | Rescued                    | Rescatar
+Research          | Researched                 | Investigar
+Reserve           | Reserved                   | Reservar
+Respect           | Respected                  | Respetar
+Rest              | Rested                     | Descansar
+Result            | Resulted                   | Resultar
+Return            | Returned                   | Regresar, Devolver
+Review            | Reviewed                   | Revisar
+Risk              | Risked                     | Arriesgar
+Rub               | Rubbed                     | Frotar
+Ruin              | Ruined                     | Arruinar
+Rush              | Rushed                     | Apresurarse
+
+S
+Save              | Saved                      | Guardar, Ahorrar
+Scare             | Scared                     | Asustar
+Scratch           | Scratched                  | Rascar
+Scream            | Screamed                   | Gritar
+Search            | Searched                   | Buscar
+Seem              | Seemed                     | Parecer
+Select            | Selected                   | Seleccionar
+Separate          | Separated                  | Separar
+Serve             | Served                     | Servir
+Share             | Shared                     | Compartir
+Shave             | Shaved                     | Afeitar
+Shop              | Shopped                    | Comprar
+Shout             | Shouted                    | Gritar
+Sign              | Signed                     | Firmar
+Smile             | Smiled                     | Sonre�r
+Smoke             | Smoked                     | Fumar
+Snow              | Snowed                     | Nevar
+Solve             | Solved                     | Resolver
+Sort              | Sorted                     | Ordenar
+Sound             | Sounded                    | Sonar
+Spell             | Spelled                    | Deletrear
+Spill             | Spilled                    | Derramar
+Spoil             | Spoiled                    | Estropear
+Start             | Started                    | Empezar
+Stay              | Stayed                     | Quedarse
+Stop              | Stopped                    | Parar, Detener
+Store             | Stored                     | Almacenar
+Study             | Studied                    | Estudiar
+Succeed           | Succeeded                  | Tener �xito
+Suffer            | Suffered                   | Sufrir
+Suggest           | Suggested                  | Sugerir
+Supply            | Supplied                   | Suministrar
+Support           | Supported                  | Apoyar
+Suppose           | Supposed                   | Suponer
+Surprise          | Surprised                  | Sorprender
+Surround          | Surrounded                 | Rodear
+Survive           | Survived                   | Sobrevivir
+
+T
+Talk              | Talked                     | Hablar
+Taste             | Tasted                     | Probar, Saborear
+Thank             | Thanked                    | Agradecer
+Touch             | Touched                    | Tocar
+Train             | Trained                    | Entrenar
+Transfer          | Transferred                | Transferir
+Translate         | Translated                 | Traducir
+Travel            | Travelled                  | Viajar
+Treat             | Treated                    | Tratar
+Trick             | Tricked                    | Enga�ar
+Trip              | Tripped                    | Tropezar
+Trust             | Trusted                    | Confiar
+Try               | Tried                      | Intentar
+Turn              | Turned                     | Girar, Voltear
+Type              | Typed                      | Escribir A M�quina
+
+U
+Underline         | Underlined                 | Subrayar
+Undress           | Undressed                  | Desvestir
+Unite             | United                     | Unir
+Unpack            | Unpacked                   | Desempacar
+Update            | Updated                    | Actualizar
+Upload            | Uploaded                   | Subir (Archivos)
+Urge              | Urged                      | Instar
+Use               | Used                       | Usar
+
+V
+Value             | Valued                     | Valorar
+Vary              | Varied                     | Variar
+Visit             | Visited                    | Visitar
+Vote              | Voted                      | Votar
+
+W
+Wait              | Waited                     | Esperar
+Walk              | Walked                     | Caminar
+Want              | Wanted                     | Querer
+Warm              | Warmed                     | Calentar
+Warn              | Warned                     | Advertir
+Wash              | Washed                     | Lavar
+Waste             | Wasted                     | Desperdiciar
+Watch             | Watched                    | Ver, Observar
+Water             | Watered                    | Regar
+Wave              | Waved                      | Saludar (Con Mano)
+Weigh             | Weighed                    | Pesar
+Welcome           | Welcomed                   | Dar La Bienvenida
+Whisper           | Whispered                  | Susurrar
+Wish              | Wished                     | Desear
+Wonder            | Wondered                   | Preguntarse
+Work              | Worked                     | Trabajar
+Worry             | Worried                    | Preocuparse
+Wrap              | Wrapped                    | Envolver
+
+Y
+Yawn              | Yawned                     | Bostezar
+Yell              | Yelled                     | Gritar
+
+Z
+Zip               | Zipped                     | Comprimir, Cerrar

@@ -1,0 +1,245 @@
+================================================================================
+                            DETERMINERS IN ENGLISH
+                           (Determinantes en Inglés)
+================================================================================
+
+--------------------------------------------------------------------------------
+                          ARTICLES (Artículos)
+--------------------------------------------------------------------------------
+
+DEFINITE ARTICLE (Artículo Definido):
+
+THE         - el, la, los, las      → The book is on the table.
+                                    → The children are playing.
+
+Uso de THE:
+- Algo específico o ya mencionado   → I saw a dog. The dog was big.
+- Único en su tipo                  → The sun, the moon, the Earth
+- Superlativos                      → The best, the tallest
+- Ordinales                         → The first, the second
+- Instrumentos musicales            → Play the piano, the guitar
+- Países con plural/union           → The United States, The Netherlands
+- Océanos, mares, ríos              → The Pacific, The Thames
+- Cadenas montañosas                → The Alps, The Andes
+
+NO se usa THE:
+- Nombres propios                   → John, Spain, Monday
+- Conceptos generales               → Love is beautiful. Dogs are loyal.
+- Deportes                          → I play football.
+- Comidas del día                   → I have breakfast at 8.
+- Idiomas                           → I speak English.
+
+
+INDEFINITE ARTICLES (Artículos Indefinidos):
+
+A           - un, una (antes de consonante)
+              → A book, a car, a house, a university (sonido /ju/)
+
+AN          - un, una (antes de vocal)
+              → An apple, an egg, an hour (h muda), an honest person
+
+Uso de A/AN:
+- Primera mención                   → I saw a movie yesterday.
+- Profesiones                       → She is a doctor.
+- Expresiones de cantidad           → A few, a little, a lot of
+- Con "what" exclamativo            → What a beautiful day!
+- Precio/velocidad por unidad       → $5 a kilo, 60 miles an hour
+
+--------------------------------------------------------------------------------
+                    DEMONSTRATIVES (Demostrativos)
+--------------------------------------------------------------------------------
+
+THIS        - este, esta            → This book is interesting.
+                                    (cerca, singular)
+
+THAT        - ese, esa, aquel       → That car is expensive.
+                                    (lejos, singular)
+
+THESE       - estos, estas          → These shoes are new.
+                                    (cerca, plural)
+
+THOSE       - esos, esas, aquellos  → Those mountains are beautiful.
+                                    (lejos, plural)
+
+Usos adicionales:
+- THIS para tiempo presente/futuro  → This week, this Monday
+- THAT para tiempo pasado           → That day, that year
+- THIS para presentar personas      → This is my friend John.
+- THAT para referirse a algo dicho  → That's a good idea.
+
+--------------------------------------------------------------------------------
+                     POSSESSIVES (Posesivos)
+--------------------------------------------------------------------------------
+
+MY          - mi, mis               → My name is John.
+YOUR        - tu, tus, su (formal)  → What's your name?
+HIS         - su, sus (de él)       → His car is blue.
+HER         - su, sus (de ella)     → Her dress is red.
+ITS         - su, sus (de cosa)     → The cat licked its paw.
+OUR         - nuestro/a/os/as       → Our house is big.
+THEIR       - su, sus (de ellos)    → Their children are smart.
+
+Nota: En inglés, el posesivo concuerda con el poseedor, NO con lo poseído.
+      → His book (el libro de él) - Her book (el libro de ella)
+
+--------------------------------------------------------------------------------
+                     QUANTIFIERS (Cuantificadores)
+--------------------------------------------------------------------------------
+
+SOME        - algo de, algunos      → I have some money.
+              (afirmativo)          → There are some apples.
+
+ANY         - algo de, alguno       → Do you have any questions?
+              (negativo/interrogat) → I don't have any money.
+
+NO          - ningún, ninguno       → I have no time.
+                                    → There are no chairs.
+
+MANY        - muchos (contables)    → Many people came.
+MUCH        - mucho (incontables)   → I don't have much time.
+
+A LOT OF    - mucho/muchos          → I have a lot of friends.
+LOTS OF     - mucho/muchos          → There's lots of food.
+
+FEW         - pocos (casi ninguno)  → Few people understand this.
+A FEW       - algunos (suficientes) → I have a few friends.
+
+LITTLE      - poco (casi nada)      → There's little hope.
+A LITTLE    - un poco (suficiente)  → I have a little money.
+
+SEVERAL     - varios                → Several students passed.
+ENOUGH      - suficiente            → We have enough time.
+PLENTY OF   - bastante, mucho       → There's plenty of food.
+
+ALL         - todo/todos            → All students must attend.
+BOTH        - ambos                 → Both answers are correct.
+EITHER      - cualquiera de dos     → Either day is fine.
+NEITHER     - ninguno de dos        → Neither option works.
+
+EACH        - cada (individual)     → Each student has a book.
+EVERY       - cada (todos)          → Every day I exercise.
+
+MOST        - la mayoría            → Most people agree.
+HALF        - la mitad              → Half the cake is gone.
+
+--------------------------------------------------------------------------------
+                NUMBERS AS DETERMINERS (Números)
+--------------------------------------------------------------------------------
+
+CARDINALS (Cardinales):
+
+ONE         - uno                   → I have one brother.
+TWO         - dos                   → She has two cats.
+THREE       - tres                  → Three books are on the table.
+FOUR        - cuatro                → Four seasons in a year.
+FIVE        - cinco                 → Five fingers on each hand.
+TEN         - diez                  → Ten students in class.
+TWENTY      - veinte                → Twenty dollars.
+HUNDRED     - cien                  → A hundred people.
+THOUSAND    - mil                   → A thousand words.
+MILLION     - millón                → A million dollars.
+
+ORDINALS (Ordinales):
+
+FIRST       - primero               → The first day of school.
+SECOND      - segundo               → My second attempt.
+THIRD       - tercero               → The third floor.
+FOURTH      - cuarto                → The fourth of July.
+FIFTH       - quinto                → The fifth element.
+LAST        - último                → The last question.
+NEXT        - próximo               → The next bus.
+
+--------------------------------------------------------------------------------
+               INTERROGATIVE DETERMINERS (Interrogativos)
+--------------------------------------------------------------------------------
+
+WHAT        - qué                   → What time is it?
+                                    → What color do you prefer?
+
+WHICH       - cuál, qué             → Which book do you want?
+              (opciones limitadas)  → Which one is yours?
+
+WHOSE       - de quién              → Whose bag is this?
+                                    → Whose turn is it?
+
+--------------------------------------------------------------------------------
+               DISTRIBUTIVE DETERMINERS (Distributivos)
+--------------------------------------------------------------------------------
+
+EACH        - cada (individual)     → Each child received a gift.
+EVERY       - cada (totalidad)      → Every morning I jog.
+EITHER      - cualquiera de dos     → Take either road.
+NEITHER     - ninguno de dos        → Neither answer is correct.
+ANY         - cualquier             → Any day is fine.
+
+Diferencia EACH vs EVERY:
+- EACH: enfatiza la individualidad  → Each person is unique.
+- EVERY: enfatiza la totalidad      → Every person must vote.
+
+--------------------------------------------------------------------------------
+             EXCLAMATIVE DETERMINERS (Exclamativos)
+--------------------------------------------------------------------------------
+
+WHAT        - qué                   → What a beautiful day!
+                                    → What lovely flowers!
+
+SUCH        - tal, tan              → Such a nice person!
+                                    → Such beautiful weather!
+
+--------------------------------------------------------------------------------
+                    PRE-DETERMINERS (Pre-determinantes)
+--------------------------------------------------------------------------------
+
+ALL         - todo                  → All the students passed.
+BOTH        - ambos                 → Both my parents work.
+HALF        - la mitad              → Half the cake is left.
+DOUBLE      - doble                 → Double the amount.
+TWICE       - el doble              → Twice the price.
+SUCH        - tal                   → Such a good idea.
+WHAT        - qué (exclamativo)     → What a surprise!
+QUITE       - todo un               → Quite a story!
+RATHER      - bastante              → Rather a long wait.
+
+--------------------------------------------------------------------------------
+                      DIFFERENCE TABLE
+--------------------------------------------------------------------------------
+
+| COUNTABLE (Contables)     | UNCOUNTABLE (Incontables)  |
+|---------------------------|----------------------------|
+| a/an apple                | (no article) water         |
+| many apples               | much water                 |
+| few apples                | little water               |
+| a few apples              | a little water             |
+| some apples               | some water                 |
+| any apples                | any water                  |
+| no apples                 | no water                   |
+| several apples            | (not used)                 |
+| a lot of apples           | a lot of water             |
+| enough apples             | enough water               |
+
+================================================================================
+                           COMMON MISTAKES
+================================================================================
+
+❌ WRONG                          ✓ CORRECT
+---------                         ---------
+I have much friends.              I have many friends.
+I don't have many money.          I don't have much money.
+She is doctor.                    She is a doctor.
+I like the music. (general)       I like music.
+Each students must...             Each student must...
+The both answers...               Both answers...
+I have few friends. (positive)    I have a few friends.
+
+================================================================================
+                              ORDER OF DETERMINERS
+================================================================================
+
+Pre-determiner + Central determiner + Post-determiner + Noun
+
+Examples:
+- ALL (pre) + THE (central) + OTHER (post) + STUDENTS
+- BOTH (pre) + MY (central) + FIRST (post) + ATTEMPTS
+- HALF (pre) + THE (central) + REMAINING (post) + CAKE
+
+================================================================================

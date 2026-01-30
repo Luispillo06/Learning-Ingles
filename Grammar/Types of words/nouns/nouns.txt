@@ -1,0 +1,342 @@
+================================================================================
+                              NOUNS IN ENGLISH
+                            (Sustantivos en Inglés)
+================================================================================
+
+--------------------------------------------------------------------------------
+                         TYPES OF NOUNS (Tipos)
+--------------------------------------------------------------------------------
+
+1. COMMON NOUNS (Sustantivos Comunes)
+   Nombres generales de personas, lugares, cosas o ideas.
+   
+   → dog, city, book, love, teacher, country, car
+
+2. PROPER NOUNS (Sustantivos Propios)
+   Nombres específicos. Siempre con mayúscula.
+   
+   → John, London, Microsoft, Monday, January, Spain
+
+3. CONCRETE NOUNS (Sustantivos Concretos)
+   Cosas que puedes percibir con los sentidos.
+   
+   → table, music, flower, perfume, coffee
+
+4. ABSTRACT NOUNS (Sustantivos Abstractos)
+   Ideas, conceptos, emociones que no puedes tocar.
+   
+   → love, freedom, happiness, knowledge, courage, time
+
+5. COLLECTIVE NOUNS (Sustantivos Colectivos)
+   Grupos de personas, animales o cosas.
+   
+   → team, family, audience, flock, herd, class, group
+
+6. COMPOUND NOUNS (Sustantivos Compuestos)
+   Dos o más palabras que forman un sustantivo.
+   
+   → toothbrush, bedroom, mother-in-law, bus stop, ice cream
+
+--------------------------------------------------------------------------------
+                  COUNTABLE vs UNCOUNTABLE NOUNS
+--------------------------------------------------------------------------------
+
+COUNTABLE NOUNS (Contables):
+Se pueden contar. Tienen singular y plural.
+
+Singular            Plural
+--------            ------
+a book              books
+an apple            apples
+one car             three cars
+a child             children
+
+Usan: a/an, many, few, a few, several, a number of
+
+
+UNCOUNTABLE NOUNS (Incontables):
+No se pueden contar. No tienen plural.
+
+→ water, milk, bread, rice, sugar, salt
+→ money, information, advice, news, furniture
+→ love, happiness, knowledge, music, air
+→ homework, luggage, equipment, traffic
+
+Usan: much, little, a little, some, a lot of
+
+Para contarlos, usa unidades:
+→ a glass of water, a piece of bread, a cup of coffee
+→ a piece of advice, a piece of furniture, a piece of news
+
+--------------------------------------------------------------------------------
+                    COMMONLY UNCOUNTABLE NOUNS
+--------------------------------------------------------------------------------
+
+FOOD & DRINK:
+bread, butter, cheese, meat, rice, pasta, sugar, salt, pepper,
+flour, honey, milk, water, coffee, tea, juice, wine, beer
+
+MATERIALS:
+wood, metal, glass, plastic, paper, cotton, wool, gold, silver
+
+ABSTRACT CONCEPTS:
+love, hate, happiness, sadness, anger, fear, courage, patience,
+knowledge, wisdom, intelligence, beauty, truth, justice, freedom
+
+ACTIVITIES:
+homework, housework, work, research, travel, shopping
+
+NATURAL PHENOMENA:
+weather, rain, snow, sunshine, thunder, lightning, fog, wind
+
+OTHERS:
+information, advice, news, furniture, luggage, baggage, equipment,
+money, traffic, progress, evidence, proof, permission
+
+--------------------------------------------------------------------------------
+                      PLURAL FORMS (Formas Plurales)
+--------------------------------------------------------------------------------
+
+REGULAR PLURALS (+S):
+
+book → books              car → cars
+dog → dogs                house → houses
+
+SPELLING RULES:
+
+-S, -SS, -SH, -CH, -X, -Z → +ES
+bus → buses               class → classes
+dish → dishes             watch → watches
+box → boxes               quiz → quizzes
+
+-CONSONANT + Y → -IES
+baby → babies             city → cities
+party → parties           country → countries
+
+-VOWEL + Y → +S
+boy → boys                day → days
+key → keys                toy → toys
+
+-F / -FE → -VES
+knife → knives            wife → wives
+leaf → leaves             life → lives
+wolf → wolves             shelf → shelves
+
+Excepciones: roof → roofs, chief → chiefs, cliff → cliffs
+
+-O → +ES (algunos)
+tomato → tomatoes         potato → potatoes
+hero → heroes             echo → echoes
+
+-O → +S (otros)
+photo → photos            piano → pianos
+radio → radios            video → videos
+zoo → zoos                kilo → kilos
+
+--------------------------------------------------------------------------------
+                    IRREGULAR PLURALS (Plurales Irregulares)
+--------------------------------------------------------------------------------
+
+VOWEL CHANGE:
+man → men                 woman → women
+foot → feet               tooth → teeth
+goose → geese             mouse → mice
+louse → lice
+
+-EN ENDING:
+child → children          ox → oxen
+
+SAME FORM (Singular = Plural):
+sheep → sheep             fish → fish
+deer → deer               aircraft → aircraft
+species → species         series → series
+means → means             Swiss → Swiss
+
+LATIN/GREEK ORIGINS:
+analysis → analyses       basis → bases
+crisis → crises           thesis → theses
+phenomenon → phenomena    criterion → criteria
+datum → data              medium → media
+curriculum → curricula    memorandum → memoranda
+nucleus → nuclei          stimulus → stimuli
+cactus → cacti            focus → foci
+fungus → fungi            radius → radii
+appendix → appendices     index → indices
+
+ALWAYS PLURAL:
+scissors, glasses, jeans, pants, trousers, shorts, pajamas,
+clothes, goods, stairs, thanks, congratulations
+
+ALWAYS SINGULAR (look plural):
+news, mathematics, physics, economics, politics, athletics,
+gymnastics, measles, mumps, billiards, darts
+
+--------------------------------------------------------------------------------
+                      NOUN GENDER (Género)
+--------------------------------------------------------------------------------
+
+En inglés, la mayoría de sustantivos son neutros. 
+Algunos tienen formas masculinas y femeninas:
+
+MASCULINE           FEMININE            NEUTRAL
+---------           --------            -------
+man                 woman               person
+boy                 girl                child
+father              mother              parent
+son                 daughter            child
+brother             sister              sibling
+husband             wife                spouse
+uncle               aunt                -
+nephew              niece               -
+king                queen               monarch
+prince              princess            -
+actor               actress             actor (modern)
+waiter              waitress            server
+host                hostess             host
+hero                heroine             hero (modern)
+policeman           policewoman         police officer
+fireman             firewoman           firefighter
+businessman         businesswoman       businessperson
+chairman            chairwoman          chairperson
+
+ANIMALS:
+bull                cow                 cattle
+rooster             hen                 chicken
+stallion            mare                horse
+ram                 ewe                 sheep
+boar                sow                 pig
+lion                lioness             lion
+tiger               tigress             tiger
+
+--------------------------------------------------------------------------------
+                    POSSESSIVE NOUNS (Posesivos)
+--------------------------------------------------------------------------------
+
+SINGULAR NOUNS: + 'S
+→ John's car (el carro de John)
+→ the dog's tail (la cola del perro)
+→ my mother's house (la casa de mi madre)
+
+PLURAL NOUNS ENDING IN -S: + '
+→ the students' books (los libros de los estudiantes)
+→ my parents' house (la casa de mis padres)
+→ the teachers' room (la sala de profesores)
+
+IRREGULAR PLURALS: + 'S
+→ the children's toys (los juguetes de los niños)
+→ the men's bathroom (el baño de hombres)
+→ the women's rights (los derechos de las mujeres)
+
+NAMES ENDING IN -S: + 'S or just '
+→ James's book / James' book
+→ Chris's car / Chris' car
+
+COMPOUND NOUNS: 'S on the last word
+→ my mother-in-law's opinion
+→ the Prime Minister's speech
+
+JOINT POSSESSION: 'S on the last noun
+→ John and Mary's house (shared house)
+
+SEPARATE POSSESSION: 'S on each noun
+→ John's and Mary's cars (different cars)
+
+--------------------------------------------------------------------------------
+                    NOUN FUNCTIONS (Funciones)
+--------------------------------------------------------------------------------
+
+1. SUBJECT (Sujeto):
+   → The dog is barking.
+   → Music makes me happy.
+
+2. OBJECT (Objeto):
+   Direct: → I read a book.
+   Indirect: → I gave my friend a gift.
+
+3. COMPLEMENT (Complemento):
+   → She is a doctor.
+   → The winner was John.
+
+4. OBJECT OF PREPOSITION:
+   → I went to the store.
+   → She lives in London.
+
+5. APPOSITIVE (Aposición):
+   → My brother, a doctor, lives in Madrid.
+   → Paris, the capital of France, is beautiful.
+
+--------------------------------------------------------------------------------
+                 NOUNS AS ADJECTIVES (Sustantivos como Adjetivos)
+--------------------------------------------------------------------------------
+
+Un sustantivo puede modificar a otro sustantivo:
+
+NOUN + NOUN                 MEANING
+---------                   -------
+coffee cup                  taza de café
+bus stop                    parada de autobús
+chicken soup                sopa de pollo
+birthday party              fiesta de cumpleaños
+football player             jugador de fútbol
+love story                  historia de amor
+school bus                  autobús escolar
+car door                    puerta del carro
+kitchen table               mesa de cocina
+office building             edificio de oficinas
+
+Nota: El primer sustantivo suele ir en singular.
+→ a ten-dollar bill (NOT ten-dollars)
+→ a five-year plan (NOT five-years)
+
+--------------------------------------------------------------------------------
+                    COMMON NOUN SUFFIXES (Sufijos)
+--------------------------------------------------------------------------------
+
+SUFFIX              MEANING                 EXAMPLES
+------              -------                 --------
+-tion/-sion         action/state            education, decision
+-ment               action/result           development, movement
+-ness               quality/state           happiness, kindness
+-ity/-ty            quality                 creativity, safety
+-er/-or             person who does         teacher, actor
+-ist                person who does         artist, scientist
+-ism                belief/practice         capitalism, tourism
+-ance/-ence         state/quality           importance, patience
+-dom                state/realm             freedom, kingdom
+-hood               state/condition         childhood, neighborhood
+-ship               state/skill             friendship, leadership
+-age                action/result           marriage, storage
+-ery/-ry            place/practice          bakery, bravery
+-al                 action                  arrival, approval
+-ure                action/result           failure, pressure
+-th                 quality                 growth, truth, width
+
+--------------------------------------------------------------------------------
+                         COMMON MISTAKES
+--------------------------------------------------------------------------------
+
+❌ WRONG                          ✓ CORRECT
+---------                         ---------
+I need an advice.                 I need advice. / a piece of advice.
+I have many informations.         I have a lot of information.
+The news are good.                The news is good.
+I bought a new furniture.         I bought new furniture.
+She gave me good advices.         She gave me good advice.
+Childrens are playing.            Children are playing.
+I have two brother-in-laws.       I have two brothers-in-law.
+Mens and womens                   Men and women
+The sheeps are in the field.      The sheep are in the field.
+
+================================================================================
+                              SUMMARY TABLE
+================================================================================
+
+| Type        | Can Count? | A/An? | Plural? | Examples              |
+|-------------|------------|-------|---------|------------------------|
+| Countable   | Yes        | Yes   | Yes     | book, apple, car       |
+| Uncountable | No         | No    | No      | water, advice, music   |
+| Collective  | Depends    | Yes   | Yes     | team, family, group    |
+| Proper      | No         | No    | No      | London, John, Monday   |
+| Abstract    | Usually No | Rarely| Rarely  | love, freedom, beauty  |
+
+================================================================================
