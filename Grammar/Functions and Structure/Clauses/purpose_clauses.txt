@@ -1,0 +1,324 @@
+================================================================================
+                    PURPOSE CLAUSES
+                (Oraciones de Propósito)
+================================================================================
+
+Las PURPOSE CLAUSES expresan la INTENCIÓN o el OBJETIVO de una acción.
+Responden a la pregunta: WHAT FOR? / FOR WHAT PURPOSE?
+
+================================================================================
+                    TO + INFINITIVE
+================================================================================
+
+The simplest way to express purpose:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I went to the shop to buy some milk.                                          │
+│ Fui a la tienda para comprar leche.                                           │
+│                                                                               │
+│ She's studying hard to pass the exam.                                         │
+│ Está estudiando mucho para aprobar el examen.                                 │
+│                                                                               │
+│ He called to apologize.                                                       │
+│ Llamó para disculparse.                                                       │
+│                                                                               │
+│ I'm saving money to buy a car.                                                │
+│ Estoy ahorrando dinero para comprar un coche.                                 │
+│                                                                               │
+│ To learn English, you need to practice every day.                             │
+│ Para aprender inglés, necesitas practicar todos los días.                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE: Use NOT TO or TO AVOID:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I left early not to be late.                                                  │
+│ Salí temprano para no llegar tarde.                                           │
+│                                                                               │
+│ She whispered not to wake the baby.                                           │
+│ Susurró para no despertar al bebé.                                            │
+│                                                                               │
+│ I left early to avoid being late.                                             │
+│ Salí temprano para evitar llegar tarde.                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    IN ORDER TO / SO AS TO
+================================================================================
+
+More formal than TO. Same meaning but emphasizes the purpose more.
+
+IN ORDER TO + infinitive:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She works hard in order to provide for her family.                            │
+│ Trabaja duro para mantener a su familia.                                      │
+│                                                                               │
+│ In order to succeed, you must work hard.                                      │
+│ Para tener éxito, debes trabajar duro.                                        │
+│                                                                               │
+│ He moved to London in order to find a better job.                             │
+│ Se mudó a Londres para encontrar un mejor trabajo.                            │
+│                                                                               │
+│ We arrived early in order to get good seats.                                  │
+│ Llegamos temprano para conseguir buenos asientos.                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+SO AS TO + infinitive:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ He spoke slowly so as to be understood.                                       │
+│ Habló despacio para que le entendieran.                                       │
+│                                                                               │
+│ She saved money so as to buy a house.                                         │
+│ Ahorró dinero para comprar una casa.                                          │
+│                                                                               │
+│ I turned off my phone so as to concentrate.                                   │
+│ Apagué mi teléfono para concentrarme.                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE: IN ORDER NOT TO / SO AS NOT TO:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She left early in order not to miss the train.                                │
+│ Salió temprano para no perder el tren.                                        │
+│                                                                               │
+│ He spoke quietly so as not to disturb anyone.                                 │
+│ Habló bajo para no molestar a nadie.                                          │
+│                                                                               │
+│ In order not to wake her, I tiptoed upstairs.                                 │
+│ Para no despertarla, subí de puntillas.                                       │
+│                                                                               │
+│ I wrote it down so as not to forget.                                          │
+│ Lo apunté para no olvidarlo.                                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    SO THAT / IN ORDER THAT
+================================================================================
+
+SO THAT + clause (with subject + verb):
+Used when the subject of the purpose is DIFFERENT from the main subject,
+or when we use modals (can, could, will, would).
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ PRESENT/FUTURE reference - use CAN or WILL:                                   │
+│                                                                               │
+│ I'll give you my number so that you can call me.                              │
+│ Te daré mi número para que puedas llamarme.                                   │
+│                                                                               │
+│ I'm saving money so that I can buy a car.                                     │
+│ Estoy ahorrando para poder comprar un coche.                                  │
+│                                                                               │
+│ Speak louder so that everyone can hear.                                       │
+│ Habla más alto para que todos puedan oír.                                     │
+│                                                                               │
+│ I'll leave the door open so that you can get in.                              │
+│ Dejaré la puerta abierta para que puedas entrar.                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ PAST reference - use COULD or WOULD:                                          │
+│                                                                               │
+│ I gave him my number so that he could call me.                                │
+│ Le di mi número para que pudiera llamarme.                                    │
+│                                                                               │
+│ She spoke slowly so that everyone could understand.                           │
+│ Habló despacio para que todos pudieran entender.                              │
+│                                                                               │
+│ He left early so that he would arrive on time.                                │
+│ Salió temprano para llegar a tiempo.                                          │
+│                                                                               │
+│ I wrote it down so that I wouldn't forget.                                    │
+│ Lo apunté para no olvidarlo.                                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+IN ORDER THAT + clause (very formal):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ He worked overtime in order that his family might have a better life.         │
+│ Trabajó horas extra para que su familia tuviera una vida mejor.               │
+│                                                                               │
+│ She saved every penny in order that she could retire early.                   │
+│ Ahorró cada centavo para poder jubilarse pronto.                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE: SO THAT... WON'T / CAN'T / COULDN'T:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I hid the present so that she wouldn't find it.                               │
+│ Escondí el regalo para que no lo encontrara.                                  │
+│                                                                               │
+│ Keep the door closed so that the cat can't escape.                            │
+│ Mantén la puerta cerrada para que el gato no escape.                          │
+│                                                                               │
+│ He whispered so that nobody could hear.                                       │
+│ Susurró para que nadie pudiera oír.                                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    FOR + NOUN / GERUND
+================================================================================
+
+FOR + noun (to express the purpose of something):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ This knife is for cutting bread.                                              │
+│ Este cuchillo es para cortar pan.                                             │
+│                                                                               │
+│ What's this button for?                                                       │
+│ ¿Para qué es este botón?                                                      │
+│                                                                               │
+│ I bought this bag for the gym.                                                │
+│ Compré esta bolsa para el gimnasio.                                           │
+│                                                                               │
+│ We went to Paris for the weekend.                                             │
+│ Fuimos a París para el fin de semana.                                         │
+│                                                                               │
+│ She's studying for her exams.                                                 │
+│ Está estudiando para sus exámenes.                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+FOR + gerund (the purpose of a thing, NOT a person's purpose):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ This tool is for opening bottles.                                             │
+│ Esta herramienta es para abrir botellas.                                      │
+│                                                                               │
+│ The machine is for washing clothes.                                           │
+│ La máquina es para lavar ropa.                                                │
+│                                                                               │
+│ ⚠️ NOT for a person's purpose:                                                │
+│ ❌ I went to the shop for buying milk.                                        │
+│ ✓  I went to the shop to buy milk.                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    TO vs FOR
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Use TO when the subject does the action:                                      │
+│                                                                               │
+│ I went to the shop to buy milk.                                               │
+│ (I went, I will buy)                                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Use FOR + noun for purpose of things:                                         │
+│                                                                               │
+│ This is a tool for opening cans.                                              │
+│ (The tool opens cans, not a person)                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Use FOR + noun/gerund when there's no verb of movement:                       │
+│                                                                               │
+│ I need a bag for my laptop.                                                   │
+│ I need something for cleaning the floor.                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WITH A VIEW TO / WITH THE AIM OF
+================================================================================
+
+Formal expressions (usually + gerund):
+
+WITH A VIEW TO + gerund:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She's learning French with a view to working in Paris.                        │
+│ Está aprendiendo francés con vistas a trabajar en París.                      │
+│                                                                               │
+│ They bought the land with a view to building a house.                         │
+│ Compraron el terreno con vistas a construir una casa.                         │
+│                                                                               │
+│ He's networking with a view to getting a promotion.                           │
+│ Está haciendo contactos con vistas a conseguir un ascenso.                    │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+WITH THE AIM OF + gerund:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ We designed the course with the aim of helping beginners.                     │
+│ Diseñamos el curso con el objetivo de ayudar a principiantes.                 │
+│                                                                               │
+│ He exercises daily with the aim of losing weight.                             │
+│ Hace ejercicio diariamente con el objetivo de perder peso.                    │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+WITH THE INTENTION OF + gerund:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She went to university with the intention of becoming a doctor.               │
+│ Fue a la universidad con la intención de ser médica.                          │
+│                                                                               │
+│ He saved money with the intention of travelling the world.                    │
+│ Ahorró dinero con la intención de viajar por el mundo.                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    IN CASE
+================================================================================
+
+IN CASE = as a precaution / because something might happen
+(NOT the same as IF!)
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Take an umbrella in case it rains.                                            │
+│ Lleva un paraguas por si llueve.                                              │
+│ (Take it NOW, before it rains, as a precaution)                               │
+│                                                                               │
+│ Take an umbrella if it rains.                                                 │
+│ (Take it only WHEN it rains)                                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I'll take some cash in case they don't accept cards.                          │
+│ Llevaré efectivo por si no aceptan tarjetas.                                  │
+│                                                                               │
+│ Write it down in case you forget.                                             │
+│ Apúntalo por si se te olvida.                                                 │
+│                                                                               │
+│ I gave her my number in case she needed to contact me.                        │
+│ Le di mi número por si necesitaba contactarme.                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+⚠️ Don't use WILL after IN CASE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ❌ Take an umbrella in case it will rain.                                     │
+│ ✓  Take an umbrella in case it rains.                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    SUMMARY TABLE
+================================================================================
+
+┌─────────────────────────┬──────────────────┬──────────────────────────────────┐
+│ EXPRESSION              │ FOLLOWED BY      │ EXAMPLE                          │
+├─────────────────────────┼──────────────────┼──────────────────────────────────┤
+│ to                      │ infinitive       │ I came to help.                  │
+│ in order to             │ infinitive       │ I came in order to help.         │
+│ so as to                │ infinitive       │ I came so as to help.            │
+├─────────────────────────┼──────────────────┼──────────────────────────────────┤
+│ in order not to         │ infinitive       │ ... in order not to disturb      │
+│ so as not to            │ infinitive       │ ... so as not to disturb         │
+├─────────────────────────┼──────────────────┼──────────────────────────────────┤
+│ so that                 │ clause + modal   │ ... so that I can/could...       │
+│ in order that           │ clause + modal   │ ... in order that I may...       │
+├─────────────────────────┼──────────────────┼──────────────────────────────────┤
+│ for                     │ noun/gerund      │ ... for the exam / for opening   │
+├─────────────────────────┼──────────────────┼──────────────────────────────────┤
+│ with a view to          │ gerund           │ ... with a view to improving     │
+│ with the aim of         │ gerund           │ ... with the aim of helping      │
+│ with the intention of   │ gerund           │ ... with the intention of        │
+├─────────────────────────┼──────────────────┼──────────────────────────────────┤
+│ in case                 │ clause           │ ... in case it rains             │
+│                         │ (present tense)  │                                  │
+└─────────────────────────┴──────────────────┴──────────────────────────────────┘
+
+================================================================================
+                    COMMON ERRORS
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ❌ I went to the shop for buying milk.                                        │
+│ ✓  I went to the shop to buy milk.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ I study hard for to pass the exam.                                         │
+│ ✓  I study hard to pass the exam.                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ I spoke slowly so that understand.                                         │
+│ ✓  I spoke slowly so that they could understand.                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ Take an umbrella in case it will rain.                                     │
+│ ✓  Take an umbrella in case it rains.                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ He works hard in order to not fail.                                        │
+│ ✓  He works hard in order not to fail.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

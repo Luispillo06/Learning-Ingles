@@ -1,0 +1,370 @@
+================================================================================
+                    RESULT CLAUSES
+                (Oraciones de Resultado)
+================================================================================
+
+Las RESULT CLAUSES expresan la CONSECUENCIA de algo.
+Muestran el efecto o resultado de una acción o situación.
+
+================================================================================
+                    SO
+================================================================================
+
+SO (therefore) connects cause and result:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ It was raining, so we stayed home.                                            │
+│ Estaba lloviendo, así que nos quedamos en casa.                               │
+│                                                                               │
+│ I was tired, so I went to bed early.                                          │
+│ Estaba cansado, así que me acosté temprano.                                   │
+│                                                                               │
+│ She studied hard, so she passed the exam.                                     │
+│ Estudió mucho, así que aprobó el examen.                                      │
+│                                                                               │
+│ The bus was late, so I took a taxi.                                           │
+│ El autobús llegó tarde, así que cogí un taxi.                                 │
+│                                                                               │
+│ He didn't have a ticket, so he couldn't get in.                               │
+│ No tenía entrada, así que no pudo entrar.                                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+⚠️ SO goes in the middle, between two clauses:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ cause             +  so  +  result                                            │
+│ It was late,         so     we left.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    SO...THAT
+================================================================================
+
+SO + adjective/adverb + THAT + result:
+
+Structure: SO + adjective/adverb + THAT + clause
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ SO + ADJECTIVE + THAT:                                                        │
+│                                                                               │
+│ It was so cold that we stayed inside.                                         │
+│ Hacía tanto frío que nos quedamos dentro.                                     │
+│                                                                               │
+│ She was so tired that she fell asleep immediately.                            │
+│ Estaba tan cansada que se durmió inmediatamente.                              │
+│                                                                               │
+│ He was so hungry that he ate two pizzas.                                      │
+│ Tenía tanta hambre que se comió dos pizzas.                                   │
+│                                                                               │
+│ The book was so boring that I stopped reading.                                │
+│ El libro era tan aburrido que dejé de leer.                                   │
+│                                                                               │
+│ I was so shocked that I couldn't speak.                                       │
+│ Estaba tan sorprendido que no podía hablar.                                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ SO + ADVERB + THAT:                                                           │
+│                                                                               │
+│ He spoke so quickly that I couldn't understand.                               │
+│ Hablaba tan rápido que no podía entender.                                     │
+│                                                                               │
+│ She sang so beautifully that everyone applauded.                              │
+│ Cantó tan bien que todos aplaudieron.                                         │
+│                                                                               │
+│ He drives so carefully that he's never had an accident.                       │
+│ Conduce tan cuidadosamente que nunca ha tenido un accidente.                  │
+│                                                                               │
+│ They played so badly that they lost 5-0.                                      │
+│ Jugaron tan mal que perdieron 5-0.                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    SO MUCH / SO MANY / SO LITTLE / SO FEW + THAT
+================================================================================
+
+SO MUCH + uncountable noun + THAT:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ There was so much traffic that we were late.                                  │
+│ Había tanto tráfico que llegamos tarde.                                       │
+│                                                                               │
+│ She has so much money that she doesn't know what to do with it.               │
+│ Tiene tanto dinero que no sabe qué hacer con él.                              │
+│                                                                               │
+│ There was so much noise that I couldn't concentrate.                          │
+│ Había tanto ruido que no podía concentrarme.                                  │
+│                                                                               │
+│ He made so much progress that we were amazed.                                 │
+│ Hizo tanto progreso que nos quedamos asombrados.                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+SO MANY + countable noun + THAT:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ There were so many people that we couldn't get in.                            │
+│ Había tanta gente que no pudimos entrar.                                      │
+│                                                                               │
+│ She has so many friends that she's never alone.                               │
+│ Tiene tantos amigos que nunca está sola.                                      │
+│                                                                               │
+│ I have so many things to do that I don't know where to start.                 │
+│ Tengo tantas cosas que hacer que no sé por dónde empezar.                     │
+│                                                                               │
+│ He made so many mistakes that he failed the test.                             │
+│ Cometió tantos errores que suspendió el examen.                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+SO LITTLE / SO FEW + THAT:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ There was so little time that we had to rush.                                 │
+│ Había tan poco tiempo que tuvimos que darnos prisa.                           │
+│                                                                               │
+│ He had so little money that he couldn't buy food.                             │
+│ Tenía tan poco dinero que no podía comprar comida.                            │
+│                                                                               │
+│ So few people came that we cancelled the event.                               │
+│ Vino tan poca gente que cancelamos el evento.                                 │
+│                                                                               │
+│ There were so few tickets left that we couldn't all go.                       │
+│ Quedaban tan pocas entradas que no pudimos ir todos.                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    SUCH...THAT
+================================================================================
+
+SUCH + (a/an) + (adjective) + noun + THAT + result:
+
+SUCH + a/an + adjective + singular noun + THAT:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ It was such a cold day that we stayed inside.                                 │
+│ Fue un día tan frío que nos quedamos dentro.                                  │
+│                                                                               │
+│ She's such a good teacher that everyone loves her.                            │
+│ Es tan buena profesora que todos la quieren.                                  │
+│                                                                               │
+│ It was such a boring film that I fell asleep.                                 │
+│ Fue una película tan aburrida que me dormí.                                   │
+│                                                                               │
+│ He's such a hard worker that he got promoted.                                 │
+│ Es un trabajador tan duro que le ascendieron.                                 │
+│                                                                               │
+│ It was such a nice day that we went to the beach.                             │
+│ Fue un día tan bonito que fuimos a la playa.                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+SUCH + adjective + plural noun + THAT:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ They were such kind people that they helped everyone.                         │
+│ Eran personas tan amables que ayudaban a todos.                               │
+│                                                                               │
+│ They're such good friends that they share everything.                         │
+│ Son tan buenos amigos que comparten todo.                                     │
+│                                                                               │
+│ These are such complicated rules that nobody understands them.                │
+│ Son reglas tan complicadas que nadie las entiende.                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+SUCH + adjective + uncountable noun + THAT:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ It was such bad weather that we cancelled the picnic.                         │
+│ Hacía tan mal tiempo que cancelamos el picnic.                                │
+│                                                                               │
+│ She gave such good advice that I followed it immediately.                     │
+│ Dio tan buenos consejos que los seguí inmediatamente.                         │
+│                                                                               │
+│ There was such heavy traffic that we missed our flight.                       │
+│ Había un tráfico tan denso que perdimos el vuelo.                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+SUCH + noun (without adjective) + THAT:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ It was such fun that we stayed all night.                                     │
+│ Fue tan divertido que nos quedamos toda la noche.                             │
+│                                                                               │
+│ She made such a fuss that we gave in.                                         │
+│ Armó tal escándalo que cedimos.                                               │
+│                                                                               │
+│ There was such chaos that nobody knew what to do.                             │
+│ Hubo tal caos que nadie sabía qué hacer.                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    SO vs SUCH - COMPARISON
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ SO + adjective/adverb:                                                        │
+│ It was so cold that...                                                        │
+│                                                                               │
+│ SUCH + (a/an) + (adjective) + noun:                                           │
+│ It was such a cold day that...                                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ SO + adjective:         SUCH + a + adjective + noun:                          │
+│                                                                               │
+│ He's so clever          He's such a clever man                                │
+│ She's so kind           She's such a kind person                              │
+│ It's so hot             It's such a hot day                                   │
+│ They're so nice         They're such nice people                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ SO MUCH + uncountable:  SUCH + uncountable:                                   │
+│                                                                               │
+│ so much noise           such noise                                            │
+│ so much fun             such fun                                              │
+│ so much traffic         such heavy traffic                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ SO MANY + countable:    SUCH + adjective + plural:                            │
+│                                                                               │
+│ so many people          such nice people                                      │
+│ so many problems        such difficult problems                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    THEREFORE / CONSEQUENTLY / AS A RESULT
+================================================================================
+
+Formal connectors for result (begin new sentence):
+
+THEREFORE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ He was late. Therefore, he missed the meeting.                                │
+│ Llegó tarde. Por lo tanto, se perdió la reunión.                              │
+│                                                                               │
+│ The evidence is clear; therefore, he must be guilty.                          │
+│ La evidencia es clara; por lo tanto, debe ser culpable.                       │
+│                                                                               │
+│ She didn't study. She therefore failed the exam.                              │
+│ No estudió. Por lo tanto, suspendió el examen.                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+CONSEQUENTLY:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ It rained all week. Consequently, the match was cancelled.                    │
+│ Llovió toda la semana. En consecuencia, el partido fue cancelado.             │
+│                                                                               │
+│ The company lost money. Consequently, 100 jobs were cut.                      │
+│ La empresa perdió dinero. En consecuencia, se eliminaron 100 empleos.         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+AS A RESULT:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ There was an accident. As a result, traffic was delayed.                      │
+│ Hubo un accidente. Como resultado, el tráfico se retrasó.                     │
+│                                                                               │
+│ She worked very hard. As a result, she got promoted.                          │
+│ Trabajó muy duro. Como resultado, la ascendieron.                             │
+│                                                                               │
+│ The price of oil increased. As a result, everything became more expensive.    │
+│ El precio del petróleo subió. Como resultado, todo se encareció.              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+AS A RESULT OF + noun:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ As a result of the storm, flights were cancelled.                             │
+│ Como resultado de la tormenta, los vuelos fueron cancelados.                  │
+│                                                                               │
+│ As a result of his hard work, he got a promotion.                             │
+│ Como resultado de su trabajo duro, consiguió un ascenso.                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    TOO...TO / ENOUGH...TO
+================================================================================
+
+TOO + adjective + TO + infinitive (negative result - can't do):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ It's too cold to go swimming.                                                 │
+│ Hace demasiado frío para ir a nadar.                                          │
+│                                                                               │
+│ She's too young to drive.                                                     │
+│ Es demasiado joven para conducir.                                             │
+│                                                                               │
+│ The bag is too heavy to carry.                                                │
+│ La bolsa es demasiado pesada para llevar.                                     │
+│                                                                               │
+│ I'm too tired to cook.                                                        │
+│ Estoy demasiado cansado para cocinar.                                         │
+│                                                                               │
+│ The music was too loud to talk.                                               │
+│ La música estaba demasiado alta para hablar.                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+TOO + adjective + FOR + person + TO + infinitive:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The book is too difficult for children to understand.                         │
+│ El libro es demasiado difícil para que los niños lo entiendan.                │
+│                                                                               │
+│ The box is too heavy for me to lift.                                          │
+│ La caja es demasiado pesada para que yo la levante.                           │
+│                                                                               │
+│ It's too far for us to walk.                                                  │
+│ Está demasiado lejos para que vayamos andando.                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+ENOUGH + noun / adjective + ENOUGH + TO + infinitive (positive result - can do):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She's old enough to drive.                                                    │
+│ Tiene edad suficiente para conducir.                                          │
+│                                                                               │
+│ He's strong enough to lift it.                                                │
+│ Es lo suficientemente fuerte para levantarlo.                                 │
+│                                                                               │
+│ I have enough money to buy it.                                                │
+│ Tengo suficiente dinero para comprarlo.                                       │
+│                                                                               │
+│ The water isn't warm enough to swim.                                          │
+│ El agua no está lo suficientemente caliente para nadar.                       │
+│                                                                               │
+│ Is the room big enough for everyone?                                          │
+│ ¿Es la habitación lo suficientemente grande para todos?                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    SUMMARY TABLE
+================================================================================
+
+┌─────────────────────┬──────────────────────────────────────────────────────────┐
+│ STRUCTURE           │ EXAMPLE                                                  │
+├─────────────────────┼──────────────────────────────────────────────────────────┤
+│ so                  │ It was cold, so we stayed in.                            │
+├─────────────────────┼──────────────────────────────────────────────────────────┤
+│ so + adj + that     │ It was so cold that we stayed in.                        │
+│ so + adv + that     │ He spoke so quickly that I couldn't understand.          │
+├─────────────────────┼──────────────────────────────────────────────────────────┤
+│ so much + noun that │ There was so much noise that I left.                     │
+│ so many + noun that │ There were so many people that we couldn't get in.       │
+├─────────────────────┼──────────────────────────────────────────────────────────┤
+│ such (a) + noun that│ It was such a cold day that we stayed in.                │
+│                     │ They were such nice people that I liked them.            │
+├─────────────────────┼──────────────────────────────────────────────────────────┤
+│ therefore           │ He was sick. Therefore, he stayed home.                  │
+│ consequently        │ Consequently, the event was cancelled.                   │
+│ as a result         │ As a result, we had to wait.                             │
+├─────────────────────┼──────────────────────────────────────────────────────────┤
+│ too + adj + to      │ It's too cold to swim.                                   │
+│ adj + enough + to   │ It's warm enough to swim.                                │
+└─────────────────────┴──────────────────────────────────────────────────────────┘
+
+================================================================================
+                    COMMON ERRORS
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ❌ It was such cold that we stayed in.                                        │
+│ ✓  It was so cold that we stayed in.                                          │
+│ ✓  It was such a cold day that we stayed in.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ He's so a good teacher.                                                    │
+│ ✓  He's such a good teacher.                                                  │
+│ ✓  He's so good at teaching.                                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ There were such many people...                                             │
+│ ✓  There were so many people...                                               │
+│ ✓  There were such nice people...                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ It's too cold too go out.                                                  │
+│ ✓  It's too cold to go out.                                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ She's enough old to drive.                                                 │
+│ ✓  She's old enough to drive.                                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

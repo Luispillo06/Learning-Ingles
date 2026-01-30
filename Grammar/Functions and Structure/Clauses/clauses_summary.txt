@@ -1,0 +1,258 @@
+================================================================================
+                    CLAUSES SUMMARY
+               (Resumen de Tipos de Oraciones)
+================================================================================
+
+================================================================================
+                    ALL CLAUSE TYPES AT A GLANCE
+================================================================================
+
+┌─────────────────┬──────────────────────────┬──────────────────────────────────┐
+│ TYPE            │ QUESTION ANSWERED        │ CONJUNCTIONS                     │
+├─────────────────┼──────────────────────────┼──────────────────────────────────┤
+│ REASON          │ WHY?                     │ because, since, as, due to,      │
+│                 │ ¿Por qué?                │ owing to, for                    │
+├─────────────────┼──────────────────────────┼──────────────────────────────────┤
+│ PURPOSE         │ WHAT FOR?                │ to, in order to, so that,        │
+│                 │ ¿Para qué?               │ so as to, in case                │
+├─────────────────┼──────────────────────────┼──────────────────────────────────┤
+│ CONTRAST        │ DESPITE WHAT?            │ although, though, even though,   │
+│                 │ ¿A pesar de qué?         │ despite, while, whereas          │
+├─────────────────┼──────────────────────────┼──────────────────────────────────┤
+│ RESULT          │ WITH WHAT EFFECT?        │ so, so...that, such...that,      │
+│                 │ ¿Con qué resultado?      │ therefore, consequently          │
+├─────────────────┼──────────────────────────┼──────────────────────────────────┤
+│ TIME            │ WHEN?                    │ when, while, before, after,      │
+│                 │ ¿Cuándo?                 │ until, as soon as, once          │
+├─────────────────┼──────────────────────────┼──────────────────────────────────┤
+│ CONDITION       │ UNDER WHAT CIRCUMSTANCE? │ if, unless, provided that,       │
+│                 │ ¿En qué circunstancia?   │ as long as                       │
+└─────────────────┴──────────────────────────┴──────────────────────────────────┘
+
+================================================================================
+                    CONJUNCTIONS: CLAUSE vs NOUN
+================================================================================
+
+Some linking words are followed by a clause, others by a noun:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ + CLAUSE (subject + verb)         │ + NOUN / GERUND                        │
+├───────────────────────────────────┼─────────────────────────────────────────┤
+│ because it was raining            │ because of the rain                    │
+│ although he was tired             │ despite his tiredness                  │
+│ although she studied              │ despite studying / despite her efforts │
+│ since there was a strike          │ due to the strike                      │
+│ while we were waiting             │ during the wait                        │
+│ before she leaves                 │ before her departure                   │
+│ after they arrived                │ after their arrival                    │
+└───────────────────────────────────┴─────────────────────────────────────────┘
+
+================================================================================
+                    REASON - QUICK REFERENCE
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ BECAUSE + clause           │ because it was raining                          │
+│ BECAUSE OF + noun          │ because of the rain                             │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ SINCE + clause             │ Since you're here, help me.                     │
+│ AS + clause                │ As it was late, we left.                        │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ DUE TO + noun              │ due to the weather                              │
+│ OWING TO + noun            │ owing to a lack of funds                        │
+│ DUE TO THE FACT THAT       │ due to the fact that it was raining             │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ FOR + clause (formal)      │ He left, for he was tired.                      │
+└────────────────────────────┴─────────────────────────────────────────────────┘
+
+================================================================================
+                    PURPOSE - QUICK REFERENCE
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ TO + infinitive            │ I came to help.                                 │
+│ IN ORDER TO + infinitive   │ I came in order to help.                        │
+│ SO AS TO + infinitive      │ I came so as to help.                           │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ IN ORDER NOT TO            │ ...in order not to disturb                      │
+│ SO AS NOT TO               │ ...so as not to wake him                        │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ SO THAT + modal            │ ...so that I can/could see                      │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ FOR + noun                 │ a knife for cutting                             │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ IN CASE + present          │ Take it in case it rains.                       │
+│ (NOT in case it will rain) │ (precaution)                                    │
+└────────────────────────────┴─────────────────────────────────────────────────┘
+
+================================================================================
+                    CONTRAST - QUICK REFERENCE
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ALTHOUGH + clause          │ Although it was raining...                      │
+│ THOUGH + clause            │ Though it was cold... / It was cold, though.    │
+│ EVEN THOUGH + clause       │ Even though he tried... (más énfasis)           │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ DESPITE + noun/gerund      │ Despite the rain / Despite being tired          │
+│ IN SPITE OF + noun/gerund  │ In spite of the traffic                         │
+│ DESPITE THE FACT THAT      │ Despite the fact that it rained                 │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ WHILE + clause             │ While I like tea, she prefers coffee.           │
+│ WHEREAS + clause (formal)  │ She's tall, whereas he's short.                 │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ HOWEVER (new sentence)     │ It was cold. However, we went out.              │
+│ NEVERTHELESS               │ Nevertheless, he continued.                     │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ BUT + clause               │ It was cold but we went out.                    │
+│ YET + clause (formal)      │ She's 90, yet still active.                     │
+└────────────────────────────┴─────────────────────────────────────────────────┘
+
+================================================================================
+                    RESULT - QUICK REFERENCE
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ SO                         │ It was cold, so we stayed in.                   │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ SO + adj/adv + THAT        │ It was so cold that we stayed in.               │
+│                            │ He spoke so fast that I couldn't follow.        │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ SO MUCH/MANY + noun + THAT │ There was so much noise that I left.            │
+│                            │ There were so many people that...               │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ SUCH (a) + noun + THAT     │ It was such a cold day that we stayed in.       │
+│                            │ They were such nice people that...              │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ THEREFORE                  │ Therefore, we decided to leave.                 │
+│ CONSEQUENTLY               │ Consequently, the event was cancelled.          │
+│ AS A RESULT                │ As a result, we had to wait.                    │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ TOO + adj + TO             │ It's too cold to swim.                          │
+│ adj + ENOUGH + TO          │ It's warm enough to swim.                       │
+└────────────────────────────┴─────────────────────────────────────────────────┘
+
+================================================================================
+                    TIME - QUICK REFERENCE
+================================================================================
+
+⚠️ RULE: No WILL in time clauses about the future!
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ WHEN / WHENEVER            │ When I arrive, I'll call. (NOT will arrive)     │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ WHILE                      │ While I was cooking, the phone rang.            │
+│ AS                         │ As I was leaving, she arrived.                  │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ BEFORE                     │ Before you go, call me.                         │
+│ AFTER                      │ After I finish, I'll call.                      │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ UNTIL / TILL               │ Wait until I come back.                         │
+│ BY THE TIME                │ By the time you arrive, I'll be gone.           │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ AS SOON AS                 │ As soon as I know, I'll tell you.               │
+│ ONCE                       │ Once you understand, it's easy.                 │
+│ THE MOMENT / MINUTE        │ The moment I saw her, I knew.                   │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ SINCE                      │ I've lived here since 2010.                     │
+└────────────────────────────┴─────────────────────────────────────────────────┘
+
+================================================================================
+                    COMMON TRANSFORMATIONS
+================================================================================
+
+Same meaning, different structure:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ REASON:                                                                       │
+│ Because it was raining = Because of the rain = Due to the rain                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ CONTRAST:                                                                     │
+│ Although he was tired = Despite being tired = Despite his tiredness           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ PURPOSE:                                                                      │
+│ To help = In order to help = So as to help = So that I could help             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ RESULT:                                                                       │
+│ It was so cold that... = It was such a cold day that...                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    FORMALITY SCALE
+================================================================================
+
+INFORMAL ────────────────────────────────────── FORMAL
+
+REASON:
+because → since/as → due to → owing to → for
+
+PURPOSE:
+to → in order to → so that → in order that
+
+CONTRAST:
+but → although/though → however → nevertheless
+
+RESULT:
+so → therefore → consequently
+
+================================================================================
+                    PUNCTUATION RULES
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ SUBORDINATE CLAUSE FIRST → Use comma:                                         │
+│                                                                               │
+│ Because it was raining, we stayed home.                                       │
+│ Although he tried hard, he failed.                                            │
+│ Before you leave, call me.                                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ MAIN CLAUSE FIRST → Usually no comma:                                         │
+│                                                                               │
+│ We stayed home because it was raining.                                        │
+│ He failed although he tried hard.                                             │
+│ Call me before you leave.                                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ SENTENCE ADVERBS → Use comma or semicolon:                                    │
+│                                                                               │
+│ It was cold. However, we went out.                                            │
+│ It was cold; however, we went out.                                            │
+│ The exam was hard; therefore, I studied.                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    TOP 10 COMMON ERRORS
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│  1. ❌ Because of it was raining...                                           │
+│     ✓  Because it was raining... / Because of the rain...                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│  2. ❌ Despite it was cold...                                                 │
+│     ✓  Despite the cold... / Although it was cold...                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│  3. ❌ I'll call you when I will arrive.                                      │
+│     ✓  I'll call you when I arrive.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│  4. ❌ I went for buying milk.                                                │
+│     ✓  I went to buy milk.                                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│  5. ❌ It was such cold that...                                               │
+│     ✓  It was so cold that... / It was such a cold day that...                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│  6. ❌ He works hard in order to not fail.                                    │
+│     ✓  He works hard in order not to fail.                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│  7. ❌ I was tired, however I continued.                                      │
+│     ✓  I was tired. However, I continued.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│  8. ❌ Take it in case it will rain.                                          │
+│     ✓  Take it in case it rains.                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│  9. ❌ Despite of the weather...                                              │
+│     ✓  Despite the weather... / In spite of the weather...                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ 10. ❌ She's enough old to drive.                                             │
+│     ✓  She's old enough to drive.                                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

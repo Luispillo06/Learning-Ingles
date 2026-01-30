@@ -1,0 +1,246 @@
+================================================================================
+                    DEFINING RELATIVE CLAUSES
+               (Oraciones de Relativo Especificativas)
+================================================================================
+
+DEFINING RELATIVE CLAUSES give ESSENTIAL information.
+Without them, we don't know who or what we're talking about.
+
+================================================================================
+                    CHARACTERISTICS
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ ✓ NO COMMAS                                                                 │
+│ ✓ Information is ESSENTIAL (needed to identify)                             │
+│ ✓ Can use THAT (instead of who/which)                                       │
+│ ✓ Can OMIT the pronoun when it's the OBJECT                                 │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WITH WHO (for people)
+================================================================================
+
+WHO as SUBJECT:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The woman who works here is my aunt.                                          │
+│ La mujer que trabaja aquí es mi tía.                                          │
+│ (Which woman? → The one who works here)                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ People who exercise regularly live longer.                                    │
+│ La gente que hace ejercicio regularmente vive más.                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The man who stole my wallet was caught.                                       │
+│ El hombre que robó mi cartera fue atrapado.                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Students who study hard get good grades.                                      │
+│ Los estudiantes que estudian duro sacan buenas notas.                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+WHO/THAT as OBJECT (can be omitted):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The woman (who/that) I met yesterday is a doctor.                             │
+│ La mujer que conocí ayer es médica.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The people (who/that) we invited didn't come.                                 │
+│ La gente que invitamos no vino.                                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The man (who/that) she loves is very kind.                                    │
+│ El hombre al que ella ama es muy amable.                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WITH WHICH (for things/animals)
+================================================================================
+
+WHICH as SUBJECT:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The book which/that is on the table is mine.                                  │
+│ El libro que está en la mesa es mío.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The dog which/that bit me was brown.                                          │
+│ El perro que me mordió era marrón.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The train which/that leaves at 9 is faster.                                   │
+│ El tren que sale a las 9 es más rápido.                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+WHICH/THAT as OBJECT (can be omitted):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The book (which/that) I bought is interesting.                                │
+│ El libro que compré es interesante.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The movie (which/that) we watched was boring.                                 │
+│ La película que vimos era aburrida.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The car (which/that) he drives is very old.                                   │
+│ El coche que él conduce es muy viejo.                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WITH THAT
+================================================================================
+
+THAT can replace WHO or WHICH in defining clauses:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The man who/THAT called is my brother.                                        │
+│ The book which/THAT I read was great.                                         │
+│ The house which/THAT they built is huge.                                      │
+│ The person who/THAT you need to see is here.                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+THAT is PREFERRED after:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ SUPERLATIVES:                                                                 │
+│ It's the best film that I've ever seen.                                       │
+│ She's the nicest person that I know.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ORDINALS (first, second, last, only...):                                      │
+│ He was the first person that arrived.                                         │
+│ This is the only thing that matters.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ALL, EVERYTHING, NOTHING, SOMETHING, ANYTHING:                                │
+│ Everything that he said was true.                                             │
+│ Is there anything that I can do?                                              │
+│ All that glitters is not gold.                                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ AFTER BOTH PEOPLE AND THINGS:                                                 │
+│ The people and things that I love...                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WITH WHOSE (possession)
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The man whose car was stolen called the police.                               │
+│ El hombre cuyo coche fue robado llamó a la policía.                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I know a girl whose brother is famous.                                        │
+│ Conozco a una chica cuyo hermano es famoso.                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ That's the author whose books I love.                                         │
+│ Ese es el autor cuyos libros me encantan.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The house whose roof is red is mine.                                          │
+│ La casa cuyo tejado es rojo es mía.                                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NOTE: WHOSE can be used for people AND things.
+
+================================================================================
+                    WITH WHERE (places)
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The hotel where we stayed was excellent.                                      │
+│ El hotel donde nos alojamos era excelente.                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ That's the house where I was born.                                            │
+│ Esa es la casa donde nací.                                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The restaurant where we had dinner was expensive.                             │
+│ El restaurante donde cenamos era caro.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I know a place where you can buy cheap clothes.                               │
+│ Conozco un lugar donde puedes comprar ropa barata.                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+WHERE = in which / at which:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The city where I live = The city in which I live                              │
+│ The office where I work = The office at which I work                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WITH WHEN (times)
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I'll never forget the day when we met.                                        │
+│ Nunca olvidaré el día en que nos conocimos.                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ That was the year when I graduated.                                           │
+│ Ese fue el año en que me gradué.                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Summer is the time when I feel happiest.                                      │
+│ El verano es la época en que me siento más feliz.                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The moment when he arrived was crucial.                                       │
+│ El momento en que llegó fue crucial.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+WHEN = in which / on which:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The day when I was born = The day on which I was born                         │
+│ The year when it happened = The year in which it happened                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WITH WHY (reasons)
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ That's the reason why I left.                                                 │
+│ Esa es la razón por la que me fui.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I don't know the reason why he's angry.                                       │
+│ No sé la razón por la que está enfadado.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Can you explain the reason why you're late?                                   │
+│ ¿Puedes explicar la razón por la que llegas tarde?                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NOTE: "why" is often omitted:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ That's the reason (why) I called.                                             │
+│ That's why I called. (even shorter)                                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    OMITTING THE RELATIVE PRONOUN
+================================================================================
+
+You CAN omit who/which/that when they are the OBJECT:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The film (that) we saw was great.     ✓ Can omit                              │
+│ The man (who) I called is busy.       ✓ Can omit                              │
+│ The book (which) she wrote is here.   ✓ Can omit                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The man who called me is here.        ✗ CANNOT omit (subject)                 │
+│ The book which is on the table...     ✗ CANNOT omit (subject)                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+HOW TO KNOW IF IT'S OBJECT:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If there is ANOTHER SUBJECT after the relative pronoun → it's OBJECT         │
+│                                                                               │
+│ The man (who) I saw... (I = another subject → who is object → omit OK)        │
+│ The man who called... (no other subject → who is subject → cannot omit)       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                    DEFINING RELATIVE CLAUSES                                 │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ • NO COMMAS                                                                  │
+│ • ESSENTIAL information                                                      │
+│ • Can use THAT for who/which                                                 │
+│ • Can OMIT object pronouns                                                   │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ The man who/that works here... (subject - cannot omit)                       │
+│ The man (who/that) I saw... (object - can omit)                              │
+│ The book which/that is here... (subject - cannot omit)                       │
+│ The book (which/that) I read... (object - can omit)                          │
+│ The man whose car... (possession)                                            │
+│ The place where I live... (place)                                            │
+│ The day when we met... (time)                                                │
+│ The reason (why) I left... (reason)                                          │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

@@ -1,0 +1,147 @@
+================================================================================
+                       RELATIVE CLAUSES
+                  (Oraciones de Relativo)
+================================================================================
+
+Las RELATIVE CLAUSES son oraciones que dan información extra sobre un 
+sustantivo. Empiezan con un RELATIVE PRONOUN (who, which, that, whose, etc.)
+
+================================================================================
+                    WHAT IS A RELATIVE CLAUSE?
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ A RELATIVE CLAUSE is a part of a sentence that gives more information      │
+│ about a noun (person, thing, place, time, reason).                          │
+│                                                                             │
+│ It starts with a RELATIVE PRONOUN and acts like an adjective.              │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The woman WHO LIVES NEXT DOOR is a doctor.                                    │
+│           ─────────────────────                                               │
+│           Relative clause (gives info about "the woman")                      │
+│                                                                               │
+│ La mujer QUE VIVE AL LADO es médica.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    RELATIVE PRONOUNS
+================================================================================
+
+┌─────────────┬─────────────────────────────────────────────────────────────────┐
+│ PRONOUN     │ USE                                                             │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ WHO         │ For PEOPLE (subject)                                            │
+│             │ The man who called you is here.                                 │
+│             │ El hombre que te llamó está aquí.                               │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ WHOM        │ For PEOPLE (object) - formal                                    │
+│             │ The woman whom I met was nice.                                  │
+│             │ La mujer a quien conocí era simpática.                          │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ WHICH       │ For THINGS and ANIMALS                                          │
+│             │ The book which I read was interesting.                          │
+│             │ El libro que leí era interesante.                               │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ THAT        │ For PEOPLE and THINGS (informal, only in defining clauses)      │
+│             │ The car that I bought is red.                                   │
+│             │ El coche que compré es rojo.                                    │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ WHOSE       │ For POSSESSION (de quien, cuyo/a)                               │
+│             │ The boy whose father is a doctor...                             │
+│             │ El chico cuyo padre es médico...                                │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ WHERE       │ For PLACES                                                      │
+│             │ The hotel where we stayed was nice.                             │
+│             │ El hotel donde nos alojamos era bonito.                         │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ WHEN        │ For TIMES                                                       │
+│             │ I remember the day when we met.                                 │
+│             │ Recuerdo el día en que nos conocimos.                           │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ WHY         │ For REASONS (usually after "the reason")                        │
+│             │ That's the reason why I left.                                   │
+│             │ Esa es la razón por la que me fui.                              │
+└─────────────┴─────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    TWO TYPES OF RELATIVE CLAUSES
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ 1. DEFINING RELATIVE CLAUSES (Especificativas)                                │
+│    - Essential information (we need it to understand)                         │
+│    - NO commas                                                                │
+│    - Can use THAT                                                             │
+│    - Can omit the pronoun (when it's object)                                  │
+│                                                                               │
+│    The man WHO STOLE THE CAR was arrested.                                    │
+│    (Which man? The one who stole the car - essential!)                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ 2. NON-DEFINING RELATIVE CLAUSES (Explicativas)                               │
+│    - Extra information (not essential)                                        │
+│    - WITH commas                                                              │
+│    - CANNOT use THAT                                                          │
+│    - CANNOT omit the pronoun                                                  │
+│                                                                               │
+│    My brother, WHO LIVES IN LONDON, is a doctor.                              │
+│    (Extra info about my brother - I only have one)                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+COMPARE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DEFINING:     My sister who lives in Paris is a lawyer.                       │
+│               (I have more than one sister - specifying which one)            │
+│               Mi hermana que vive en París es abogada.                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ NON-DEFINING: My sister, who lives in Paris, is a lawyer.                     │
+│               (I have only one sister - extra information)                    │
+│               Mi hermana, que vive en París, es abogada.                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    SUBJECT vs OBJECT RELATIVE PRONOUNS
+================================================================================
+
+SUBJECT (the pronoun IS the subject of the relative clause):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The man WHO CALLED you is my boss.                                            │
+│          ───                                                                  │
+│         WHO is the subject (who called? → who)                                │
+│                                                                               │
+│ CANNOT omit WHO                                                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+OBJECT (the pronoun IS the object of the relative clause):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The man WHO/THAT you CALLED is my boss.                                       │
+│          ───────     ──────                                                   │
+│         WHO/THAT is the object (you called who? → who/that)                   │
+│                                                                               │
+│ CAN omit WHO/THAT: The man you called is my boss.                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                        RELATIVE CLAUSES                                      │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ WHO      → people (subject)         The girl who sings...                    │
+│ WHOM     → people (object, formal)  The man whom I saw...                    │
+│ WHICH    → things/animals           The car which I bought...                │
+│ THAT     → people/things (defining) The book that I read...                  │
+│ WHOSE    → possession               The man whose car...                     │
+│ WHERE    → places                   The town where I was born...             │
+│ WHEN     → times                    The day when we met...                   │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ DEFINING:     No commas, essential, can use THAT, can omit object pronoun   │
+│ NON-DEFINING: With commas, extra info, NO that, CANNOT omit pronoun         │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

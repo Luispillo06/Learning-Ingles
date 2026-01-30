@@ -1,0 +1,211 @@
+================================================================================
+                    RELATIVE CLAUSES - COMPLETE SUMMARY
+               (Resumen Completo de Oraciones de Relativo)
+================================================================================
+
+================================================================================
+                    RELATIVE PRONOUNS AT A GLANCE
+================================================================================
+
+┌─────────────┬──────────────────────────────────────────────────────────────────┐
+│ WHO         │ People (subject)     → The man who called...                     │
+│ WHOM        │ People (object)      → The man whom I called... (formal)         │
+│ WHICH       │ Things/animals       → The book which I read...                  │
+│ THAT        │ People/things        → The book that I read... (defining only)   │
+│ WHOSE       │ Possession           → The man whose car...                      │
+│ WHERE       │ Places               → The place where I live...                 │
+│ WHEN        │ Times                → The day when we met...                    │
+│ WHY         │ Reasons              → The reason why I left...                  │
+└─────────────┴──────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    DEFINING vs NON-DEFINING
+================================================================================
+
+┌────────────────────────────┬─────────────────────────────────────────────────┐
+│ DEFINING                   │ NON-DEFINING                                    │
+│ (Especificativas)          │ (Explicativas)                                  │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ NO commas                  │ WITH commas                                     │
+│ Essential information      │ Extra information                               │
+│ CAN use THAT               │ CANNOT use THAT                                 │
+│ CAN omit object pronouns   │ CANNOT omit pronouns                            │
+├────────────────────────────┼─────────────────────────────────────────────────┤
+│ The man who called is here.│ John, who called, is here.                      │
+│ (Which man? Essential!)    │ (Extra info about John)                         │
+└────────────────────────────┴─────────────────────────────────────────────────┘
+
+================================================================================
+                    WHEN TO USE EACH PRONOUN
+================================================================================
+
+FOR PEOPLE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ SUBJECT:                                                                      │
+│ The woman who/that works here... (who is working)                             │
+│                                                                               │
+│ OBJECT:                                                                       │
+│ The woman (who/whom/that) I met... (I met her)                                │
+│ → Can omit in defining clauses                                                │
+│                                                                               │
+│ POSSESSION:                                                                   │
+│ The woman whose husband is a doctor... (her husband)                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+FOR THINGS/ANIMALS:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ SUBJECT:                                                                      │
+│ The book which/that is on the table... (the book is on the table)             │
+│                                                                               │
+│ OBJECT:                                                                       │
+│ The book (which/that) I bought... (I bought it)                               │
+│ → Can omit in defining clauses                                                │
+│                                                                               │
+│ POSSESSION:                                                                   │
+│ The book whose cover is damaged... (its cover)                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+FOR PLACES:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The hotel where we stayed... = The hotel in which we stayed...                │
+│ The city where I was born... = The city in which I was born...                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+FOR TIMES:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The day when we met... = The day on which we met...                           │
+│ The year when it happened... = The year in which it happened...               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+FOR REASONS:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The reason why I left... = The reason for which I left...                     │
+│ That's why I called... (short form)                                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    OMITTING RELATIVE PRONOUNS
+================================================================================
+
+CAN OMIT when the pronoun is OBJECT in DEFINING clauses:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The man (who/that) I saw...         ✓                                         │
+│ The book (which/that) I read...     ✓                                         │
+│ The hotel (where) we stayed...      ✓                                         │
+│ The day (when) we met...            ✓                                         │
+│ The reason (why) I left...          ✓                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+CANNOT OMIT when the pronoun is SUBJECT:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The man who called...               ✗ Cannot omit                             │
+│ The book which is on the table...   ✗ Cannot omit                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+CANNOT OMIT in NON-DEFINING clauses:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ My brother, who I saw yesterday, is here. ✗ Cannot omit                       │
+│ Paris, which I visited, is beautiful.     ✗ Cannot omit                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+HOW TO IDENTIFY OBJECT PRONOUNS:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ If there's ANOTHER SUBJECT after the pronoun → OBJECT (can omit)              │
+│                                                                               │
+│ The man (who) I called...  (I = another subject → object → omit OK)           │
+│ The man who called me...   (no other subject → subject → cannot omit)         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WHICH FOR WHOLE CLAUSES
+================================================================================
+
+WHICH can refer to an entire previous statement:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ He passed the exam, which surprised everyone.                                 │
+│ (which = the fact that he passed)                                             │
+│ Aprobó el examen, lo cual sorprendió a todos.                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She arrived late, which annoyed me.                                           │
+│ (which = the fact that she arrived late)                                      │
+│ Llegó tarde, lo cual me molestó.                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They won the game, which was unexpected.                                      │
+│ Ganaron el partido, lo cual fue inesperado.                                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    PREPOSITIONS
+================================================================================
+
+FORMAL: Preposition + whom/which
+INFORMAL: Preposition at the end (+ who/which/that or omit)
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ FORMAL:   The person to whom I spoke...                                       │
+│ INFORMAL: The person who I spoke to...                                        │
+│ INFORMAL: The person I spoke to...                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ FORMAL:   The chair on which I sat...                                         │
+│ INFORMAL: The chair which I sat on...                                         │
+│ INFORMAL: The chair I sat on...                                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+⚠️ NEVER: to that, on that, for that...
+   THAT cannot follow a preposition directly.
+
+================================================================================
+                    COMMON MISTAKES
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  My car, that is new, is red.          My car, which is new, is red.
+  The man which I saw...                The man who/that I saw...
+  The person to that I spoke...         The person to whom I spoke...
+  The reason because I left...          The reason why I left...
+  That's the place which I live.        That's the place where I live.
+  The man who his car was stolen...     The man whose car was stolen...
+
+================================================================================
+                    QUICK REFERENCE EXAMPLES
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DEFINING (no commas):                                                         │
+│ The woman who works here is my aunt.                                          │
+│ The book (that) I bought is interesting.                                      │
+│ The hotel where we stayed was nice.                                           │
+│ The day when we met was special.                                              │
+│ Students who study hard succeed.                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ NON-DEFINING (with commas):                                                   │
+│ My mother, who is 65, still works.                                            │
+│ The Eiffel Tower, which is in Paris, is famous.                               │
+│ London, where I was born, is expensive.                                       │
+│ 1969, when man walked on the moon, was historic.                              │
+│ He failed, which surprised us. (whole clause)                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    DECISION FLOWCHART
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 1. Is the information ESSENTIAL to identify?                                │
+│    YES → DEFINING (no commas, can use THAT)                                 │
+│    NO  → NON-DEFINING (with commas, NO that)                                │
+│                                                                             │
+│ 2. Is it for a PERSON?                                                      │
+│    Subject → WHO/THAT                                                       │
+│    Object  → WHO/WHOM/THAT (or omit in defining)                            │
+│                                                                             │
+│ 3. Is it for a THING?                                                       │
+│    → WHICH/THAT (or omit object in defining)                                │
+│                                                                             │
+│ 4. Is it for POSSESSION? → WHOSE                                            │
+│ 5. Is it for a PLACE? → WHERE (or in/at which)                              │
+│ 6. Is it for a TIME? → WHEN (or on/in which)                                │
+│ 7. Is it for a REASON? → WHY (or for which)                                 │
+└─────────────────────────────────────────────────────────────────────────────┘

@@ -1,0 +1,265 @@
+================================================================================
+               REPORTED COMMANDS, REQUESTS AND ADVICE
+          (Órdenes, Peticiones y Consejos en Estilo Indirecto)
+================================================================================
+
+================================================================================
+                    BASIC STRUCTURE
+================================================================================
+
+Commands, requests, and advice use INFINITIVE structure:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  VERB + PERSON + (NOT) + TO + INFINITIVE                                    │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  He told   me         to     wait.                                          │
+│  She asked  him   not  to     leave.                                        │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    REPORTED COMMANDS (ORDERS)
+================================================================================
+
+Common verbs: TELL, ORDER, COMMAND, INSTRUCT
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "Wait here."                                                        │
+│ REPORTED: She told me to wait there.                                          │
+│           Me dijo que esperara allí.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Close the door."                                                   │
+│ REPORTED: He told me to close the door.                                       │
+│           Me dijo que cerrara la puerta.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Sit down!"                                                         │
+│ REPORTED: The teacher ordered them to sit down.                               │
+│           El profesor les ordenó que se sentaran.                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Stop talking!"                                                     │
+│ REPORTED: She commanded us to stop talking.                                   │
+│           Nos ordenó que dejáramos de hablar.                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Follow the instructions carefully."                                │
+│ REPORTED: He instructed us to follow the instructions carefully.              │
+│           Nos instruyó que siguiéramos las instrucciones con cuidado.         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE COMMANDS:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "Don't touch that!"                                                 │
+│ REPORTED: She told me not to touch that.                                      │
+│           Me dijo que no tocara eso.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Don't be late!"                                                    │
+│ REPORTED: He told us not to be late.                                          │
+│           Nos dijo que no llegáramos tarde.                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Never do that again!"                                              │
+│ REPORTED: She told him never to do that again.                                │
+│           Le dijo que nunca volviera a hacer eso.                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    REPORTED REQUESTS
+================================================================================
+
+Common verbs: ASK, BEG, IMPLORE, REQUEST
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "Please help me."                                                   │
+│ REPORTED: She asked me to help her.                                           │
+│           Me pidió que la ayudara.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Could you open the window?"                                        │
+│ REPORTED: He asked me to open the window.                                     │
+│           Me pidió que abriera la ventana.                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Would you mind waiting?"                                           │
+│ REPORTED: She asked me to wait.                                               │
+│           Me pidió que esperara.                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Can you pass the salt, please?"                                    │
+│ REPORTED: He asked me to pass the salt.                                       │
+│           Me pidió que le pasara la sal.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Please, please don't leave me!"                                    │
+│ REPORTED: She begged him not to leave her.                                    │
+│           Le suplicó que no la dejara.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVE REQUESTS:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "Please don't tell anyone."                                         │
+│ REPORTED: He asked me not to tell anyone.                                     │
+│           Me pidió que no se lo dijera a nadie.                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Could you please not smoke here?"                                  │
+│ REPORTED: She asked him not to smoke there.                                   │
+│           Le pidió que no fumara allí.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    REPORTED ADVICE
+================================================================================
+
+Common verbs: ADVISE, RECOMMEND, WARN, URGE, ENCOURAGE
+
+ADVISE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "You should see a doctor."                                          │
+│ REPORTED: She advised me to see a doctor.                                     │
+│           Me aconsejó que fuera al médico.                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "You shouldn't eat so much sugar."                                  │
+│ REPORTED: He advised me not to eat so much sugar.                             │
+│           Me aconsejó que no comiera tanto azúcar.                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "If I were you, I'd take the job."                                  │
+│ REPORTED: She advised me to take the job.                                     │
+│           Me aconsejó que aceptara el trabajo.                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+RECOMMEND:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "You should try the fish."                                          │
+│ REPORTED: She recommended trying the fish.                                    │
+│           OR: She recommended that I try the fish.                            │
+│           Recomendó probar el pescado.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+WARN:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "Be careful! The floor is wet."                                     │
+│ REPORTED: He warned me that the floor was wet.                                │
+│           OR: He warned me to be careful.                                     │
+│           Me advirtió de que el suelo estaba mojado.                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Don't go there alone."                                             │
+│ REPORTED: She warned me not to go there alone.                                │
+│           Me advirtió que no fuera allí solo.                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Don't touch the wire or you'll get shocked!"                       │
+│ REPORTED: He warned me not to touch the wire.                                 │
+│           Me advirtió que no tocara el cable.                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+ENCOURAGE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "You can do it! Try again!"                                         │
+│ REPORTED: She encouraged me to try again.                                     │
+│           Me animó a intentarlo de nuevo.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "You should apply for the job."                                     │
+│ REPORTED: He encouraged me to apply for the job.                              │
+│           Me animó a solicitar el puesto.                                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+URGE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "You really must leave now!"                                        │
+│ REPORTED: She urged me to leave immediately.                                  │
+│           Me instó a que me fuera inmediatamente.                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    OTHER REPORTING STRUCTURES
+================================================================================
+
+INVITE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "Would you like to come to my party?"                               │
+│ REPORTED: She invited me to come to her party.                                │
+│           Me invitó a ir a su fiesta.                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+REMIND:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "Don't forget to call your mother."                                 │
+│ REPORTED: She reminded me to call my mother.                                  │
+│           Me recordó que llamara a mi madre.                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+OFFER:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "I'll help you with your bags."                                     │
+│ REPORTED: He offered to help me with my bags.                                 │
+│           Se ofreció a ayudarme con las bolsas.                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+PROMISE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "I'll be there on time."                                            │
+│ REPORTED: She promised to be there on time.                                   │
+│           Prometió estar allí a tiempo.                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+THREATEN:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "I'll call the police!"                                             │
+│ REPORTED: He threatened to call the police.                                   │
+│           Amenazó con llamar a la policía.                                    │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+REFUSE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "No, I won't do it."                                                │
+│ REPORTED: She refused to do it.                                               │
+│           Se negó a hacerlo.                                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+AGREE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "OK, I'll help you."                                                │
+│ REPORTED: He agreed to help me.                                               │
+│           Accedió a ayudarme.                                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    SUGGEST (special case)
+================================================================================
+
+SUGGEST uses different structures (NOT infinitive with person):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "Let's go to the cinema."                                           │
+│                                                                               │
+│ REPORTED OPTIONS:                                                             │
+│ • She suggested going to the cinema. (+ gerund)                               │
+│ • She suggested (that) we go to the cinema. (+ subjunctive)                   │
+│ • She suggested (that) we should go to the cinema. (+ should)                 │
+│                                                                               │
+│ ❌ She suggested me to go... (WRONG!)                                         │
+│ ❌ She suggested us to go... (WRONG!)                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Why don't you take a break?"                                       │
+│ REPORTED: He suggested taking a break.                                        │
+│           OR: He suggested (that) I take a break.                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│               REPORTED COMMANDS, REQUESTS, ADVICE                            │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ STRUCTURE: Verb + person + (not) + to + infinitive                           │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ COMMANDS:  tell, order, command, instruct                                    │
+│            "Wait here." → She told me to wait there.                         │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ REQUESTS:  ask, beg, implore, request                                        │
+│            "Please help me." → She asked me to help her.                     │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ ADVICE:    advise, warn, encourage, urge, recommend                          │
+│            "You should rest." → He advised me to rest.                       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ NEGATIVE:  + not + to + infinitive                                           │
+│            "Don't go." → She told me not to go.                              │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ SUGGEST:   + gerund OR that + subject + (should) + verb                      │
+│            "Let's eat." → She suggested eating.                              │
+│            ❌ She suggested me to eat. (WRONG!)                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

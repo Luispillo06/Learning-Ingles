@@ -1,0 +1,197 @@
+================================================================================
+                    TIME AND PLACE CHANGES
+          (Cambios de Tiempo y Lugar en el Estilo Indirecto)
+================================================================================
+
+When we report speech, we often need to change time and place references
+because we are reporting from a different time or place.
+
+================================================================================
+                    TIME CHANGES
+================================================================================
+
+┌────────────────────────────┬──────────────────────────────────────────────────┐
+│ DIRECT SPEECH              │ REPORTED SPEECH                                  │
+├────────────────────────────┼──────────────────────────────────────────────────┤
+│ today                      │ that day                                         │
+│ tonight                    │ that night                                       │
+│ yesterday                  │ the day before / the previous day                │
+│ tomorrow                   │ the next day / the following day                 │
+│ last week/month/year       │ the week/month/year before                       │
+│                            │ the previous week/month/year                     │
+│ next week/month/year       │ the following week/month/year                    │
+│ a week/month ago           │ a week/month before / earlier                    │
+│ now                        │ then / at that moment                            │
+│ this morning/week          │ that morning/week                                │
+│ two days ago               │ two days before / earlier                        │
+│ in two days                │ two days later / in two days' time               │
+└────────────────────────────┴──────────────────────────────────────────────────┘
+
+EXAMPLES:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ TODAY → THAT DAY:                                                             │
+│ "I'll finish it today."                                                       │
+│ He said he would finish it that day.                                          │
+│ Dijo que lo terminaría ese día.                                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ YESTERDAY → THE DAY BEFORE:                                                   │
+│ "I saw her yesterday."                                                        │
+│ She said she had seen her the day before.                                     │
+│ Dijo que la había visto el día anterior.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ TOMORROW → THE NEXT DAY / THE FOLLOWING DAY:                                  │
+│ "I'll call you tomorrow."                                                     │
+│ He said he would call me the next day.                                        │
+│ Dijo que me llamaría al día siguiente.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ LAST WEEK → THE WEEK BEFORE / THE PREVIOUS WEEK:                              │
+│ "We went to Paris last week."                                                 │
+│ They said they had gone to Paris the week before.                             │
+│ Dijeron que habían ido a París la semana anterior.                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ NEXT MONTH → THE FOLLOWING MONTH:                                             │
+│ "I'm getting married next month."                                             │
+│ She said she was getting married the following month.                         │
+│ Dijo que se casaba al mes siguiente.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ NOW → THEN / AT THAT MOMENT:                                                  │
+│ "I'm busy now."                                                               │
+│ He said he was busy then.                                                     │
+│ Dijo que estaba ocupado en ese momento.                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ TWO DAYS AGO → TWO DAYS BEFORE:                                               │
+│ "I arrived two days ago."                                                     │
+│ She said she had arrived two days before.                                     │
+│ Dijo que había llegado dos días antes.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ THIS MORNING → THAT MORNING:                                                  │
+│ "I spoke to him this morning."                                                │
+│ She said she had spoken to him that morning.                                  │
+│ Dijo que había hablado con él esa mañana.                                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    PLACE CHANGES
+================================================================================
+
+┌────────────────────────────┬──────────────────────────────────────────────────┐
+│ DIRECT SPEECH              │ REPORTED SPEECH                                  │
+├────────────────────────────┼──────────────────────────────────────────────────┤
+│ here                       │ there                                            │
+│ this                       │ that                                             │
+│ these                      │ those                                            │
+└────────────────────────────┴──────────────────────────────────────────────────┘
+
+EXAMPLES:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ HERE → THERE:                                                                 │
+│ "I live here."                                                                │
+│ He said he lived there.                                                       │
+│ Dijo que vivía allí.                                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ "Wait here."                                                                  │
+│ She told me to wait there.                                                    │
+│ Me dijo que esperara allí.                                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ THIS → THAT:                                                                  │
+│ "I like this book."                                                           │
+│ She said she liked that book.                                                 │
+│ Dijo que le gustaba ese libro.                                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ "This is my friend."                                                          │
+│ He said that was his friend.                                                  │
+│ Dijo que ese era su amigo.                                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ THESE → THOSE:                                                                │
+│ "I made these cakes."                                                         │
+│ She said she had made those cakes.                                            │
+│ Dijo que había hecho esas tartas.                                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WHEN NOT TO CHANGE
+================================================================================
+
+Don't change time/place expressions when:
+
+1. REPORTING IMMEDIATELY (same day/place):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ (At 10am) "I'll see you today."                                               │
+│ (At 11am) She said she would see me today. (same day - no change)             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ (In the office) "I work here."                                                │
+│ (Still in the office) He said he works here. (same place - no change)         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. THE SITUATION IS STILL TRUE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ "I live in this city."                                                        │
+│ She said she lives in this city. (still lives there)                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    OTHER CHANGES
+================================================================================
+
+COME → GO (sometimes):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ "Come to my office."                                                          │
+│ He told me to go to his office. (if I'm not there now)                        │
+│ He told me to come to his office. (if I'm still there)                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+BRING → TAKE (sometimes):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ "Bring me the book."                                                          │
+│ He asked me to take him the book. (if I'm away from him now)                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    COMPLETE EXAMPLES
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT (Monday):                                                              │
+│ "I saw John yesterday and I'll meet him again tomorrow."                      │
+│                                                                               │
+│ REPORTED (Wednesday):                                                         │
+│ She said she had seen John the day before (Sunday) and she would meet         │
+│ him again the following day (Tuesday).                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT (in London):                                                           │
+│ "I've been living here for two years."                                        │
+│                                                                               │
+│ REPORTED (in Madrid):                                                         │
+│ He said he had been living there for two years.                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:                                                                       │
+│ "I finished this project last week and I'm starting a new one next month."    │
+│                                                                               │
+│ REPORTED:                                                                     │
+│ She said she had finished that project the week before and she was            │
+│ starting a new one the following month.                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                    TIME AND PLACE CHANGES                                    │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ TIME:                                                                        │
+│ today → that day              yesterday → the day before                     │
+│ tomorrow → the next day       now → then                                     │
+│ last week → the week before   next week → the following week                 │
+│ ago → before                  this morning → that morning                    │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ PLACE:                                                                       │
+│ here → there                  this → that                                    │
+│ these → those                 come → go (sometimes)                          │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ NO CHANGE when:                                                              │
+│ • Reporting immediately (same day/place)                                     │
+│ • Situation is still true                                                    │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

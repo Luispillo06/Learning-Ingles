@@ -1,0 +1,227 @@
+================================================================================
+                    RELATIVE PRONOUNS
+              (Pronombres Relativos en Detalle)
+================================================================================
+
+================================================================================
+                    WHO vs WHOM
+================================================================================
+
+WHO = Subject (quién hace la acción)
+WHOM = Object (quién recibe la acción) - formal
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ WHO (subject):                                                                │
+│ The man WHO called you is here.                                               │
+│ (Who called? → the man = subject)                                             │
+│ El hombre que te llamó está aquí.                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The woman WHO works here is my friend.                                        │
+│ (Who works? → the woman = subject)                                            │
+│ La mujer que trabaja aquí es mi amiga.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ WHOM (object - formal):                                                       │
+│ The man WHOM you called is here.                                              │
+│ (You called whom? → the man = object)                                         │
+│ El hombre a quien llamaste está aquí.                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The woman WHOM I met is my friend.                                            │
+│ (I met whom? → the woman = object)                                            │
+│ La mujer a quien conocí es mi amiga.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+INFORMAL: WHO can replace WHOM (or omit completely):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ FORMAL:   The person whom I spoke to...                                       │
+│ INFORMAL: The person who I spoke to...                                        │
+│ INFORMAL: The person I spoke to... (pronoun omitted)                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+WHOM after PREPOSITIONS (formal):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The person to whom I spoke was helpful.                                       │
+│ La persona con quien hablé fue servicial.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The colleague with whom I work is nice.                                       │
+│ El colega con quien trabajo es simpático.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The man for whom she works is strict.                                         │
+│ El hombre para quien ella trabaja es estricto.                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WHICH vs THAT
+================================================================================
+
+WHICH = things and animals
+THAT = things, animals, AND people (only in defining clauses)
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ BOTH OK in DEFINING clauses:                                                  │
+│ The book which/that I read was good.                                          │
+│ The car which/that he drives is fast.                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ONLY WHICH in NON-DEFINING clauses:                                           │
+│ My car, which is new, broke down.  ✓                                          │
+│ My car, that is new, broke down.   ✗                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+PREFER THAT after:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ SUPERLATIVES:     the best/worst/biggest... that                              │
+│                   It's the best movie that I've ever seen.                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ORDINALS:         the first/last/only... that                                 │
+│                   She was the first that arrived.                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ALL/EVERYTHING:   All that glitters is not gold.                              │
+│                   Everything that he said was true.                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ NOTHING/SOMETHING: There's nothing that I can do.                             │
+│                    Is there something that you need?                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ PEOPLE + THINGS:  The people and things that I love...                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WHOSE
+================================================================================
+
+WHOSE = possession (cuyo/a, de quien)
+Can be used for PEOPLE and THINGS.
+
+FOR PEOPLE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The man whose car was stolen...                                               │
+│ El hombre cuyo coche fue robado...                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ A woman whose children go to my school...                                     │
+│ Una mujer cuyos hijos van a mi colegio...                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The author whose books I love...                                              │
+│ El autor cuyos libros me encantan...                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ People whose jobs are stressful...                                            │
+│ Las personas cuyos trabajos son estresantes...                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+FOR THINGS:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The house whose roof is red...                                                │
+│ La casa cuyo tejado es rojo...                                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ A company whose profits are increasing...                                     │
+│ Una empresa cuyos beneficios están aumentando...                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The book whose cover is damaged...                                            │
+│ El libro cuya portada está dañada...                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+STRUCTURE: WHOSE + NOUN (always followed by a noun)
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The man whose CAR was stolen...                                               │
+│ A woman whose CHILDREN go to school...                                        │
+│ The house whose ROOF is red...                                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+ALTERNATIVES TO WHOSE (more informal):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ WHOSE:       The man whose car was stolen...                                  │
+│ ALTERNATIVE: The man with the stolen car... (less precise)                    │
+│ ALTERNATIVE: The man that had his car stolen... (different structure)         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WHERE, WHEN, WHY
+================================================================================
+
+WHERE = in/at which (for places)
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The hotel where we stayed = The hotel at which we stayed                      │
+│ The city where I was born = The city in which I was born                      │
+│ The office where I work = The office at which I work                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ This is the place where I first met her.                                      │
+│ Este es el lugar donde la conocí por primera vez.                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I know a restaurant where they serve great food.                              │
+│ Conozco un restaurante donde sirven comida genial.                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+WHEN = on/in which (for times)
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The day when I was born = The day on which I was born                         │
+│ The year when it happened = The year in which it happened                     │
+│ The moment when he arrived = The moment at which he arrived                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I remember the summer when we first met.                                      │
+│ Recuerdo el verano en que nos conocimos.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ That was the year when everything changed.                                    │
+│ Ese fue el año en que todo cambió.                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+WHY = for which (only after "reason")
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The reason why I left = The reason for which I left                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ That's the reason why I'm here.                                               │
+│ Esa es la razón por la que estoy aquí.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ I don't understand the reason why he's angry.                                 │
+│ No entiendo la razón por la que está enfadado.                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NOTE: WHERE, WHEN, WHY can often be omitted:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The hotel (where) we stayed...                                                │
+│ The day (when) I met her...                                                   │
+│ The reason (why) I called...                                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    PREPOSITIONS WITH RELATIVE PRONOUNS
+================================================================================
+
+FORMAL: Preposition + whom/which
+INFORMAL: Preposition at the end
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ FORMAL:   The person to whom I spoke was helpful.                             │
+│ INFORMAL: The person (who/that) I spoke to was helpful.                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ FORMAL:   The chair on which I sat was broken.                                │
+│ INFORMAL: The chair (which/that) I sat on was broken.                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ FORMAL:   The company for which she works is big.                             │
+│ INFORMAL: The company (which/that) she works for is big.                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ FORMAL:   The man with whom I traveled was nice.                              │
+│ INFORMAL: The man (who/that) I traveled with was nice.                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+⚠️ CANNOT use THAT after prepositions:
+   ❌ The person to that I spoke...
+   ✓  The person to whom I spoke...
+   ✓  The person that I spoke to...
+
+================================================================================
+                    SUMMARY TABLE
+================================================================================
+
+┌─────────────┬────────────────────┬───────────────────┬───────────────────────┐
+│ PRONOUN     │ USE                │ DEFINING          │ NON-DEFINING          │
+├─────────────┼────────────────────┼───────────────────┼───────────────────────┤
+│ WHO         │ People (subject)   │ ✓                 │ ✓                     │
+│ WHOM        │ People (object)    │ ✓ (formal)        │ ✓ (formal)            │
+│ WHICH       │ Things/animals     │ ✓                 │ ✓                     │
+│ THAT        │ People/things      │ ✓                 │ ✗ NEVER               │
+│ WHOSE       │ Possession         │ ✓                 │ ✓                     │
+│ WHERE       │ Places             │ ✓                 │ ✓                     │
+│ WHEN        │ Times              │ ✓                 │ ✓                     │
+│ WHY         │ Reasons            │ ✓                 │ rare                  │
+└─────────────┴────────────────────┴───────────────────┴───────────────────────┘
+
+================================================================================

@@ -1,0 +1,375 @@
+================================================================================
+                    TIME CLAUSES
+                (Oraciones Temporales)
+================================================================================
+
+Las TIME CLAUSES indican CUÁNDO algo sucede.
+Responden a la pregunta: WHEN?
+
+================================================================================
+                    IMPORTANT RULE: NO FUTURE IN TIME CLAUSES!
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ⚠️ In time clauses about the future, we use PRESENT tense (not will/going to)│
+│                                                                               │
+│ ❌ I'll call you when I will arrive.                                          │
+│ ✓  I'll call you when I arrive.                                               │
+│                                                                               │
+│ ❌ After I will finish work, I'll go home.                                    │
+│ ✓  After I finish work, I'll go home.                                         │
+│                                                                               │
+│ ❌ Wait until he will come.                                                   │
+│ ✓  Wait until he comes.                                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+Main clause = future | Time clause = present
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I will call you when I get home.                                              │
+│      (future)        (present)                                                │
+│ Te llamaré cuando llegue a casa.                                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WHEN / WHENEVER
+================================================================================
+
+WHEN = at the time that:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ FUTURE (use present in time clause):                                          │
+│                                                                               │
+│ I'll call you when I arrive.                                                  │
+│ Te llamaré cuando llegue.                                                     │
+│                                                                               │
+│ When you see her, tell her I said hello.                                      │
+│ Cuando la veas, dile que le mando saludos.                                    │
+│                                                                               │
+│ When I'm older, I'll travel the world.                                        │
+│ Cuando sea mayor, viajaré por el mundo.                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ PAST:                                                                         │
+│                                                                               │
+│ When I arrived, she was sleeping.                                             │
+│ Cuando llegué, ella estaba durmiendo.                                         │
+│                                                                               │
+│ I was happy when I heard the news.                                            │
+│ Estaba contento cuando escuché la noticia.                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ HABITS/GENERAL:                                                               │
+│                                                                               │
+│ When I get home, I always have a coffee.                                      │
+│ Cuando llego a casa, siempre tomo un café.                                    │
+│                                                                               │
+│ When it rains, I take the bus.                                                │
+│ Cuando llueve, cojo el autobús.                                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+WHENEVER = every time that / any time that:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Whenever I see him, he's always smiling.                                      │
+│ Siempre que lo veo, está sonriendo.                                           │
+│                                                                               │
+│ Whenever it rains, the roof leaks.                                            │
+│ Cada vez que llueve, el tejado gotea.                                         │
+│                                                                               │
+│ Call me whenever you need help.                                               │
+│ Llámame siempre que necesites ayuda.                                          │
+│                                                                               │
+│ Whenever possible, I walk to work.                                            │
+│ Siempre que es posible, voy andando al trabajo.                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WHILE / AS
+================================================================================
+
+WHILE = during the time that (longer action):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ While I was cooking, the phone rang.                                          │
+│ Mientras cocinaba, sonó el teléfono.                                          │
+│                                                                               │
+│ She listened to music while she worked.                                       │
+│ Escuchaba música mientras trabajaba.                                          │
+│                                                                               │
+│ While you're out, can you buy some milk?                                      │
+│ Mientras estés fuera, ¿puedes comprar leche?                                  │
+│                                                                               │
+│ I'll wait while you get ready.                                                │
+│ Esperaré mientras te preparas.                                                │
+│                                                                               │
+│ Don't use your phone while driving.                                           │
+│ No uses el teléfono mientras conduces.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+AS = at the same time / at the moment when:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ As I was leaving, the phone rang.                                             │
+│ Cuando salía, sonó el teléfono.                                               │
+│                                                                               │
+│ She waved as the train left.                                                  │
+│ Saludó con la mano cuando el tren se iba.                                     │
+│                                                                               │
+│ As time goes by, things will improve.                                         │
+│ A medida que pase el tiempo, las cosas mejorarán.                             │
+│                                                                               │
+│ As I get older, I appreciate life more.                                       │
+│ A medida que me hago mayor, aprecio más la vida.                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    BEFORE / AFTER
+================================================================================
+
+BEFORE = earlier than:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ FUTURE:                                                                       │
+│                                                                               │
+│ I'll call you before I leave.                                                 │
+│ Te llamaré antes de irme.                                                     │
+│                                                                               │
+│ Before you go, can I talk to you?                                             │
+│ Antes de que te vayas, ¿puedo hablar contigo?                                 │
+│                                                                               │
+│ Finish your homework before you watch TV.                                     │
+│ Termina los deberes antes de ver la tele.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ PAST:                                                                         │
+│                                                                               │
+│ I had dinner before I went out.                                               │
+│ Cené antes de salir.                                                          │
+│                                                                               │
+│ She checked everything before she left.                                       │
+│ Comprobó todo antes de irse.                                                  │
+│                                                                               │
+│ Before I moved here, I lived in London.                                       │
+│ Antes de mudarme aquí, vivía en Londres.                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+AFTER = later than:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ FUTURE:                                                                       │
+│                                                                               │
+│ I'll call you after I finish work.                                            │
+│ Te llamaré después de terminar de trabajar.                                   │
+│                                                                               │
+│ After you read it, let me know what you think.                                │
+│ Después de leerlo, dime qué piensas.                                          │
+│                                                                               │
+│ We'll go out after the rain stops.                                            │
+│ Saldremos después de que pare la lluvia.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ PAST:                                                                         │
+│                                                                               │
+│ After I had dinner, I watched TV.                                             │
+│ Después de cenar, vi la tele.                                                 │
+│                                                                               │
+│ She called me after she arrived.                                              │
+│ Me llamó después de llegar.                                                   │
+│                                                                               │
+│ After the movie finished, we went home.                                       │
+│ Después de que terminó la película, nos fuimos a casa.                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    UNTIL / TILL
+================================================================================
+
+UNTIL/TILL = up to the time when:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ FUTURE:                                                                       │
+│                                                                               │
+│ Wait here until I come back.                                                  │
+│ Espera aquí hasta que vuelva.                                                 │
+│                                                                               │
+│ I won't leave until you arrive.                                               │
+│ No me iré hasta que llegues.                                                  │
+│                                                                               │
+│ Stay here until I tell you to go.                                             │
+│ Quédate aquí hasta que te diga que te vayas.                                  │
+│                                                                               │
+│ I'll keep trying until I succeed.                                             │
+│ Seguiré intentándolo hasta que lo consiga.                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ PAST:                                                                         │
+│                                                                               │
+│ I waited until she arrived.                                                   │
+│ Esperé hasta que llegó.                                                       │
+│                                                                               │
+│ He didn't leave until the party ended.                                        │
+│ No se fue hasta que terminó la fiesta.                                        │
+│                                                                               │
+│ We stayed until midnight.                                                     │
+│ Nos quedamos hasta medianoche.                                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+BY THE TIME = before or when:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ By the time you get this, I'll be gone.                                       │
+│ Para cuando recibas esto, ya me habré ido.                                    │
+│                                                                               │
+│ By the time he arrived, the show had started.                                 │
+│ Para cuando llegó, el espectáculo había empezado.                             │
+│                                                                               │
+│ By the time I'm 30, I want to be married.                                     │
+│ Para cuando tenga 30, quiero estar casado.                                    │
+│                                                                               │
+│ By the time we got there, it had closed.                                      │
+│ Para cuando llegamos, había cerrado.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    AS SOON AS / ONCE / THE MOMENT
+================================================================================
+
+AS SOON AS = immediately after:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I'll call you as soon as I arrive.                                            │
+│ Te llamaré en cuanto llegue.                                                  │
+│                                                                               │
+│ As soon as I saw her, I knew something was wrong.                             │
+│ En cuanto la vi, supe que algo iba mal.                                       │
+│                                                                               │
+│ Call me as soon as you get home.                                              │
+│ Llámame en cuanto llegues a casa.                                             │
+│                                                                               │
+│ As soon as the rain stops, we'll go out.                                      │
+│ En cuanto pare la lluvia, saldremos.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+ONCE = as soon as / after:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Once you understand, it's easy.                                               │
+│ Una vez que lo entiendes, es fácil.                                           │
+│                                                                               │
+│ Once you've finished, you can leave.                                          │
+│ Una vez que hayas terminado, puedes irte.                                     │
+│                                                                               │
+│ Once I knew the truth, I felt better.                                         │
+│ Una vez que supe la verdad, me sentí mejor.                                   │
+│                                                                               │
+│ Once you start, you won't be able to stop.                                    │
+│ Una vez que empieces, no podrás parar.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+THE MOMENT / THE MINUTE / THE SECOND = as soon as (emphatic):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The moment I saw him, I knew he was guilty.                                   │
+│ En el momento en que lo vi, supe que era culpable.                            │
+│                                                                               │
+│ I'll call you the minute I get the results.                                   │
+│ Te llamaré en cuanto tenga los resultados.                                    │
+│                                                                               │
+│ The second he walked in, everyone applauded.                                  │
+│ En cuanto entró, todos aplaudieron.                                           │
+│                                                                               │
+│ I knew the moment I met her that she was special.                             │
+│ Supe en el momento en que la conocí que era especial.                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    SINCE
+================================================================================
+
+SINCE = from that time (with Perfect tenses):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I've known her since we were children.                                        │
+│ La conozco desde que éramos niños.                                            │
+│                                                                               │
+│ Since he left, I've been very sad.                                            │
+│ Desde que se fue, he estado muy triste.                                       │
+│                                                                               │
+│ She's been living here since she got married.                                 │
+│ Ha estado viviendo aquí desde que se casó.                                    │
+│                                                                               │
+│ Ever since I met you, my life has changed.                                    │
+│ Desde que te conocí, mi vida ha cambiado.                                     │
+│                                                                               │
+│ I haven't seen him since last week.                                           │
+│ No lo he visto desde la semana pasada.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    NO SOONER...THAN / HARDLY...WHEN
+================================================================================
+
+Formal/literary expressions (with inversion):
+
+NO SOONER + had + subject + pp + THAN:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ No sooner had I arrived than the phone rang.                                  │
+│ Apenas había llegado cuando sonó el teléfono.                                 │
+│                                                                               │
+│ No sooner had we sat down than the waiter came.                               │
+│ Apenas nos habíamos sentado cuando vino el camarero.                          │
+│                                                                               │
+│ No sooner had she finished than she started again.                            │
+│ Apenas había terminado cuando empezó de nuevo.                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+HARDLY/SCARCELY + had + subject + pp + WHEN:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Hardly had I sat down when the doorbell rang.                                 │
+│ Apenas me había sentado cuando sonó el timbre.                                │
+│                                                                               │
+│ Scarcely had we arrived when it started raining.                              │
+│ Apenas habíamos llegado cuando empezó a llover.                               │
+│                                                                               │
+│ Hardly had I fallen asleep when the alarm went off.                           │
+│ Apenas me había dormido cuando sonó la alarma.                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    SUMMARY TABLE
+================================================================================
+
+┌─────────────────────┬─────────────────────────────────────────────────────────┐
+│ CONJUNCTION         │ MEANING / USE                                           │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ when                │ at the time that                                        │
+│ whenever            │ every time that                                         │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ while               │ during the time that (longer action)                    │
+│ as                  │ at the same moment / gradually                          │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ before              │ earlier than                                            │
+│ after               │ later than                                              │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ until / till        │ up to the time when                                     │
+│ by the time         │ before or when                                          │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ as soon as          │ immediately after                                       │
+│ once                │ after (with consequence)                                │
+│ the moment/minute   │ as soon as (emphatic)                                   │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ since               │ from that time (+ Perfect tenses)                       │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ no sooner...than    │ immediately after (formal)                              │
+│ hardly...when       │ almost immediately after (formal)                       │
+└─────────────────────┴─────────────────────────────────────────────────────────┘
+
+================================================================================
+                    COMMON ERRORS
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ❌ I'll call you when I will arrive.                                          │
+│ ✓  I'll call you when I arrive.                                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ I'll wait until you will come back.                                        │
+│ ✓  I'll wait until you come back.                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ After I will finish, I'll call you.                                        │
+│ ✓  After I finish, I'll call you.                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ Before I'll leave, I'll say goodbye.                                       │
+│ ✓  Before I leave, I'll say goodbye.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ As soon as I'll know, I'll tell you.                                       │
+│ ✓  As soon as I know, I'll tell you.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ I've been here since 3 hours.                                              │
+│ ✓  I've been here for 3 hours.                                                │
+│ ✓  I've been here since 3 o'clock.                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

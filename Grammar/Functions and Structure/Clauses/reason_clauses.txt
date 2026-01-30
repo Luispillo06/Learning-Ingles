@@ -1,0 +1,268 @@
+================================================================================
+                    REASON CLAUSES
+              (Oraciones de Causa / Razón)
+================================================================================
+
+Las REASON CLAUSES explican POR QUÉ algo sucede.
+Responden a la pregunta: WHY?
+
+================================================================================
+                    BECAUSE / BECAUSE OF
+================================================================================
+
+BECAUSE + clause (subject + verb):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I stayed home because it was raining.                                         │
+│ Me quedé en casa porque estaba lloviendo.                                     │
+│                                                                               │
+│ She's happy because she passed the exam.                                      │
+│ Está contenta porque aprobó el examen.                                        │
+│                                                                               │
+│ Because he was late, he missed the train.                                     │
+│ Como llegó tarde, perdió el tren.                                             │
+│                                                                               │
+│ We couldn't go out because of the storm.                                      │
+│ ❌ We couldn't go out because the storm. (WRONG - needs verb!)                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+BECAUSE OF + noun / noun phrase / gerund:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I stayed home because of the rain.                                            │
+│ Me quedé en casa por la lluvia.                                               │
+│                                                                               │
+│ She's happy because of her results.                                           │
+│ Está contenta por sus resultados.                                             │
+│                                                                               │
+│ He lost his job because of being late.                                        │
+│ Perdió su trabajo por llegar tarde.                                           │
+│                                                                               │
+│ Because of the traffic, we arrived late.                                      │
+│ Por el tráfico, llegamos tarde.                                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+COMPARE:
+┌────────────────────────────────┬──────────────────────────────────────────────┐
+│ BECAUSE + clause               │ BECAUSE OF + noun                            │
+├────────────────────────────────┼──────────────────────────────────────────────┤
+│ because it was raining         │ because of the rain                          │
+│ because he was ill             │ because of his illness                       │
+│ because she worked hard        │ because of her hard work                     │
+│ because traffic was heavy      │ because of the heavy traffic                 │
+│ because prices are rising      │ because of rising prices                     │
+└────────────────────────────────┴──────────────────────────────────────────────┘
+
+================================================================================
+                    SINCE / AS
+================================================================================
+
+SINCE and AS are more formal than BECAUSE.
+They often introduce known or obvious reasons.
+Usually at the beginning of the sentence.
+
+SINCE + clause:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Since you're here, can you help me?                                           │
+│ Ya que estás aquí, ¿puedes ayudarme?                                          │
+│                                                                               │
+│ Since it was late, we decided to go home.                                     │
+│ Como era tarde, decidimos irnos a casa.                                       │
+│                                                                               │
+│ Since we have no money, we can't go on holiday.                               │
+│ Ya que no tenemos dinero, no podemos ir de vacaciones.                        │
+│                                                                               │
+│ I'll do it myself since nobody wants to help.                                 │
+│ Lo haré yo mismo ya que nadie quiere ayudar.                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+AS + clause:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ As it was getting dark, we went inside.                                       │
+│ Como estaba oscureciendo, entramos.                                           │
+│                                                                               │
+│ As you know, the meeting has been cancelled.                                  │
+│ Como sabes, la reunión ha sido cancelada.                                     │
+│                                                                               │
+│ As I was tired, I went to bed early.                                          │
+│ Como estaba cansado, me acosté temprano.                                      │
+│                                                                               │
+│ We took a taxi as we were running late.                                       │
+│ Cogimos un taxi porque íbamos tarde.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+⚠️ AS and SINCE can have other meanings:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ SINCE can mean "from that time":                                              │
+│ I've lived here since 2010. (time, not reason)                                │
+│                                                                               │
+│ AS can mean "while" or "in the way that":                                     │
+│ As I was walking, I saw her. (time)                                           │
+│ Do as I say. (manner)                                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    DUE TO / OWING TO
+================================================================================
+
+More formal expressions. Used like BECAUSE OF (+ noun phrase).
+
+DUE TO + noun:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The delay was due to bad weather.                                             │
+│ El retraso se debió al mal tiempo.                                            │
+│                                                                               │
+│ Due to the pandemic, the event was cancelled.                                 │
+│ Debido a la pandemia, el evento fue cancelado.                                │
+│                                                                               │
+│ His success is due to hard work.                                              │
+│ Su éxito se debe al trabajo duro.                                             │
+│                                                                               │
+│ The match was postponed due to rain.                                          │
+│ El partido fue pospuesto debido a la lluvia.                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+OWING TO + noun:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Owing to the storm, flights were delayed.                                     │
+│ Debido a la tormenta, los vuelos se retrasaron.                               │
+│                                                                               │
+│ Owing to a lack of funds, the project stopped.                                │
+│ Debido a la falta de fondos, el proyecto se detuvo.                           │
+│                                                                               │
+│ The shop is closed owing to renovations.                                      │
+│ La tienda está cerrada debido a las reformas.                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+DUE TO THE FACT THAT + clause:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The flight was cancelled due to the fact that there was a storm.              │
+│ El vuelo fue cancelado debido a que había una tormenta.                       │
+│                                                                               │
+│ He resigned due to the fact that he was unhappy.                              │
+│ Dimitió debido a que no estaba contento.                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    FOR (FORMAL)
+================================================================================
+
+FOR as a conjunction (very formal, literary) = because:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ He felt cold, for he had forgotten his coat.                                  │
+│ Tenía frío, pues había olvidado su abrigo.                                    │
+│                                                                               │
+│ She must have left, for the lights are off.                                   │
+│ Debe haberse ido, pues las luces están apagadas.                              │
+│                                                                               │
+│ We believed him, for he had never lied before.                                │
+│ Le creímos, pues nunca había mentido antes.                                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+⚠️ FOR always comes in the MIDDLE (never at the beginning).
+⚠️ Use a comma before FOR.
+
+================================================================================
+                    SEEING (THAT) / GIVEN (THAT)
+================================================================================
+
+Informal alternatives to SINCE/AS:
+
+SEEING (THAT):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Seeing that you're not busy, can you help me?                                 │
+│ Ya que no estás ocupado, ¿puedes ayudarme?                                    │
+│                                                                               │
+│ Seeing as it's your birthday, I'll pay.                                       │
+│ Ya que es tu cumpleaños, pago yo.                                             │
+│                                                                               │
+│ Seeing that nobody objected, we continued.                                    │
+│ Visto que nadie se opuso, continuamos.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+GIVEN (THAT):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Given that he's only 18, he's very mature.                                    │
+│ Dado que solo tiene 18 años, es muy maduro.                                   │
+│                                                                               │
+│ Given the circumstances, we had no choice.                                    │
+│ Dadas las circunstancias, no teníamos opción.                                 │
+│                                                                               │
+│ Given that she was ill, she did very well.                                    │
+│ Dado que estaba enferma, lo hizo muy bien.                                    │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    ON ACCOUNT OF / ON THE GROUNDS THAT
+================================================================================
+
+Formal expressions:
+
+ON ACCOUNT OF + noun:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The match was cancelled on account of the weather.                            │
+│ El partido fue cancelado a causa del tiempo.                                  │
+│                                                                               │
+│ He was dismissed on account of his behaviour.                                 │
+│ Fue despedido a causa de su comportamiento.                                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+ON THE GROUNDS THAT + clause:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She was refused entry on the grounds that she didn't have ID.                 │
+│ Le negaron la entrada alegando que no tenía identificación.                   │
+│                                                                               │
+│ He was fired on the grounds that he was incompetent.                          │
+│ Fue despedido alegando que era incompetente.                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    SUMMARY TABLE
+================================================================================
+
+┌─────────────────────┬────────────────┬────────────────────────────────────────┐
+│ EXPRESSION          │ FOLLOWED BY    │ FORMALITY                              │
+├─────────────────────┼────────────────┼────────────────────────────────────────┤
+│ because             │ clause         │ neutral (most common)                  │
+│ because of          │ noun/gerund    │ neutral                                │
+├─────────────────────┼────────────────┼────────────────────────────────────────┤
+│ since               │ clause         │ slightly formal                        │
+│ as                  │ clause         │ slightly formal                        │
+├─────────────────────┼────────────────┼────────────────────────────────────────┤
+│ due to              │ noun           │ formal                                 │
+│ owing to            │ noun           │ formal                                 │
+│ due to the fact that│ clause         │ formal                                 │
+├─────────────────────┼────────────────┼────────────────────────────────────────┤
+│ for                 │ clause         │ very formal/literary                   │
+├─────────────────────┼────────────────┼────────────────────────────────────────┤
+│ seeing (that)       │ clause         │ informal                               │
+│ seeing as           │ clause         │ informal                               │
+├─────────────────────┼────────────────┼────────────────────────────────────────┤
+│ given (that)        │ clause         │ neutral/formal                         │
+│ given               │ noun           │ neutral/formal                         │
+├─────────────────────┼────────────────┼────────────────────────────────────────┤
+│ on account of       │ noun           │ formal                                 │
+│ on the grounds that │ clause         │ formal                                 │
+└─────────────────────┴────────────────┴────────────────────────────────────────┘
+
+================================================================================
+                    COMMON ERRORS
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ❌ Because of it was raining, we stayed home.                                 │
+│ ✓  Because it was raining, we stayed home.                                    │
+│ ✓  Because of the rain, we stayed home.                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ Because the traffic. (incomplete)                                          │
+│ ✓  Because of the traffic.                                                    │
+│ ✓  Because there was traffic.                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ Due to it was raining...                                                   │
+│ ✓  Due to the rain...                                                         │
+│ ✓  Due to the fact that it was raining...                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ For he was late, he missed the bus.                                        │
+│ ✓  He missed the bus, for he was late.                                        │
+│ (FOR cannot start a sentence)                                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

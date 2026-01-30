@@ -1,0 +1,339 @@
+================================================================================
+                    CONTRAST CLAUSES
+                  (Oraciones de Contraste)
+================================================================================
+
+Las CONTRAST CLAUSES expresan ideas opuestas o resultados inesperados.
+Muestran que algo es sorprendente o contrario a lo esperado.
+
+================================================================================
+                    ALTHOUGH / THOUGH / EVEN THOUGH
+================================================================================
+
+These show that the result is UNEXPECTED or SURPRISING.
+Meaning: "a pesar de que" / "aunque"
+
+ALTHOUGH + clause (most common, neutral):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Although it was raining, we went out.                                         │
+│ Aunque estaba lloviendo, salimos.                                             │
+│                                                                               │
+│ She passed the exam although she didn't study.                                │
+│ Aprobó el examen aunque no estudió.                                           │
+│                                                                               │
+│ Although he's rich, he's not happy.                                           │
+│ Aunque es rico, no es feliz.                                                  │
+│                                                                               │
+│ I enjoyed the film although it was long.                                      │
+│ Disfruté la película aunque era larga.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+THOUGH + clause (less formal, also used at end):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Though it was cold, he didn't wear a jacket.                                  │
+│ Aunque hacía frío, no llevó chaqueta.                                         │
+│                                                                               │
+│ She's very nice, though.  (at the end - informal)                             │
+│ Aunque es muy simpática.                                                      │
+│                                                                               │
+│ I like him. He's a bit strange, though.                                       │
+│ Me cae bien. Es un poco raro, eso sí.                                         │
+│                                                                               │
+│ It was a good game, though we lost.                                           │
+│ Fue un buen partido, aunque perdimos.                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+EVEN THOUGH + clause (stronger emphasis - more surprising):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Even though he studied all night, he failed.                                  │
+│ Aunque estudió toda la noche, suspendió.                                      │
+│ (This is very surprising!)                                                    │
+│                                                                               │
+│ She went to work even though she was very ill.                                │
+│ Fue a trabajar aunque estaba muy enferma.                                     │
+│                                                                               │
+│ Even though I explained it three times, he didn't understand.                 │
+│ Aunque se lo expliqué tres veces, no entendió.                                │
+│                                                                               │
+│ I trust him even though he lied to me before.                                 │
+│ Confío en él aunque me mintió antes.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+STRENGTH OF SURPRISE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ though        <    although    <    even though                               │
+│ (mild)              (neutral)       (very surprising)                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    DESPITE / IN SPITE OF
+================================================================================
+
+Same meaning as ALTHOUGH, but followed by NOUN or GERUND (not clause!).
+
+DESPITE + noun/gerund:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Despite the rain, we went out.                                                │
+│ A pesar de la lluvia, salimos.                                                │
+│                                                                               │
+│ She passed despite not studying.                                              │
+│ Aprobó a pesar de no estudiar.                                                │
+│                                                                               │
+│ Despite his age, he's very fit.                                               │
+│ A pesar de su edad, está muy en forma.                                        │
+│                                                                               │
+│ He won despite having an injury.                                              │
+│ Ganó a pesar de tener una lesión.                                             │
+│                                                                               │
+│ Despite being tired, she continued working.                                   │
+│ A pesar de estar cansada, siguió trabajando.                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+IN SPITE OF + noun/gerund:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ In spite of the traffic, we arrived on time.                                  │
+│ A pesar del tráfico, llegamos a tiempo.                                       │
+│                                                                               │
+│ In spite of feeling ill, he went to work.                                     │
+│ A pesar de sentirse mal, fue a trabajar.                                      │
+│                                                                               │
+│ They got married in spite of their families' objections.                      │
+│ Se casaron a pesar de las objeciones de sus familias.                         │
+│                                                                               │
+│ In spite of working hard, he didn't get promoted.                             │
+│ A pesar de trabajar duro, no le ascendieron.                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+DESPITE / IN SPITE OF + THE FACT THAT + clause:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Despite the fact that it was raining, we went out.                            │
+│ A pesar de que estaba lloviendo, salimos.                                     │
+│                                                                               │
+│ In spite of the fact that he's 80, he still runs marathons.                   │
+│ A pesar de que tiene 80 años, todavía corre maratones.                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+COMPARE:
+┌──────────────────────────────────┬────────────────────────────────────────────┐
+│ ALTHOUGH + clause                │ DESPITE / IN SPITE OF + noun              │
+├──────────────────────────────────┼────────────────────────────────────────────┤
+│ Although it was raining...       │ Despite the rain...                        │
+│ Although he was tired...         │ Despite his tiredness...                   │
+│ Although she didn't study...     │ Despite not studying...                    │
+│ Although traffic was heavy...    │ Despite the heavy traffic...               │
+│ Although he's young...           │ Despite his youth / his age...             │
+└──────────────────────────────────┴────────────────────────────────────────────┘
+
+================================================================================
+                    WHILE / WHEREAS / WHILST
+================================================================================
+
+These show DIRECT CONTRAST between two different things/people.
+Meaning: "mientras que" (showing difference, not time)
+
+WHILE + clause (contrast between two facts):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ While I like coffee, my sister prefers tea.                                   │
+│ Mientras que a mí me gusta el café, mi hermana prefiere el té.                │
+│                                                                               │
+│ He's very tall while his brother is quite short.                              │
+│ Él es muy alto mientras que su hermano es bastante bajo.                      │
+│                                                                               │
+│ While some people love cities, others prefer the countryside.                 │
+│ Mientras que a algunos les encantan las ciudades, otros prefieren el campo.   │
+│                                                                               │
+│ While I agree in principle, I have some concerns.                             │
+│ Aunque estoy de acuerdo en principio, tengo algunas preocupaciones.           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+WHEREAS + clause (more formal, stronger contrast):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She's very outgoing, whereas her husband is quite shy.                        │
+│ Ella es muy extrovertida, mientras que su marido es bastante tímido.          │
+│                                                                               │
+│ Meat is high in protein, whereas fruit is high in vitamins.                   │
+│ La carne es alta en proteínas, mientras que la fruta es alta en vitaminas.    │
+│                                                                               │
+│ In the UK people drive on the left, whereas in Spain they drive on the right. │
+│ En el Reino Unido conducen por la izquierda, mientras que en España por la    │
+│ derecha.                                                                      │
+│                                                                               │
+│ The north is industrial, whereas the south is more agricultural.              │
+│ El norte es industrial, mientras que el sur es más agrícola.                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+WHILST + clause (British formal, same as WHILE):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Whilst I understand your position, I cannot agree.                            │
+│ Aunque entiendo tu posición, no puedo estar de acuerdo.                       │
+│                                                                               │
+│ Whilst some aspects are good, others need improvement.                        │
+│ Mientras que algunos aspectos son buenos, otros necesitan mejora.             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+COMPARE WHILE (time) vs WHILE (contrast):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ TIME:     While I was cooking, the phone rang.                                │
+│           (at the same time)                                                  │
+│                                                                               │
+│ CONTRAST: While I love cooking, my husband hates it.                          │
+│           (showing difference)                                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    HOWEVER / NEVERTHELESS / YET
+================================================================================
+
+These are ADVERBS (not conjunctions) - they connect sentences, not clauses.
+They need a full stop or semicolon before them.
+
+HOWEVER (most common):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I was tired. However, I continued working.                                    │
+│ Estaba cansado. Sin embargo, seguí trabajando.                                │
+│                                                                               │
+│ It was raining; however, we went out.                                         │
+│ Estaba lloviendo; sin embargo, salimos.                                       │
+│                                                                               │
+│ The job is difficult. However, I enjoy it.                                    │
+│ El trabajo es difícil. Sin embargo, lo disfruto.                              │
+│                                                                               │
+│ The hotel, however, was excellent.                                            │
+│ El hotel, sin embargo, fue excelente.                                         │
+│ (can go in the middle)                                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NEVERTHELESS / NONETHELESS (more formal):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The exam was hard. Nevertheless, most students passed.                        │
+│ El examen fue difícil. No obstante, la mayoría de estudiantes aprobaron.      │
+│                                                                               │
+│ He was very tired; nevertheless, he continued.                                │
+│ Estaba muy cansado; no obstante, continuó.                                    │
+│                                                                               │
+│ The evidence is weak. Nonetheless, we must investigate.                       │
+│ La evidencia es débil. Sin embargo, debemos investigar.                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+YET (formal, literary):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ It was cold, yet he didn't wear a coat.                                       │
+│ Hacía frío, y sin embargo no llevó abrigo.                                    │
+│                                                                               │
+│ She's 90 years old, yet she's still very active.                              │
+│ Tiene 90 años, y sin embargo está muy activa.                                 │
+│                                                                               │
+│ He's strict yet fair.                                                         │
+│ Es estricto pero justo.                                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    BUT / AND YET / STILL
+================================================================================
+
+BUT (simple contrast):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ It was cold but we went out.                                                  │
+│ Hacía frío pero salimos.                                                      │
+│                                                                               │
+│ She's intelligent but lazy.                                                   │
+│ Es inteligente pero vaga.                                                     │
+│                                                                               │
+│ I tried but I failed.                                                         │
+│ Lo intenté pero fracasé.                                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+AND YET (emphasis on surprise):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ She knew it was wrong, and yet she did it.                                    │
+│ Sabía que estaba mal, y aun así lo hizo.                                      │
+│                                                                               │
+│ He's very rich, and yet he's not happy.                                       │
+│ Es muy rico, y aun así no es feliz.                                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+STILL (in spite of that):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ It was raining. Still, we went for a walk.                                    │
+│ Estaba lloviendo. Aun así, fuimos a pasear.                                   │
+│                                                                               │
+│ He's annoying. I still like him, though.                                      │
+│ Es molesto. Aun así me cae bien.                                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    ON THE OTHER HAND / BY CONTRAST
+================================================================================
+
+These introduce an alternative point of view or contrasting information:
+
+ON THE OTHER HAND:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The salary is low. On the other hand, the job is interesting.                 │
+│ El sueldo es bajo. Por otro lado, el trabajo es interesante.                  │
+│                                                                               │
+│ Living in the city is expensive. On the other hand, there are more            │
+│ opportunities.                                                                │
+│ Vivir en la ciudad es caro. Por otro lado, hay más oportunidades.             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+BY CONTRAST / IN CONTRAST:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ The north is cold. By contrast, the south is warm.                            │
+│ El norte es frío. Por el contrario, el sur es cálido.                         │
+│                                                                               │
+│ In contrast to his brother, Tom is very quiet.                                │
+│ A diferencia de su hermano, Tom es muy callado.                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    SUMMARY TABLE
+================================================================================
+
+┌─────────────────────┬────────────────┬────────────────────────────────────────┐
+│ EXPRESSION          │ FOLLOWED BY    │ MEANING                                │
+├─────────────────────┼────────────────┼────────────────────────────────────────┤
+│ although            │ clause         │ although it was raining... (aunque)    │
+│ though              │ clause         │ though it was raining... (aunque)      │
+│ even though         │ clause         │ even though it was... (aunque-énfasis) │
+├─────────────────────┼────────────────┼────────────────────────────────────────┤
+│ despite             │ noun/gerund    │ despite the rain... (a pesar de)       │
+│ in spite of         │ noun/gerund    │ in spite of the rain...                │
+├─────────────────────┼────────────────┼────────────────────────────────────────┤
+│ while               │ clause         │ while I agree... (mientras que)        │
+│ whereas             │ clause         │ whereas she likes... (mientras que)    │
+├─────────────────────┼────────────────┼────────────────────────────────────────┤
+│ however             │ new sentence   │ However, we went... (sin embargo)      │
+│ nevertheless        │ new sentence   │ Nevertheless, he... (no obstante)      │
+├─────────────────────┼────────────────┼────────────────────────────────────────┤
+│ but                 │ clause         │ but we went... (pero)                  │
+│ yet                 │ clause         │ yet he continued... (sin embargo)      │
+└─────────────────────┴────────────────┴────────────────────────────────────────┘
+
+================================================================================
+                    COMMON ERRORS
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ❌ Despite it was raining, we went out.                                       │
+│ ✓  Despite the rain, we went out.                                             │
+│ ✓  Although it was raining, we went out.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ Although the rain, we went out.                                            │
+│ ✓  Despite the rain, we went out.                                             │
+│ ✓  Although it was raining, we went out.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ In spite of it was raining...                                              │
+│ ✓  In spite of the rain...                                                    │
+│ ✓  In spite of the fact that it was raining...                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ I was tired, however I continued.                                          │
+│ ✓  I was tired. However, I continued.                                         │
+│ ✓  I was tired; however, I continued.                                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ Despite of the weather...                                                  │
+│ ✓  Despite the weather...                                                     │
+│ ✓  In spite of the weather...                                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

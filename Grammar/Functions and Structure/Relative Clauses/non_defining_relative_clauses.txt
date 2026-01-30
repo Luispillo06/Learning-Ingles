@@ -1,0 +1,231 @@
+================================================================================
+                  NON-DEFINING RELATIVE CLAUSES
+               (Oraciones de Relativo Explicativas)
+================================================================================
+
+NON-DEFINING RELATIVE CLAUSES give EXTRA information.
+Without them, we still know who or what we're talking about.
+They are like a PARENTHESIS - additional, not essential.
+
+================================================================================
+                    CHARACTERISTICS
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ ✓ WITH COMMAS (before and after the clause)                                 │
+│ ✓ Information is EXTRA (not needed to identify)                             │
+│ ✗ CANNOT use THAT                                                           │
+│ ✗ CANNOT omit the relative pronoun                                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    DEFINING vs NON-DEFINING
+================================================================================
+
+COMPARE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DEFINING (no commas - essential):                                             │
+│ My brother who lives in London is a doctor.                                   │
+│ → I have MORE than one brother. Which one? The one in London.                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ NON-DEFINING (with commas - extra info):                                      │
+│ My brother, who lives in London, is a doctor.                                 │
+│ → I have ONLY ONE brother. Extra info: he lives in London.                    │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DEFINING:                                                                     │
+│ The students who passed the exam are happy.                                   │
+│ → Only SOME students passed (not all of them).                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ NON-DEFINING:                                                                 │
+│ The students, who passed the exam, are happy.                                 │
+│ → ALL the students passed the exam.                                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WITH WHO (for people)
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ My mother, who is 65, still works.                                            │
+│ Mi madre, que tiene 65 años, todavía trabaja.                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Barack Obama, who was the 44th US president, wrote a book.                    │
+│ Barack Obama, que fue el 44º presidente de EEUU, escribió un libro.           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ My neighbor, who is very friendly, helped me move.                            │
+│ Mi vecino, que es muy amable, me ayudó a mudarme.                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ John, who I've known for years, got married.                                  │
+│ John, a quien conozco desde hace años, se casó.                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The teacher, who everyone respects, is retiring.                              │
+│ El profesor, a quien todos respetan, se jubila.                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+⚠️ CANNOT use THAT:
+  ❌ My mother, that is 65, still works.
+  ✓  My mother, who is 65, still works.
+
+================================================================================
+                    WITH WHICH (for things/animals)
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ My car, which I bought last year, has broken down.                            │
+│ Mi coche, que compré el año pasado, se ha averiado.                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The Eiffel Tower, which was built in 1889, is in Paris.                       │
+│ La Torre Eiffel, que fue construida en 1889, está en París.                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ His latest book, which I've just finished, is excellent.                      │
+│ Su último libro, que acabo de terminar, es excelente.                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ My dog, which is very old, sleeps all day.                                    │
+│ Mi perro, que es muy viejo, duerme todo el día.                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The Amazon, which is the largest river, flows through Brazil.                 │
+│ El Amazonas, que es el río más grande, fluye por Brasil.                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+⚠️ CANNOT use THAT:
+  ❌ My car, that I bought last year, has broken down.
+  ✓  My car, which I bought last year, has broken down.
+
+================================================================================
+                    WITH WHOSE (possession)
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ My neighbor, whose son is a doctor, is very proud.                            │
+│ Mi vecino, cuyo hijo es médico, está muy orgulloso.                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Shakespeare, whose plays are famous, was born in Stratford.                   │
+│ Shakespeare, cuyas obras son famosas, nació en Stratford.                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ My boss, whose office is next to mine, is very strict.                        │
+│ Mi jefe, cuya oficina está junto a la mía, es muy estricto.                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WITH WHERE (places)
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Paris, where I was born, is a beautiful city.                                 │
+│ París, donde nací, es una ciudad preciosa.                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The Louvre, where the Mona Lisa is displayed, is in Paris.                    │
+│ El Louvre, donde se exhibe la Mona Lisa, está en París.                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ My hometown, where I grew up, has changed a lot.                              │
+│ Mi ciudad natal, donde crecí, ha cambiado mucho.                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WITH WHEN (times)
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ 1969, when man landed on the moon, was a historic year.                       │
+│ 1969, cuando el hombre pisó la luna, fue un año histórico.                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Christmas, when families get together, is my favorite holiday.                │
+│ Navidad, cuando las familias se reúnen, es mi fiesta favorita.                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The 1990s, when I was young, were great times.                                │
+│ Los años 90, cuando yo era joven, fueron grandes tiempos.                     │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WHICH REFERRING TO A WHOLE CLAUSE
+================================================================================
+
+WHICH can refer to the entire previous idea (not just a noun):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ He passed the exam, which surprised everyone.                                 │
+│ Aprobó el examen, lo cual sorprendió a todos.                                 │
+│ (which = the fact that he passed)                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She arrived late, which made us angry.                                        │
+│ Llegó tarde, lo cual nos enfadó.                                              │
+│ (which = the fact that she arrived late)                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ He didn't call, which worried me.                                             │
+│ No llamó, lo cual me preocupó.                                                │
+│ (which = the fact that he didn't call)                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ They won the game, which was unexpected.                                      │
+│ Ganaron el partido, lo cual fue inesperado.                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ She speaks five languages, which is impressive.                               │
+│ Habla cinco idiomas, lo cual es impresionante.                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NOTE: Only WHICH can do this (not THAT).
+
+================================================================================
+                    WITH PROPER NOUNS
+================================================================================
+
+Proper nouns (names of specific people, places, things) ALWAYS need 
+non-defining clauses because they are already identified:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ London, which is the capital of England, is very expensive.                   │
+│ Londres, que es la capital de Inglaterra, es muy cara.                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Mount Everest, which is in Nepal, is the highest mountain.                    │
+│ El Monte Everest, que está en Nepal, es la montaña más alta.                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Albert Einstein, who developed the theory of relativity, was German.          │
+│ Albert Einstein, que desarrolló la teoría de la relatividad, era alemán.      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The Amazon River, which flows through Brazil, is very long.                   │
+│ El río Amazonas, que fluye por Brasil, es muy largo.                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    PREPOSITIONS IN NON-DEFINING CLAUSES
+================================================================================
+
+FORMAL (preposition before pronoun):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ My teacher, to whom I owe a lot, retired last year.                           │
+│ Mi profesor, a quien le debo mucho, se jubiló el año pasado.                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ The company, for which he works, is very successful.                          │
+│ La empresa, para la cual trabaja, tiene mucho éxito.                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+INFORMAL (preposition at the end):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ My teacher, who I owe a lot to, retired last year.                            │
+│ The company, which he works for, is very successful.                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                  NON-DEFINING RELATIVE CLAUSES                               │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ • WITH COMMAS (always)                                                       │
+│ • EXTRA information (can be removed)                                         │
+│ • CANNOT use THAT                                                            │
+│ • CANNOT omit the pronoun                                                    │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ My brother, who lives in Madrid, is a doctor.                                │
+│ The Eiffel Tower, which is in Paris, was built in 1889.                      │
+│ My boss, whose car is a BMW, is very rich.                                   │
+│ Paris, where I was born, is beautiful.                                       │
+│ 1969, when man walked on the moon, was historic.                             │
+│ He failed, which was surprising. (which = whole clause)                      │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ Use with proper nouns: London, Einstein, The Amazon...                       │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

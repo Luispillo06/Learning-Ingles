@@ -1,0 +1,227 @@
+================================================================================
+                    REPORTED QUESTIONS
+                (Preguntas en Estilo Indirecto)
+================================================================================
+
+================================================================================
+                    BASIC RULES
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 1. Use ASK (not say/tell for questions)                                     │
+│ 2. NO question mark in reported questions                                   │
+│ 3. Use STATEMENT word order (subject + verb, NOT question order)            │
+│ 4. Apply tense backshift (like statements)                                  │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    YES/NO QUESTIONS
+================================================================================
+
+Use IF or WHETHER to introduce the reported question:
+
+STRUCTURE:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT + ASKED + (person) + IF/WHETHER + SUBJECT + VERB                   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  He         asked    (me)      if           I        was coming.            │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLES:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "Are you happy?"                                                    │
+│ REPORTED: She asked (me) if/whether I was happy.                              │
+│           Me preguntó si era feliz.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Do you like pizza?"                                                │
+│ REPORTED: He asked (me) if/whether I liked pizza.                             │
+│           Me preguntó si me gustaba la pizza.                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Have you finished?"                                                │
+│ REPORTED: She asked (me) if/whether I had finished.                           │
+│           Me preguntó si había terminado.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Did you see the movie?"                                            │
+│ REPORTED: He asked (me) if/whether I had seen the movie.                      │
+│           Me preguntó si había visto la película.                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Will you come?"                                                    │
+│ REPORTED: She asked (me) if/whether I would come.                             │
+│           Me preguntó si vendría.                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Can you help me?"                                                  │
+│ REPORTED: He asked (me) if/whether I could help him.                          │
+│           Me preguntó si podía ayudarle.                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+IF vs WHETHER:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ BOTH are correct in most cases:                                               │
+│ She asked if I was coming. = She asked whether I was coming.                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ WHETHER is more formal and preferred:                                         │
+│ • Before "or not": She asked whether or not I was coming.                     │
+│ • After prepositions: I'm not sure about whether to go.                       │
+│ • In formal writing                                                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WH- QUESTIONS
+================================================================================
+
+Keep the question word, but use STATEMENT order (subject + verb):
+
+STRUCTURE:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT + ASKED + (person) + WH-WORD + SUBJECT + VERB                      │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  He         asked    (me)      where      I        lived.                   │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLES WITH WHERE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "Where do you live?"                                                │
+│ REPORTED: He asked (me) where I lived.                                        │
+│           Me preguntó dónde vivía.                                            │
+│           ❌ He asked where did I live. (WRONG - question order!)            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Where is the station?"                                             │
+│ REPORTED: She asked where the station was.                                    │
+│           Preguntó dónde estaba la estación.                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLES WITH WHAT:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "What is your name?"                                                │
+│ REPORTED: He asked (me) what my name was.                                     │
+│           Me preguntó cómo me llamaba.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "What time does the train leave?"                                   │
+│ REPORTED: She asked what time the train left.                                 │
+│           Preguntó a qué hora salía el tren.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "What are you doing?"                                               │
+│ REPORTED: He asked (me) what I was doing.                                     │
+│           Me preguntó qué estaba haciendo.                                    │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLES WITH WHEN:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "When did you arrive?"                                              │
+│ REPORTED: She asked (me) when I had arrived.                                  │
+│           Me preguntó cuándo había llegado.                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "When will you be back?"                                            │
+│ REPORTED: He asked (me) when I would be back.                                 │
+│           Me preguntó cuándo volvería.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLES WITH WHY:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "Why are you crying?"                                               │
+│ REPORTED: She asked (me) why I was crying.                                    │
+│           Me preguntó por qué estaba llorando.                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Why didn't you call?"                                              │
+│ REPORTED: He asked (me) why I hadn't called.                                  │
+│           Me preguntó por qué no había llamado.                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLES WITH HOW:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "How are you?"                                                      │
+│ REPORTED: She asked (me) how I was.                                           │
+│           Me preguntó cómo estaba.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "How much does it cost?"                                            │
+│ REPORTED: He asked how much it cost.                                          │
+│           Preguntó cuánto costaba.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "How long have you been waiting?"                                   │
+│ REPORTED: She asked how long I had been waiting.                              │
+│           Preguntó cuánto tiempo llevaba esperando.                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLES WITH WHO:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "Who is that man?"                                                  │
+│ REPORTED: She asked who that man was.                                         │
+│           Preguntó quién era ese hombre.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Who did you see?"                                                  │
+│ REPORTED: He asked (me) who I had seen.                                       │
+│           Me preguntó a quién había visto.                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Who called?" (who is subject - no inversion in direct)             │
+│ REPORTED: She asked who had called.                                           │
+│           Preguntó quién había llamado.                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+EXAMPLES WITH WHICH:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "Which one do you prefer?"                                          │
+│ REPORTED: He asked (me) which one I preferred.                                │
+│           Me preguntó cuál prefería.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    COMMON MISTAKE: WORD ORDER
+================================================================================
+
+⚠️ In reported questions, use STATEMENT order (subject + verb),
+   NOT question order:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "Where do you live?"                                                │
+│                                                                               │
+│ ❌ WRONG:  He asked where did I live.                                         │
+│ ❌ WRONG:  He asked where do I live.                                          │
+│ ✓ CORRECT: He asked where I lived.                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "What is he doing?"                                                 │
+│                                                                               │
+│ ❌ WRONG:  She asked what was he doing.                                       │
+│ ✓ CORRECT: She asked what he was doing.                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "Are you coming?"                                                   │
+│                                                                               │
+│ ❌ WRONG:  He asked if was I coming.                                          │
+│ ✓ CORRECT: He asked if I was coming.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    OTHER VERBS FOR ASKING
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ WANT TO KNOW:                                                                 │
+│ "What time is it?"  →  He wanted to know what time it was.                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ WONDER:                                                                       │
+│ "Will she come?"  →  I wondered if/whether she would come.                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ INQUIRE (formal):                                                             │
+│ "Is this seat free?"  →  She inquired if/whether the seat was free.          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                       REPORTED QUESTIONS                                     │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ YES/NO QUESTIONS: Use IF or WHETHER                                          │
+│ "Are you coming?"  →  He asked if/whether I was coming.                      │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ WH- QUESTIONS: Keep the question word                                        │
+│ "Where do you live?"  →  He asked where I lived.                             │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ WORD ORDER: Subject + Verb (statement order, NOT question order)             │
+│ ❌ He asked where did I live.                                                │
+│ ✓  He asked where I lived.                                                   │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ NO QUESTION MARK in reported questions                                       │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

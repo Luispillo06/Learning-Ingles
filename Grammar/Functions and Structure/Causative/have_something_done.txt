@@ -1,0 +1,424 @@
+================================================================================
+                    HAVE SOMETHING DONE
+                      (Causative)
+================================================================================
+
+Usamos HAVE SOMETHING DONE cuando otra persona hace algo por nosotros,
+normalmente un servicio profesional que pagamos.
+
+Structure: HAVE + OBJECT + PAST PARTICIPLE
+
+================================================================================
+                    BASIC STRUCTURE
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│                                                                               │
+│     SUBJECT + HAVE + OBJECT + PAST PARTICIPLE                                 │
+│                                                                               │
+│     I        have   my car    repaired.                                       │
+│              ────   ──────    ────────                                        │
+│              verb   thing     done by someone else                            │
+│                                                                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+COMPARE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I repaired my car.                                                            │
+│ Reparé mi coche. (yo mismo lo hice)                                           │
+│                                                                               │
+│ I had my car repaired.                                                        │
+│ Hice que me repararan el coche. / Me repararon el coche.                      │
+│ (alguien lo hizo por mí - un mecánico)                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    ALL TENSES
+================================================================================
+
+┌─────────────────────┬─────────────────────────────────────────────────────────┐
+│ TENSE               │ STRUCTURE + EXAMPLE                                     │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ PRESENT SIMPLE      │ have/has + object + past participle                     │
+│                     │                                                         │
+│                     │ I have my hair cut every month.                         │
+│                     │ Me corto el pelo cada mes.                              │
+│                     │                                                         │
+│                     │ She has her nails done every week.                      │
+│                     │ Se hace las uñas cada semana.                           │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ PRESENT CONTINUOUS  │ am/is/are having + object + past participle             │
+│                     │                                                         │
+│                     │ I'm having my car serviced right now.                   │
+│                     │ Me están haciendo la revisión del coche ahora mismo.    │
+│                     │                                                         │
+│                     │ She's having her dress altered.                         │
+│                     │ Le están arreglando el vestido.                         │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ PRESENT PERFECT     │ have/has had + object + past participle                 │
+│                     │                                                         │
+│                     │ I've had my eyes tested.                                │
+│                     │ Me he hecho una revisión de la vista.                   │
+│                     │                                                         │
+│                     │ She's had her kitchen renovated.                        │
+│                     │ Le han renovado la cocina.                              │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ PAST SIMPLE         │ had + object + past participle                          │
+│                     │                                                         │
+│                     │ I had my phone repaired yesterday.                      │
+│                     │ Me repararon el teléfono ayer.                          │
+│                     │                                                         │
+│                     │ She had her portrait painted.                           │
+│                     │ Le pintaron un retrato.                                 │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ PAST CONTINUOUS     │ was/were having + object + past participle              │
+│                     │                                                         │
+│                     │ I was having my car washed when you called.             │
+│                     │ Me estaban lavando el coche cuando llamaste.            │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ PAST PERFECT        │ had had + object + past participle                      │
+│                     │                                                         │
+│                     │ I had had my hair cut before the interview.             │
+│                     │ Me había cortado el pelo antes de la entrevista.        │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ FUTURE (WILL)       │ will have + object + past participle                    │
+│                     │                                                         │
+│                     │ I'll have my teeth whitened next week.                  │
+│                     │ Me blanquearán los dientes la semana que viene.         │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ FUTURE (GOING TO)   │ am/is/are going to have + object + past participle      │
+│                     │                                                         │
+│                     │ I'm going to have my windows cleaned.                   │
+│                     │ Voy a hacer que me limpien las ventanas.                │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ MODAL VERBS         │ modal + have + object + past participle                 │
+│                     │                                                         │
+│                     │ You should have your eyes checked.                      │
+│                     │ Deberías hacerte revisar la vista.                      │
+│                     │                                                         │
+│                     │ I must have this document translated.                   │
+│                     │ Debo hacer que me traduzcan este documento.             │
+│                     │                                                         │
+│                     │ You could have it delivered.                            │
+│                     │ Podrías hacer que te lo entregaran.                     │
+└─────────────────────┴─────────────────────────────────────────────────────────┘
+
+================================================================================
+                    QUESTIONS & NEGATIVES
+================================================================================
+
+QUESTIONS:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Present Simple:                                                               │
+│ Do you have your car serviced regularly?                                      │
+│ ¿Te hacen la revisión del coche regularmente?                                 │
+│                                                                               │
+│ Where do you have your hair cut?                                              │
+│ ¿Dónde te cortas el pelo?                                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Past Simple:                                                                  │
+│ Did you have your suit dry-cleaned?                                           │
+│ ¿Llevaste tu traje a la tintorería?                                           │
+│                                                                               │
+│ When did you have it done?                                                    │
+│ ¿Cuándo te lo hicieron?                                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Present Perfect:                                                              │
+│ Have you had your boiler checked recently?                                    │
+│ ¿Te han revisado la caldera recientemente?                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Future:                                                                       │
+│ Are you going to have your house painted?                                     │
+│ ¿Vas a hacer que te pinten la casa?                                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+NEGATIVES:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I don't have my car washed very often.                                        │
+│ No me lavan el coche muy a menudo.                                            │
+│                                                                               │
+│ She didn't have her dress altered.                                            │
+│ No le arreglaron el vestido.                                                  │
+│                                                                               │
+│ I haven't had my eyes tested for years.                                       │
+│ No me he hecho una revisión de la vista en años.                              │
+│                                                                               │
+│ I won't have it repaired. I'll buy a new one.                                 │
+│ No lo voy a mandar a reparar. Compraré uno nuevo.                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    COMMON EXAMPLES BY CATEGORY
+================================================================================
+
+HAIR & BEAUTY:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ have my hair cut / done / styled / coloured / dyed                            │
+│ cortarme el pelo / arreglarme / peinarme / teñirme                            │
+│                                                                               │
+│ have my nails done / manicured                                                │
+│ hacerme las uñas / la manicura                                                │
+│                                                                               │
+│ have my eyebrows shaped / waxed                                               │
+│ depilarme las cejas                                                           │
+│                                                                               │
+│ have my makeup done                                                           │
+│ que me maquillen                                                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+CAR & VEHICLE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ have my car repaired / serviced / washed / cleaned                            │
+│ reparar / hacer la revisión / lavar / limpiar mi coche                        │
+│                                                                               │
+│ have the tyres changed / replaced                                             │
+│ cambiar los neumáticos                                                        │
+│                                                                               │
+│ have the oil changed                                                          │
+│ cambiar el aceite                                                             │
+│                                                                               │
+│ have the brakes checked                                                       │
+│ revisar los frenos                                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+HOME & REPAIRS:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ have the house painted / decorated                                            │
+│ pintar / decorar la casa                                                      │
+│                                                                               │
+│ have the roof repaired / replaced                                             │
+│ reparar / cambiar el tejado                                                   │
+│                                                                               │
+│ have the windows cleaned / replaced                                           │
+│ limpiar / cambiar las ventanas                                                │
+│                                                                               │
+│ have the boiler serviced / installed                                          │
+│ revisar / instalar la caldera                                                 │
+│                                                                               │
+│ have the kitchen / bathroom renovated                                         │
+│ renovar la cocina / el baño                                                   │
+│                                                                               │
+│ have the garden landscaped                                                    │
+│ diseñar el jardín                                                             │
+│                                                                               │
+│ have a new carpet fitted / laid                                               │
+│ poner una alfombra nueva                                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+CLOTHES:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ have a suit / dress made                                                      │
+│ hacerme un traje / vestido a medida                                           │
+│                                                                               │
+│ have clothes dry-cleaned                                                      │
+│ llevar la ropa a la tintorería                                                │
+│                                                                               │
+│ have trousers shortened / taken in / let out                                  │
+│ acortar / estrechar / ensanchar los pantalones                                │
+│                                                                               │
+│ have a dress altered                                                          │
+│ arreglar un vestido                                                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+HEALTH:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ have my eyes tested / checked                                                 │
+│ hacerme una revisión de la vista                                              │
+│                                                                               │
+│ have my teeth cleaned / whitened / checked                                    │
+│ limpiarme / blanquearme / revisarme los dientes                               │
+│                                                                               │
+│ have a tooth extracted / pulled                                               │
+│ sacarme un diente                                                             │
+│                                                                               │
+│ have blood pressure taken / checked                                           │
+│ tomarme / revisarme la presión                                                │
+│                                                                               │
+│ have a filling done                                                           │
+│ hacerme un empaste                                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+DOCUMENTS & TECHNOLOGY:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ have a document translated / notarized                                        │
+│ traducir / legalizar un documento                                             │
+│                                                                               │
+│ have photos taken / printed                                                   │
+│ hacerse fotos / imprimir fotos                                                │
+│                                                                               │
+│ have a portrait painted                                                       │
+│ hacerse un retrato                                                            │
+│                                                                               │
+│ have a phone / computer repaired                                              │
+│ reparar un teléfono / ordenador                                               │
+│                                                                               │
+│ have software installed                                                       │
+│ instalar software                                                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+DELIVERY:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ have something delivered                                                      │
+│ que te entreguen algo                                                         │
+│                                                                               │
+│ have food / pizza delivered                                                   │
+│ pedir comida a domicilio                                                      │
+│                                                                               │
+│ have groceries delivered                                                      │
+│ que te traigan la compra                                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    GET SOMETHING DONE
+================================================================================
+
+GET SOMETHING DONE = HAVE SOMETHING DONE (more informal)
+
+Structure: GET + OBJECT + PAST PARTICIPLE
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I need to get my car fixed.        (= have my car fixed)                      │
+│ Necesito que me arreglen el coche.                                            │
+│                                                                               │
+│ She got her hair done yesterday.   (= had her hair done)                      │
+│ Se arregló el pelo ayer.                                                      │
+│                                                                               │
+│ I'm getting my windows cleaned.    (= I'm having my windows cleaned)          │
+│ Me están limpiando las ventanas.                                              │
+│                                                                               │
+│ You should get your eyes tested.   (= have your eyes tested)                  │
+│ Deberías hacerte revisar la vista.                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+GET is more common in:
+- Informal spoken English
+- American English
+- When talking about achieving something with effort
+
+================================================================================
+                    NEGATIVE EXPERIENCES
+================================================================================
+
+We also use HAVE SOMETHING DONE for bad things that happen to us
+(things we don't arrange - accidents, crimes, etc.):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I had my wallet stolen.                                                       │
+│ Me robaron la cartera.                                                        │
+│                                                                               │
+│ She had her car broken into.                                                  │
+│ Le entraron a robar en el coche.                                              │
+│                                                                               │
+│ He had his nose broken in a fight.                                            │
+│ Le rompieron la nariz en una pelea.                                           │
+│                                                                               │
+│ They had their house burgled.                                                 │
+│ Les robaron en casa.                                                          │
+│                                                                               │
+│ I had my phone hacked.                                                        │
+│ Me hackearon el teléfono.                                                     │
+│                                                                               │
+│ She had her identity stolen.                                                  │
+│ Le robaron la identidad.                                                      │
+│                                                                               │
+│ He had his leg broken in the accident.                                        │
+│ Se rompió la pierna en el accidente.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+⚠️ Context tells us if it's a service or a negative experience:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I had my window broken.                                                       │
+│                                                                               │
+│ → Could mean: Someone broke it (crime/accident)                               │
+│ → Or:         I paid someone to break it (unlikely but possible)              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    HAVE/GET + OBJECT + INFINITIVE
+================================================================================
+
+Different meaning: to persuade/cause someone to do something
+
+HAVE + OBJECT + BARE INFINITIVE (without to):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I'll have my assistant call you.                                              │
+│ Haré que mi asistente te llame.                                               │
+│                                                                               │
+│ She had the waiter bring more water.                                          │
+│ Hizo que el camarero trajera más agua.                                        │
+│                                                                               │
+│ The teacher had the students write an essay.                                  │
+│ El profesor hizo que los estudiantes escribieran un ensayo.                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+GET + OBJECT + TO + INFINITIVE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I got my brother to help me move.                                             │
+│ Conseguí que mi hermano me ayudara con la mudanza.                            │
+│                                                                               │
+│ She got her boss to give her a raise.                                         │
+│ Consiguió que su jefe le diera un aumento.                                    │
+│                                                                               │
+│ How did you get them to agree?                                                │
+│ ¿Cómo conseguiste que aceptaran?                                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+COMPARE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I had my car repaired.        (past participle - service)                     │
+│ → A mechanic repaired it for me (I paid)                                      │
+│                                                                               │
+│ I had my brother repair my car. (bare infinitive - causative)                 │
+│ → I asked/told my brother and he did it                                       │
+│                                                                               │
+│ I got my brother to repair my car. (to + infinitive - persuasion)             │
+│ → I persuaded my brother to do it                                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    ADDING THE AGENT (BY)
+================================================================================
+
+We can add who does the action (though it's often not necessary):
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ I had my hair cut by a famous hairdresser.                                    │
+│ Me cortó el pelo un peluquero famoso.                                         │
+│                                                                               │
+│ She had her portrait painted by a local artist.                               │
+│ Le pintó el retrato un artista local.                                         │
+│                                                                               │
+│ They had their house designed by an architect.                                │
+│ Les diseñó la casa un arquitecto.                                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+Usually we DON'T include the agent when:
+- It's obvious (hairdresser, mechanic, dentist)
+- We don't know who did it
+- It's not important
+
+================================================================================
+                    QUICK SUMMARY
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ STRUCTURE          │ MEANING                                                  │
+├────────────────────┼──────────────────────────────────────────────────────────┤
+│ have + obj + pp    │ Someone does a service for you                           │
+│                    │ I had my car repaired. (mechanic did it)                 │
+├────────────────────┼──────────────────────────────────────────────────────────┤
+│ get + obj + pp     │ Same as above (more informal)                            │
+│                    │ I got my car repaired.                                   │
+├────────────────────┼──────────────────────────────────────────────────────────┤
+│ have + obj + pp    │ Something bad happens to you                             │
+│ (negative)         │ I had my wallet stolen.                                  │
+├────────────────────┼──────────────────────────────────────────────────────────┤
+│ have + obj + inf   │ Cause/tell someone to do something                       │
+│                    │ I had my assistant call you.                             │
+├────────────────────┼──────────────────────────────────────────────────────────┤
+│ get + obj + to inf │ Persuade someone to do something                         │
+│                    │ I got my brother to help me.                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+pp = past participle
+inf = infinitive (without to for HAVE, with to for GET)

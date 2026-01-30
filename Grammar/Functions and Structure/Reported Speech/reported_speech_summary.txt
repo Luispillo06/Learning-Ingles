@@ -1,0 +1,210 @@
+================================================================================
+                    REPORTED SPEECH - COMPLETE SUMMARY
+               (Resumen Completo del Estilo Indirecto)
+================================================================================
+
+================================================================================
+                    TENSE CHANGES (BACKSHIFT)
+================================================================================
+
+┌────────────────────────────┬──────────────────────────────────────────────────┐
+│ DIRECT SPEECH              │ REPORTED SPEECH                                  │
+├────────────────────────────┼──────────────────────────────────────────────────┤
+│ Present Simple             │ Past Simple                                      │
+│ "I work"                   │ He said he worked                                │
+├────────────────────────────┼──────────────────────────────────────────────────┤
+│ Present Continuous         │ Past Continuous                                  │
+│ "I am working"             │ He said he was working                           │
+├────────────────────────────┼──────────────────────────────────────────────────┤
+│ Present Perfect            │ Past Perfect                                     │
+│ "I have worked"            │ He said he had worked                            │
+├────────────────────────────┼──────────────────────────────────────────────────┤
+│ Past Simple                │ Past Perfect                                     │
+│ "I worked"                 │ He said he had worked                            │
+├────────────────────────────┼──────────────────────────────────────────────────┤
+│ Past Continuous            │ Past Perfect Continuous                          │
+│ "I was working"            │ He said he had been working                      │
+├────────────────────────────┼──────────────────────────────────────────────────┤
+│ will                       │ would                                            │
+│ can                        │ could                                            │
+│ may                        │ might                                            │
+│ must                       │ had to                                           │
+├────────────────────────────┼──────────────────────────────────────────────────┤
+│ could, would, should       │ NO CHANGE                                        │
+│ might, ought to            │ NO CHANGE                                        │
+│ Past Perfect               │ NO CHANGE                                        │
+└────────────────────────────┴──────────────────────────────────────────────────┘
+
+================================================================================
+                    TIME AND PLACE CHANGES
+================================================================================
+
+┌────────────────────────────┬──────────────────────────────────────────────────┐
+│ DIRECT                     │ REPORTED                                         │
+├────────────────────────────┼──────────────────────────────────────────────────┤
+│ today                      │ that day                                         │
+│ tonight                    │ that night                                       │
+│ yesterday                  │ the day before / the previous day                │
+│ tomorrow                   │ the next day / the following day                 │
+│ last week                  │ the week before / the previous week              │
+│ next week                  │ the following week                               │
+│ ago                        │ before / earlier                                 │
+│ now                        │ then / at that moment                            │
+│ here                       │ there                                            │
+│ this / these               │ that / those                                     │
+└────────────────────────────┴──────────────────────────────────────────────────┘
+
+================================================================================
+                    PRONOUN CHANGES
+================================================================================
+
+┌────────────────────────────┬──────────────────────────────────────────────────┐
+│ DIRECT                     │ REPORTED                                         │
+├────────────────────────────┼──────────────────────────────────────────────────┤
+│ I / me / my / mine         │ he/she / him/her / his/her / his/hers            │
+│ we / us / our / ours       │ they / them / their / theirs                     │
+│ you (= me)                 │ I / me / my                                      │
+└────────────────────────────┴──────────────────────────────────────────────────┘
+
+================================================================================
+                    THREE TYPES OF REPORTED SPEECH
+================================================================================
+
+1. STATEMENTS:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ STRUCTURE: Subject + said/told + (that) + clause                              │
+│                                                                               │
+│ "I am tired."  →  She said (that) she was tired.                              │
+│ "I have finished."  →  He said (that) he had finished.                        │
+│ "I will come."  →  She said (that) she would come.                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+2. QUESTIONS:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ YES/NO: Subject + asked + if/whether + subject + verb                         │
+│                                                                               │
+│ "Are you coming?"  →  He asked if/whether I was coming.                       │
+│ "Did you see it?"  →  She asked if/whether I had seen it.                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ WH-QUESTIONS: Subject + asked + wh-word + subject + verb                      │
+│                                                                               │
+│ "Where do you live?"  →  He asked where I lived.                              │
+│ "What time is it?"  →  She asked what time it was.                            │
+│                                                                               │
+│ ⚠️ Use STATEMENT word order (not question order)                              │
+│ ❌ He asked where did I live.                                                 │
+│ ✓  He asked where I lived.                                                    │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+3. COMMANDS/REQUESTS/ADVICE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ STRUCTURE: Verb + person + (not) to + infinitive                              │
+│                                                                               │
+│ "Wait here."  →  She told me to wait there.                                   │
+│ "Don't go."  →  He told me not to go.                                         │
+│ "Please help me."  →  She asked me to help her.                               │
+│ "You should rest."  →  He advised me to rest.                                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    SAY vs TELL
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ SAY:  No person required                                                      │
+│       She said (that) she was happy.                                          │
+│       She said to me (that) she was happy.                                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ TELL: Always needs a person                                                   │
+│       She told ME (that) she was happy.                                       │
+│       ❌ She told that she was happy. (WRONG!)                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    REPORTING VERBS SUMMARY
+================================================================================
+
+STATEMENTS:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ say, tell, explain, mention, admit, deny, claim, complain, announce,          │
+│ add, reply, answer, state, report, promise, agree                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+QUESTIONS:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ask, want to know, wonder, inquire                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+COMMANDS/REQUESTS/ADVICE (+ person + to infinitive):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ tell, ask, order, command, advise, warn, encourage, urge, beg, remind,        │
+│ invite, instruct, forbid                                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+SPECIAL PATTERNS:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ offer + to infinitive:    He offered to help.                                 │
+│ promise + to infinitive:  She promised to come.                               │
+│ refuse + to infinitive:   He refused to pay.                                  │
+│ agree + to infinitive:    She agreed to wait.                                 │
+│ threaten + to infinitive: He threatened to leave.                             │
+│ deny + gerund:            She denied stealing it.                             │
+│ suggest + gerund:         He suggested going out.                             │
+│ suggest + (that) + subjunctive: She suggested (that) we go.                   │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WHEN NOT TO BACKSHIFT
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ 1. Reporting verb in PRESENT tense:                                           │
+│    "I am busy."  →  She says she is busy.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ 2. GENERAL TRUTHS / FACTS:                                                    │
+│    "The Earth is round."  →  He said the Earth is round.                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ 3. STILL TRUE at reporting time:                                              │
+│    "I love you."  →  He said he loves me. (still loves me)                    │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ 4. IMMEDIATE reporting (same day):                                            │
+│    "I'll be there at 5."  →  She said she'll be here at 5.                    │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    COMMON MISTAKES
+================================================================================
+
+  ❌ WRONG                              ✓ CORRECT
+  ───────────────────────────────────────────────────────────────────────────
+  She told that she was tired.          She said (that) she was tired.
+                                        She told me (that) she was tired.
+  
+  He asked where did I live.            He asked where I lived.
+  
+  She asked if was I coming.            She asked if I was coming.
+  
+  He said me to wait.                   He told me to wait.
+  
+  She suggested me to go.               She suggested going.
+                                        She suggested that I go.
+  
+  He asked that I was happy.            He asked if I was happy.
+
+================================================================================
+                    TRANSFORMATION PRACTICE
+================================================================================
+
+COMPLETE EXAMPLE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT (Monday, in London):                                                   │
+│ "I saw your brother yesterday and I'm meeting him again tomorrow.             │
+│ Please don't tell anyone about this. Where do you work now?                   │
+│ You should visit us here next week."                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ REPORTED (Wednesday, in Madrid):                                              │
+│ She said she had seen my brother the day before (Sunday) and she was          │
+│ meeting him again the following day (Tuesday). She asked me not to tell       │
+│ anyone about that. She asked where I worked then. She advised me to           │
+│ visit them there the following week.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘

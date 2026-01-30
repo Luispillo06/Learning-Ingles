@@ -1,0 +1,382 @@
+================================================================================
+                    VERBS WITH TWO OBJECTS
+                    (Verbos con Dos Objetos)
+================================================================================
+
+Algunos verbos pueden tener DOS objetos:
+- INDIRECT OBJECT (persona - a quién)
+- DIRECT OBJECT (cosa - qué)
+
+================================================================================
+                    BASIC STRUCTURE
+================================================================================
+
+Two possible word orders:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ STRUCTURE 1: verb + indirect object + direct object                           │
+│                                                                               │
+│ She gave    ME         a present.                                             │
+│             ──         ─────────                                              │
+│             (to whom)  (what)                                                 │
+│             indirect   direct                                                 │
+│                                                                               │
+│ Me dio un regalo.                                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ STRUCTURE 2: verb + direct object + TO/FOR + indirect object                  │
+│                                                                               │
+│ She gave    a present    TO ME.                                               │
+│             ─────────    ─────                                                │
+│             (what)       (to whom)                                            │
+│             direct       indirect                                             │
+│                                                                               │
+│ Me dio un regalo.                                                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+Both structures mean the same thing!
+
+================================================================================
+                    VERBS + TO
+================================================================================
+
+These verbs use TO when the indirect object comes second:
+
+┌─────────────┬──────────────────────────────┬──────────────────────────────────┐
+│ VERB        │ STRUCTURE 1                  │ STRUCTURE 2 (with TO)            │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ GIVE        │ Give me the book.            │ Give the book to me.             │
+│             │ Dame el libro.               │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ SEND        │ Send me an email.            │ Send an email to me.             │
+│             │ Envíame un email.            │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ LEND        │ Lend me some money.          │ Lend some money to me.           │
+│             │ Préstame algo de dinero.     │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ PASS        │ Pass me the salt.            │ Pass the salt to me.             │
+│             │ Pásame la sal.               │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ SHOW        │ Show me your photos.         │ Show your photos to me.          │
+│             │ Enséñame tus fotos.          │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ TELL        │ Tell me the truth.           │ Tell the truth to me.            │
+│             │ Dime la verdad.              │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ TEACH       │ Teach me Spanish.            │ Teach Spanish to me.             │
+│             │ Enséñame español.            │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ WRITE       │ Write me a letter.           │ Write a letter to me.            │
+│             │ Escríbeme una carta.         │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ READ        │ Read me a story.             │ Read a story to me.              │
+│             │ Léeme un cuento.             │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ OFFER       │ Offer him a job.             │ Offer a job to him.              │
+│             │ Ofrécele un trabajo.         │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ PROMISE     │ Promise me something.        │ Promise something to me.         │
+│             │ Prométeme algo.              │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ SELL        │ Sell me your car.            │ Sell your car to me.             │
+│             │ Véndeme tu coche.            │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ PAY         │ Pay me the money.            │ Pay the money to me.             │
+│             │ Págame el dinero.            │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ OWE         │ Owe me £50.                  │ Owe £50 to me.                   │
+│             │ Me debes 50 libras.          │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ BRING       │ Bring me a coffee.           │ Bring a coffee to me.            │
+│             │ Tráeme un café.              │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ TAKE        │ Take him his lunch.          │ Take his lunch to him.           │
+│             │ Llévale su almuerzo.         │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ HAND        │ Hand me that pen.            │ Hand that pen to me.             │
+│             │ Pásame ese bolígrafo.        │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ THROW       │ Throw me the ball.           │ Throw the ball to me.            │
+│             │ Tírame la pelota.            │                                  │
+└─────────────┴──────────────────────────────┴──────────────────────────────────┘
+
+================================================================================
+                    VERBS + FOR
+================================================================================
+
+These verbs use FOR when the indirect object comes second:
+
+┌─────────────┬──────────────────────────────┬──────────────────────────────────┐
+│ VERB        │ STRUCTURE 1                  │ STRUCTURE 2 (with FOR)           │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ BUY         │ Buy me a drink.              │ Buy a drink for me.              │
+│             │ Cómprame una bebida.         │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ GET         │ Get me a coffee.             │ Get a coffee for me.             │
+│             │ Tráeme un café.              │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ MAKE        │ Make me a sandwich.          │ Make a sandwich for me.          │
+│             │ Hazme un sándwich.           │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ COOK        │ Cook me dinner.              │ Cook dinner for me.              │
+│             │ Cocíname la cena.            │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ FIND        │ Find me a taxi.              │ Find a taxi for me.              │
+│             │ Encuéntrame un taxi.         │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ SAVE        │ Save me a seat.              │ Save a seat for me.              │
+│             │ Guárdame un asiento.         │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ BOOK        │ Book me a table.             │ Book a table for me.             │
+│             │ Resérvame una mesa.          │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ ORDER       │ Order me a pizza.            │ Order a pizza for me.            │
+│             │ Pídeme una pizza.            │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ LEAVE       │ Leave me some cake.          │ Leave some cake for me.          │
+│             │ Déjame algo de pastel.       │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ FETCH       │ Fetch me my coat.            │ Fetch my coat for me.            │
+│             │ Tráeme mi abrigo.            │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ POUR        │ Pour me some wine.           │ Pour some wine for me.           │
+│             │ Sírveme algo de vino.        │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ BUILD       │ Build me a house.            │ Build a house for me.            │
+│             │ Constrúyeme una casa.        │                                  │
+├─────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ DESIGN      │ Design me a logo.            │ Design a logo for me.            │
+│             │ Diséñame un logo.            │                                  │
+└─────────────┴──────────────────────────────┴──────────────────────────────────┘
+
+================================================================================
+                    TO vs FOR - THE DIFFERENCE
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ TO = transfer/movement towards someone                                        │
+│ (the person RECEIVES something)                                               │
+│                                                                               │
+│ Give the book TO me.       → I receive the book                               │
+│ Send the letter TO her.    → She receives the letter                          │
+│ Pass the salt TO him.      → He receives the salt                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ FOR = benefit/on behalf of someone                                            │
+│ (something is done FOR someone's benefit)                                     │
+│                                                                               │
+│ Buy a coffee FOR me.       → for my benefit                                   │
+│ Make a cake FOR her.       → for her benefit                                  │
+│ Save a seat FOR him.       → for his benefit                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    WHEN TO USE WHICH STRUCTURE
+================================================================================
+
+STRUCTURE 1 (verb + indirect + direct) is preferred when:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ✓ The indirect object is SHORT (pronoun):                                     │
+│                                                                               │
+│ Give ME the book. ✓ (natural)                                                 │
+│ Tell HER the truth. ✓ (natural)                                               │
+│ Buy HIM a present. ✓ (natural)                                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+STRUCTURE 2 (verb + direct + to/for + indirect) is preferred when:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ✓ The indirect object is LONG:                                                │
+│                                                                               │
+│ Give the book to the woman in the red dress. ✓                                │
+│ ❌ Give the woman in the red dress the book. (awkward)                        │
+│                                                                               │
+│ Send the email to all the members of the committee. ✓                         │
+│ ❌ Send all the members of the committee the email. (awkward)                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ✓ The direct object is a PRONOUN (it/them):                                   │
+│                                                                               │
+│ Give IT to me. ✓                                                              │
+│ ❌ Give me it. (possible but less common)                                     │
+│                                                                               │
+│ Send THEM to her. ✓                                                           │
+│ ❌ Send her them. (awkward)                                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ✓ You want to EMPHASIZE who receives it:                                      │
+│                                                                               │
+│ I gave the money to HIM, not to her.                                          │
+│ She made the cake for ME, not for you.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    VERBS THAT ONLY USE ONE STRUCTURE
+================================================================================
+
+Some verbs ONLY use structure 2 (with to/for):
+
+ONLY + TO:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ EXPLAIN   │ ❌ Explain me the problem.                                        │
+│           │ ✓  Explain the problem to me.                                     │
+│           │    Explícame el problema.                                         │
+├───────────┼───────────────────────────────────────────────────────────────────┤
+│ DESCRIBE  │ ❌ Describe me the situation.                                     │
+│           │ ✓  Describe the situation to me.                                  │
+│           │    Descríbeme la situación.                                       │
+├───────────┼───────────────────────────────────────────────────────────────────┤
+│ SUGGEST   │ ❌ Suggest me a restaurant.                                       │
+│           │ ✓  Suggest a restaurant to me.                                    │
+│           │    Sugiéreme un restaurante.                                      │
+├───────────┼───────────────────────────────────────────────────────────────────┤
+│ ANNOUNCE  │ ❌ Announce us the news.                                          │
+│           │ ✓  Announce the news to us.                                       │
+│           │    Anúncianos la noticia.                                         │
+├───────────┼───────────────────────────────────────────────────────────────────┤
+│ MENTION   │ ❌ Mention me the problem.                                        │
+│           │ ✓  Mention the problem to me.                                     │
+│           │    Menciónale el problema.                                        │
+├───────────┼───────────────────────────────────────────────────────────────────┤
+│ INTRODUCE │ ❌ Introduce me your friend.                                      │
+│           │ ✓  Introduce your friend to me.                                   │
+│           │    Preséntame a tu amigo.                                         │
+├───────────┼───────────────────────────────────────────────────────────────────┤
+│ REPORT    │ ❌ Report me the results.                                         │
+│           │ ✓  Report the results to me.                                      │
+│           │    Repórtame los resultados.                                      │
+├───────────┼───────────────────────────────────────────────────────────────────┤
+│ SAY       │ ❌ Say me something.                                              │
+│           │ ✓  Say something to me.                                           │
+│           │    Dime algo.                                                     │
+└───────────┴───────────────────────────────────────────────────────────────────┘
+
+⚠️ These are common errors for Spanish speakers!
+
+================================================================================
+                    PASSIVE WITH TWO OBJECTS
+================================================================================
+
+Verbs with two objects can form TWO different passives:
+
+Active: Someone gave me a book.
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ PASSIVE 1 (person as subject) - MORE COMMON:                                  │
+│                                                                               │
+│ I was given a book.                                                           │
+│ Me dieron un libro.                                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ PASSIVE 2 (thing as subject) - LESS COMMON:                                   │
+│                                                                               │
+│ A book was given to me.                                                       │
+│ Un libro me fue dado.                                                         │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+More examples:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Active: They offered him a job.                                               │
+│                                                                               │
+│ Passive 1: He was offered a job. ✓ (more common)                              │
+│            Le ofrecieron un trabajo.                                          │
+│                                                                               │
+│ Passive 2: A job was offered to him. (less common)                            │
+│            Un trabajo le fue ofrecido.                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Active: The company paid her £1000.                                           │
+│                                                                               │
+│ Passive 1: She was paid £1000. ✓                                              │
+│            Le pagaron £1000.                                                  │
+│                                                                               │
+│ Passive 2: £1000 was paid to her.                                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Active: They sent me an invitation.                                           │
+│                                                                               │
+│ Passive 1: I was sent an invitation. ✓                                        │
+│            Me enviaron una invitación.                                        │
+│                                                                               │
+│ Passive 2: An invitation was sent to me.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ Active: They told us the news.                                                │
+│                                                                               │
+│ Passive 1: We were told the news. ✓                                           │
+│            Nos contaron la noticia.                                           │
+│                                                                               │
+│ Passive 2: The news was told to us.                                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    COMMON EXPRESSIONS
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Can you do me a favour?                                                       │
+│ ¿Me puedes hacer un favor?                                                    │
+│                                                                               │
+│ Give me a call / ring.                                                        │
+│ Llámame.                                                                      │
+│                                                                               │
+│ Send me a message.                                                            │
+│ Mándame un mensaje.                                                           │
+│                                                                               │
+│ Tell me what happened.                                                        │
+│ Cuéntame qué pasó.                                                            │
+│                                                                               │
+│ Show me how to do it.                                                         │
+│ Enséñame cómo hacerlo.                                                        │
+│                                                                               │
+│ Bring me the bill, please.                                                    │
+│ Tráigame la cuenta, por favor.                                                │
+│                                                                               │
+│ Save me a seat.                                                               │
+│ Guárdame un sitio.                                                            │
+│                                                                               │
+│ Lend me your pen.                                                             │
+│ Préstame tu bolígrafo.                                                        │
+│                                                                               │
+│ Leave me alone!                                                               │
+│ ¡Déjame en paz!                                                               │
+│                                                                               │
+│ Don't give me that look.                                                      │
+│ No me mires así.                                                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    QUICK SUMMARY
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ VERBS + TO                        │ VERBS + FOR                              │
+│ (transfer/receive)                │ (benefit/on behalf of)                   │
+├───────────────────────────────────┼──────────────────────────────────────────┤
+│ give, send, lend, pass, show,     │ buy, get, make, cook, find, save,        │
+│ tell, teach, write, read, offer,  │ book, order, leave, fetch, pour,         │
+│ promise, sell, pay, owe, bring,   │ build, design                            │
+│ take, hand, throw                 │                                          │
+├───────────────────────────────────┴──────────────────────────────────────────┤
+│ ONLY STRUCTURE 2 (verb + direct + to):                                       │
+│ explain, describe, suggest, announce, mention, introduce, report, say        │
+│                                                                              │
+│ ❌ Explain me... → ✓ Explain to me...                                        │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    COMMON ERRORS
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ❌ Explain me the problem.                                                    │
+│ ✓  Explain the problem to me.                                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ Suggest me a good restaurant.                                              │
+│ ✓  Suggest a good restaurant to me.                                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ Describe me what happened.                                                 │
+│ ✓  Describe what happened to me.                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ Say me something.                                                          │
+│ ✓  Say something to me. / Tell me something.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ Give to me the book.                                                       │
+│ ✓  Give me the book. / Give the book to me.                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ❌ Buy for me a coffee.                                                       │
+│ ✓  Buy me a coffee. / Buy a coffee for me.                                    │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================

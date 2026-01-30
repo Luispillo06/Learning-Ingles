@@ -1,0 +1,233 @@
+================================================================================
+                    REPORTED STATEMENTS
+                (Afirmaciones en Estilo Indirecto)
+================================================================================
+
+================================================================================
+                    BASIC STRUCTURE
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SUBJECT + SAID/TOLD + (THAT) + SUBJECT + VERB (backshifted)                │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  He         said       (that)   he        was tired.                        │
+│  She        told me    (that)   she       would come.                       │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    PRESENT → PAST
+================================================================================
+
+PRESENT SIMPLE → PAST SIMPLE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "I work in a bank."                                                 │
+│ REPORTED: He said (that) he worked in a bank.                                 │
+│           Dijo que trabajaba en un banco.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "She doesn't like coffee."                                          │
+│ REPORTED: He said (that) she didn't like coffee.                              │
+│           Dijo que no le gustaba el café.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "We live in Madrid."                                                │
+│ REPORTED: They said (that) they lived in Madrid.                              │
+│           Dijeron que vivían en Madrid.                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+PRESENT CONTINUOUS → PAST CONTINUOUS:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "I am studying English."                                            │
+│ REPORTED: She said (that) she was studying English.                           │
+│           Dijo que estaba estudiando inglés.                                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "They are waiting for us."                                          │
+│ REPORTED: He said (that) they were waiting for us.                            │
+│           Dijo que nos estaban esperando.                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "It is raining."                                                    │
+│ REPORTED: She said (that) it was raining.                                     │
+│           Dijo que estaba lloviendo.                                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+PRESENT PERFECT → PAST PERFECT:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "I have finished my homework."                                      │
+│ REPORTED: He said (that) he had finished his homework.                        │
+│           Dijo que había terminado sus deberes.                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "We have never been to Japan."                                      │
+│ REPORTED: They said (that) they had never been to Japan.                      │
+│           Dijeron que nunca habían estado en Japón.                           │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "She has already left."                                             │
+│ REPORTED: He said (that) she had already left.                                │
+│           Dijo que ella ya se había ido.                                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    PAST → PAST PERFECT
+================================================================================
+
+PAST SIMPLE → PAST PERFECT:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "I saw the movie yesterday."                                        │
+│ REPORTED: He said (that) he had seen the movie the day before.                │
+│           Dijo que había visto la película el día anterior.                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "We went to Paris last summer."                                     │
+│ REPORTED: They said (that) they had gone to Paris the previous summer.        │
+│           Dijeron que habían ido a París el verano anterior.                  │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "She didn't call me."                                               │
+│ REPORTED: He said (that) she hadn't called him.                               │
+│           Dijo que ella no le había llamado.                                  │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+PAST CONTINUOUS → PAST PERFECT CONTINUOUS:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "I was sleeping when you called."                                   │
+│ REPORTED: She said (that) she had been sleeping when I called.                │
+│           Dijo que había estado durmiendo cuando llamé.                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "They were playing football."                                       │
+│ REPORTED: He said (that) they had been playing football.                      │
+│           Dijo que habían estado jugando al fútbol.                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+PAST PERFECT → PAST PERFECT (no change):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "I had already eaten."                                              │
+│ REPORTED: She said (that) she had already eaten. (no change)                  │
+│           Dijo que ya había comido.                                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    FUTURE → CONDITIONAL
+================================================================================
+
+WILL → WOULD:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "I will help you."                                                  │
+│ REPORTED: He said (that) he would help me.                                    │
+│           Dijo que me ayudaría.                                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "We will arrive at 6."                                              │
+│ REPORTED: They said (that) they would arrive at 6.                            │
+│           Dijeron que llegarían a las 6.                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "She won't come."                                                   │
+│ REPORTED: He said (that) she wouldn't come.                                   │
+│           Dijo que ella no vendría.                                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+BE GOING TO → WAS/WERE GOING TO:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "I am going to travel."                                             │
+│ REPORTED: She said (that) she was going to travel.                            │
+│           Dijo que iba a viajar.                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "We are going to buy a house."                                      │
+│ REPORTED: They said (that) they were going to buy a house.                    │
+│           Dijeron que iban a comprar una casa.                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    MODAL VERBS
+================================================================================
+
+┌────────────────────────────┬──────────────────────────────────────────────────┐
+│ CAN → COULD                │                                                  │
+│ "I can swim."              │ He said he could swim.                           │
+├────────────────────────────┼──────────────────────────────────────────────────┤
+│ MAY → MIGHT                │                                                  │
+│ "I may be late."           │ She said she might be late.                      │
+├────────────────────────────┼──────────────────────────────────────────────────┤
+│ MUST → HAD TO              │                                                  │
+│ "I must leave."            │ He said he had to leave.                         │
+├────────────────────────────┼──────────────────────────────────────────────────┤
+│ SHALL → SHOULD/WOULD       │                                                  │
+│ "I shall return."          │ He said he would return.                         │
+└────────────────────────────┴──────────────────────────────────────────────────┘
+
+MODALS THAT DON'T CHANGE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ COULD:   "I could help."    →  She said she could help.                       │
+│ WOULD:   "I would go."      →  He said he would go.                           │
+│ SHOULD:  "You should rest." →  She said I should rest.                        │
+│ MIGHT:   "It might rain."   →  He said it might rain.                         │
+│ OUGHT TO: "You ought to try." → She said I ought to try.                      │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    NEGATIVE STATEMENTS
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DIRECT:   "I don't like it."                                                  │
+│ REPORTED: He said (that) he didn't like it.                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "She isn't coming."                                                 │
+│ REPORTED: He said (that) she wasn't coming.                                   │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "We haven't seen it."                                               │
+│ REPORTED: They said (that) they hadn't seen it.                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "I won't do it."                                                    │
+│ REPORTED: She said (that) she wouldn't do it.                                 │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DIRECT:   "I can't understand."                                               │
+│ REPORTED: He said (that) he couldn't understand.                              │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    OTHER REPORTING VERBS
+================================================================================
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ EXPLAIN:  "I need more time."                                                 │
+│           She explained (that) she needed more time.                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ MENTION:  "I saw John yesterday."                                             │
+│           He mentioned (that) he had seen John the day before.                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ADMIT:    "I made a mistake."                                                 │
+│           She admitted (that) she had made a mistake.                         │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ DENY:     "I didn't take it."                                                 │
+│           He denied (that) he had taken it.                                   │
+│           He denied taking it. (+ gerund)                                     │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ CLAIM:    "I am innocent."                                                    │
+│           She claimed (that) she was innocent.                                │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ COMPLAIN: "The food is cold."                                                 │
+│           He complained (that) the food was cold.                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ PROMISE:  "I will call you."                                                  │
+│           She promised (that) she would call me.                              │
+│           She promised to call me. (+ infinitive)                             │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ AGREE:    "You are right."                                                    │
+│           He agreed (that) I was right.                                       │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ REFUSE:   "I won't do it."                                                    │
+│           She refused to do it. (+ infinitive)                                │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                           QUICK SUMMARY
+================================================================================
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                      REPORTED STATEMENTS                                     │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ Present Simple    → Past Simple:     works → worked                          │
+│ Present Continuous→ Past Continuous: is working → was working                │
+│ Present Perfect   → Past Perfect:    has worked → had worked                 │
+│ Past Simple       → Past Perfect:    worked → had worked                     │
+│ Will              → Would:           will work → would work                  │
+│ Can               → Could:           can work → could work                   │
+│ May               → Might:           may work → might work                   │
+│ Must              → Had to:          must work → had to work                 │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ NO CHANGE: could, would, should, might, ought to, past perfect               │
+└──────────────────────────────────────────────────────────────────────────────┘

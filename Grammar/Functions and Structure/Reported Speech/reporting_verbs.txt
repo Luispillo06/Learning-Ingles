@@ -1,0 +1,423 @@
+================================================================================
+                       REPORTING VERBS
+                     (Verbos de Reporte)
+================================================================================
+
+Los REPORTING VERBS son los verbos que usamos para introducir lo que 
+alguien dijo. Cada uno tiene su propia estructura gramatical.
+
+================================================================================
+                    VERB PATTERNS OVERVIEW
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ PATTERN 1:  verb + (that) + clause                                          │
+│ PATTERN 2:  verb + object + (that) + clause                                 │
+│ PATTERN 3:  verb + to + infinitive                                          │
+│ PATTERN 4:  verb + object + to + infinitive                                 │
+│ PATTERN 5:  verb + gerund (-ing)                                            │
+│ PATTERN 6:  verb + preposition + gerund                                     │
+│ PATTERN 7:  verb + (that) + subjunctive/should                              │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+            PATTERN 1: VERB + (THAT) + CLAUSE
+================================================================================
+
+These verbs are followed by a that-clause (that is optional):
+
+┌─────────────┬─────────────────────────────────────────────────────────────────┐
+│ VERB        │ EXAMPLE                                                         │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ SAY         │ He said (that) he was tired.                                    │
+│             │ Dijo que estaba cansado.                                        │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ EXPLAIN     │ She explained (that) she had missed the bus.                    │
+│             │ Explicó que había perdido el autobús.                           │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ MENTION     │ He mentioned (that) he was leaving soon.                        │
+│             │ Mencionó que se iba pronto.                                     │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ CLAIM       │ She claimed (that) she was innocent.                            │
+│             │ Afirmó que era inocente.                                        │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ ADMIT       │ He admitted (that) he had made a mistake.                       │
+│             │ Admitió que había cometido un error.                            │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ DENY        │ She denied (that) she had taken it.                             │
+│             │ Negó que lo hubiera cogido.                                     │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ COMPLAIN    │ He complained (that) the food was cold.                         │
+│             │ Se quejó de que la comida estaba fría.                          │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ ANNOUNCE    │ They announced (that) the flight was delayed.                   │
+│             │ Anunciaron que el vuelo estaba retrasado.                       │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ STATE       │ He stated (that) he disagreed.                                  │
+│             │ Afirmó que no estaba de acuerdo.                                │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ REPLY       │ She replied (that) she would think about it.                    │
+│             │ Respondió que lo pensaría.                                      │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ ADD         │ He added (that) we should be careful.                           │
+│             │ Añadió que deberíamos tener cuidado.                            │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ AGREE       │ She agreed (that) it was difficult.                             │
+│             │ Estuvo de acuerdo en que era difícil.                           │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ BELIEVE     │ He believed (that) she was telling the truth.                   │
+│             │ Creía que ella decía la verdad.                                 │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ THINK       │ She thought (that) he was right.                                │
+│             │ Pensaba que él tenía razón.                                     │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ POINT OUT   │ He pointed out (that) we were late.                             │
+│             │ Señaló que llegábamos tarde.                                    │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ REPORT      │ They reported (that) the bridge had collapsed.                  │
+│             │ Informaron de que el puente se había derrumbado.                │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ CONFIRM     │ She confirmed (that) the meeting was at 3.                      │
+│             │ Confirmó que la reunión era a las 3.                            │
+└─────────────┴─────────────────────────────────────────────────────────────────┘
+
+================================================================================
+            PATTERN 2: VERB + OBJECT + (THAT) + CLAUSE
+================================================================================
+
+These verbs need a person (object) before the that-clause:
+
+┌─────────────┬─────────────────────────────────────────────────────────────────┐
+│ VERB        │ EXAMPLE                                                         │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ TELL        │ She told me (that) she was leaving.                             │
+│             │ Me dijo que se iba.                                             │
+│             │ ❌ She told that she was leaving. (WRONG!)                      │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ INFORM      │ He informed us (that) the event was cancelled.                  │
+│             │ Nos informó de que el evento estaba cancelado.                  │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ ASSURE      │ She assured me (that) everything was fine.                      │
+│             │ Me aseguró que todo estaba bien.                                │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ CONVINCE    │ He convinced me (that) I should go.                             │
+│             │ Me convenció de que debería ir.                                 │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ REMIND      │ She reminded me (that) I had a meeting.                         │
+│             │ Me recordó que tenía una reunión.                               │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ WARN        │ He warned us (that) it was dangerous.                           │
+│             │ Nos advirtió de que era peligroso.                              │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ PROMISE     │ She promised me (that) she would call.                          │
+│             │ Me prometió que llamaría.                                       │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ NOTIFY      │ They notified us (that) our application was accepted.           │
+│             │ Nos notificaron que nuestra solicitud fue aceptada.             │
+└─────────────┴─────────────────────────────────────────────────────────────────┘
+
+================================================================================
+            PATTERN 3: VERB + TO + INFINITIVE
+================================================================================
+
+These verbs are followed by to + infinitive (no object):
+
+┌─────────────┬─────────────────────────────────────────────────────────────────┐
+│ VERB        │ EXAMPLE                                                         │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ OFFER       │ He offered to help.                                             │
+│             │ Se ofreció a ayudar.                                            │
+│             │ "I'll help you." → He offered to help me.                       │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ PROMISE     │ She promised to come.                                           │
+│             │ Prometió venir.                                                 │
+│             │ "I'll come." → She promised to come.                            │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ REFUSE      │ He refused to pay.                                              │
+│             │ Se negó a pagar.                                                │
+│             │ "No, I won't pay." → He refused to pay.                         │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ AGREE       │ She agreed to wait.                                             │
+│             │ Aceptó esperar.                                                 │
+│             │ "OK, I'll wait." → She agreed to wait.                          │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ THREATEN    │ He threatened to call the police.                               │
+│             │ Amenazó con llamar a la policía.                                │
+│             │ "I'll call the police!" → He threatened to call the police.     │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ DECIDE      │ She decided to leave.                                           │
+│             │ Decidió irse.                                                   │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ CLAIM       │ He claimed to be an expert.                                     │
+│             │ Afirmó ser un experto.                                          │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ DEMAND      │ She demanded to see the manager.                                │
+│             │ Exigió ver al gerente.                                          │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ SWEAR       │ He swore to tell the truth.                                     │
+│             │ Juró decir la verdad.                                           │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ VOLUNTEER   │ She volunteered to help.                                        │
+│             │ Se ofreció voluntaria para ayudar.                              │
+└─────────────┴─────────────────────────────────────────────────────────────────┘
+
+================================================================================
+            PATTERN 4: VERB + OBJECT + TO + INFINITIVE
+================================================================================
+
+These verbs need a person before to + infinitive:
+
+┌─────────────┬─────────────────────────────────────────────────────────────────┐
+│ VERB        │ EXAMPLE                                                         │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ TELL        │ She told me to wait.                                            │
+│             │ Me dijo que esperara.                                           │
+│             │ "Wait!" → She told me to wait.                                  │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ ASK         │ He asked me to help him.                                        │
+│             │ Me pidió que le ayudara.                                        │
+│             │ "Please help me." → He asked me to help him.                    │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ ORDER       │ She ordered them to leave.                                      │
+│             │ Les ordenó que se fueran.                                       │
+│             │ "Leave now!" → She ordered them to leave.                       │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ COMMAND     │ He commanded the soldiers to attack.                            │
+│             │ Ordenó a los soldados que atacaran.                             │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ ADVISE      │ She advised me to rest.                                         │
+│             │ Me aconsejó que descansara.                                     │
+│             │ "You should rest." → She advised me to rest.                    │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ WARN        │ He warned me not to go.                                         │
+│             │ Me advirtió que no fuera.                                       │
+│             │ "Don't go there!" → He warned me not to go there.               │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ ENCOURAGE   │ She encouraged me to apply.                                     │
+│             │ Me animó a solicitar.                                           │
+│             │ "You should apply!" → She encouraged me to apply.               │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ URGE        │ He urged me to reconsider.                                      │
+│             │ Me instó a reconsiderar.                                        │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ BEG         │ She begged him to stay.                                         │
+│             │ Le suplicó que se quedara.                                      │
+│             │ "Please, please stay!" → She begged him to stay.                │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ INVITE      │ He invited me to come to his party.                             │
+│             │ Me invitó a ir a su fiesta.                                     │
+│             │ "Would you like to come?" → He invited me to come.              │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ REMIND      │ She reminded me to call my mother.                              │
+│             │ Me recordó que llamara a mi madre.                              │
+│             │ "Don't forget to call." → She reminded me to call.              │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ INSTRUCT    │ He instructed us to wait here.                                  │
+│             │ Nos instruyó que esperáramos aquí.                              │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ FORBID      │ She forbade them to leave.                                      │
+│             │ Les prohibió irse.                                              │
+│             │ "You must not leave!" → She forbade them to leave.              │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ ALLOW       │ He allowed us to go.                                            │
+│             │ Nos permitió ir.                                                │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ PERMIT      │ She permitted me to use her car.                                │
+│             │ Me permitió usar su coche.                                      │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ FORCE       │ They forced him to confess.                                     │
+│             │ Le forzaron a confesar.                                         │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ PERSUADE    │ She persuaded me to go.                                         │
+│             │ Me persuadió para que fuera.                                    │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ EXPECT      │ He expected me to help.                                         │
+│             │ Esperaba que yo ayudara.                                        │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ WANT        │ She wanted me to stay.                                          │
+│             │ Quería que me quedara.                                          │
+└─────────────┴─────────────────────────────────────────────────────────────────┘
+
+NEGATIVE: verb + object + NOT + to + infinitive
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ "Don't touch it!" → She told me NOT to touch it.                              │
+│ "Don't be late!" → He warned us NOT to be late.                               │
+│ "Never do that again!" → She told him never to do that again.                 │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+            PATTERN 5: VERB + GERUND (-ING)
+================================================================================
+
+These verbs are followed by -ing form:
+
+┌─────────────┬─────────────────────────────────────────────────────────────────┐
+│ VERB        │ EXAMPLE                                                         │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ ADMIT       │ He admitted stealing the money.                                 │
+│             │ Admitió haber robado el dinero.                                 │
+│             │ "Yes, I stole it." → He admitted stealing it.                   │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ DENY        │ She denied taking it.                                           │
+│             │ Negó haberlo cogido.                                            │
+│             │ "I didn't take it!" → She denied taking it.                     │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ SUGGEST     │ He suggested going to the cinema.                               │
+│             │ Sugirió ir al cine.                                             │
+│             │ "Let's go to the cinema." → He suggested going to the cinema.   │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ RECOMMEND   │ She recommended trying the fish.                                │
+│             │ Recomendó probar el pescado.                                    │
+│             │ "You should try the fish." → She recommended trying it.         │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ REGRET      │ He regretted not going.                                         │
+│             │ Lamentó no haber ido.                                           │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ MENTION     │ She mentioned seeing him yesterday.                             │
+│             │ Mencionó haberle visto ayer.                                    │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ REPORT      │ They reported seeing a UFO.                                     │
+│             │ Informaron haber visto un OVNI.                                 │
+└─────────────┴─────────────────────────────────────────────────────────────────┘
+
+⚠️ SUGGEST - Special verb (NEVER + object + infinitive):
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ❌ She suggested me to go.     (WRONG!)                                       │
+│ ❌ She suggested us to try.    (WRONG!)                                       │
+│                                                                               │
+│ ✓ She suggested going.                                                        │
+│ ✓ She suggested (that) I go.                                                  │
+│ ✓ She suggested (that) I should go.                                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+            PATTERN 6: VERB + PREPOSITION + GERUND
+================================================================================
+
+┌─────────────────────┬─────────────────────────────────────────────────────────┐
+│ VERB + PREP         │ EXAMPLE                                                 │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ apologize for       │ He apologized for being late.                           │
+│                     │ Se disculpó por llegar tarde.                           │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ insist on           │ She insisted on paying.                                 │
+│                     │ Insistió en pagar.                                      │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ accuse (sb) of      │ He accused me of lying.                                 │
+│                     │ Me acusó de mentir.                                     │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ blame (sb) for      │ She blamed him for breaking it.                         │
+│                     │ Le culpó de romperlo.                                   │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ congratulate (sb) on│ He congratulated me on passing.                         │
+│                     │ Me felicitó por aprobar.                                │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ warn (sb) against   │ She warned me against trusting him.                     │
+│                     │ Me advirtió que no confiara en él.                      │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ thank (sb) for      │ He thanked me for helping.                              │
+│                     │ Me agradeció la ayuda.                                  │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ complain about      │ She complained about waiting.                           │
+│                     │ Se quejó de esperar.                                    │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ object to           │ He objected to working late.                            │
+│                     │ Se opuso a trabajar hasta tarde.                        │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ confess to          │ She confessed to stealing it.                           │
+│                     │ Confesó haberlo robado.                                 │
+└─────────────────────┴─────────────────────────────────────────────────────────┘
+
+================================================================================
+            PATTERN 7: VERB + (THAT) + SUBJUNCTIVE/SHOULD
+================================================================================
+
+With verbs of suggestion, demand, recommendation:
+
+┌─────────────┬─────────────────────────────────────────────────────────────────┐
+│ VERB        │ EXAMPLE                                                         │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ SUGGEST     │ He suggested (that) we leave early.                             │
+│             │ OR: He suggested (that) we should leave early.                  │
+│             │ Sugirió que nos fuéramos temprano.                              │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ RECOMMEND   │ She recommended (that) I see a doctor.                          │
+│             │ Recomendó que fuera al médico.                                  │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ DEMAND      │ He demanded (that) she leave.                                   │
+│             │ Exigió que ella se fuera.                                       │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ INSIST      │ She insisted (that) he come with us.                            │
+│             │ Insistió en que viniera con nosotros.                           │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ PROPOSE     │ He proposed (that) we take a break.                             │
+│             │ Propuso que descansáramos.                                      │
+├─────────────┼─────────────────────────────────────────────────────────────────┤
+│ REQUEST     │ She requested (that) he be present.                             │
+│             │ Solicitó que él estuviera presente.                             │
+└─────────────┴─────────────────────────────────────────────────────────────────┘
+
+NOTE: In subjunctive, the verb stays in base form (no -s for he/she):
+- He suggested that she GO (not goes)
+- She insisted that he BE there (not is)
+
+================================================================================
+                    VERBS WITH MULTIPLE PATTERNS
+================================================================================
+
+Some verbs can use different patterns:
+
+ADMIT:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ + that clause: He admitted (that) he was wrong.                               │
+│ + gerund:      He admitted being wrong.                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+AGREE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ + that clause: She agreed (that) it was difficult.                            │
+│ + to + inf:    She agreed to help.                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+PROMISE:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ + that clause: He promised (that) he would come.                              │
+│ + to + inf:    He promised to come.                                           │
+│ + obj + that:  He promised me (that) he would come.                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+WARN:
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ + obj + that:  She warned me (that) it was dangerous.                         │
+│ + obj + to:    She warned me not to go.                                       │
+│ + obj + against + -ing: She warned me against going.                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    QUICK REFERENCE TABLE
+================================================================================
+
+┌──────────────────┬────────────────────────────────────────────────────────────┐
+│ PATTERN          │ VERBS                                                      │
+├──────────────────┼────────────────────────────────────────────────────────────┤
+│ + (that) clause  │ say, explain, mention, claim, admit, deny, complain,       │
+│                  │ announce, state, reply, add, agree, believe, point out     │
+├──────────────────┼────────────────────────────────────────────────────────────┤
+│ + obj + (that)   │ tell, inform, assure, convince, remind, warn, promise      │
+├──────────────────┼────────────────────────────────────────────────────────────┤
+│ + to + infinitive│ offer, promise, refuse, agree, threaten, decide, claim,    │
+│                  │ demand, swear, volunteer                                   │
+├──────────────────┼────────────────────────────────────────────────────────────┤
+│ + obj + to + inf │ tell, ask, order, command, advise, warn, encourage,        │
+│                  │ urge, beg, invite, remind, instruct, forbid, allow,        │
+│                  │ permit, force, persuade, expect, want                      │
+├──────────────────┼────────────────────────────────────────────────────────────┤
+│ + gerund (-ing)  │ admit, deny, suggest, recommend, regret, mention, report   │
+├──────────────────┼────────────────────────────────────────────────────────────┤
+│ + prep + gerund  │ apologize for, insist on, accuse of, blame for,            │
+│                  │ congratulate on, warn against, thank for, complain about   │
+├──────────────────┼────────────────────────────────────────────────────────────┤
+│ + subjunctive    │ suggest, recommend, demand, insist, propose, request       │
+└──────────────────┴────────────────────────────────────────────────────────────┘
+
+================================================================================

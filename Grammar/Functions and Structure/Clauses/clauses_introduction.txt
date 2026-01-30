@@ -1,0 +1,107 @@
+================================================================================
+                    TYPES OF CLAUSES
+                    (Tipos de Oraciones)
+================================================================================
+
+Una CLAUSE (oración/cláusula) es un grupo de palabras que contiene 
+un sujeto y un verbo. Hay diferentes tipos según su función.
+
+================================================================================
+                    MAIN VS SUBORDINATE CLAUSES
+================================================================================
+
+MAIN CLAUSE (Independent):
+- Puede funcionar sola como oración completa
+- Tiene sentido por sí misma
+
+SUBORDINATE CLAUSE (Dependent):
+- Depende de la oración principal
+- No tiene sentido sola
+- Empieza con una conjunción subordinante
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ MAIN CLAUSE          +    SUBORDINATE CLAUSE                                  │
+│                                                                               │
+│ I stayed home             because it was raining.                             │
+│ (tiene sentido sola)      (no tiene sentido sola)                             │
+│                                                                               │
+│ Me quedé en casa          porque estaba lloviendo.                            │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    TYPES OF SUBORDINATE CLAUSES
+================================================================================
+
+┌─────────────────────┬─────────────────────────────────────────────────────────┐
+│ TYPE                │ FUNCTION                                                │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ REASON CLAUSES      │ Explain WHY something happens                           │
+│                     │ because, since, as, due to the fact that                │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ PURPOSE CLAUSES     │ Explain the AIM or INTENTION                            │
+│                     │ to, in order to, so that, so as to                      │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ CONTRAST CLAUSES    │ Show OPPOSITION or UNEXPECTED results                   │
+│                     │ although, even though, while, whereas                   │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ RESULT CLAUSES      │ Show the CONSEQUENCE of something                       │
+│                     │ so, so...that, such...that                              │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ TIME CLAUSES        │ Say WHEN something happens                              │
+│                     │ when, while, before, after, until, as soon as           │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ CONDITION CLAUSES   │ Say UNDER WHAT CIRCUMSTANCES                            │
+│                     │ if, unless, provided that, as long as                   │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ MANNER CLAUSES      │ Explain HOW something is done                           │
+│                     │ as, as if, as though, like                              │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ PLACE CLAUSES       │ Say WHERE something happens                             │
+│                     │ where, wherever, everywhere                             │
+└─────────────────────┴─────────────────────────────────────────────────────────┘
+
+================================================================================
+                    POSITION OF SUBORDINATE CLAUSES
+================================================================================
+
+Subordinate clauses can come BEFORE or AFTER the main clause:
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ AFTER MAIN CLAUSE (no comma usually):                                         │
+│                                                                               │
+│ I went home because I was tired.                                              │
+│ Me fui a casa porque estaba cansado.                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ BEFORE MAIN CLAUSE (comma required):                                          │
+│                                                                               │
+│ Because I was tired, I went home.                                             │
+│ Como estaba cansado, me fui a casa.                                           │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                    OVERVIEW OF LINKING WORDS
+================================================================================
+
+┌─────────────────────┬─────────────────────────────────────────────────────────┐
+│ FUNCTION            │ CONJUNCTIONS / LINKING WORDS                            │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ REASON              │ because, since, as, seeing that, due to the fact that,  │
+│ (causa)             │ on account of, owing to, for (formal)                   │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ PURPOSE             │ to, in order to, so as to, so that, in order that,      │
+│ (propósito)         │ for (+ noun/gerund)                                     │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ CONTRAST            │ although, though, even though, while, whereas,          │
+│ (contraste)         │ despite, in spite of, however, nevertheless             │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ RESULT              │ so, therefore, consequently, as a result,               │
+│ (resultado)         │ so...that, such...that                                  │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ TIME                │ when, while, as, before, after, until, till,            │
+│ (tiempo)            │ as soon as, once, by the time, whenever                 │
+├─────────────────────┼─────────────────────────────────────────────────────────┤
+│ CONDITION           │ if, unless, provided (that), providing (that),          │
+│ (condición)         │ as long as, on condition that, in case                  │
+└─────────────────────┴─────────────────────────────────────────────────────────┘
+
+================================================================================
