@@ -1,0 +1,486 @@
+================================================================================
+                          MUSIC VOCABULARY - VOCABULARIO DE MÚSICA
+================================================================================
+
+================================================================================
+                              MUSIC GENRES
+                          (Géneros musicales)
+================================================================================
+
+POPULAR MUSIC
+-------------
+• pop - pop
+• rock - rock
+• rock and roll - rock and roll
+• hard rock - rock duro
+• heavy metal - heavy metal
+• punk - punk
+• alternative rock - rock alternativo
+• indie - indie
+• grunge - grunge
+
+HIP-HOP & R&B
+-------------
+• hip-hop - hip-hop
+• rap - rap
+• R&B (Rhythm and Blues) - R&B
+• soul - soul
+• funk - funk
+• disco - disco
+
+ELECTRONIC MUSIC
+----------------
+• electronic music - música electrónica
+• EDM (Electronic Dance Music) - música electrónica de baile
+• house - house
+• techno - techno
+• trance - trance
+• dubstep - dubstep
+• drum and bass - drum and bass
+• ambient - ambient
+
+JAZZ & BLUES
+------------
+• jazz - jazz
+• blues - blues
+• swing - swing
+• bebop - bebop
+• smooth jazz - jazz suave
+
+CLASSICAL & TRADITIONAL
+-----------------------
+• classical music - música clásica
+• opera - ópera
+• orchestra - orquesta
+• symphony - sinfonía
+• baroque - barroco
+• romantic - romántico
+
+LATIN MUSIC
+-----------
+• salsa - salsa
+• reggaeton - reguetón
+• bachata - bachata
+• cumbia - cumbia
+• merengue - merengue
+• tango - tango
+• flamenco - flamenco
+• bossa nova - bossa nova
+• mariachi - mariachi
+
+FOLK & COUNTRY
+--------------
+• folk - folk
+• country - country
+• bluegrass - bluegrass
+• world music - música del mundo
+
+OTHER GENRES
+------------
+• reggae - reggae
+• ska - ska
+• gospel - gospel
+• K-pop - K-pop
+• J-pop - J-pop
+• new age - new age
+• soundtrack - banda sonora
+
+================================================================================
+                           MUSICAL INSTRUMENTS
+                        (Instrumentos musicales)
+================================================================================
+
+STRING INSTRUMENTS
+------------------
+• guitar - guitarra
+• acoustic guitar - guitarra acústica
+• electric guitar - guitarra eléctrica
+• bass guitar / bass - bajo
+• violin - violín
+• viola - viola
+• cello - violonchelo
+• double bass / contrabass - contrabajo
+• harp - arpa
+• ukulele - ukelele
+• banjo - banjo
+• mandolin - mandolina
+• sitar - sitar
+
+KEYBOARD INSTRUMENTS
+--------------------
+• piano - piano
+• grand piano - piano de cola
+• upright piano - piano vertical
+• keyboard - teclado
+• synthesizer / synth - sintetizador
+• organ - órgano
+• accordion - acordeón
+• harpsichord - clavicémbalo
+
+WIND INSTRUMENTS
+----------------
+• flute - flauta
+• recorder - flauta dulce
+• clarinet - clarinete
+• oboe - oboe
+• bassoon - fagot
+• saxophone - saxofón
+• harmonica - armónica
+• bagpipes - gaita
+
+BRASS INSTRUMENTS
+-----------------
+• trumpet - trompeta
+• trombone - trombón
+• French horn - trompa
+• tuba - tuba
+• bugle - corneta
+
+PERCUSSION INSTRUMENTS
+----------------------
+• drums - batería
+• drum kit - set de batería
+• snare drum - caja
+• bass drum - bombo
+• tom-tom - tom
+• cymbals - platillos
+• hi-hat - charles
+• tambourine - pandereta
+• xylophone - xilófono
+• maracas - maracas
+• bongos - bongos
+• congas - congas
+• triangle - triángulo
+• castanets - castañuelas
+• timpani - timbales
+
+ELECTRONIC INSTRUMENTS
+----------------------
+• drum machine - caja de ritmos
+• sampler - sampler
+• turntable - tocadiscos/plato
+• MIDI controller - controlador MIDI
+• loop pedal - pedal de loops
+• effects pedal - pedal de efectos
+
+================================================================================
+                              PARTS OF INSTRUMENTS
+                        (Partes de instrumentos)
+================================================================================
+
+GUITAR PARTS
+------------
+• neck - mástil
+• fretboard - diapasón
+• fret - traste
+• string - cuerda
+• tuning peg - clavija
+• headstock - clavijero
+• body - cuerpo
+• soundhole - boca
+• bridge - puente
+• pickup - pastilla
+• strap - correa
+• pick / plectrum - púa
+
+DRUM PARTS
+----------
+• drumhead / skin - parche
+• drumstick - baqueta
+• pedal - pedal
+• throne / stool - banqueta
+
+PIANO PARTS
+-----------
+• key - tecla
+• black key - tecla negra
+• white key - tecla blanca
+• pedal - pedal
+• lid - tapa
+
+================================================================================
+                              MUSIC THEORY
+                            (Teoría musical)
+================================================================================
+
+BASIC TERMS
+-----------
+• note - nota
+• scale - escala
+• chord - acorde
+• melody - melodía
+• harmony - armonía
+• rhythm - ritmo
+• beat - pulso/ritmo
+• tempo - tempo
+• pitch - tono/altura
+• key - tonalidad
+• major - mayor
+• minor - menor
+• sharp - sostenido
+• flat - bemol
+• natural - natural
+• octave - octava
+
+NOTES
+-----
+• C - Do
+• D - Re
+• E - Mi
+• F - Fa
+• G - Sol
+• A - La
+• B - Si
+
+MUSICAL NOTATION
+----------------
+• staff / stave - pentagrama
+• treble clef - clave de sol
+• bass clef - clave de fa
+• time signature - compás
+• bar / measure - compás
+• rest - silencio
+• whole note - redonda
+• half note - blanca
+• quarter note - negra
+• eighth note - corchea
+• sixteenth note - semicorchea
+
+DYNAMICS
+--------
+• loud - fuerte
+• soft / quiet - suave
+• crescendo - crescendo
+• decrescendo / diminuendo - decrescendo
+• fortissimo (ff) - muy fuerte
+• pianissimo (pp) - muy suave
+• forte (f) - fuerte
+• piano (p) - suave
+
+================================================================================
+                              PEOPLE IN MUSIC
+                         (Personas en la música)
+================================================================================
+
+PERFORMERS
+----------
+• musician - músico
+• singer - cantante
+• vocalist - vocalista
+• lead singer - cantante principal
+• backing singer - corista
+• instrumentalist - instrumentista
+• guitarist - guitarrista
+• bassist - bajista
+• drummer - baterista
+• pianist - pianista
+• violinist - violinista
+• saxophonist - saxofonista
+• DJ (disc jockey) - DJ
+• soloist - solista
+• band - banda/grupo
+• orchestra - orquesta
+• choir / chorus - coro
+• duo - dúo
+• trio - trío
+• quartet - cuarteto
+
+MUSIC INDUSTRY
+--------------
+• composer - compositor
+• songwriter - compositor de canciones
+• lyricist - letrista
+• arranger - arreglista
+• producer - productor
+• sound engineer - ingeniero de sonido
+• conductor - director de orquesta
+• music teacher - profesor de música
+• manager - mánager
+• roadie - técnico de gira
+• record label - discográfica
+• agent - agente
+
+================================================================================
+                              MUSIC & SONGS
+                          (Música y canciones)
+================================================================================
+
+SONG STRUCTURE
+--------------
+• song - canción
+• track - pista/canción
+• lyrics - letra
+• verse - estrofa
+• chorus / refrain - estribillo
+• bridge - puente
+• intro - introducción
+• outro - final
+• hook - gancho
+• riff - riff
+• solo - solo
+
+RECORDINGS & RELEASES
+---------------------
+• album - álbum
+• EP (Extended Play) - EP
+• single - single/sencillo
+• B-side - cara B
+• compilation - recopilatorio
+• greatest hits - grandes éxitos
+• live album - álbum en vivo
+• studio album - álbum de estudio
+• remix - remix
+• cover - versión
+• demo - demo/maqueta
+• mixtape - mixtape
+• playlist - lista de reproducción
+
+================================================================================
+                              EQUIPMENT & TECHNOLOGY
+                         (Equipo y tecnología)
+================================================================================
+
+AUDIO EQUIPMENT
+---------------
+• amplifier / amp - amplificador
+• speaker - altavoz
+• headphones - auriculares
+• earbuds / earphones - auriculares (pequeños)
+• microphone / mic - micrófono
+• mixer / mixing desk - mesa de mezclas
+• soundboard - mesa de sonido
+• PA system - sistema de megafonía
+• monitor - monitor
+• subwoofer - subwoofer
+• cable - cable
+• jack - jack
+
+RECORDING
+---------
+• recording studio - estudio de grabación
+• booth - cabina
+• soundproofing - insonorización
+• mixing - mezcla
+• mastering - masterización
+• recording - grabación
+• overdub - sobregrabación
+• track - pista
+
+MUSIC PLAYERS
+-------------
+• record player / turntable - tocadiscos
+• vinyl record - disco de vinilo
+• CD player - reproductor de CD
+• MP3 player - reproductor MP3
+• streaming - streaming
+• Bluetooth speaker - altavoz Bluetooth
+
+================================================================================
+                              LIVE MUSIC
+                            (Música en vivo)
+================================================================================
+
+EVENTS
+------
+• concert - concierto
+• gig - concierto/bolo
+• show - espectáculo
+• tour - gira
+• festival - festival
+• recital - recital
+• performance - actuación
+• open mic - micrófono abierto
+
+VENUE
+-----
+• venue - local/sala
+• stage - escenario
+• backstage - tras el escenario
+• dressing room - camerino
+• audience - público
+• front row - primera fila
+• pit / mosh pit - foso
+• VIP area - zona VIP
+
+ACTIONS
+-------
+• to perform - actuar
+• to play - tocar
+• to sing - cantar
+• to dance - bailar
+• to clap - aplaudir
+• to cheer - vitorear
+• to encore - pedir bis
+
+================================================================================
+                              ACTIONS & VERBS
+                           (Acciones y verbos)
+================================================================================
+
+PLAYING MUSIC
+-------------
+• to play (an instrument) - tocar (un instrumento)
+• to strum - rasguear
+• to pluck - puntear
+• to pick - puntear (con púa)
+• to bow - tocar con arco
+• to blow - soplar
+• to hit / to strike - golpear
+• to beat - golpear/tocar
+• to press - presionar
+
+SINGING
+-------
+• to sing - cantar
+• to hum - tararear
+• to whistle - silbar
+• to harmonize - armonizar
+• to rap - rapear
+
+MUSIC PRODUCTION
+----------------
+• to compose - componer
+• to write (a song) - escribir (una canción)
+• to arrange - arreglar
+• to produce - producir
+• to record - grabar
+• to mix - mezclar
+• to master - masterizar
+• to sample - samplear
+• to remix - remezclar
+
+LISTENING
+---------
+• to listen (to) - escuchar
+• to hear - oír
+• to stream - hacer streaming
+• to download - descargar
+• to turn up (the volume) - subir (el volumen)
+• to turn down - bajar
+• to tune in - sintonizar
+
+OTHER
+-----
+• to tune (an instrument) - afinar
+• to practice / to rehearse - practicar/ensayar
+• to jam - improvisar juntos
+• to conduct - dirigir
+• to audition - hacer una audición
+
+================================================================================
+                              USEFUL EXPRESSIONS
+                            (Expresiones útiles)
+================================================================================
+
+• What kind of music do you like? - ¿Qué tipo de música te gusta?
+• I'm into rock/pop/jazz. - Me va el rock/pop/jazz.
+• Do you play any instruments? - ¿Tocas algún instrumento?
+• I play the guitar/piano. - Toco la guitarra/el piano.
+• This song is a banger! - ¡Esta canción es un temazo!
+• Turn up the music! - ¡Sube la música!
+• That song is stuck in my head. - Esa canción se me quedó pegada.
+• They're playing live tonight. - Tocan en vivo esta noche.
+• Let's go to the concert! - ¡Vamos al concierto!
+• Music is the universal language. - La música es el lenguaje universal.
+
+================================================================================

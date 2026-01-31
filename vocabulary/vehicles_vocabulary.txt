@@ -1,0 +1,256 @@
+================================================================================
+                        VEHICLES VOCABULARY - VOCABULARIO DE VEHÍCULOS
+================================================================================
+
+================================================================================
+                              TYPES OF VEHICLES
+                            (Tipos de vehículos)
+================================================================================
+
+ROAD VEHICLES - CARS
+--------------------
+• car - coche/carro
+• sedan / saloon (UK) - sedán
+• hatchback - utilitario
+• estate car / station wagon - familiar/ranchera
+• SUV (Sport Utility Vehicle) - todoterreno
+• 4x4 / four-wheel drive - 4x4/tracción a las cuatro ruedas
+• sports car - coche deportivo
+• convertible / cabriolet - descapotable
+• coupé - cupé
+• limousine - limusina
+• minivan / people carrier - monovolumen
+• pickup truck - camioneta
+• vintage car / classic car - coche clásico/antiguo
+• electric car - coche eléctrico
+• hybrid car - coche híbrido
+
+TWO-WHEELED VEHICLES
+--------------------
+• motorcycle / motorbike - moto/motocicleta
+• scooter - scooter/moto pequeña
+• moped - ciclomotor
+• bicycle / bike - bicicleta
+• mountain bike - bicicleta de montaña
+• road bike - bicicleta de carretera
+• electric bike / e-bike - bicicleta eléctrica
+• tricycle - triciclo
+
+COMMERCIAL VEHICLES
+-------------------
+• truck / lorry (UK) - camión
+• van - furgoneta
+• delivery van - furgoneta de reparto
+• moving van - camión de mudanzas
+• tanker - camión cisterna
+• dump truck / tipper - volquete
+• tow truck - grúa
+• forklift - carretilla elevadora
+• trailer - remolque
+• semi-trailer / articulated lorry - tráiler/camión articulado
+
+PUBLIC TRANSPORT
+----------------
+• bus - autobús
+• double-decker bus - autobús de dos pisos
+• coach - autocar
+• minibus - minibús
+• trolleybus - trolebús
+• tram / streetcar (US) - tranvía
+• underground / tube (UK) / subway (US) - metro
+• train - tren
+• high-speed train - tren de alta velocidad
+• taxi / cab - taxi
+
+EMERGENCY VEHICLES
+------------------
+• ambulance - ambulancia
+• fire engine / fire truck - camión de bomberos
+• police car - coche de policía
+• patrol car - coche patrulla
+• rescue vehicle - vehículo de rescate
+
+WATER VEHICLES
+--------------
+• boat - barco/bote
+• ship - barco/buque
+• yacht - yate
+• sailboat / sailing boat - velero
+• motorboat / speedboat - lancha motora
+• cruise ship - crucero
+• ferry - ferry/transbordador
+• submarine - submarino
+• canoe - canoa
+• kayak - kayak
+• rowboat - bote de remos
+• jet ski - moto de agua
+• hovercraft - aerodeslizador
+• cargo ship / freighter - barco de carga
+• oil tanker - petrolero
+
+AIR VEHICLES
+------------
+• airplane / aeroplane (UK) - avión
+• jet - avión a reacción
+• helicopter - helicóptero
+• hot air balloon - globo aerostático
+• glider - planeador
+• private jet - jet privado
+• seaplane - hidroavión
+• drone - dron
+• light aircraft - avioneta
+• fighter jet - avión de combate
+• cargo plane - avión de carga
+
+OTHER VEHICLES
+--------------
+• tractor - tractor
+• bulldozer - bulldozer/excavadora
+• crane - grúa
+• excavator - excavadora
+• steamroller - apisonadora
+• snowplow - quitanieves
+• golf cart - carrito de golf
+• go-kart - kart
+• ATV (All-Terrain Vehicle) - quad/cuatrimoto
+• snowmobile - moto de nieve
+• skateboard - monopatín
+• rollerblades / inline skates - patines en línea
+• segway - segway
+
+================================================================================
+                              CAR PARTS
+                         (Partes del coche)
+================================================================================
+
+EXTERIOR
+--------
+• bonnet (UK) / hood (US) - capó
+• boot (UK) / trunk (US) - maletero
+• bumper - parachoques
+• windscreen (UK) / windshield (US) - parabrisas
+• rear window - luna trasera
+• side mirror / wing mirror - retrovisor lateral
+• headlight - faro delantero
+• tail light / rear light - luz trasera
+• indicator / turn signal - intermitente
+• number plate / license plate - matrícula
+• wheel - rueda
+• tyre (UK) / tire (US) - neumático
+• hubcap - tapacubos
+• door handle - manija de la puerta
+• roof - techo
+• sunroof - techo solar
+• exhaust pipe - tubo de escape
+• aerial / antenna - antena
+• wiper / windscreen wiper - limpiaparabrisas
+
+INTERIOR
+--------
+• steering wheel - volante
+• dashboard - salpicadero
+• speedometer - velocímetro
+• fuel gauge - indicador de combustible
+• gear stick / gear lever - palanca de cambios
+• handbrake / parking brake - freno de mano
+• clutch - embrague
+• accelerator / gas pedal - acelerador
+• brake pedal - pedal de freno
+• seat - asiento
+• driver's seat - asiento del conductor
+• passenger seat - asiento del copiloto
+• back seat / rear seat - asiento trasero
+• seat belt - cinturón de seguridad
+• headrest - reposacabezas
+• armrest - reposabrazos
+• glove compartment - guantera
+• rear-view mirror - espejo retrovisor
+• horn - claxon/bocina
+• ignition - contacto/encendido
+• air conditioning - aire acondicionado
+• heater - calefacción
+• car radio - radio del coche
+• GPS / sat nav - navegador GPS
+
+ENGINE & MECHANICS
+------------------
+• engine / motor - motor
+• battery - batería
+• radiator - radiador
+• oil - aceite
+• coolant - refrigerante
+• spark plug - bujía
+• alternator - alternador
+• carburetor - carburador
+• transmission - transmisión
+• brake - freno
+• brake disc - disco de freno
+• suspension - suspensión
+• axle - eje
+• chassis - chasis
+
+================================================================================
+                              DRIVING VOCABULARY
+                        (Vocabulario de conducción)
+================================================================================
+
+ACTIONS
+-------
+• to drive - conducir
+• to start the car - arrancar el coche
+• to turn on the engine - encender el motor
+• to turn off the engine - apagar el motor
+• to accelerate / to speed up - acelerar
+• to brake / to slow down - frenar
+• to stop - parar
+• to park - aparcar
+• to reverse / to back up - dar marcha atrás
+• to overtake / to pass - adelantar
+• to change gear - cambiar de marcha
+• to indicate / to signal - poner el intermitente
+• to honk / to beep - tocar el claxon
+• to steer - girar el volante
+• to turn left/right - girar a la izquierda/derecha
+• to do a U-turn - dar la vuelta
+• to fill up (with petrol/gas) - llenar el depósito
+• to buckle up / to fasten your seatbelt - abrocharse el cinturón
+
+ROAD FEATURES
+-------------
+• road - carretera/camino
+• motorway (UK) / highway / freeway (US) - autopista
+• dual carriageway - autovía
+• lane - carril
+• hard shoulder - arcén
+• pavement (UK) / sidewalk (US) - acera
+• pedestrian crossing / crosswalk - paso de peatones
+• zebra crossing - paso de cebra
+• roundabout - rotonda
+• junction / intersection - cruce
+• traffic lights - semáforo
+• road sign - señal de tráfico
+• speed limit - límite de velocidad
+• toll - peaje
+• bridge - puente
+• tunnel - túnel
+• car park / parking lot - aparcamiento
+• petrol station (UK) / gas station (US) - gasolinera
+• service station - área de servicio
+
+================================================================================
+                              USEFUL EXPRESSIONS
+                            (Expresiones útiles)
+================================================================================
+
+• I'm running low on petrol/gas. - Me queda poca gasolina.
+• Can you give me a lift? - ¿Me puedes llevar?
+• I got stuck in traffic. - Me quedé atascado en el tráfico.
+• Where can I park? - ¿Dónde puedo aparcar?
+• The car broke down. - El coche se averió.
+• I had a flat tyre. - Se me pinchó una rueda.
+• I need to fill up. - Necesito repostar.
+• Watch out for pedestrians. - Cuidado con los peatones.
+• Keep your eyes on the road. - Mantén la vista en la carretera.
+• Buckle up! - ¡Abróchate el cinturón!
+
+================================================================================
